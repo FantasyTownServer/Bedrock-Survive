@@ -8,4 +8,3 @@ git commit -m "Backup at %date:~0,4%-%date:~5,2%-%date:~8,2% %time%"
 git commit -m "Backup at %date:~0,4%-%date:~5,2%-%date:~8,2% 0%time:~1,12%"
 :end
 git push
-pause
