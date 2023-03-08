@@ -16,3 +16,32 @@
 [2023-02-27 14:14:07 INFO][LiteLoader] 我们的新论坛上线了啦! -> https://forum.litebds.com
 [2023-02-27 14:14:07 INFO][LiteLoader] 帮助我们翻译&改进翻译 -> https://crowdin.com/project/liteloaderbds
 [2023-02-27 14:14:07 INFO][LiteLoader] Thanks to RhyMC(rhymc.com) for the support
+[2023-03-04 13:27:52 INFO][Server] Player connected: zzyictrl, xuid: 2535458195960794
+[2023-03-04 13:27:54 INFO][Server] Player Spawned: zzyictrl xuid: 2535458195960794
+[2023-03-04 13:37:03 INFO][Server] Player disconnected: zzyictrl, xuid: 2535458195960794
+[2023-03-06 07:50:29 INFO][Server] Player connected: CG22337, xuid: 2535458848931218
+[2023-03-06 07:50:33 INFO][Server] Player Spawned: CG22337 xuid: 2535458848931218
+[2023-03-06 07:50:54 INFO][Command] <CG22337> /tp -32767 150 32767
+[2023-03-06 07:51:36 INFO][Command] <CG22337> /tag @s remove de
+[2023-03-06 07:51:52 INFO][Command] <CG22337> /tag @s add de
+[2023-03-06 07:53:38 INFO][Command] <CG22337> /execute @s ~~~ kill @s 
+[2023-03-06 07:54:40 INFO][Command] <CG22337> /execute @a ~~~ run tp 0 0 0 
+[2023-03-06 07:56:59 INFO][Command] <CG22337> /execute @a title title 555
+[2023-03-06 07:59:43 INFO][Command] <CG22337> /execute in nether run title @e title hh
+[2023-03-06 08:02:01 INFO][Server] Player disconnected: CG22337, xuid: 2535458848931218
+[2023-03-06 12:46:01 INFO][Server] Player connected: zzyictrl, xuid: 2535458195960794
+[2023-03-06 12:46:03 INFO][Server] Player Spawned: zzyictrl xuid: 2535458195960794
+[2023-03-06 12:57:13 INFO][Server] Player disconnected: zzyictrl, xuid: 2535458195960794
+[2023-03-06 15:28:06 ERROR][Server] Unknown command: /. Please check that the command exists and that you have permission to use it.
+[2023-03-06 15:28:41 ERROR][Server] Unknown command: /. Please check that the command exists and that you have permission to use it.
+[2023-03-06 15:28:47 INFO][Server] Player removed from allowlist
+[2023-03-06 15:28:58 ERROR][Server] Unknown command: /. Please check that the command exists and that you have permission to use it.
+[2023-03-06 15:29:51 ERROR][Server] Unknown command: /. Please check that the command exists and that you have permission to use it.
+[2023-03-06 15:33:29 ERROR][Server] Unknown command: /. Please check that the command exists and that you have permission to use it.
+[2023-03-07 09:00:27 INFO][Server] Player added to allowlist
+[2023-03-07 18:30:39 INFO][Server] Player connected: zzyictrl, xuid: 2535458195960794
+[2023-03-07 18:30:41 INFO][Server] Player Spawned: zzyictrl xuid: 2535458195960794
+[2023-03-07 18:31:15 INFO][Server] Player disconnected: zzyictrl, xuid: 2535458195960794
+[2023-03-08 18:47:07 INFO][Server] Player connected: zzyictrl, xuid: 2535458195960794
+[2023-03-08 18:47:10 INFO][Server] Player Spawned: zzyictrl xuid: 2535458195960794
+[2023-03-08 18:50:14 INFO][Server] Player disconnected: zzyictrl, xuid: 2535458195960794
