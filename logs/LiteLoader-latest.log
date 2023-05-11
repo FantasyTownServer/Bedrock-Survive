@@ -1,0 +1,47 @@
+[2023-05-11 17:37:40 INFO][LiteLoader] 正在解包LiteLoaderBDS运行时资源，请耐心等待...
+[2023-05-11 17:37:40 INFO][LiteLoader] 解包完毕。
+[2023-05-11 17:37:40 ERROR][AddonHelper] 在解析已启用的addons列表时发生错误
+[2023-05-11 17:37:40 INFO][LiteLoader] 加载原生插件...
+[2023-05-11 17:37:40 INFO][LiteLoader] 原生插件 <LLMoney.dll> 已加载
+[2023-05-11 17:37:40 INFO][LiteLoader] * Js 脚本引擎已加载
+[2023-05-11 17:37:40 INFO][LiteLoader] * Lua 脚本引擎已加载
+[2023-05-11 17:37:40 INFO][LiteLoader] * NodeJs 脚本引擎已加载
+[2023-05-11 17:37:40 INFO][LiteLoader] * Python 脚本引擎已加载
+[2023-05-11 17:37:40 INFO][LiteLoader] 已加载 1 个原生插件
+[2023-05-11 17:37:40 INFO][bStats] bStats已启用，你可以通过编辑 plugins/bStats/config.json 来禁用它
+[2023-05-11 17:37:40 INFO][Server] Starting Server
+[2023-05-11 17:37:40 INFO][Server] Version 1.19.81.01(ProtocolVersion 582) with [1m[3m[38;2;135;206;250mLiteLoaderBDS 2.13.0+d797509[0m
+[2023-05-11 17:37:40 INFO][Server] Session ID b46dbe6b-d678-4da8-9f23-d2e696136a78
+[2023-05-11 17:37:40 INFO][Server] Build ID 1.19.81
+[2023-05-11 17:37:40 INFO][Server] Branch r/19_u8
+[2023-05-11 17:37:40 INFO][Server] Commit ID 2606f6a1a1e3ecf907cb776d138dac765c5ba3ff
+[2023-05-11 17:37:40 INFO][Server] Configuration Publish
+[2023-05-11 17:37:40 INFO][Server] Level Name: FantasyTown_Minecraft_Bedrock_Edition_Survival_01
+[2023-05-11 17:37:40 INFO][Server] Game mode: 0 Survival
+[2023-05-11 17:37:40 INFO][Server] Difficulty: 3 HARD
+[2023-05-11 17:37:41 INFO][Server] opening worlds/FantasyTown_Minecraft_Bedrock_Edition_Survival_01/db
+[2023-05-11 17:37:43 INFO][Server] IPv4 supported, port: 27060: Used for gameplay and LAN discovery
+[2023-05-11 17:37:43 INFO][Server] IPv6 supported, port: 27060: Used for gameplay
+[2023-05-11 17:37:44 INFO][LiteLoader] Repository: https://github.com/LiteLDev/LiteLoaderBDS
+[2023-05-11 17:37:44 INFO][LiteLoader] LiteLoader采用 LGPLv3 许可证开源
+[2023-05-11 17:37:44 INFO][LiteLoader] 我们的新论坛上线了啦! -> https://litebds.com
+[2023-05-11 17:37:44 INFO][LiteLoader] 帮助我们翻译&改进翻译 -> https://crowdin.com/project/liteloaderbds
+[2023-05-11 17:37:44 INFO][LiteLoader] Thanks to RhyMC(rhymc.com) for the support
+[2023-05-11 17:40:18 INFO][Server] 插件列表 [7]
+[2023-05-11 17:40:18 INFO][Server] - [38;2;085;255;255mLLMoney [38;2;085;255;085m[v2.13.0] [38;2;085;085;085m(LLMoney.dll)
+[2023-05-11 17:40:18 INFO][Server]   [38;2;170;170;170mEconomyCore for LiteLoaderBDS
+[2023-05-11 17:40:18 INFO][Server] - [38;2;085;255;255mScriptEngine-Lua [38;2;085;255;085m[v2.13.0] [38;2;085;085;085m(LiteLoader.Lua.dll)
+[2023-05-11 17:40:18 INFO][Server]   [38;2;170;170;170mLua ScriptEngine for LiteLoaderBDS
+[2023-05-11 17:40:18 INFO][Server] - [38;2;085;255;255mPermissionAPI [38;2;085;255;085m[v2.9.0] [38;2;085;085;085m(PermissionAPI.dll)
+[2023-05-11 17:40:18 INFO][Server]   [38;2;170;170;170mBuiltin & Powerful permission API for LiteLoaderBDS
+[2023-05-11 17:40:18 INFO][Server] - [38;2;085;255;255mLLSE-FakePlayer [38;2;085;255;085m[v1.0.1] [38;2;085;085;085m(LLSE-FakePlayer.js)
+[2023-05-11 17:40:18 INFO][Server]   [38;2;170;170;170mA strong fake-player plugin for LiteLoaderBDS
+[2023-05-11 17:40:18 INFO][Server] - [38;2;085;255;255mScriptEngine-NodeJs [38;2;085;255;085m[v2.13.0] [38;2;085;085;085m(LiteLoader.NodeJs.dll)
+[2023-05-11 17:40:18 INFO][Server]   [38;2;170;170;170mNode.js ScriptEngine for LiteLoaderBDS
+[2023-05-11 17:40:18 INFO][Server] - [38;2;085;255;255mScriptEngine-QuickJs [38;2;085;255;085m[v2.13.0] [38;2;085;085;085m(LiteLoader.Js.dll)
+[2023-05-11 17:40:18 INFO][Server]   [38;2;170;170;170mJavascript ScriptEngine for LiteLoaderBDS
+[2023-05-11 17:40:18 INFO][Server] - [38;2;085;255;255mScriptEngine-Python [38;2;085;255;085m[v2.13.0] [38;2;085;085;085m(LiteLoader.Python.dll)
+[2023-05-11 17:40:18 INFO][Server]   [38;2;170;170;170mPython ScriptEngine for LiteLoaderBDS
+[2023-05-11 17:40:18 INFO][Server] 
+[2023-05-11 17:40:18 INFO][Server] 
+[2023-05-11 17:40:18 INFO][Server] * 使用命令“ll list <Plugin Name>”来获取更多信息

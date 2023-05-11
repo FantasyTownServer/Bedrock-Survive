@@ -1,8 +1,10 @@
 {
     "LogLevel": 4,
     "OpIsAdmin": 1,
-    "AdminList": [],
-    "UserMode": "whitelist",
+    "AdminList": [
+        "DHYXH"
+    ],
+    "UserMode": "blacklist",
     "UserAllowAction": [
         "online",
         "offline",

@@ -1,0 +1,17 @@
+{
+    "_name": "刷铁机",
+    "_pos": {
+        "x": 173.2899932861328,
+        "y": 126,
+        "z": 332.7900085449219,
+        "dimid": 0
+    },
+    "_isOnline": true,
+    "_operation": "",
+    "_opInterval": 1000,
+    "_opMaxTimes": 1,
+    "_opLength": 1000,
+    "_opTimeTask": null,
+    "_syncXuid": "",
+    "_lastSyncPlayerPos": null
+}
