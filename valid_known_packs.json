@@ -226,6 +226,13 @@
 	
 	{
 		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.19.80",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.19.80"
+	},
+	
+	{
+		"file_system" : "RawPath",
 		"from_disk" : true,
 		"hashes" : [ "oII5gRnVOmMLYnKtJ7u49VlKZODTXZqmVDWRZ3TX/Fc=" ],
 		"path" : "behavior_packs/test_vanilla_1.11",

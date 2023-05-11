@@ -6,13 +6,16 @@
     },
     "tags": [ "crafting_table" ],
     "pattern": [
-      "XXX",
-      " | ",
-      " | "
+      "X",
+      "#",
+      "|"
     ],
     "key": {
       "X": {
-        "item": "minecraft:string"
+        "item": "minecraft:feather"
+      },
+      "#": {
+        "item": "minecraft:copper_ingot"
       },
       "|": {
         "item": "minecraft:stick"
