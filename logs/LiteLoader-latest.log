@@ -37,3 +37,13 @@
 [2023-05-12 08:23:24 INFO][Command] <DHYXH> /fpc gui
 [2023-05-12 08:23:39 INFO][Server] Player Spawned: 。 xuid: -3422602272093884724
 [2023-05-12 08:26:36 INFO][Server] Player disconnected: DHYXH, xuid: 2535439591015631
+[2023-05-12 15:25:35 INFO][Server] Player connected: DHYXH, xuid: 2535439591015631
+[2023-05-12 15:25:38 INFO][Server] Player Spawned: DHYXH xuid: 2535439591015631
+[2023-05-12 15:25:54 INFO][Command] <DHYXH> /tp DHYXH 刷铁机 
+[2023-05-12 15:26:18 INFO][Command] <DHYXH> /tp 刷铁机 DHYXH 
+[2023-05-12 15:44:11 INFO][Server] Player disconnected: DHYXH, xuid: 2535439591015631
+[2023-05-12 15:44:44 INFO][Server] Player connected: DHYXH, xuid: 2535439591015631
+[2023-05-12 15:44:46 INFO][Server] Player Spawned: DHYXH xuid: 2535439591015631
+[2023-05-12 15:48:58 INFO][Command] <DHYXH> /tp DHYXH 刷铁机 
+[2023-05-12 16:06:41 INFO][Command] <DHYXH> /tp DHYXH 刷铁机 
+[2023-05-12 17:09:08 INFO][Server] Player disconnected: DHYXH, xuid: 2535439591015631
