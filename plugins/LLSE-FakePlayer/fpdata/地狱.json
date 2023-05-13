@@ -1,0 +1,17 @@
+{
+    "_name": "地狱",
+    "_pos": {
+        "x": -160.05999755859375,
+        "y": 91,
+        "z": -18.09000015258789,
+        "dimid": 1
+    },
+    "_isOnline": true,
+    "_operation": "",
+    "_opInterval": 1000,
+    "_opMaxTimes": 1,
+    "_opLength": 1000,
+    "_opTimeTask": null,
+    "_syncXuid": "",
+    "_lastSyncPlayerPos": null
+}
