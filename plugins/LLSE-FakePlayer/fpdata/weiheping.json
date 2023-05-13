@@ -1,0 +1,17 @@
+{
+    "_name": "weiheping",
+    "_pos": {
+        "x": 5126.85302734375,
+        "y": 71,
+        "z": 5364.7236328125,
+        "dimid": 0
+    },
+    "_isOnline": true,
+    "_operation": "",
+    "_opInterval": 1000,
+    "_opMaxTimes": 1,
+    "_opLength": 1000,
+    "_opTimeTask": null,
+    "_syncXuid": "",
+    "_lastSyncPlayerPos": null
+}

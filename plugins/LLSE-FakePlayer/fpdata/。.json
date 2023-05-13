@@ -1,0 +1,17 @@
+{
+    "_name": "。",
+    "_pos": {
+        "x": -1263.9100341796875,
+        "y": 63,
+        "z": -141.3699951171875,
+        "dimid": 0
+    },
+    "_isOnline": true,
+    "_operation": "",
+    "_opInterval": 1000,
+    "_opMaxTimes": 1,
+    "_opLength": 1000,
+    "_opTimeTask": null,
+    "_syncXuid": "",
+    "_lastSyncPlayerPos": null
+}
