@@ -56,3 +56,24 @@
 [2023-05-22 01:27:30 INFO][Server] Player disconnected: DHYXH, xuid: 2535439591015631
 [2023-05-22 05:59:55 ERROR][Server] The command is already running
 [2023-05-22 11:59:55 ERROR][Server] The command is already running
+[2023-05-22 14:36:44 INFO][Server] Player connected: akirasnowy, xuid: 2535422970999523
+[2023-05-22 14:36:49 INFO][Server] Player Spawned: akirasnowy xuid: 2535422970999523
+[2023-05-22 14:37:12 INFO][Command] <akirasnowy> /fpc
+[2023-05-22 14:37:39 INFO][Command] <akirasnowy> /tag @s add de
+[2023-05-22 14:39:19 INFO][Command] <akirasnowy> /mobevent
+[2023-05-22 14:39:32 INFO][Command] <akirasnowy> /me
+[2023-05-22 14:39:40 INFO][Command] <akirasnowy> /time
+[2023-05-22 14:39:47 INFO][Command] <akirasnowy> /time add
+[2023-05-22 14:41:09 INFO][Command] <akirasnowy> /ride
+[2023-05-22 14:43:41 INFO][Command] <akirasnowy> /、spawn
+[2023-05-22 14:43:56 INFO][Command] <akirasnowy> /tp akirasnowy akirasnowy 
+[2023-05-22 14:44:11 INFO][Command] <akirasnowy> /tp 1 1 100
+[2023-05-22 14:44:21 INFO][Command] <akirasnowy> /tp 1 100 1
+[2023-05-22 14:44:37 INFO][Command] <akirasnowy> /tp 1 200 1
+[2023-05-22 14:47:54 INFO][Command] <akirasnowy> /tp 1 200 1
+[2023-05-22 14:55:03 INFO][Command] <akirasnowy> /home
+[2023-05-22 14:55:41 INFO][Command] <akirasnowy> /spreadplayers @s
+[2023-05-22 14:55:56 INFO][Command] <akirasnowy> /spreadplayers 10000 10000 
+[2023-05-22 14:56:23 INFO][Command] <akirasnowy> /spreadplayers 10000 10000 float 10000 10000
+[2023-05-22 14:58:48 INFO][Server] Player disconnected: akirasnowy, xuid: 2535422970999523
+[2023-05-22 17:59:55 ERROR][Server] The command is already running
