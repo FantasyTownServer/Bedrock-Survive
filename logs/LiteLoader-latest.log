@@ -1,116 +1,33 @@
-[2023-05-22 00:36:53 INFO][LiteLoader] 正在解包LiteLoaderBDS运行时资源，请耐心等待...
-[2023-05-22 00:36:53 INFO][LiteLoader] 解包完毕。
-[2023-05-22 00:36:53 ERROR][AddonHelper] 在解析已启用的addons列表时发生错误
-[2023-05-22 00:36:53 INFO][LiteLoader] 加载原生插件...
-[2023-05-22 00:36:53 INFO][LiteLoader] 原生插件 <LLMoney.dll> 已加载
-[2023-05-22 00:36:53 WARN][LiteLoader] <2.13.0.0> 版本的 Js 脚本引擎 与 LiteLoaderBDS版本 <2.13.1.0> 不匹配
-[2023-05-22 00:36:53 INFO][LiteLoader] * Js 脚本引擎已加载
-[2023-05-22 00:36:53 WARN][LiteLoader] <2.13.0.0> 版本的 Lua 脚本引擎 与 LiteLoaderBDS版本 <2.13.1.0> 不匹配
-[2023-05-22 00:36:53 INFO][LiteLoader] * Lua 脚本引擎已加载
-[2023-05-22 00:36:53 WARN][LiteLoader] <2.13.0.0> 版本的 NodeJs 脚本引擎 与 LiteLoaderBDS版本 <2.13.1.0> 不匹配
-[2023-05-22 00:36:54 INFO][LiteLoader] * NodeJs 脚本引擎已加载
-[2023-05-22 00:36:54 WARN][LiteLoader] <2.13.0.0> 版本的 Python 脚本引擎 与 LiteLoaderBDS版本 <2.13.1.0> 不匹配
-[2023-05-22 00:36:54 INFO][LiteLoader] * Python 脚本引擎已加载
-[2023-05-22 00:36:54 INFO][LiteLoader] 已加载 1 个原生插件
-[2023-05-22 00:36:54 INFO][bStats] bStats已启用，你可以通过编辑 plugins/bStats/config.json 来禁用它
-[2023-05-22 00:36:54 INFO][Server] Starting Server
-[2023-05-22 00:36:54 INFO][Server] Version 1.19.81.01(ProtocolVersion 582) with [1m[3m[38;2;135;206;250mLiteLoaderBDS 2.13.1+13d598e[0m
-[2023-05-22 00:36:54 INFO][Server] Session ID 069d7a26-bfa4-4fdf-83e2-f6f8568fb8fe
-[2023-05-22 00:36:54 INFO][Server] Build ID 1.19.81
-[2023-05-22 00:36:54 INFO][Server] Branch r/19_u8
-[2023-05-22 00:36:54 INFO][Server] Commit ID 2606f6a1a1e3ecf907cb776d138dac765c5ba3ff
-[2023-05-22 00:36:54 INFO][Server] Configuration Publish
-[2023-05-22 00:36:54 INFO][Server] Level Name: FantasyTown_Minecraft_Bedrock_Edition_Survival_01
-[2023-05-22 00:36:54 INFO][Server] Game mode: 0 Survival
-[2023-05-22 00:36:54 INFO][Server] Difficulty: 3 HARD
-[2023-05-22 00:36:54 INFO][Server] opening worlds/FantasyTown_Minecraft_Bedrock_Edition_Survival_01/db
-[2023-05-22 00:36:54 WARN][Server] LevelDB worlds/FantasyTown_Minecraft_Bedrock_Edition_Survival_01/db status NOT OK(Corruption: 4 missing files; e.g.: worlds/FantasyTown_Minecraft_Bedrock_Edition_Survival_01/db/2725364.ldb). Trying repair.
-[2023-05-22 00:37:12 INFO][Server] IPv4 supported, port: 27060: Used for gameplay and LAN discovery
-[2023-05-22 00:37:12 INFO][Server] IPv6 supported, port: 27060: Used for gameplay
-[2023-05-22 00:37:13 INFO][LiteLoader] Repository: https://github.com/LiteLDev/LiteLoaderBDS
-[2023-05-22 00:37:13 INFO][LiteLoader] LiteLoader采用 LGPLv3 许可证开源
-[2023-05-22 00:37:13 INFO][LiteLoader] 我们的新论坛上线了啦! -> https://litebds.com
-[2023-05-22 00:37:13 INFO][LiteLoader] 帮助我们翻译&改进翻译 -> https://crowdin.com/project/liteloaderbds
-[2023-05-22 00:37:13 INFO][LiteLoader] Thanks to RhyMC(rhymc.com) for the support
-[2023-05-22 00:37:14 INFO][Server] Player Spawned: weiheping xuid: -2038144743067944019
-[2023-05-22 00:37:14 INFO][Server] Player Spawned: 。 xuid: -17842711022191793807
-[2023-05-22 00:37:14 INFO][Server] Player Spawned: 刷铁机 xuid: -17018415336568082479
-[2023-05-22 00:37:14 INFO][Server] Player Spawned: 地狱 xuid: -15189088713938884188
-[2023-05-22 00:37:17 INFO][Server] [FakePlayer] 所有假人下线成功:
-[2023-05-22 00:37:17 INFO][Server] [38;2;255;170;000mweiheping[0m, [38;2;255;170;000m。[0m, [38;2;255;170;000m刷铁机[0m, [38;2;255;170;000m地狱[0m
-[2023-05-22 00:38:04 INFO][Server] Player connected: Liten PanJun, xuid: 2535423745242272
-[2023-05-22 00:39:44 INFO][Server] Player disconnected: Liten PanJun, xuid: 2535423745242272
-[2023-05-22 00:39:56 INFO][Server] Player connected: Liten PanJun, xuid: 2535423745242272
-[2023-05-22 00:40:35 INFO][Server] Player Spawned: Liten PanJun xuid: 2535423745242272
-[2023-05-22 00:40:50 INFO][Server] Player disconnected: Liten PanJun, xuid: 2535423745242272
-[2023-05-22 00:48:35 INFO][Server] Player connected: Liten PanJun, xuid: 2535423745242272
-[2023-05-22 00:48:48 INFO][Server] Player Spawned: Liten PanJun xuid: 2535423745242272
-[2023-05-22 00:53:46 INFO][Command] <Liten PanJun> /kill @e[type=zombie_pigman]
-[2023-05-22 00:55:00 INFO][Command] <Liten PanJun> /gamemode spectator
-[2023-05-22 00:56:38 INFO][Command] <Liten PanJun> /kill @e[type=item]
-[2023-05-22 00:56:59 INFO][Command] <Liten PanJun> /gamemode s
-[2023-05-22 01:00:46 INFO][Server] Player disconnected: Liten PanJun, xuid: 2535423745242272
-[2023-05-22 01:11:11 INFO][Server] Saving...
-[2023-05-22 01:22:14 INFO][Server] Player connected: DHYXH, xuid: 2535439591015631
-[2023-05-22 01:22:16 INFO][Server] Player Spawned: DHYXH xuid: 2535439591015631
-[2023-05-22 01:27:30 INFO][Server] Player disconnected: DHYXH, xuid: 2535439591015631
-[2023-05-22 05:59:55 ERROR][Server] The command is already running
-[2023-05-22 11:59:55 ERROR][Server] The command is already running
-[2023-05-22 14:36:44 INFO][Server] Player connected: akirasnowy, xuid: 2535422970999523
-[2023-05-22 14:36:49 INFO][Server] Player Spawned: akirasnowy xuid: 2535422970999523
-[2023-05-22 14:37:12 INFO][Command] <akirasnowy> /fpc
-[2023-05-22 14:37:39 INFO][Command] <akirasnowy> /tag @s add de
-[2023-05-22 14:39:19 INFO][Command] <akirasnowy> /mobevent
-[2023-05-22 14:39:32 INFO][Command] <akirasnowy> /me
-[2023-05-22 14:39:40 INFO][Command] <akirasnowy> /time
-[2023-05-22 14:39:47 INFO][Command] <akirasnowy> /time add
-[2023-05-22 14:41:09 INFO][Command] <akirasnowy> /ride
-[2023-05-22 14:43:41 INFO][Command] <akirasnowy> /、spawn
-[2023-05-22 14:43:56 INFO][Command] <akirasnowy> /tp akirasnowy akirasnowy 
-[2023-05-22 14:44:11 INFO][Command] <akirasnowy> /tp 1 1 100
-[2023-05-22 14:44:21 INFO][Command] <akirasnowy> /tp 1 100 1
-[2023-05-22 14:44:37 INFO][Command] <akirasnowy> /tp 1 200 1
-[2023-05-22 14:47:54 INFO][Command] <akirasnowy> /tp 1 200 1
-[2023-05-22 14:55:03 INFO][Command] <akirasnowy> /home
-[2023-05-22 14:55:41 INFO][Command] <akirasnowy> /spreadplayers @s
-[2023-05-22 14:55:56 INFO][Command] <akirasnowy> /spreadplayers 10000 10000 
-[2023-05-22 14:56:23 INFO][Command] <akirasnowy> /spreadplayers 10000 10000 float 10000 10000
-[2023-05-22 14:58:48 INFO][Server] Player disconnected: akirasnowy, xuid: 2535422970999523
-[2023-05-22 17:59:55 ERROR][Server] The command is already running
-[2023-05-22 23:59:55 ERROR][Server] The command is already running
-[2023-05-23 05:59:55 ERROR][Server] The command is already running
-[2023-05-23 11:59:55 ERROR][Server] The command is already running
-[2023-05-23 17:59:55 ERROR][Server] The command is already running
-[2023-05-23 23:59:55 ERROR][Server] The command is already running
-[2023-05-24 00:00:01 INFO][Server] Player connected: akirasnowy, xuid: 2535422970999523
-[2023-05-24 00:00:07 INFO][Server] Player Spawned: akirasnowy xuid: 2535422970999523
-[2023-05-24 00:00:44 INFO][Command] <akirasnowy> /home
-[2023-05-24 00:00:51 INFO][Command] <akirasnowy> /home
-[2023-05-24 00:01:03 INFO][Command] <akirasnowy> /tp 1 1 100
-[2023-05-24 00:01:07 INFO][Command] <akirasnowy> /tp 1 1 200
-[2023-05-24 00:01:13 INFO][Command] <akirasnowy> /tp 1 1 300
-[2023-05-24 00:01:22 INFO][Command] <akirasnowy> /tp 1 200 1
-[2023-05-24 00:22:23 INFO][Server] Player disconnected: akirasnowy, xuid: 2535422970999523
-[2023-05-24 00:26:07 INFO][Server] Player connected: akirasnowy, xuid: 2535422970999523
-[2023-05-24 00:26:08 INFO][Server] Player Spawned: akirasnowy xuid: 2535422970999523
-[2023-05-24 00:27:31 INFO][Server] Player disconnected: akirasnowy, xuid: 2535422970999523
-[2023-05-24 05:59:55 ERROR][Server] The command is already running
-[2023-05-24 11:59:55 ERROR][Server] The command is already running
-[2023-05-24 17:59:55 ERROR][Server] The command is already running
-[2023-05-24 23:59:55 ERROR][Server] The command is already running
-[2023-05-25 05:59:55 ERROR][Server] The command is already running
-[2023-05-25 11:59:55 ERROR][Server] The command is already running
-[2023-05-25 17:59:55 ERROR][Server] The command is already running
-[2023-05-25 23:59:55 ERROR][Server] The command is already running
-[2023-05-26 05:59:55 ERROR][Server] The command is already running
-[2023-05-26 11:59:55 ERROR][Server] The command is already running
-[2023-05-26 17:59:55 ERROR][Server] The command is already running
-[2023-05-26 23:59:55 ERROR][Server] The command is already running
-[2023-05-27 05:59:55 ERROR][Server] The command is already running
-[2023-05-27 11:59:55 ERROR][Server] The command is already running
-[2023-05-27 17:08:08 INFO][Server] Player connected: musiyu2010, xuid: 2535415990273097
-[2023-05-27 17:08:10 INFO][Server] Player Spawned: musiyu2010 xuid: 2535415990273097
-[2023-05-27 17:20:20 INFO][Server] Player disconnected: musiyu2010, xuid: 2535415990273097
-[2023-05-27 17:59:55 ERROR][Server] The command is already running
-[2023-05-27 23:59:55 ERROR][Server] The command is already running
-[2023-05-28 05:59:55 ERROR][Server] The command is already running
+[2023-05-28 15:01:29 INFO][LiteLoader] 正在解包LiteLoaderBDS运行时资源，请耐心等待...
+[2023-05-28 15:01:29 INFO][LiteLoader] 解包完毕。
+[2023-05-28 15:01:29 ERROR][AddonHelper] 在解析已启用的addons列表时发生错误
+[2023-05-28 15:01:29 INFO][LiteLoader] 加载原生插件...
+[2023-05-28 15:01:29 INFO][LiteLoader] 原生插件 <LLMoney.dll> 已加载
+[2023-05-28 15:01:29 WARN][LiteLoader] <2.13.0.0> 版本的 Js 脚本引擎 与 LiteLoaderBDS版本 <2.13.1.0> 不匹配
+[2023-05-28 15:01:29 INFO][LiteLoader] * Js 脚本引擎已加载
+[2023-05-28 15:01:29 WARN][LiteLoader] <2.13.0.0> 版本的 Lua 脚本引擎 与 LiteLoaderBDS版本 <2.13.1.0> 不匹配
+[2023-05-28 15:01:30 INFO][LiteLoader] * Lua 脚本引擎已加载
+[2023-05-28 15:01:30 WARN][LiteLoader] <2.13.0.0> 版本的 NodeJs 脚本引擎 与 LiteLoaderBDS版本 <2.13.1.0> 不匹配
+[2023-05-28 15:01:33 INFO][LiteLoader] * NodeJs 脚本引擎已加载
+[2023-05-28 15:01:33 WARN][LiteLoader] <2.13.0.0> 版本的 Python 脚本引擎 与 LiteLoaderBDS版本 <2.13.1.0> 不匹配
+[2023-05-28 15:01:33 INFO][LiteLoader] * Python 脚本引擎已加载
+[2023-05-28 15:01:34 INFO][LiteLoader] 已加载 1 个原生插件
+[2023-05-28 15:01:34 INFO][bStats] bStats已启用，你可以通过编辑 plugins/bStats/config.json 来禁用它
+[2023-05-28 15:01:34 INFO][Server] Starting Server
+[2023-05-28 15:01:34 INFO][Server] Version 1.19.81.01(ProtocolVersion 582) with [1m[3m[38;2;135;206;250mLiteLoaderBDS 2.13.1+13d598e[0m
+[2023-05-28 15:01:34 INFO][Server] Session ID 50d45b23-fe97-4f03-8213-4a969289556e
+[2023-05-28 15:01:34 INFO][Server] Build ID 1.19.81
+[2023-05-28 15:01:34 INFO][Server] Branch r/19_u8
+[2023-05-28 15:01:34 INFO][Server] Commit ID 2606f6a1a1e3ecf907cb776d138dac765c5ba3ff
+[2023-05-28 15:01:34 INFO][Server] Configuration Publish
+[2023-05-28 15:01:34 INFO][Server] Level Name: FantasyTown_Minecraft_Bedrock_Edition_Survival_01
+[2023-05-28 15:01:34 INFO][Server] Game mode: 0 Survival
+[2023-05-28 15:01:34 INFO][Server] Difficulty: 3 HARD
+[2023-05-28 15:01:35 INFO][Server] opening worlds/FantasyTown_Minecraft_Bedrock_Edition_Survival_01/db
+[2023-05-28 15:01:58 INFO][Server] IPv4 supported, port: 27060: Used for gameplay and LAN discovery
+[2023-05-28 15:01:58 INFO][Server] IPv6 supported, port: 27060: Used for gameplay
+[2023-05-28 15:01:59 INFO][LiteLoader] Repository: https://github.com/LiteLDev/LiteLoaderBDS
+[2023-05-28 15:01:59 INFO][LiteLoader] LiteLoader采用 LGPLv3 许可证开源
+[2023-05-28 15:01:59 INFO][LiteLoader] 我们的新论坛上线了啦! -> https://litebds.com
+[2023-05-28 15:01:59 INFO][LiteLoader] 帮助我们翻译&改进翻译 -> https://crowdin.com/project/liteloaderbds
+[2023-05-28 15:01:59 INFO][LiteLoader] Thanks to RhyMC(rhymc.com) for the support
