@@ -48,3 +48,7 @@
 [2023-05-29 05:59:55 ERROR][Server] The command is already running
 [2023-05-29 11:59:55 ERROR][Server] The command is already running
 [2023-05-29 17:59:55 ERROR][Server] The command is already running
+[2023-05-29 19:39:59 INFO][Server] Player connected: akirasnowy, xuid: 2535422970999523
+[2023-05-29 19:40:00 INFO][Server] Player Spawned: akirasnowy xuid: 2535422970999523
+[2023-05-29 19:41:07 INFO][Server] Player disconnected: akirasnowy, xuid: 2535422970999523
+[2023-05-29 23:59:55 ERROR][Server] The command is already running
