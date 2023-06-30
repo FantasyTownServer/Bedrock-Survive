@@ -6,7 +6,7 @@
         "z": -9.785211563110352,
         "dimid": 1
     },
-    "_isOnline": false,
+    "_isOnline": true,
     "_operation": "",
     "_opInterval": 1000,
     "_opMaxTimes": 1,
