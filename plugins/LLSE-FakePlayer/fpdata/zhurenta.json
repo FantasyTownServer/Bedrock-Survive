@@ -1,0 +1,17 @@
+{
+    "_name": "zhurenta",
+    "_pos": {
+        "x": -220.91000366210938,
+        "y": 68,
+        "z": 822.0900268554688,
+        "dimid": 0
+    },
+    "_isOnline": true,
+    "_operation": "",
+    "_opInterval": 1000,
+    "_opMaxTimes": 1,
+    "_opLength": 1000,
+    "_opTimeTask": null,
+    "_syncXuid": "",
+    "_lastSyncPlayerPos": null
+}
