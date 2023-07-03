@@ -9,8 +9,8 @@
     "_isOnline": true,
     "_operation": "",
     "_opInterval": 1000,
-    "_opMaxTimes": 1,
-    "_opLength": 1000,
+    "_opMaxTimes": 0,
+    "_opLength": 300,
     "_opTimeTask": null,
     "_syncXuid": "",
     "_lastSyncPlayerPos": null
