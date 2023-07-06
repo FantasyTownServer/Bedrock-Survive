@@ -1,12 +1,12 @@
 {
     "_name": "weiheping",
     "_pos": {
-        "x": 5126.82568359375,
+        "x": 5128.81884765625,
         "y": 72,
-        "z": 5354.59716796875,
+        "z": 5354.61376953125,
         "dimid": 0
     },
-    "_isOnline": true,
+    "_isOnline": false,
     "_operation": "",
     "_opInterval": 1000,
     "_opMaxTimes": 0,

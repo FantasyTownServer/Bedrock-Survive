@@ -1,12 +1,12 @@
 {
     "_name": "zhurenta",
     "_pos": {
-        "x": -220.91000366210938,
+        "x": -220.61988830566406,
         "y": 68,
-        "z": 822.0900268554688,
+        "z": 821.2999877929688,
         "dimid": 0
     },
-    "_isOnline": true,
+    "_isOnline": false,
     "_operation": "",
     "_opInterval": 1000,
     "_opMaxTimes": 1,
