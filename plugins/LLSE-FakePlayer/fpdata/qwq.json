@@ -1,0 +1,17 @@
+{
+    "_name": "qwq",
+    "_pos": {
+        "x": 175.0800018310547,
+        "y": 63,
+        "z": -121.76000213623047,
+        "dimid": 0
+    },
+    "_isOnline": true,
+    "_operation": "",
+    "_opInterval": 1000,
+    "_opMaxTimes": 1,
+    "_opLength": 1000,
+    "_opTimeTask": null,
+    "_syncXuid": "",
+    "_lastSyncPlayerPos": null
+}
