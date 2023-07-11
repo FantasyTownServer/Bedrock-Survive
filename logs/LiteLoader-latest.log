@@ -1,0 +1,47 @@
+[2023-07-11 01:56:39 INFO][LiteLoader] 正在解包LiteLoaderBDS运行时资源，请耐心等待...
+[2023-07-11 01:56:39 INFO][LiteLoader] 解包完毕。
+[2023-07-11 01:56:39 ERROR][AddonHelper] 在解析已启用的addons列表时发生错误
+[2023-07-11 01:56:39 INFO][LiteLoader] 加载原生插件...
+[2023-07-11 01:56:39 INFO][LiteLoader] 原生插件 <LLMoney.dll> 已加载
+[2023-07-11 01:56:39 INFO][LiteLoader] * Js 脚本引擎已加载
+[2023-07-11 01:56:40 INFO][LiteLoader] * Lua 脚本引擎已加载
+[2023-07-11 01:56:43 INFO][LiteLoader] * NodeJs 脚本引擎已加载
+[2023-07-11 01:56:43 INFO][LiteLoader] * Python 脚本引擎已加载
+[2023-07-11 01:56:43 ERROR][LiteLoader] Fail to load LiteLoader.NET!
+[2023-07-11 01:56:43 ERROR][LiteLoader] Error: Code[127] - 找不到指定的程序。
+
+[2023-07-11 01:56:44 INFO][LiteLoader] 已加载 1 个原生插件
+[2023-07-11 01:56:44 INFO][bStats] bStats已启用，你可以通过编辑 plugins/bStats/config.json 来禁用它
+[2023-07-11 01:56:44 INFO][Server] Starting Server
+[2023-07-11 01:56:44 INFO][Server] Version: 1.20.0.01(ProtocolVersion 589) with [1m[3m[38;2;135;206;250mLiteLoaderBDS 2.14.1+62b3942[0m
+[2023-07-11 01:56:44 INFO][Server] Session ID: 9a1c1cbe-d88d-488b-8370-f6d644201b47
+[2023-07-11 01:56:44 INFO][Server] Build ID: 15593650
+[2023-07-11 01:56:44 INFO][Server] Branch: r/20
+[2023-07-11 01:56:44 INFO][Server] Commit ID: 08bdb049f310d03aeabda3748f857640eb62a733
+[2023-07-11 01:56:44 INFO][Server] Configuration: Publish
+[2023-07-11 01:56:44 INFO][Server] Level Name: FantasyTown_Minecraft_Bedrock_Edition_Survival_01
+[2023-07-11 01:56:44 INFO][Server] Game mode: 0 Survival
+[2023-07-11 01:56:44 INFO][Server] Difficulty: 3 HARD
+[2023-07-11 01:56:44 INFO][Server] Content logging to console is enabled.
+[2023-07-11 01:56:46 INFO][Server] Opening level 'worlds/FantasyTown_Minecraft_Bedrock_Edition_Survival_01/db'
+[2023-07-11 01:57:07 INFO][Server] IPv4 supported, port: 27060: Used for gameplay and LAN discovery
+[2023-07-11 01:57:07 INFO][Server] IPv6 supported, port: 27060: Used for gameplay
+[2023-07-11 01:57:07 INFO][LiteLoader] Repository: https://github.com/LiteLDev/LiteLoaderBDS
+[2023-07-11 01:57:07 INFO][LiteLoader] LiteLoader采用 LGPLv3 许可证开源
+[2023-07-11 01:57:07 INFO][LiteLoader] 我们的新论坛上线了啦! -> https://litebds.com
+[2023-07-11 01:57:07 INFO][LiteLoader] 帮助我们翻译&改进翻译 -> https://crowdin.com/project/liteloaderbds
+[2023-07-11 01:57:07 INFO][LiteLoader] Thanks to RhyMC(rhymc.com) for the support
+[2023-07-11 01:57:07 INFO][Server] Player Spawned: qwq xuid: -15272708471994112759
+[2023-07-11 01:57:07 INFO][Server] Player Spawned: weiheping xuid: -8438623246013463389
+[2023-07-11 10:24:20 INFO][Server] Player connected: zhuan jiao2490, xuid: 2535434519842113
+[2023-07-11 10:24:24 INFO][Server] Player Spawned: zhuan jiao2490 xuid: 2535434519842113
+[2023-07-11 10:30:37 INFO][Server] Player connected: sonoko6484, xuid: 2535472226372447
+[2023-07-11 10:30:39 INFO][Server] Player Spawned: sonoko6484 xuid: 2535472226372447
+[2023-07-11 10:37:24 INFO][Server] Player disconnected: zhuan jiao2490, xuid: 2535434519842113
+[2023-07-11 10:43:08 INFO][Server] Player connected: zhuan jiao2490, xuid: 2535434519842113
+[2023-07-11 10:43:11 INFO][Server] Player Spawned: zhuan jiao2490 xuid: 2535434519842113
+[2023-07-11 11:05:40 INFO][Server] Player disconnected: sonoko6484, xuid: 2535472226372447
+[2023-07-11 11:10:04 INFO][Server] Player connected: sonoko6484, xuid: 2535472226372447
+[2023-07-11 11:10:06 INFO][Server] Player Spawned: sonoko6484 xuid: 2535472226372447
+[2023-07-11 11:13:00 INFO][Server] Player disconnected: sonoko6484, xuid: 2535472226372447
+[2023-07-11 11:32:46 INFO][Server] Player disconnected: zhuan jiao2490, xuid: 2535434519842113
