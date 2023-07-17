@@ -1,1 +1,169 @@
 ﻿时间,维度,来源,X,Y,Z,事件,目标,x,y,z,附加信息
+2023-07-17 11:36:51,,DHYXH,,,,开始进服,,,,,xuid=2535439591015631
+2023-07-17 11:36:55,主世界,DHYXH,91,114,-163,进入服务器,,,,,xuid=2535439591015631
+2023-07-17 11:37:04,主世界,DHYXH,88,82,-146,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-17 11:38:22,主世界,DHYXH,-70,72,-106,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-17 11:38:27,主世界,DHYXH,-173,89,-136,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-17 11:38:30,主世界,DHYXH,-225,93,-160,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-17 11:38:44,主世界,DHYXH,-208,90,-7,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-17 11:38:49,主世界,DHYXH,-126,120,-46,使用物品,Golden Carrot,,,,类型：minecraft:golden_carrot
+2023-07-17 11:38:49,主世界,DHYXH,-126,120,-46,进食,Golden Carrot,,,,
+2023-07-17 11:38:50,主世界,DHYXH,-89,112,-62,使用物品,Golden Carrot,,,,类型：minecraft:golden_carrot
+2023-07-17 11:38:54,主世界,DHYXH,-6,98,-113,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-17 11:39:05,主世界,DHYXH,-6,123,93,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-17 11:39:29,主世界,DHYXH,-163,71,622,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-17 11:39:34,主世界,DHYXH,-185,69,771,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-17 11:39:37,主世界,DHYXH,-202,117,831,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-17 11:40:00,主世界,DHYXH,-240,203,1003,放置方块,minecraft:grass,-244,200,1004,
+2023-07-17 11:40:02,主世界,DHYXH,-246,203,1003,使用物品,Golden Carrot,,,,类型：minecraft:golden_carrot
+2023-07-17 11:40:02,主世界,DHYXH,-246,203,1003,使用物品,Golden Carrot,,,,类型：minecraft:golden_carrot
+2023-07-17 11:40:03,主世界,DHYXH,-246,203,1003,使用物品,Golden Carrot,,,,类型：minecraft:golden_carrot
+2023-07-17 11:40:03,主世界,DHYXH,-246,203,1003,使用物品,Golden Carrot,,,,类型：minecraft:golden_carrot
+2023-07-17 11:40:04,主世界,DHYXH,-246,203,1003,使用物品,Golden Carrot,,,,类型：minecraft:golden_carrot
+2023-07-17 11:40:21,主世界,DHYXH,-262,205,987,放置方块,minecraft:stone_block_slab,-262,202,987,
+2023-07-17 11:40:21,主世界,DHYXH,-262,205,987,放置方块,minecraft:stone_block_slab,-262,202,987,
+2023-07-17 11:40:38,,DHYXH,,,,离开服务器,,,,,
+2023-07-17 15:41:46,,DHYXH,,,,开始进服,,,,,xuid=2535439591015631
+2023-07-17 15:41:51,主世界,DHYXH,-256,205,988,进入服务器,,,,,xuid=2535439591015631
+2023-07-17 15:44:21,主世界,DHYXH,-247,195,988,玩家执行命令,tp DHYXH weiheping ,,,,
+2023-07-17 15:45:33,主世界,DHYXH,5126,73,5371,切换维度,前往下界,,,,
+2023-07-17 15:45:39,下界,DHYXH,638,117,668,捡起物品,Lead,638,115,668,1个
+2023-07-17 15:45:53,下界,DHYXH,638,117,630,攻击,Trader Llama,637,115,629,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:45:54,下界,DHYXH,637,117,630,攻击,Trader Llama,637,116,625,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:45:56,下界,DHYXH,638,118,617,攻击,Trader Llama,637,115,617,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:45:56,下界,Trader Llama,637,115,617,生物死亡,,,,,由于DHYXH的攻击
+2023-07-17 15:45:58,下界,DHYXH,638,117,616,捡起物品,Leather,637,115,617,2个
+2023-07-17 15:46:00,下界,DHYXH,638,118,633,攻击,Trader Llama,638,115,634,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:01,下界,DHYXH,638,117,634,攻击,Trader Llama,637,116,638,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:01,下界,Trader Llama,637,116,638,生物死亡,,,,,由于DHYXH的攻击
+2023-07-17 15:46:01,下界,DHYXH,638,117,636,攻击,Trader Llama,639,115,635,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:03,下界,DHYXH,639,118,631,攻击,Trader Llama,639,115,629,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:03,下界,Trader Llama,639,115,629,生物死亡,,,,,由于DHYXH的攻击
+2023-07-17 15:46:07,下界,DHYXH,638,117,634,攻击,Trader Llama,637,115,634,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:09,下界,DHYXH,638,117,636,攻击,Trader Llama,639,115,633,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:09,下界,DHYXH,638,117,635,攻击,Trader Llama,639,116,629,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:11,下界,Llama Spit,,,,弹射物击中,Trader Llama,638,115,642,
+2023-07-17 15:46:11,下界,DHYXH,639,117,637,攻击,Trader Llama,637,115,638,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:12,下界,DHYXH,638,117,638,攻击,Trader Llama,639,115,640,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:12,下界,DHYXH,638,117,639,攻击,Trader Llama,637,116,643,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:12,下界,DHYXH,638,117,639,攻击,Trader Llama,639,116,644,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:13,下界,DHYXH,638,117,640,攻击,Trader Llama,639,115,641,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:13,下界,DHYXH,638,117,640,攻击,Cow,637,115,640,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:13,下界,Cow,637,115,640,生物死亡,,,,,由于DHYXH的攻击
+2023-07-17 15:46:13,下界,DHYXH,638,117,640,捡起物品,Leather,637,115,640,2个
+2023-07-17 15:46:13,下界,DHYXH,638,117,640,捡起物品,Cooked Beef,637,115,640,4个
+2023-07-17 15:46:14,下界,DHYXH,639,117,641,攻击,Trader Llama,639,115,642,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:14,下界,Llama Spit,,,,弹射物击中,DHYXH,638,117,641,
+2023-07-17 15:46:14,下界,DHYXH,639,117,642,攻击,Trader Llama,638,116,647,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:15,下界,DHYXH,638,117,644,攻击,Trader Llama,639,115,645,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:15,下界,Trader Llama,639,115,645,生物死亡,,,,,由于DHYXH的攻击
+2023-07-17 15:46:15,下界,DHYXH,638,117,644,捡起物品,Leather,637,115,646,1个
+2023-07-17 15:46:16,下界,DHYXH,638,117,646,攻击,Trader Llama,637,115,647,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:16,下界,DHYXH,638,117,647,攻击,Trader Llama,637,116,649,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:16,下界,DHYXH,638,117,647,攻击,Trader Llama,637,116,652,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:16,下界,Llama Spit,,,,弹射物击中,Llama Spit,638,116,646,
+2023-07-17 15:46:17,下界,DHYXH,638,117,649,攻击,Trader Llama,637,115,652,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:17,下界,Trader Llama,637,115,652,生物死亡,,,,,由于DHYXH的攻击
+2023-07-17 15:46:17,下界,DHYXH,638,117,650,攻击,Trader Llama,639,115,650,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:17,下界,Trader Llama,639,115,650,生物死亡,,,,,由于DHYXH的攻击
+2023-07-17 15:46:17,下界,DHYXH,638,117,650,攻击,Trader Llama,637,115,651,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:17,下界,DHYXH,638,117,650,捡起物品,Leather,638,115,651,3个
+2023-07-17 15:46:17,下界,DHYXH,638,117,651,攻击,Trader Llama,637,116,652,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:18,下界,DHYXH,638,117,651,攻击,Trader Llama,637,115,656,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:18,下界,DHYXH,638,117,652,攻击,Trader Llama,639,115,654,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:18,下界,DHYXH,638,117,653,攻击,Trader Llama,639,116,659,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:19,下界,Llama Spit,,,,弹射物击中,Trader Llama,639,115,654,
+2023-07-17 15:46:19,下界,DHYXH,638,117,654,攻击,Trader Llama,638,115,654,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:19,下界,DHYXH,639,117,655,攻击,Trader Llama,637,115,655,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:19,下界,DHYXH,638,117,656,攻击,Trader Llama,639,115,656,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:19,下界,Trader Llama,639,115,656,生物死亡,,,,,由于DHYXH的攻击
+2023-07-17 15:46:20,下界,Llama Spit,,,,弹射物击中,Trader Llama,637,115,660,
+2023-07-17 15:46:22,下界,Llama Spit,,,,弹射物击中,Trader Llama,637,115,666,
+2023-07-17 15:46:23,下界,DHYXH,639,117,667,攻击,Trader Llama,637,115,667,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:24,下界,Llama Spit,,,,弹射物击中,Trader Llama,637,116,666,
+2023-07-17 15:46:24,下界,DHYXH,638,117,667,攻击,Trader Llama,637,116,666,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:24,下界,DHYXH,638,117,668,攻击,Trader Llama,637,115,664,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:24,下界,Trader Llama,637,115,664,生物死亡,,,,,由于DHYXH的攻击
+2023-07-17 15:46:24,下界,DHYXH,638,117,667,攻击,Trader Llama,639,115,664,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:24,下界,Trader Llama,639,115,664,生物死亡,,,,,由于DHYXH的攻击
+2023-07-17 15:46:25,下界,DHYXH,638,117,665,攻击,Trader Llama,637,115,663,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:25,下界,DHYXH,638,117,665,攻击,Trader Llama,637,116,661,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:26,下界,DHYXH,638,117,663,攻击,Zombified Piglin,639,115,663,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:26,下界,DHYXH,638,117,664,攻击,Zombified Piglin,639,116,662,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:26,下界,DHYXH,638,117,664,攻击,Zombified Piglin,639,116,660,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:26,下界,Zombified Piglin,639,116,660,生物死亡,,,,,由于DHYXH的攻击
+2023-07-17 15:46:27,下界,DHYXH,638,117,664,攻击,Trader Llama,637,115,663,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:27,下界,DHYXH,638,117,664,攻击,Trader Llama,637,116,662,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:28,下界,DHYXH,638,117,663,攻击,Trader Llama,637,115,658,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:28,下界,Trader Llama,637,115,658,生物死亡,,,,,由于DHYXH的攻击
+2023-07-17 15:46:28,下界,DHYXH,638,117,663,捡起物品,Leather,637,115,661,3个
+2023-07-17 15:46:28,下界,DHYXH,638,117,662,捡起物品,Rotten Flesh,637,115,661,3个
+2023-07-17 15:46:28,下界,DHYXH,638,117,662,攻击,Zombified Piglin,638,115,661,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:28,下界,DHYXH,638,117,662,攻击,Zombified Piglin,639,116,658,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:29,下界,DHYXH,638,117,663,攻击,Trader Llama,637,115,660,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:31,下界,DHYXH,639,117,660,攻击,Trader Llama,639,115,657,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:31,下界,DHYXH,639,117,656,捡起物品,Leather,638,115,655,1个
+2023-07-17 15:46:32,下界,DHYXH,638,117,654,攻击,Trader Llama,637,115,653,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:32,下界,Trader Llama,637,115,653,生物死亡,,,,,由于DHYXH的攻击
+2023-07-17 15:46:33,下界,DHYXH,638,117,653,捡起物品,Leather,638,115,653,2个
+2023-07-17 15:46:33,下界,DHYXH,637,117,652,捡起物品,Leather,638,115,651,1个
+2023-07-17 15:46:34,下界,DHYXH,638,117,647,攻击,Zombified Piglin,637,115,645,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:34,下界,Zombified Piglin,637,115,645,生物死亡,,,,,由于DHYXH的攻击
+2023-07-17 15:46:34,下界,DHYXH,638,117,646,攻击,Trader Llama,638,115,644,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:34,下界,Trader Llama,638,115,644,生物死亡,,,,,由于DHYXH的攻击
+2023-07-17 15:46:34,下界,DHYXH,638,117,646,捡起物品,Rotten Flesh,637,115,645,2个
+2023-07-17 15:46:34,下界,DHYXH,638,117,646,捡起物品,Gold Nugget,637,115,645,2个
+2023-07-17 15:46:34,下界,DHYXH,638,117,646,捡起物品,Gold Ingot,637,115,645,1个
+2023-07-17 15:46:35,下界,DHYXH,638,117,645,捡起物品,Leather,638,115,644,2个
+2023-07-17 15:46:37,下界,DHYXH,638,117,633,攻击,Trader Llama,638,115,632,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-07-17 15:46:37,下界,Trader Llama,638,115,632,生物死亡,,,,,由于DHYXH的攻击
+2023-07-17 15:46:39,下界,DHYXH,638,117,630,捡起物品,Leather,638,115,632,2个
+2023-07-17 15:46:50,下界,DHYXH,638,117,669,丢出物品,Lead,,,,1
+2023-07-17 15:46:50,下界,DHYXH,638,117,669,切换维度,前往主世界,,,,
+2023-07-17 15:47:14,主世界,DHYXH,5133,74,5358,攻击,小狗崽,5134,73,5357,使用物品： 类型：
+2023-07-17 15:47:24,主世界,DHYXH,5122,73,5372,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-17 15:47:26,主世界,DHYXH,5121,73,5371,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-17 15:47:29,主世界,DHYXH,5134,78,5359,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-17 15:47:36,主世界,DHYXH,5136,77,5361,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-17 15:47:41,主世界,DHYXH,5204,88,5432,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-17 15:48:06,主世界,DHYXH,5125,73,5370,玩家执行命令,tp -256 202 1000,,,,
+2023-07-17 15:48:21,主世界,DHYXH,-249,195,997,打开容器,minecraft:crafting_table,-250,193,999,
+2023-07-17 15:48:24,主世界,DHYXH,-248,195,999,打开容器,minecraft:crafting_table,-247,193,1000,
+2023-07-17 15:48:26,主世界,DHYXH,-248,195,998,打开容器,minecraft:undyed_shulker_box,-250,197,995,
+2023-07-17 15:48:26,主世界,DHYXH,-248,195,998,方块接受玩家互动,minecraft:undyed_shulker_box,-250,197,995,
+2023-07-17 15:48:27,主世界,DHYXH,-248,195,998,容器 放入物品,minecraft:undyed_shulker_box,-250,197,995,从第13号槽 放入22个 Rotten Flesh
+2023-07-17 15:48:28,主世界,DHYXH,-248,195,998,关闭容器,minecraft:undyed_shulker_box,-250,197,995,
+2023-07-17 15:48:29,主世界,DHYXH,-248,195,998,打开容器,minecraft:undyed_shulker_box,-250,197,995,
+2023-07-17 15:48:29,主世界,DHYXH,-248,195,998,方块接受玩家互动,minecraft:undyed_shulker_box,-250,197,995,
+2023-07-17 15:48:32,主世界,DHYXH,-248,195,998,容器 放入物品,minecraft:undyed_shulker_box,-250,197,995,从第20号槽 放入19个 Leather
+2023-07-17 15:48:33,主世界,DHYXH,-248,195,998,关闭容器,minecraft:undyed_shulker_box,-250,197,995,
+2023-07-17 15:48:33,主世界,DHYXH,-248,195,998,打开容器,minecraft:undyed_shulker_box,-249,197,996,
+2023-07-17 15:48:33,主世界,DHYXH,-248,195,998,方块接受玩家互动,minecraft:undyed_shulker_box,-249,197,996,
+2023-07-17 15:48:34,主世界,DHYXH,-248,195,998,关闭容器,minecraft:undyed_shulker_box,-249,197,996,
+2023-07-17 15:48:34,主世界,DHYXH,-248,195,998,打开容器,minecraft:undyed_shulker_box,-249,197,995,
+2023-07-17 15:48:34,主世界,DHYXH,-248,195,998,方块接受玩家互动,minecraft:undyed_shulker_box,-249,197,995,
+2023-07-17 15:48:36,主世界,DHYXH,-248,195,998,关闭容器,minecraft:undyed_shulker_box,-249,197,995,
+2023-07-17 15:48:36,主世界,DHYXH,-248,195,998,打开容器,minecraft:undyed_shulker_box,-249,197,996,
+2023-07-17 15:48:36,主世界,DHYXH,-248,195,998,方块接受玩家互动,minecraft:undyed_shulker_box,-249,197,996,
+2023-07-17 15:48:37,主世界,DHYXH,-248,195,998,容器 放入物品,minecraft:undyed_shulker_box,-249,197,996,从第7号槽 放入2个 Gold Nugget
+2023-07-17 15:48:38,主世界,DHYXH,-248,195,998,容器 放入物品,minecraft:undyed_shulker_box,-249,197,996,从第8号槽 放入1个 Gold Ingot
+2023-07-17 15:48:39,主世界,DHYXH,-248,195,998,容器 放入物品,minecraft:undyed_shulker_box,-249,197,996,从第11号槽 放入1个 Nether Gold Ore
+2023-07-17 15:48:40,主世界,DHYXH,-248,195,998,关闭容器,minecraft:undyed_shulker_box,-249,197,996,
+2023-07-17 15:48:41,主世界,DHYXH,-248,195,998,打开容器,minecraft:undyed_shulker_box,-249,197,996,
+2023-07-17 15:48:41,主世界,DHYXH,-248,195,998,方块接受玩家互动,minecraft:undyed_shulker_box,-249,197,996,
+2023-07-17 15:48:42,主世界,DHYXH,-248,195,998,容器 取出物品,minecraft:undyed_shulker_box,-249,197,996,从第13号槽 取出1个 Gunpowder
+2023-07-17 15:48:43,主世界,DHYXH,-248,195,998,容器 取出物品,minecraft:undyed_shulker_box,-249,197,996,从第12号槽 取出62个 Chest
+2023-07-17 15:48:44,主世界,DHYXH,-248,195,998,容器 放入物品,minecraft:undyed_shulker_box,-249,197,996,从第12号槽 放入62个 Chest
+2023-07-17 15:48:45,主世界,DHYXH,-248,195,998,容器 放入物品,minecraft:undyed_shulker_box,-249,197,996,从第13号槽 放入1个 Gunpowder
+2023-07-17 15:48:47,主世界,DHYXH,-248,195,998,关闭容器,minecraft:undyed_shulker_box,-249,197,996,
+2023-07-17 15:48:47,主世界,DHYXH,-248,195,998,打开容器,minecraft:undyed_shulker_box,-249,197,995,
+2023-07-17 15:48:47,主世界,DHYXH,-248,195,998,方块接受玩家互动,minecraft:undyed_shulker_box,-249,197,995,
+2023-07-17 15:48:48,主世界,DHYXH,-248,195,998,容器 取出物品,minecraft:undyed_shulker_box,-249,197,995,从第23号槽 取出64个 Gunpowder
+2023-07-17 15:48:50,主世界,DHYXH,-248,195,998,容器 取出物品,minecraft:undyed_shulker_box,-249,197,995,从第22号槽 取出64个 Gunpowder
+2023-07-17 15:48:52,主世界,DHYXH,-248,195,998,容器 放入物品,minecraft:undyed_shulker_box,-249,197,995,从第23号槽 放入64个 Gunpowder
+2023-07-17 15:49:03,主世界,DHYXH,-248,195,998,容器 放入物品,minecraft:undyed_shulker_box,-249,197,995,从第22号槽 放入64个 Gunpowder
+2023-07-17 15:49:05,主世界,DHYXH,-248,195,998,关闭容器,minecraft:undyed_shulker_box,-249,197,995,
+2023-07-17 15:49:09,主世界,DHYXH,-265,204,997,使用物品,Golden Carrot,,,,类型：minecraft:golden_carrot
+2023-07-17 15:49:09,主世界,DHYXH,-265,204,997,进食,Golden Carrot,,,,
+2023-07-17 15:49:11,主世界,DHYXH,-264,203,996,使用物品,Golden Carrot,,,,类型：minecraft:golden_carrot
+2023-07-17 15:49:24,,DHYXH,,,,离开服务器,,,,,
