@@ -1,1 +1,68 @@
 ﻿时间,维度,来源,X,Y,Z,事件,目标,x,y,z,附加信息
+2023-07-19 13:24:02,,zxq557804,,,,开始进服,,,,,xuid=2535447416613561
+2023-07-19 13:24:14,主世界,zxq557804,180,78,-111,进入服务器,,,,,xuid=2535447416613561
+2023-07-19 13:24:56,,zxq557804,,,,离开服务器,,,,,
+2023-07-19 17:20:54,,DHYXH,,,,开始进服,,,,,xuid=2535439591015631
+2023-07-19 17:21:00,主世界,DHYXH,-246,195,998,进入服务器,,,,,xuid=2535439591015631
+2023-07-19 17:21:05,,DHYXH,,,,离开服务器,,,,,
+2023-07-19 18:12:19,,zzyictrl,,,,开始进服,,,,,xuid=2535458195960794
+2023-07-19 18:12:23,主世界,zzyictrl,110,134,702,进入服务器,,,,,xuid=2535458195960794
+2023-07-19 18:13:02,主世界,zzyictrl,-150,79,765,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-19 18:13:08,主世界,zzyictrl,-187,155,843,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-19 18:13:26,主世界,zzyictrl,-237,197,1003,打开容器,minecraft:chest,-238,195,1000,
+2023-07-19 18:13:26,主世界,zzyictrl,-237,197,1003,方块接受玩家互动,minecraft:chest,-238,195,1000,
+2023-07-19 18:13:28,主世界,zzyictrl,-237,197,1003,关闭容器,minecraft:chest,-238,195,1000,
+2023-07-19 18:13:28,主世界,zzyictrl,-237,197,1003,打开容器,minecraft:chest,-238,194,1002,
+2023-07-19 18:13:28,主世界,zzyictrl,-237,197,1003,方块接受玩家互动,minecraft:chest,-238,194,1002,
+2023-07-19 18:13:30,主世界,zzyictrl,-237,197,1003,丢出物品,Basalt,,,,9
+2023-07-19 18:13:30,主世界,zzyictrl,-237,197,1003,容器 取出物品,minecraft:chest,-238,194,1002,从第8号槽 取出9个 Basalt
+2023-07-19 18:13:31,主世界,zzyictrl,-237,197,1003,关闭容器,minecraft:chest,-238,194,1002,
+2023-07-19 18:13:32,主世界,zzyictrl,-237,197,1003,捡起物品,Basalt,-238,195,1002,9个
+2023-07-19 18:13:32,主世界,zzyictrl,-237,197,1003,打开容器,minecraft:chest,-238,194,1002,
+2023-07-19 18:13:32,主世界,zzyictrl,-237,197,1003,方块接受玩家互动,minecraft:chest,-238,194,1002,
+2023-07-19 18:13:39,主世界,zzyictrl,-237,197,1003,容器 放入物品,minecraft:chest,-238,194,1002,从第8号槽 放入3个 Smooth Basalt
+2023-07-19 18:13:40,主世界,zzyictrl,-237,197,1003,关闭容器,minecraft:chest,-238,194,1002,
+2023-07-19 18:13:42,主世界,zzyictrl,-235,196,1002,打开容器,minecraft:chest,-238,194,1001,
+2023-07-19 18:13:42,主世界,zzyictrl,-235,196,1002,方块接受玩家互动,minecraft:chest,-238,194,1001,
+2023-07-19 18:13:44,主世界,zzyictrl,-235,196,1002,关闭容器,minecraft:chest,-238,194,1001,
+2023-07-19 18:13:44,主世界,zzyictrl,-235,196,1001,打开容器,minecraft:chest,-238,194,999,
+2023-07-19 18:13:44,主世界,zzyictrl,-235,196,1001,方块接受玩家互动,minecraft:chest,-238,194,999,
+2023-07-19 18:13:46,主世界,zzyictrl,-235,196,1001,关闭容器,minecraft:chest,-238,194,999,
+2023-07-19 18:14:25,主世界,zzyictrl,-214,65,829,打开容器,minecraft:chest,-218,63,828,
+2023-07-19 18:14:25,主世界,zzyictrl,-214,65,829,方块接受玩家互动,minecraft:chest,-218,63,828,
+2023-07-19 18:14:27,主世界,zzyictrl,-214,65,829,关闭容器,minecraft:chest,-218,63,828,
+2023-07-19 18:14:28,主世界,zzyictrl,-216,65,831,方块接受玩家互动,minecraft:enchanting_table,-220,63,831,
+2023-07-19 18:14:28,主世界,zzyictrl,-216,65,831,打开容器,minecraft:enchanting_table,-220,63,831,
+2023-07-19 18:14:32,主世界,zzyictrl,-209,66,822,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-19 18:14:37,主世界,zzyictrl,-168,117,736,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-19 18:14:43,主世界,zzyictrl,-63,113,637,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-19 18:14:48,主世界,zzyictrl,-17,135,525,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-19 18:15:12,主世界,zzyictrl,12,74,321,放置方块,minecraft:grass,13,71,320,
+2023-07-19 18:15:27,主世界,zzyictrl,-13,73,360,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-19 18:15:29,主世界,zzyictrl,-30,90,412,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-19 18:15:32,主世界,zzyictrl,-37,99,501,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-19 18:15:36,主世界,zzyictrl,-64,92,620,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-19 18:15:47,主世界,zzyictrl,-158,65,733,打开容器,minecraft:chest,-156,63,734,
+2023-07-19 18:15:47,主世界,zzyictrl,-158,65,733,方块接受玩家互动,minecraft:chest,-156,63,734,
+2023-07-19 18:15:49,主世界,zzyictrl,-158,65,733,关闭容器,minecraft:chest,-156,63,734,
+2023-07-19 18:15:50,主世界,zzyictrl,-159,65,734,打开容器,minecraft:undyed_shulker_box,-161,63,735,
+2023-07-19 18:15:50,主世界,zzyictrl,-159,65,734,方块接受玩家互动,minecraft:undyed_shulker_box,-161,63,735,
+2023-07-19 18:15:51,主世界,zzyictrl,-159,65,734,关闭容器,minecraft:undyed_shulker_box,-161,63,735,
+2023-07-19 18:15:59,主世界,zzyictrl,-149,65,741,打开容器,minecraft:chest,-150,63,743,
+2023-07-19 18:15:59,主世界,zzyictrl,-149,65,741,方块接受玩家互动,minecraft:chest,-150,63,743,
+2023-07-19 18:16:01,主世界,zzyictrl,-149,65,741,关闭容器,minecraft:chest,-150,63,743,
+2023-07-19 18:16:01,主世界,zzyictrl,-151,65,742,打开容器,minecraft:chest,-152,63,743,
+2023-07-19 18:16:01,主世界,zzyictrl,-151,65,742,方块接受玩家互动,minecraft:chest,-152,63,743,
+2023-07-19 18:16:02,主世界,zzyictrl,-152,65,742,关闭容器,minecraft:chest,-152,63,743,
+2023-07-19 18:16:03,主世界,zzyictrl,-153,65,742,打开容器,minecraft:undyed_shulker_box,-154,63,743,
+2023-07-19 18:16:03,主世界,zzyictrl,-153,65,742,方块接受玩家互动,minecraft:undyed_shulker_box,-154,63,743,
+2023-07-19 18:16:04,主世界,zzyictrl,-153,65,742,关闭容器,minecraft:undyed_shulker_box,-154,63,743,
+2023-07-19 18:16:08,主世界,zzyictrl,-159,65,741,打开容器,minecraft:chest,-161,63,741,
+2023-07-19 18:16:08,主世界,zzyictrl,-158,65,741,方块接受玩家互动,minecraft:chest,-161,63,741,
+2023-07-19 18:16:10,主世界,zzyictrl,-159,65,741,关闭容器,minecraft:chest,-161,63,741,
+2023-07-19 18:16:12,,zzyictrl,,,,离开服务器,,,,,
+2023-07-19 21:05:17,,zzyictrl,,,,开始进服,,,,,xuid=2535458195960794
+2023-07-19 21:05:22,主世界,zzyictrl,-159,65,741,进入服务器,,,,,xuid=2535458195960794
+2023-07-19 21:05:33,主世界,zzyictrl,-158,67,717,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-19 21:05:35,主世界,zzyictrl,-100,102,709,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-19 21:05:51,,zzyictrl,,,,离开服务器,,,,,
