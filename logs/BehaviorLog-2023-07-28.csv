@@ -1,0 +1,654 @@
+﻿时间,维度,来源,X,Y,Z,事件,目标,x,y,z,附加信息
+2023-07-28 10:09:30,,zhuan jiao2490,,,,开始进服,,,,,xuid=2535434519842113
+2023-07-28 10:09:39,主世界,zhuan jiao2490,175,14,-118,进入服务器,,,,,xuid=2535434519842113
+2023-07-28 10:10:15,主世界,zhuan jiao2490,145,79,-134,使用物品,鞘翅,,,,类型：minecraft:elytra
+2023-07-28 10:10:16,主世界,zhuan jiao2490,145,81,-134,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-28 10:10:22,主世界,zhuan jiao2490,30,112,-132,使用物品,钻石胸甲,,,,类型：minecraft:netherite_chestplate
+2023-07-28 10:10:29,,zhuan jiao2490,,,,离开服务器,,,,,
+2023-07-28 11:27:51,,zzyictrl,,,,开始进服,,,,,xuid=2535458195960794
+2023-07-28 11:27:55,主世界,zzyictrl,-251,195,1002,进入服务器,,,,,xuid=2535458195960794
+2023-07-28 11:28:06,主世界,zzyictrl,-249,195,999,放置方块,minecraft:glowstone,-249,198,1002,
+2023-07-28 11:28:09,主世界,zzyictrl,-249,195,999,打开容器,minecraft:undyed_shulker_box,-249,197,1002,
+2023-07-28 11:28:09,主世界,zzyictrl,-249,195,999,方块接受玩家互动,minecraft:undyed_shulker_box,-249,197,1002,
+2023-07-28 11:28:10,主世界,zzyictrl,-249,195,999,关闭容器,minecraft:undyed_shulker_box,-249,197,1002,
+2023-07-28 11:29:22,主世界,zzyictrl,-245,195,995,方块接受玩家互动,minecraft:frame,-245,193,995,
+2023-07-28 11:29:23,主世界,zzyictrl,-246,195,996,打开容器,minecraft:chest,-244,193,996,
+2023-07-28 11:29:23,主世界,zzyictrl,-246,195,996,方块接受玩家互动,minecraft:chest,-244,193,996,
+2023-07-28 11:29:25,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第0号槽 放入1个 Shulker Box
+2023-07-28 11:29:26,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第1号槽 放入1个 Shulker Box
+2023-07-28 11:29:26,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第2号槽 放入1个 Shulker Box
+2023-07-28 11:29:27,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第3号槽 放入1个 Shulker Box
+2023-07-28 11:29:28,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第4号槽 放入1个 Shulker Box
+2023-07-28 11:29:28,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第5号槽 放入1个 Shulker Box
+2023-07-28 11:29:29,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第6号槽 放入1个 Shulker Box
+2023-07-28 11:29:30,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第7号槽 放入1个 Shulker Box
+2023-07-28 11:29:30,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第8号槽 放入1个 Shulker Box
+2023-07-28 11:29:31,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第9号槽 放入1个 Shulker Box
+2023-07-28 11:29:31,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第10号槽 放入1个 Shulker Box
+2023-07-28 11:29:39,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第11号槽 放入1个 Shulker Box
+2023-07-28 11:29:40,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第12号槽 放入1个 Shulker Box
+2023-07-28 11:29:40,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第13号槽 放入1个 Shulker Box
+2023-07-28 11:29:41,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第14号槽 放入1个 Shulker Box
+2023-07-28 11:29:41,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第15号槽 放入1个 Shulker Box
+2023-07-28 11:29:49,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第16号槽 放入1个 Shulker Box
+2023-07-28 11:29:49,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第17号槽 放入1个 Shulker Box
+2023-07-28 11:29:50,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第18号槽 放入1个 Shulker Box
+2023-07-28 11:29:50,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第19号槽 放入1个 Shulker Box
+2023-07-28 11:29:51,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第20号槽 放入1个 Shulker Box
+2023-07-28 11:29:53,主世界,zzyictrl,-246,195,996,关闭容器,minecraft:chest,-244,193,996,
+2023-07-28 11:29:56,主世界,zzyictrl,-250,195,1001,放置方块,minecraft:glowstone,-250,198,1001,
+2023-07-28 11:30:05,主世界,zzyictrl,-247,195,989,使用物品,Cooked Beef,,,,类型：minecraft:cooked_beef
+2023-07-28 11:30:05,主世界,zzyictrl,-247,195,989,进食,Cooked Beef,,,,
+2023-07-28 11:30:07,主世界,zzyictrl,-247,195,988,使用物品,Cooked Beef,,,,类型：minecraft:cooked_beef
+2023-07-28 11:30:07,主世界,zzyictrl,-247,195,988,进食,Cooked Beef,,,,
+2023-07-28 11:30:08,主世界,zzyictrl,-247,195,986,使用物品,Cooked Beef,,,,类型：minecraft:cooked_beef
+2023-07-28 11:30:08,主世界,zzyictrl,-247,195,986,进食,Cooked Beef,,,,
+2023-07-28 11:30:09,主世界,zzyictrl,-247,195,985,使用物品,Cooked Beef,,,,类型：minecraft:cooked_beef
+2023-07-28 11:30:14,主世界,zzyictrl,-247,199,976,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-28 11:30:31,主世界,zzyictrl,90,135,730,打开容器,minecraft:undyed_shulker_box,91,132,730,
+2023-07-28 11:30:31,主世界,zzyictrl,90,135,730,方块接受玩家互动,minecraft:undyed_shulker_box,91,132,730,
+2023-07-28 11:30:32,主世界,zzyictrl,90,135,730,关闭容器,minecraft:undyed_shulker_box,91,132,730,
+2023-07-28 11:30:33,主世界,zzyictrl,90,135,730,打开容器,minecraft:undyed_shulker_box,90,132,730,
+2023-07-28 11:30:33,主世界,zzyictrl,90,135,730,方块接受玩家互动,minecraft:undyed_shulker_box,90,132,730,
+2023-07-28 11:30:34,主世界,zzyictrl,90,135,730,关闭容器,minecraft:undyed_shulker_box,90,132,730,
+2023-07-28 11:30:34,主世界,zzyictrl,89,135,731,打开容器,minecraft:undyed_shulker_box,89,132,730,
+2023-07-28 11:30:34,主世界,zzyictrl,89,135,731,方块接受玩家互动,minecraft:undyed_shulker_box,89,132,730,
+2023-07-28 11:30:36,主世界,zzyictrl,89,135,731,关闭容器,minecraft:undyed_shulker_box,89,132,730,
+2023-07-28 11:30:36,主世界,zzyictrl,89,135,731,打开容器,minecraft:undyed_shulker_box,88,132,730,
+2023-07-28 11:30:36,主世界,zzyictrl,89,135,731,方块接受玩家互动,minecraft:undyed_shulker_box,88,132,730,
+2023-07-28 11:30:37,主世界,zzyictrl,89,135,731,关闭容器,minecraft:undyed_shulker_box,88,132,730,
+2023-07-28 11:30:38,主世界,zzyictrl,90,135,731,打开容器,minecraft:undyed_shulker_box,91,132,730,
+2023-07-28 11:30:38,主世界,zzyictrl,90,135,731,方块接受玩家互动,minecraft:undyed_shulker_box,91,132,730,
+2023-07-28 11:30:40,主世界,zzyictrl,90,135,731,关闭容器,minecraft:undyed_shulker_box,91,132,730,
+2023-07-28 11:30:40,主世界,zzyictrl,90,135,731,打开容器,minecraft:undyed_shulker_box,90,132,730,
+2023-07-28 11:30:40,主世界,zzyictrl,90,135,731,方块接受玩家互动,minecraft:undyed_shulker_box,90,132,730,
+2023-07-28 11:30:41,主世界,zzyictrl,90,135,731,关闭容器,minecraft:undyed_shulker_box,90,132,730,
+2023-07-28 11:30:47,主世界,zzyictrl,90,135,731,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:30:47,主世界,zzyictrl,90,135,731,破坏方块,minecraft:undyed_shulker_box,90,132,730,
+2023-07-28 11:30:47,主世界,zzyictrl,90,134,731,捡起物品,Shulker Box,91,132,730,1个
+2023-07-28 11:30:48,主世界,zzyictrl,90,134,731,打开容器,minecraft:undyed_shulker_box,89,132,730,
+2023-07-28 11:30:48,主世界,zzyictrl,90,134,731,方块接受玩家互动,minecraft:undyed_shulker_box,89,132,730,
+2023-07-28 11:30:50,主世界,zzyictrl,90,134,731,关闭容器,minecraft:undyed_shulker_box,89,132,730,
+2023-07-28 11:30:50,主世界,zzyictrl,91,135,729,打开容器,minecraft:undyed_shulker_box,90,132,729,
+2023-07-28 11:30:50,主世界,zzyictrl,91,135,729,方块接受玩家互动,minecraft:undyed_shulker_box,90,132,729,
+2023-07-28 11:30:52,主世界,zzyictrl,91,135,730,关闭容器,minecraft:undyed_shulker_box,90,132,729,
+2023-07-28 11:30:53,主世界,zzyictrl,91,135,730,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:30:53,主世界,zzyictrl,91,135,730,破坏方块,minecraft:undyed_shulker_box,90,132,729,
+2023-07-28 11:30:53,主世界,zzyictrl,90,134,730,捡起物品,Shulker Box,90,132,730,1个
+2023-07-28 11:30:54,主世界,zzyictrl,92,135,730,打开容器,minecraft:shulker_box,91,132,729,
+2023-07-28 11:30:54,主世界,zzyictrl,92,135,730,方块接受玩家互动,minecraft:shulker_box,91,132,729,
+2023-07-28 11:30:56,主世界,zzyictrl,92,135,730,关闭容器,minecraft:shulker_box,91,132,729,
+2023-07-28 11:30:56,主世界,zzyictrl,92,135,730,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:30:57,主世界,zzyictrl,92,135,729,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:30:57,主世界,zzyictrl,92,135,729,破坏方块,minecraft:shulker_box,91,132,729,
+2023-07-28 11:30:58,主世界,zzyictrl,92,134,729,捡起物品,Lime Shulker Box,90,133,730,1个
+2023-07-28 11:30:59,主世界,zzyictrl,91,135,730,打开容器,minecraft:undyed_shulker_box,91,132,730,
+2023-07-28 11:30:59,主世界,zzyictrl,91,135,730,方块接受玩家互动,minecraft:undyed_shulker_box,91,132,730,
+2023-07-28 11:31:00,主世界,zzyictrl,91,135,730,关闭容器,minecraft:undyed_shulker_box,91,132,730,
+2023-07-28 11:31:01,主世界,zzyictrl,92,134,730,打开容器,minecraft:undyed_shulker_box,91,132,728,
+2023-07-28 11:31:01,主世界,zzyictrl,92,134,730,方块接受玩家互动,minecraft:undyed_shulker_box,91,132,728,
+2023-07-28 11:31:03,主世界,zzyictrl,92,134,730,关闭容器,minecraft:undyed_shulker_box,91,132,728,
+2023-07-28 11:31:03,主世界,zzyictrl,92,134,730,打开容器,minecraft:undyed_shulker_box,90,132,728,
+2023-07-28 11:31:03,主世界,zzyictrl,92,134,730,方块接受玩家互动,minecraft:undyed_shulker_box,90,132,728,
+2023-07-28 11:31:04,主世界,zzyictrl,92,134,730,关闭容器,minecraft:undyed_shulker_box,90,132,728,
+2023-07-28 11:31:05,主世界,zzyictrl,93,134,727,打开容器,minecraft:undyed_shulker_box,89,132,727,
+2023-07-28 11:31:05,主世界,zzyictrl,92,134,727,方块接受玩家互动,minecraft:undyed_shulker_box,89,132,727,
+2023-07-28 11:31:06,主世界,zzyictrl,92,134,727,关闭容器,minecraft:undyed_shulker_box,89,132,727,
+2023-07-28 11:31:07,主世界,zzyictrl,90,134,726,打开容器,minecraft:undyed_shulker_box,88,132,727,
+2023-07-28 11:31:07,主世界,zzyictrl,90,134,726,方块接受玩家互动,minecraft:undyed_shulker_box,88,132,727,
+2023-07-28 11:31:12,主世界,zzyictrl,90,134,726,关闭容器,minecraft:undyed_shulker_box,88,132,727,
+2023-07-28 11:31:13,主世界,zzyictrl,89,134,725,打开容器,minecraft:undyed_shulker_box,88,132,727,
+2023-07-28 11:31:13,主世界,zzyictrl,89,134,725,方块接受玩家互动,minecraft:undyed_shulker_box,88,132,727,
+2023-07-28 11:31:14,主世界,zzyictrl,89,134,725,关闭容器,minecraft:undyed_shulker_box,88,132,727,
+2023-07-28 11:31:14,主世界,zzyictrl,88,134,725,打开容器,minecraft:undyed_shulker_box,87,132,727,
+2023-07-28 11:31:14,主世界,zzyictrl,88,134,725,方块接受玩家互动,minecraft:undyed_shulker_box,87,132,727,
+2023-07-28 11:31:15,主世界,zzyictrl,88,134,725,关闭容器,minecraft:undyed_shulker_box,87,132,727,
+2023-07-28 11:31:16,主世界,zzyictrl,88,134,725,打开容器,minecraft:undyed_shulker_box,86,132,727,
+2023-07-28 11:31:16,主世界,zzyictrl,88,134,725,方块接受玩家互动,minecraft:undyed_shulker_box,86,132,727,
+2023-07-28 11:31:17,主世界,zzyictrl,88,134,725,关闭容器,minecraft:undyed_shulker_box,86,132,727,
+2023-07-28 11:31:17,主世界,zzyictrl,88,134,725,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:31:18,主世界,zzyictrl,88,134,725,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:31:18,主世界,zzyictrl,88,134,725,破坏方块,minecraft:undyed_shulker_box,86,132,727,
+2023-07-28 11:31:19,主世界,zzyictrl,86,134,726,捡起物品,Shulker Box,86,132,728,1个
+2023-07-28 11:31:20,主世界,zzyictrl,87,135,728,打开容器,minecraft:undyed_shulker_box,86,132,728,
+2023-07-28 11:31:20,主世界,zzyictrl,87,135,728,方块接受玩家互动,minecraft:undyed_shulker_box,86,132,728,
+2023-07-28 11:31:22,主世界,zzyictrl,87,135,728,关闭容器,minecraft:undyed_shulker_box,86,132,728,
+2023-07-28 11:31:22,主世界,zzyictrl,87,135,728,打开容器,minecraft:shulker_box,87,132,728,
+2023-07-28 11:31:22,主世界,zzyictrl,87,135,728,方块接受玩家互动,minecraft:shulker_box,87,132,728,
+2023-07-28 11:31:23,主世界,zzyictrl,87,135,728,关闭容器,minecraft:shulker_box,87,132,728,
+2023-07-28 11:31:24,主世界,zzyictrl,87,135,728,打开容器,minecraft:undyed_shulker_box,88,132,728,
+2023-07-28 11:31:24,主世界,zzyictrl,87,135,728,方块接受玩家互动,minecraft:undyed_shulker_box,88,132,728,
+2023-07-28 11:31:25,主世界,zzyictrl,87,135,728,关闭容器,minecraft:undyed_shulker_box,88,132,728,
+2023-07-28 11:31:26,主世界,zzyictrl,87,135,729,打开容器,minecraft:undyed_shulker_box,86,132,729,
+2023-07-28 11:31:26,主世界,zzyictrl,87,135,729,方块接受玩家互动,minecraft:undyed_shulker_box,86,132,729,
+2023-07-28 11:31:27,主世界,zzyictrl,87,135,729,关闭容器,minecraft:undyed_shulker_box,86,132,729,
+2023-07-28 11:31:27,主世界,zzyictrl,87,135,729,打开容器,minecraft:undyed_shulker_box,87,132,729,
+2023-07-28 11:31:27,主世界,zzyictrl,87,135,729,方块接受玩家互动,minecraft:undyed_shulker_box,87,132,729,
+2023-07-28 11:31:28,主世界,zzyictrl,87,135,729,关闭容器,minecraft:undyed_shulker_box,87,132,729,
+2023-07-28 11:31:28,主世界,zzyictrl,87,135,729,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:31:28,主世界,zzyictrl,87,135,729,破坏方块,minecraft:undyed_shulker_box,87,132,729,
+2023-07-28 11:31:29,主世界,zzyictrl,87,135,729,捡起物品,Shulker Box,88,133,730,1个
+2023-07-28 11:31:30,主世界,zzyictrl,87,134,730,打开容器,minecraft:undyed_shulker_box,88,132,729,
+2023-07-28 11:31:30,主世界,zzyictrl,87,134,730,方块接受玩家互动,minecraft:undyed_shulker_box,88,132,729,
+2023-07-28 11:31:32,主世界,zzyictrl,87,134,730,关闭容器,minecraft:undyed_shulker_box,88,132,729,
+2023-07-28 11:31:32,主世界,zzyictrl,87,134,730,打开容器,minecraft:undyed_shulker_box,87,132,730,
+2023-07-28 11:31:32,主世界,zzyictrl,87,134,730,方块接受玩家互动,minecraft:undyed_shulker_box,87,132,730,
+2023-07-28 11:31:33,主世界,zzyictrl,87,134,730,关闭容器,minecraft:undyed_shulker_box,87,132,730,
+2023-07-28 11:31:34,主世界,zzyictrl,87,134,730,打开容器,minecraft:undyed_shulker_box,86,132,730,
+2023-07-28 11:31:34,主世界,zzyictrl,87,134,730,方块接受玩家互动,minecraft:undyed_shulker_box,86,132,730,
+2023-07-28 11:31:35,主世界,zzyictrl,87,134,730,关闭容器,minecraft:undyed_shulker_box,86,132,730,
+2023-07-28 11:31:38,主世界,zzyictrl,100,134,728,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:31:39,主世界,zzyictrl,101,134,726,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:31:40,主世界,zzyictrl,101,134,726,破坏方块,minecraft:shulker_box,102,132,726,
+2023-07-28 11:31:40,主世界,zzyictrl,102,134,726,捡起物品,Yellow Shulker Box,103,132,727,1个
+2023-07-28 11:31:41,主世界,zzyictrl,101,134,732,打开容器,minecraft:ender_chest,100,132,735,
+2023-07-28 11:31:41,主世界,zzyictrl,101,134,732,方块接受玩家互动,minecraft:ender_chest,100,132,735,
+2023-07-28 11:31:44,主世界,zzyictrl,101,134,733,容器 取出物品,minecraft:ender_chest,100,132,735,从第10号槽 取出12个 Block of Diamond
+2023-07-28 11:31:45,主世界,zzyictrl,101,134,733,容器 取出物品,minecraft:ender_chest,100,132,735,从第18号槽 取出64个 Iron Ingot
+2023-07-28 11:31:47,主世界,zzyictrl,101,134,733,关闭容器,minecraft:ender_chest,100,132,735,
+2023-07-28 11:31:48,主世界,zzyictrl,99,134,734,放置方块,minecraft:dirt,99,131,735,
+2023-07-28 11:31:49,主世界,zzyictrl,98,134,734,放置方块,minecraft:grass,98,131,735,
+2023-07-28 11:31:50,主世界,zzyictrl,98,134,734,放置方块,minecraft:grass,97,131,735,
+2023-07-28 11:31:51,主世界,zzyictrl,97,134,733,放置方块,minecraft:grass,96,131,735,
+2023-07-28 11:31:52,主世界,zzyictrl,95,134,733,放置方块,minecraft:grass,95,131,735,
+2023-07-28 11:31:54,主世界,zzyictrl,100,134,734,打开容器,minecraft:ender_chest,100,132,735,
+2023-07-28 11:31:54,主世界,zzyictrl,100,134,734,方块接受玩家互动,minecraft:ender_chest,100,132,735,
+2023-07-28 11:31:55,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第14号槽 取出64个 Diamond
+2023-07-28 11:31:56,主世界,zzyictrl,100,134,734,容器 放入物品,minecraft:ender_chest,100,132,735,从第16号槽 放入64个 Diamond
+2023-07-28 11:31:56,主世界,zzyictrl,100,134,734,容器 放入物品,minecraft:ender_chest,100,132,735,从第16号槽 放入10个 Diamond
+2023-07-28 11:31:56,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第16号槽 取出10个 Diamond
+2023-07-28 11:31:57,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第24号槽 取出1个 Netherite Ingot
+2023-07-28 11:31:59,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第23号槽 取出3个 Ender Pearl
+2023-07-28 11:32:00,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第20号槽 取出1个 Totem of Undying
+2023-07-28 11:32:00,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第4号槽 取出1个 Totem of Undying
+2023-07-28 11:32:02,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第1号槽 取出1个 Diamond Chestplate
+2023-07-28 11:32:02,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第11号槽 取出1个 钻石胸甲
+2023-07-28 11:32:03,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第3号槽 取出1个 钻石靴子
+2023-07-28 11:32:03,主世界,zzyictrl,100,134,734,容器 放入物品,minecraft:ender_chest,100,132,735,从第19号槽 放入57个 Firework Rocket
+2023-07-28 11:32:03,主世界,zzyictrl,100,134,734,容器 放入物品,minecraft:ender_chest,100,132,735,从第19号槽 放入4个 Firework Rocket
+2023-07-28 11:32:03,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第19号槽 取出4个 Firework Rocket
+2023-07-28 11:32:04,主世界,zzyictrl,100,134,734,容器 放入物品,minecraft:ender_chest,100,132,735,从第21号槽 放入4个 Firework Rocket
+2023-07-28 11:32:04,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第21号槽 取出4个 Firework Rocket
+2023-07-28 11:32:04,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第2号槽 取出34个 Bone
+2023-07-28 11:32:05,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第0号槽 取出1个 Elytra
+2023-07-28 11:32:06,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第9号槽 取出18个 Stick
+2023-07-28 11:32:06,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第12号槽 取出8个 Emerald
+2023-07-28 11:32:07,主世界,zzyictrl,100,134,734,容器 放入物品,minecraft:ender_chest,100,132,735,从第13号槽 放入64个 Arrow
+2023-07-28 11:32:07,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第22号槽 取出1个 三叉戟
+2023-07-28 11:32:08,主世界,zzyictrl,100,134,734,容器 放入物品,minecraft:ender_chest,100,132,735,从第13号槽 放入18个 Arrow
+2023-07-28 11:32:08,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第13号槽 取出18个 Arrow
+2023-07-28 11:32:09,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第25号槽 取出63个 Block of Emerald
+2023-07-28 11:32:10,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第26号槽 取出36个 Book
+2023-07-28 11:32:10,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第17号槽 取出1个 弓
+2023-07-28 11:32:11,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第8号槽 取出1个 Enchanted Book
+2023-07-28 11:32:11,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第7号槽 取出1个 Block of Netherite
+2023-07-28 11:32:11,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第15号槽 取出1个 Diamond Helmet
+2023-07-28 11:32:12,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第5号槽 取出1个 钻石剑
+2023-07-28 11:32:12,主世界,zzyictrl,100,134,734,容器 取出物品,minecraft:ender_chest,100,132,735,从第6号槽 取出1个 钻石镐
+2023-07-28 11:32:13,主世界,zzyictrl,100,134,734,关闭容器,minecraft:ender_chest,100,132,735,
+2023-07-28 11:32:14,主世界,zzyictrl,96,134,733,打开容器,minecraft:shulker_box,95,132,735,
+2023-07-28 11:32:14,主世界,zzyictrl,96,134,733,方块接受玩家互动,minecraft:shulker_box,95,132,735,
+2023-07-28 11:32:18,主世界,zzyictrl,96,134,733,容器 取出物品,minecraft:shulker_box,95,132,735,从第5号槽 取出2个 Emerald
+2023-07-28 11:32:19,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第5号槽 放入10个 Emerald
+2023-07-28 11:32:21,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第8号槽 放入12个 Block of Diamond
+2023-07-28 11:32:22,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第6号槽 放入64个 Diamond
+2023-07-28 11:32:22,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第9号槽 放入16个 Diamond
+2023-07-28 11:32:23,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第10号槽 放入10个 Diamond
+2023-07-28 11:32:26,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第11号槽 放入1个 Totem of Undying
+2023-07-28 11:32:26,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第12号槽 放入1个 Totem of Undying
+2023-07-28 11:32:28,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第13号槽 放入59个 Golden Apple
+2023-07-28 11:32:29,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第14号槽 放入64个 Iron Ingot
+2023-07-28 11:32:33,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第15号槽 放入1个 Elytra
+2023-07-28 11:32:33,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第16号槽 放入1个 Block of Netherite
+2023-07-28 11:32:34,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第17号槽 放入63个 Block of Emerald
+2023-07-28 11:32:40,主世界,zzyictrl,96,134,733,容器 取出物品,minecraft:shulker_box,95,132,735,从第2号槽 取出64个 Golden Apple
+2023-07-28 11:32:41,主世界,zzyictrl,96,134,733,容器 取出物品,minecraft:shulker_box,95,132,735,从第3号槽 取出64个 Golden Apple
+2023-07-28 11:32:42,主世界,zzyictrl,96,134,733,容器 取出物品,minecraft:shulker_box,95,132,735,从第4号槽 取出64个 Golden Apple
+2023-07-28 11:32:42,主世界,zzyictrl,96,134,733,容器 取出物品,minecraft:shulker_box,95,132,735,从第1号槽 取出64个 Golden Apple
+2023-07-28 11:32:43,主世界,zzyictrl,96,134,733,容器 取出物品,minecraft:shulker_box,95,132,735,从第0号槽 取出64个 Golden Apple
+2023-07-28 11:32:44,主世界,zzyictrl,96,134,733,容器 取出物品,minecraft:shulker_box,95,132,735,从第13号槽 取出59个 Golden Apple
+2023-07-28 11:32:48,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第0号槽 放入1个 Netherite Ingot
+2023-07-28 11:32:49,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第1号槽 放入3个 Ender Pearl
+2023-07-28 11:32:50,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第2号槽 放入36个 Book
+2023-07-28 11:32:53,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第3号槽 放入18个 Stick
+2023-07-28 11:33:00,主世界,zzyictrl,96,134,733,关闭容器,minecraft:shulker_box,95,132,735,
+2023-07-28 11:33:01,主世界,zzyictrl,96,134,734,打开容器,minecraft:undyed_shulker_box,96,132,735,
+2023-07-28 11:33:01,主世界,zzyictrl,96,134,734,方块接受玩家互动,minecraft:undyed_shulker_box,96,132,735,
+2023-07-28 11:33:04,主世界,zzyictrl,96,134,734,容器 取出物品,minecraft:undyed_shulker_box,96,132,735,从第10号槽 取出1个 Totem of Undying
+2023-07-28 11:33:05,主世界,zzyictrl,96,134,734,容器 取出物品,minecraft:undyed_shulker_box,96,132,735,从第9号槽 取出1个 Totem of Undying
+2023-07-28 11:33:05,主世界,zzyictrl,96,134,734,容器 取出物品,minecraft:undyed_shulker_box,96,132,735,从第0号槽 取出1个 Diamond Sword
+2023-07-28 11:33:06,主世界,zzyictrl,96,134,734,容器 取出物品,minecraft:undyed_shulker_box,96,132,735,从第1号槽 取出1个 Diamond Leggings
+2023-07-28 11:33:07,主世界,zzyictrl,96,134,734,容器 取出物品,minecraft:undyed_shulker_box,96,132,735,从第2号槽 取出2个 Shulker Shell
+2023-07-28 11:33:09,主世界,zzyictrl,96,134,733,关闭容器,minecraft:undyed_shulker_box,96,132,735,
+2023-07-28 11:33:09,主世界,zzyictrl,97,134,733,打开容器,minecraft:undyed_shulker_box,97,132,735,
+2023-07-28 11:33:09,主世界,zzyictrl,97,134,733,方块接受玩家互动,minecraft:undyed_shulker_box,97,132,735,
+2023-07-28 11:33:10,主世界,zzyictrl,98,134,733,关闭容器,minecraft:undyed_shulker_box,97,132,735,
+2023-07-28 11:33:11,主世界,zzyictrl,98,134,733,打开容器,minecraft:undyed_shulker_box,98,132,735,
+2023-07-28 11:33:11,主世界,zzyictrl,98,134,733,方块接受玩家互动,minecraft:undyed_shulker_box,98,132,735,
+2023-07-28 11:33:12,主世界,zzyictrl,99,134,733,关闭容器,minecraft:undyed_shulker_box,98,132,735,
+2023-07-28 11:33:12,主世界,zzyictrl,99,134,734,打开容器,minecraft:undyed_shulker_box,99,132,735,
+2023-07-28 11:33:12,主世界,zzyictrl,99,134,734,方块接受玩家互动,minecraft:undyed_shulker_box,99,132,735,
+2023-07-28 11:33:14,主世界,zzyictrl,99,134,734,容器 取出物品,minecraft:undyed_shulker_box,99,132,735,从第11号槽 取出64个 Block of Diamond
+2023-07-28 11:33:15,主世界,zzyictrl,99,134,734,容器 取出物品,minecraft:undyed_shulker_box,99,132,735,从第10号槽 取出64个 Block of Diamond
+2023-07-28 11:33:15,主世界,zzyictrl,99,134,734,容器 取出物品,minecraft:undyed_shulker_box,99,132,735,从第9号槽 取出64个 Block of Diamond
+2023-07-28 11:33:20,主世界,zzyictrl,99,134,734,关闭容器,minecraft:undyed_shulker_box,99,132,735,
+2023-07-28 11:33:21,主世界,zzyictrl,96,134,734,打开容器,minecraft:shulker_box,95,132,735,
+2023-07-28 11:33:21,主世界,zzyictrl,96,134,734,方块接受玩家互动,minecraft:shulker_box,95,132,735,
+2023-07-28 11:33:22,主世界,zzyictrl,96,134,733,关闭容器,minecraft:shulker_box,95,132,735,
+2023-07-28 11:33:23,主世界,zzyictrl,97,134,733,打开容器,minecraft:undyed_shulker_box,97,132,735,
+2023-07-28 11:33:23,主世界,zzyictrl,97,134,733,方块接受玩家互动,minecraft:undyed_shulker_box,97,132,735,
+2023-07-28 11:33:24,主世界,zzyictrl,97,134,733,关闭容器,minecraft:undyed_shulker_box,97,132,735,
+2023-07-28 11:33:24,主世界,zzyictrl,96,134,733,打开容器,minecraft:undyed_shulker_box,96,132,735,
+2023-07-28 11:33:24,主世界,zzyictrl,96,134,733,方块接受玩家互动,minecraft:undyed_shulker_box,96,132,735,
+2023-07-28 11:33:26,主世界,zzyictrl,96,134,733,关闭容器,minecraft:undyed_shulker_box,96,132,735,
+2023-07-28 11:33:26,主世界,zzyictrl,96,134,733,打开容器,minecraft:shulker_box,95,132,735,
+2023-07-28 11:33:26,主世界,zzyictrl,96,134,733,方块接受玩家互动,minecraft:shulker_box,95,132,735,
+2023-07-28 11:33:27,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第4号槽 放入64个 Golden Apple
+2023-07-28 11:33:27,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第13号槽 放入64个 Golden Apple
+2023-07-28 11:33:29,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第18号槽 放入64个 Golden Apple
+2023-07-28 11:33:30,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第19号槽 放入64个 Golden Apple
+2023-07-28 11:33:30,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第20号槽 放入64个 Golden Apple
+2023-07-28 11:33:31,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第21号槽 放入1个 Totem of Undying
+2023-07-28 11:33:31,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第22号槽 放入1个 Totem of Undying
+2023-07-28 11:33:32,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第20号槽 放入59个 Golden Apple
+2023-07-28 11:33:33,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第20号槽 放入64个 Golden Apple
+2023-07-28 11:33:33,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第23号槽 放入59个 Golden Apple
+2023-07-28 11:33:33,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第8号槽 放入64个 Block of Diamond
+2023-07-28 11:33:33,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第24号槽 放入12个 Block of Diamond
+2023-07-28 11:33:34,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第24号槽 放入64个 Block of Diamond
+2023-07-28 11:33:34,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第25号槽 放入12个 Block of Diamond
+2023-07-28 11:33:34,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第25号槽 放入64个 Block of Diamond
+2023-07-28 11:33:34,主世界,zzyictrl,96,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第26号槽 放入12个 Block of Diamond
+2023-07-28 11:33:38,主世界,zzyictrl,96,134,733,关闭容器,minecraft:shulker_box,95,132,735,
+2023-07-28 11:33:39,主世界,zzyictrl,96,134,733,打开容器,minecraft:undyed_shulker_box,96,132,735,
+2023-07-28 11:33:39,主世界,zzyictrl,96,134,733,方块接受玩家互动,minecraft:undyed_shulker_box,96,132,735,
+2023-07-28 11:33:40,主世界,zzyictrl,96,134,733,关闭容器,minecraft:undyed_shulker_box,96,132,735,
+2023-07-28 11:33:41,主世界,zzyictrl,99,134,733,打开容器,minecraft:ender_chest,100,132,735,
+2023-07-28 11:33:41,主世界,zzyictrl,99,134,733,方块接受玩家互动,minecraft:ender_chest,100,132,735,
+2023-07-28 11:33:42,主世界,zzyictrl,99,134,733,关闭容器,minecraft:ender_chest,100,132,735,
+2023-07-28 11:33:45,主世界,zzyictrl,99,134,733,打开容器,minecraft:undyed_shulker_box,99,132,735,
+2023-07-28 11:33:45,主世界,zzyictrl,99,134,733,方块接受玩家互动,minecraft:undyed_shulker_box,99,132,735,
+2023-07-28 11:33:47,主世界,zzyictrl,99,134,733,容器 取出物品,minecraft:undyed_shulker_box,99,132,735,从第0号槽 取出64个 Scaffolding
+2023-07-28 11:33:48,主世界,zzyictrl,99,134,733,容器 取出物品,minecraft:undyed_shulker_box,99,132,735,从第1号槽 取出64个 Scaffolding
+2023-07-28 11:33:48,主世界,zzyictrl,99,134,733,容器 取出物品,minecraft:undyed_shulker_box,99,132,735,从第2号槽 取出64个 Scaffolding
+2023-07-28 11:33:49,主世界,zzyictrl,99,134,733,容器 取出物品,minecraft:undyed_shulker_box,99,132,735,从第3号槽 取出64个 Scaffolding
+2023-07-28 11:33:49,主世界,zzyictrl,99,134,733,容器 取出物品,minecraft:undyed_shulker_box,99,132,735,从第12号槽 取出64个 Hopper
+2023-07-28 11:33:50,主世界,zzyictrl,99,134,733,容器 取出物品,minecraft:undyed_shulker_box,99,132,735,从第13号槽 取出64个 Hopper
+2023-07-28 11:33:51,主世界,zzyictrl,99,134,733,容器 取出物品,minecraft:undyed_shulker_box,99,132,735,从第14号槽 取出64个 Hopper
+2023-07-28 11:33:51,主世界,zzyictrl,99,134,733,容器 取出物品,minecraft:undyed_shulker_box,99,132,735,从第4号槽 取出64个 Glass
+2023-07-28 11:33:51,主世界,zzyictrl,99,134,733,容器 取出物品,minecraft:undyed_shulker_box,99,132,735,从第5号槽 取出64个 Glass
+2023-07-28 11:33:52,主世界,zzyictrl,99,134,733,容器 取出物品,minecraft:undyed_shulker_box,99,132,735,从第6号槽 取出64个 Glass
+2023-07-28 11:33:52,主世界,zzyictrl,99,134,733,容器 取出物品,minecraft:undyed_shulker_box,99,132,735,从第7号槽 取出64个 Glass
+2023-07-28 11:33:53,主世界,zzyictrl,99,134,733,容器 取出物品,minecraft:undyed_shulker_box,99,132,735,从第8号槽 取出64个 Glass
+2023-07-28 11:33:53,主世界,zzyictrl,99,134,733,关闭容器,minecraft:undyed_shulker_box,99,132,735,
+2023-07-28 11:33:55,主世界,zzyictrl,94,135,730,打开容器,minecraft:undyed_shulker_box,90,132,728,
+2023-07-28 11:33:55,主世界,zzyictrl,94,135,730,方块接受玩家互动,minecraft:undyed_shulker_box,90,132,728,
+2023-07-28 11:33:56,主世界,zzyictrl,92,134,729,关闭容器,minecraft:undyed_shulker_box,90,132,728,
+2023-07-28 11:33:57,主世界,zzyictrl,92,135,728,打开容器,minecraft:undyed_shulker_box,91,132,728,
+2023-07-28 11:33:57,主世界,zzyictrl,92,135,728,方块接受玩家互动,minecraft:undyed_shulker_box,91,132,728,
+2023-07-28 11:33:58,主世界,zzyictrl,92,135,728,关闭容器,minecraft:undyed_shulker_box,91,132,728,
+2023-07-28 11:33:59,主世界,zzyictrl,92,135,728,打开容器,minecraft:undyed_shulker_box,91,132,730,
+2023-07-28 11:33:59,主世界,zzyictrl,92,135,728,方块接受玩家互动,minecraft:undyed_shulker_box,91,132,730,
+2023-07-28 11:34:00,主世界,zzyictrl,91,135,728,关闭容器,minecraft:undyed_shulker_box,91,132,730,
+2023-07-28 11:34:00,主世界,zzyictrl,90,135,728,打开容器,minecraft:undyed_shulker_box,89,132,729,
+2023-07-28 11:34:00,主世界,zzyictrl,90,135,728,方块接受玩家互动,minecraft:undyed_shulker_box,89,132,729,
+2023-07-28 11:34:01,主世界,zzyictrl,90,135,728,关闭容器,minecraft:undyed_shulker_box,89,132,729,
+2023-07-28 11:34:02,主世界,zzyictrl,90,135,728,打开容器,minecraft:undyed_shulker_box,89,132,729,
+2023-07-28 11:34:02,主世界,zzyictrl,90,135,728,方块接受玩家互动,minecraft:undyed_shulker_box,89,132,729,
+2023-07-28 11:34:04,主世界,zzyictrl,90,135,728,容器 放入物品,minecraft:undyed_shulker_box,89,132,729,从第22号槽 放入64个 Glass
+2023-07-28 11:34:04,主世界,zzyictrl,90,135,728,容器 放入物品,minecraft:undyed_shulker_box,89,132,729,从第23号槽 放入64个 Glass
+2023-07-28 11:34:04,主世界,zzyictrl,90,135,728,容器 放入物品,minecraft:undyed_shulker_box,89,132,729,从第24号槽 放入64个 Hopper
+2023-07-28 11:34:05,主世界,zzyictrl,90,135,728,容器 放入物品,minecraft:undyed_shulker_box,89,132,729,从第25号槽 放入64个 Hopper
+2023-07-28 11:34:05,主世界,zzyictrl,90,135,728,容器 放入物品,minecraft:undyed_shulker_box,89,132,729,从第26号槽 放入64个 Hopper
+2023-07-28 11:34:06,主世界,zzyictrl,90,135,728,关闭容器,minecraft:undyed_shulker_box,89,132,729,
+2023-07-28 11:34:07,主世界,zzyictrl,89,135,728,打开容器,minecraft:shulker_box,87,132,728,
+2023-07-28 11:34:07,主世界,zzyictrl,89,135,728,方块接受玩家互动,minecraft:shulker_box,87,132,728,
+2023-07-28 11:34:08,主世界,zzyictrl,89,135,728,容器 放入物品,minecraft:shulker_box,87,132,728,从第13号槽 放入64个 Glass
+2023-07-28 11:34:09,主世界,zzyictrl,89,135,728,容器 放入物品,minecraft:shulker_box,87,132,728,从第14号槽 放入34个 Bone
+2023-07-28 11:34:10,主世界,zzyictrl,89,135,728,容器 放入物品,minecraft:shulker_box,87,132,728,从第15号槽 放入64个 Glass
+2023-07-28 11:34:10,主世界,zzyictrl,89,135,728,容器 放入物品,minecraft:shulker_box,87,132,728,从第16号槽 放入64个 Glass
+2023-07-28 11:34:11,主世界,zzyictrl,89,135,728,容器 放入物品,minecraft:shulker_box,87,132,728,从第17号槽 放入2个 Shulker Shell
+2023-07-28 11:34:12,主世界,zzyictrl,89,135,728,容器 放入物品,minecraft:shulker_box,87,132,728,从第21号槽 放入1个 Diamond Leggings
+2023-07-28 11:34:13,主世界,zzyictrl,89,135,728,容器 放入物品,minecraft:shulker_box,87,132,728,从第22号槽 放入1个 Diamond Helmet
+2023-07-28 11:34:13,主世界,zzyictrl,89,135,728,容器 放入物品,minecraft:shulker_box,87,132,728,从第23号槽 放入1个 钻石靴子
+2023-07-28 11:34:14,主世界,zzyictrl,89,135,728,容器 放入物品,minecraft:shulker_box,87,132,728,从第24号槽 放入1个 钻石胸甲
+2023-07-28 11:34:14,主世界,zzyictrl,89,135,728,容器 放入物品,minecraft:shulker_box,87,132,728,从第25号槽 放入1个 Diamond Chestplate
+2023-07-28 11:34:17,主世界,zzyictrl,89,135,728,容器 放入物品,minecraft:shulker_box,87,132,728,从第26号槽 放入64个 Scaffolding
+2023-07-28 11:34:19,主世界,zzyictrl,89,135,728,关闭容器,minecraft:shulker_box,87,132,728,
+2023-07-28 11:34:19,主世界,zzyictrl,89,135,728,打开容器,minecraft:undyed_shulker_box,88,132,727,
+2023-07-28 11:34:19,主世界,zzyictrl,89,135,728,方块接受玩家互动,minecraft:undyed_shulker_box,88,132,727,
+2023-07-28 11:34:21,主世界,zzyictrl,89,135,728,容器 放入物品,minecraft:undyed_shulker_box,88,132,727,从第21号槽 放入64个 Scaffolding
+2023-07-28 11:34:22,主世界,zzyictrl,89,135,728,容器 放入物品,minecraft:undyed_shulker_box,88,132,727,从第22号槽 放入64个 Scaffolding
+2023-07-28 11:34:22,主世界,zzyictrl,89,135,728,容器 放入物品,minecraft:undyed_shulker_box,88,132,727,从第23号槽 放入64个 Scaffolding
+2023-07-28 11:34:24,主世界,zzyictrl,89,135,728,容器 放入物品,minecraft:undyed_shulker_box,88,132,727,从第24号槽 放入1个 Diamond Sword
+2023-07-28 11:34:29,主世界,zzyictrl,89,135,728,关闭容器,minecraft:undyed_shulker_box,88,132,727,
+2023-07-28 11:34:29,主世界,zzyictrl,89,135,728,打开容器,minecraft:undyed_shulker_box,89,132,727,
+2023-07-28 11:34:29,主世界,zzyictrl,89,135,728,方块接受玩家互动,minecraft:undyed_shulker_box,89,132,727,
+2023-07-28 11:34:31,主世界,zzyictrl,89,135,728,关闭容器,minecraft:undyed_shulker_box,89,132,727,
+2023-07-28 11:34:32,主世界,zzyictrl,89,135,728,打开容器,minecraft:undyed_shulker_box,88,132,727,
+2023-07-28 11:34:32,主世界,zzyictrl,89,135,728,方块接受玩家互动,minecraft:undyed_shulker_box,88,132,727,
+2023-07-28 11:34:33,主世界,zzyictrl,89,135,728,容器 取出物品,minecraft:undyed_shulker_box,88,132,727,从第7号槽 取出64个 Block of Lapis Lazuli
+2023-07-28 11:34:34,主世界,zzyictrl,89,135,728,容器 取出物品,minecraft:undyed_shulker_box,88,132,727,从第14号槽 取出64个 Block of Redstone
+2023-07-28 11:34:36,主世界,zzyictrl,89,135,728,容器 取出物品,minecraft:undyed_shulker_box,88,132,727,从第9号槽 取出64个 Redstone Torch
+2023-07-28 11:34:37,主世界,zzyictrl,89,135,728,容器 取出物品,minecraft:undyed_shulker_box,88,132,727,从第10号槽 取出15个 Block of Netherite
+2023-07-28 11:34:40,主世界,zzyictrl,89,135,728,关闭容器,minecraft:undyed_shulker_box,88,132,727,
+2023-07-28 11:34:40,主世界,zzyictrl,89,135,728,打开容器,minecraft:undyed_shulker_box,89,132,727,
+2023-07-28 11:34:40,主世界,zzyictrl,89,135,728,方块接受玩家互动,minecraft:undyed_shulker_box,89,132,727,
+2023-07-28 11:34:41,主世界,zzyictrl,89,135,728,关闭容器,minecraft:undyed_shulker_box,89,132,727,
+2023-07-28 11:34:42,主世界,zzyictrl,89,135,728,打开容器,minecraft:undyed_shulker_box,87,132,727,
+2023-07-28 11:34:42,主世界,zzyictrl,89,135,728,方块接受玩家互动,minecraft:undyed_shulker_box,87,132,727,
+2023-07-28 11:34:43,主世界,zzyictrl,89,135,728,关闭容器,minecraft:undyed_shulker_box,87,132,727,
+2023-07-28 11:34:44,主世界,zzyictrl,88,135,728,打开容器,minecraft:undyed_shulker_box,86,132,728,
+2023-07-28 11:34:44,主世界,zzyictrl,88,135,728,方块接受玩家互动,minecraft:undyed_shulker_box,86,132,728,
+2023-07-28 11:34:45,主世界,zzyictrl,88,135,728,关闭容器,minecraft:undyed_shulker_box,86,132,728,
+2023-07-28 11:34:45,主世界,zzyictrl,88,135,728,打开容器,minecraft:shulker_box,87,132,728,
+2023-07-28 11:34:45,主世界,zzyictrl,88,135,728,方块接受玩家互动,minecraft:shulker_box,87,132,728,
+2023-07-28 11:34:47,主世界,zzyictrl,88,135,728,关闭容器,minecraft:shulker_box,87,132,728,
+2023-07-28 11:34:50,主世界,zzyictrl,95,134,733,打开容器,minecraft:shulker_box,95,132,735,
+2023-07-28 11:34:50,主世界,zzyictrl,95,134,733,方块接受玩家互动,minecraft:shulker_box,95,132,735,
+2023-07-28 11:34:57,主世界,zzyictrl,95,134,733,容器 取出物品,minecraft:shulker_box,95,132,735,从第16号槽 取出1个 Block of Netherite
+2023-07-28 11:34:59,主世界,zzyictrl,95,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第16号槽 放入16个 Block of Netherite
+2023-07-28 11:35:03,主世界,zzyictrl,95,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第7号槽 放入64个 Block of Lapis Lazuli
+2023-07-28 11:35:10,主世界,zzyictrl,95,134,733,容器 放入物品,minecraft:shulker_box,95,132,735,从第21号槽 放入64个 Block of Redstone
+2023-07-28 11:35:13,主世界,zzyictrl,95,134,733,关闭容器,minecraft:shulker_box,95,132,735,
+2023-07-28 11:35:19,主世界,zzyictrl,95,134,733,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:35:19,主世界,zzyictrl,95,134,733,破坏方块,minecraft:shulker_box,95,132,735,
+2023-07-28 11:35:20,主世界,zzyictrl,95,134,734,捡起物品,Lime Shulker Box,95,133,735,1个
+2023-07-28 11:35:21,主世界,zzyictrl,96,134,735,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:35:21,主世界,zzyictrl,96,134,735,破坏方块,minecraft:undyed_shulker_box,96,132,735,
+2023-07-28 11:35:22,主世界,zzyictrl,96,134,735,破坏方块,minecraft:undyed_shulker_box,97,132,735,
+2023-07-28 11:35:22,主世界,zzyictrl,96,134,735,破坏方块,minecraft:undyed_shulker_box,98,132,735,
+2023-07-28 11:35:22,主世界,zzyictrl,96,134,735,捡起物品,Shulker Box,97,132,735,1个
+2023-07-28 11:35:22,主世界,zzyictrl,96,134,735,破坏方块,minecraft:undyed_shulker_box,99,132,735,
+2023-07-28 11:35:23,主世界,zzyictrl,96,134,735,捡起物品,Shulker Box,97,132,734,1个
+2023-07-28 11:35:23,主世界,zzyictrl,97,134,735,捡起物品,Shulker Box,98,132,735,1个
+2023-07-28 11:35:24,主世界,zzyictrl,99,134,735,捡起物品,Shulker Box,100,132,735,1个
+2023-07-28 11:35:24,主世界,zzyictrl,99,134,735,打开容器,minecraft:ender_chest,100,132,735,
+2023-07-28 11:35:24,主世界,zzyictrl,99,134,735,方块接受玩家互动,minecraft:ender_chest,100,132,735,
+2023-07-28 11:35:26,主世界,zzyictrl,99,134,735,容器 放入物品,minecraft:ender_chest,100,132,735,从第0号槽 放入1个 Lime Shulker Box
+2023-07-28 11:35:26,主世界,zzyictrl,99,134,735,容器 放入物品,minecraft:ender_chest,100,132,735,从第1号槽 放入1个 Shulker Box
+2023-07-28 11:35:27,主世界,zzyictrl,99,134,735,容器 放入物品,minecraft:ender_chest,100,132,735,从第2号槽 放入1个 Shulker Box
+2023-07-28 11:35:28,主世界,zzyictrl,99,134,735,容器 放入物品,minecraft:ender_chest,100,132,735,从第3号槽 放入1个 Shulker Box
+2023-07-28 11:35:28,主世界,zzyictrl,99,134,735,容器 放入物品,minecraft:ender_chest,100,132,735,从第4号槽 放入1个 Shulker Box
+2023-07-28 11:35:29,主世界,zzyictrl,99,134,735,容器 放入物品,minecraft:ender_chest,100,132,735,从第5号槽 放入1个 Yellow Shulker Box
+2023-07-28 11:35:30,主世界,zzyictrl,99,134,735,容器 放入物品,minecraft:ender_chest,100,132,735,从第6号槽 放入64个 Firework Rocket
+2023-07-28 11:35:30,主世界,zzyictrl,99,134,735,容器 放入物品,minecraft:ender_chest,100,132,735,从第7号槽 放入64个 Firework Rocket
+2023-07-28 11:35:32,主世界,zzyictrl,99,134,735,容器 放入物品,minecraft:ender_chest,100,132,735,从第8号槽 放入1个 弓
+2023-07-28 11:35:33,主世界,zzyictrl,99,134,735,容器 放入物品,minecraft:ender_chest,100,132,735,从第9号槽 放入1个 三叉戟
+2023-07-28 11:35:38,主世界,zzyictrl,99,134,735,容器 放入物品,minecraft:ender_chest,100,132,735,从第10号槽 放入1个 Enchanted Book
+2023-07-28 11:35:39,主世界,zzyictrl,99,134,735,容器 放入物品,minecraft:ender_chest,100,132,735,从第11号槽 放入21个 Lapis Lazuli
+2023-07-28 11:35:42,主世界,zzyictrl,99,134,735,容器 放入物品,minecraft:ender_chest,100,132,735,从第12号槽 放入64个 Redstone Torch
+2023-07-28 11:35:43,主世界,zzyictrl,99,134,735,关闭容器,minecraft:ender_chest,100,132,735,
+2023-07-28 11:35:51,主世界,zzyictrl,95,134,730,丢出物品,Arrow,,,,18
+2023-07-28 11:35:53,主世界,zzyictrl,92,134,730,捡起物品,Arrow,92,132,730,18个
+2023-07-28 11:35:54,主世界,zzyictrl,94,135,731,打开容器,minecraft:chest,94,132,735,
+2023-07-28 11:35:54,主世界,zzyictrl,94,135,731,方块接受玩家互动,minecraft:chest,94,132,735,
+2023-07-28 11:35:56,主世界,zzyictrl,95,134,732,容器 放入物品,minecraft:chest,94,132,735,从第21号槽 放入64个 Arrow
+2023-07-28 11:35:59,主世界,zzyictrl,94,134,732,关闭容器,minecraft:chest,94,132,735,
+2023-07-28 11:35:59,主世界,zzyictrl,92,134,735,打开容器,minecraft:chest,94,132,736,
+2023-07-28 11:35:59,主世界,zzyictrl,92,134,735,方块接受玩家互动,minecraft:chest,94,132,736,
+2023-07-28 11:36:02,主世界,zzyictrl,92,134,735,关闭容器,minecraft:chest,94,132,736,
+2023-07-28 11:36:04,主世界,zzyictrl,91,134,732,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:36:04,主世界,zzyictrl,92,134,732,破坏方块,minecraft:undyed_shulker_box,89,132,730,
+2023-07-28 11:36:04,主世界,zzyictrl,92,134,732,破坏方块,minecraft:undyed_shulker_box,91,132,730,
+2023-07-28 11:36:05,主世界,zzyictrl,92,134,732,破坏方块,minecraft:undyed_shulker_box,91,132,728,
+2023-07-28 11:36:05,主世界,zzyictrl,92,134,732,捡起物品,Shulker Box,92,133,731,1个
+2023-07-28 11:36:05,主世界,zzyictrl,92,134,731,破坏方块,minecraft:undyed_shulker_box,90,132,728,
+2023-07-28 11:36:05,主世界,zzyictrl,92,134,731,破坏方块,minecraft:undyed_shulker_box,89,132,729,
+2023-07-28 11:36:05,主世界,zzyictrl,91,134,731,捡起物品,Shulker Box,90,132,731,1个
+2023-07-28 11:36:06,主世界,zzyictrl,91,134,731,破坏方块,minecraft:undyed_shulker_box,88,132,729,
+2023-07-28 11:36:06,主世界,zzyictrl,91,134,731,捡起物品,Shulker Box,90,133,730,1个
+2023-07-28 11:36:06,主世界,zzyictrl,90,134,731,破坏方块,minecraft:undyed_shulker_box,88,132,730,
+2023-07-28 11:36:07,主世界,zzyictrl,91,134,731,捡起物品,Shulker Box,89,133,731,1个
+2023-07-28 11:36:07,主世界,zzyictrl,91,134,731,破坏方块,minecraft:undyed_shulker_box,89,132,728,
+2023-07-28 11:36:07,主世界,zzyictrl,91,134,730,破坏方块,minecraft:undyed_shulker_box,89,132,727,
+2023-07-28 11:36:07,主世界,zzyictrl,91,134,730,捡起物品,Shulker Box,92,132,728,1个
+2023-07-28 11:36:07,主世界,zzyictrl,91,134,730,捡起物品,Shulker Box,92,132,728,1个
+2023-07-28 11:36:07,主世界,zzyictrl,91,134,730,捡起物品,Shulker Box,90,132,728,1个
+2023-07-28 11:36:08,主世界,zzyictrl,91,134,729,破坏方块,minecraft:undyed_shulker_box,88,132,727,
+2023-07-28 11:36:08,主世界,zzyictrl,91,134,729,破坏方块,minecraft:undyed_shulker_box,88,132,728,
+2023-07-28 11:36:09,主世界,zzyictrl,91,134,730,打开容器,minecraft:shulker_box,87,132,728,
+2023-07-28 11:36:09,主世界,zzyictrl,91,134,730,方块接受玩家互动,minecraft:shulker_box,87,132,728,
+2023-07-28 11:36:09,主世界,zzyictrl,91,134,730,捡起物品,Shulker Box,89,132,729,1个
+2023-07-28 11:36:10,主世界,zzyictrl,90,134,729,关闭容器,minecraft:shulker_box,87,132,728,
+2023-07-28 11:36:10,主世界,zzyictrl,90,134,729,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:36:10,主世界,zzyictrl,90,134,729,破坏方块,minecraft:shulker_box,87,132,728,
+2023-07-28 11:36:11,主世界,zzyictrl,90,134,729,破坏方块,minecraft:undyed_shulker_box,87,132,727,
+2023-07-28 11:36:11,主世界,zzyictrl,90,134,728,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:36:11,主世界,zzyictrl,90,134,728,捡起物品,Shulker Box,88,132,729,1个
+2023-07-28 11:36:11,主世界,zzyictrl,90,134,728,捡起物品,Shulker Box,89,132,727,1个
+2023-07-28 11:36:11,主世界,zzyictrl,90,134,728,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:36:11,主世界,zzyictrl,90,134,728,破坏方块,minecraft:undyed_shulker_box,86,132,728,
+2023-07-28 11:36:12,主世界,zzyictrl,90,134,729,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:36:12,主世界,zzyictrl,90,134,729,破坏方块,minecraft:undyed_shulker_box,86,132,729,
+2023-07-28 11:36:12,主世界,zzyictrl,90,134,730,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:36:13,主世界,zzyictrl,89,134,730,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:36:13,主世界,zzyictrl,89,134,730,破坏方块,minecraft:undyed_shulker_box,87,132,730,
+2023-07-28 11:36:13,主世界,zzyictrl,89,134,730,破坏方块,minecraft:undyed_shulker_box,86,132,730,
+2023-07-28 11:36:13,主世界,zzyictrl,89,134,730,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:36:13,主世界,zzyictrl,89,134,730,捡起物品,Shulker Box,88,132,731,1个
+2023-07-28 11:36:14,主世界,zzyictrl,88,134,730,捡起物品,Shulker Box,86,132,730,1个
+2023-07-28 11:36:14,主世界,zzyictrl,87,134,730,捡起物品,Shulker Box,87,132,729,1个
+2023-07-28 11:36:14,主世界,zzyictrl,87,134,730,捡起物品,Shulker Box,87,132,730,1个
+2023-07-28 11:36:14,主世界,zzyictrl,86,134,730,捡起物品,Yellow Shulker Box,87,132,728,1个
+2023-07-28 11:36:14,主世界,zzyictrl,87,134,729,捡起物品,Shulker Box,87,132,728,1个
+2023-07-28 11:36:15,主世界,zzyictrl,87,134,729,捡起物品,Shulker Box,88,132,727,1个
+2023-07-28 11:36:22,主世界,zzyictrl,94,135,735,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:36:23,主世界,zzyictrl,94,135,735,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:36:25,主世界,zzyictrl,94,135,735,使用物品,下界合金斧,,,,类型：minecraft:netherite_axe
+2023-07-28 11:36:25,主世界,zzyictrl,94,135,735,破坏方块,minecraft:chest,94,132,735,
+2023-07-28 11:36:25,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,95,132,735,1个
+2023-07-28 11:36:25,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,95,133,735,1个
+2023-07-28 11:36:25,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,94,133,735,1个
+2023-07-28 11:36:25,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,94,132,735,1个
+2023-07-28 11:36:25,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,93,132,735,1个
+2023-07-28 11:36:25,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,94,132,735,1个
+2023-07-28 11:36:25,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,95,132,735,1个
+2023-07-28 11:36:25,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,94,133,735,1个
+2023-07-28 11:36:25,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,93,132,735,1个
+2023-07-28 11:36:25,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,94,132,736,1个
+2023-07-28 11:36:25,主世界,zzyictrl,94,134,735,捡起物品,Arrow,95,132,736,30个
+2023-07-28 11:36:25,主世界,zzyictrl,94,134,735,捡起物品,Arrow,94,133,735,11个
+2023-07-28 11:36:25,主世界,zzyictrl,94,134,735,捡起物品,Arrow,94,132,736,12个
+2023-07-28 11:36:26,主世界,zzyictrl,94,134,735,打开容器,minecraft:chest,94,132,736,
+2023-07-28 11:36:26,主世界,zzyictrl,94,134,735,方块接受玩家互动,minecraft:chest,94,132,736,
+2023-07-28 11:36:29,主世界,zzyictrl,94,134,735,关闭容器,minecraft:chest,94,132,736,
+2023-07-28 11:36:31,主世界,zzyictrl,94,134,735,丢出物品,Shulker Box,,,,1
+2023-07-28 11:36:31,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,94,132,735,1个
+2023-07-28 11:36:32,主世界,zzyictrl,94,134,735,丢出物品,Shulker Box,,,,1
+2023-07-28 11:36:32,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,95,132,735,1个
+2023-07-28 11:36:33,主世界,zzyictrl,94,134,735,丢出物品,Shulker Box,,,,1
+2023-07-28 11:36:33,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,95,132,735,1个
+2023-07-28 11:36:34,主世界,zzyictrl,94,134,735,丢出物品,Shulker Box,,,,1
+2023-07-28 11:36:34,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,95,132,735,1个
+2023-07-28 11:36:34,主世界,zzyictrl,94,134,735,丢出物品,Shulker Box,,,,1
+2023-07-28 11:36:34,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,95,132,735,1个
+2023-07-28 11:36:35,主世界,zzyictrl,94,134,735,丢出物品,Shulker Box,,,,1
+2023-07-28 11:36:35,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,94,132,735,1个
+2023-07-28 11:36:36,主世界,zzyictrl,94,134,735,丢出物品,Shulker Box,,,,1
+2023-07-28 11:36:36,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,95,132,736,1个
+2023-07-28 11:36:37,主世界,zzyictrl,94,134,735,丢出物品,Shulker Box,,,,1
+2023-07-28 11:36:37,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,93,132,735,1个
+2023-07-28 11:36:38,主世界,zzyictrl,94,134,735,丢出物品,Shulker Box,,,,1
+2023-07-28 11:36:38,主世界,zzyictrl,94,134,735,捡起物品,Chest,95,132,735,2个
+2023-07-28 11:36:38,主世界,zzyictrl,94,134,735,捡起物品,Chest,94,132,735,1个
+2023-07-28 11:36:44,主世界,zzyictrl,94,134,735,放置方块,minecraft:grass,96,131,734,
+2023-07-28 11:36:45,主世界,zzyictrl,94,134,735,放置方块,minecraft:grass,96,131,734,
+2023-07-28 11:36:46,主世界,zzyictrl,94,134,735,打开容器,minecraft:chest,96,132,734,
+2023-07-28 11:36:46,主世界,zzyictrl,94,134,735,方块接受玩家互动,minecraft:chest,96,132,734,
+2023-07-28 11:36:47,主世界,zzyictrl,94,134,735,容器 放入物品,minecraft:chest,96,132,734,从第0号槽 放入1个 Shulker Box
+2023-07-28 11:36:47,主世界,zzyictrl,94,134,735,捡起物品,Arrow,94,132,736,7个
+2023-07-28 11:36:47,主世界,zzyictrl,94,134,735,捡起物品,Arrow,95,132,735,11个
+2023-07-28 11:36:49,主世界,zzyictrl,94,134,735,容器 放入物品,minecraft:chest,96,132,734,从第1号槽 放入1个 Shulker Box
+2023-07-28 11:36:49,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,95,132,736,1个
+2023-07-28 11:36:50,主世界,zzyictrl,94,134,735,容器 放入物品,minecraft:chest,96,132,734,从第2号槽 放入1个 Shulker Box
+2023-07-28 11:36:50,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,95,132,736,1个
+2023-07-28 11:36:51,主世界,zzyictrl,94,134,735,容器 放入物品,minecraft:chest,96,132,734,从第3号槽 放入1个 Shulker Box
+2023-07-28 11:36:51,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,95,132,736,1个
+2023-07-28 11:36:51,主世界,zzyictrl,94,134,735,容器 放入物品,minecraft:chest,96,132,734,从第4号槽 放入1个 Shulker Box
+2023-07-28 11:36:51,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,95,132,736,1个
+2023-07-28 11:36:52,主世界,zzyictrl,94,134,735,容器 放入物品,minecraft:chest,96,132,734,从第5号槽 放入1个 Shulker Box
+2023-07-28 11:36:52,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,94,133,736,1个
+2023-07-28 11:36:53,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,95,132,736,1个
+2023-07-28 11:36:54,主世界,zzyictrl,94,134,735,容器 放入物品,minecraft:chest,96,132,734,从第6号槽 放入1个 Shulker Box
+2023-07-28 11:36:54,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,95,132,736,1个
+2023-07-28 11:36:55,主世界,zzyictrl,94,134,735,容器 放入物品,minecraft:chest,96,132,734,从第7号槽 放入1个 Shulker Box
+2023-07-28 11:36:55,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,95,132,736,1个
+2023-07-28 11:36:55,主世界,zzyictrl,94,134,735,容器 放入物品,minecraft:chest,96,132,734,从第8号槽 放入1个 Shulker Box
+2023-07-28 11:36:55,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,95,132,736,1个
+2023-07-28 11:36:55,主世界,zzyictrl,94,134,735,容器 放入物品,minecraft:chest,96,132,734,从第9号槽 放入1个 Shulker Box
+2023-07-28 11:36:55,主世界,zzyictrl,94,134,735,捡起物品,Shulker Box,95,132,736,1个
+2023-07-28 11:36:56,主世界,zzyictrl,94,134,735,容器 放入物品,minecraft:chest,96,132,734,从第10号槽 放入1个 Shulker Box
+2023-07-28 11:36:56,主世界,zzyictrl,94,134,735,容器 放入物品,minecraft:chest,96,132,734,从第11号槽 放入1个 Shulker Box
+2023-07-28 11:36:58,主世界,zzyictrl,94,134,735,容器 取出物品,minecraft:chest,96,132,734,从第0号槽 取出1个 Shulker Box
+2023-07-28 11:36:59,主世界,zzyictrl,94,134,735,容器 放入物品,minecraft:chest,96,132,734,从第0号槽 放入1个 Shulker Box
+2023-07-28 11:37:00,主世界,zzyictrl,94,134,735,容器 取出物品,minecraft:chest,96,132,734,从第1号槽 取出1个 Shulker Box
+2023-07-28 11:37:01,主世界,zzyictrl,94,134,735,关闭容器,minecraft:chest,96,132,734,
+2023-07-28 11:37:04,主世界,zzyictrl,96,134,735,打开容器,minecraft:chest,96,132,734,
+2023-07-28 11:37:04,主世界,zzyictrl,96,134,735,方块接受玩家互动,minecraft:chest,96,132,734,
+2023-07-28 11:37:05,主世界,zzyictrl,96,134,735,容器 放入物品,minecraft:chest,96,132,734,从第1号槽 放入1个 Shulker Box
+2023-07-28 11:37:05,主世界,zzyictrl,96,134,735,捡起物品,Shulker Box,96,132,735,1个
+2023-07-28 11:37:07,主世界,zzyictrl,96,134,735,容器 放入物品,minecraft:chest,96,132,734,从第12号槽 放入1个 Shulker Box
+2023-07-28 11:37:08,主世界,zzyictrl,96,134,735,容器 取出物品,minecraft:chest,96,132,734,从第1号槽 取出1个 Shulker Box
+2023-07-28 11:37:09,主世界,zzyictrl,95,134,735,关闭容器,minecraft:chest,96,132,734,
+2023-07-28 11:37:12,主世界,zzyictrl,92,135,736,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-28 11:37:14,主世界,zzyictrl,59,137,783,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-28 11:37:16,主世界,zzyictrl,16,143,844,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-28 11:37:19,主世界,zzyictrl,-34,150,907,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-28 11:37:23,主世界,zzyictrl,-119,143,922,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-28 11:37:25,主世界,zzyictrl,-179,145,927,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-28 11:37:43,主世界,zzyictrl,-246,195,997,打开容器,minecraft:chest,-244,193,996,
+2023-07-28 11:37:43,主世界,zzyictrl,-246,195,997,方块接受玩家互动,minecraft:chest,-244,193,996,
+2023-07-28 11:37:46,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第21号槽 放入1个 Shulker Box
+2023-07-28 11:37:47,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第22号槽 放入1个 Shulker Box
+2023-07-28 11:37:48,主世界,zzyictrl,-246,195,997,容器 取出物品,minecraft:chest,-244,193,996,从第22号槽 取出1个 Shulker Box
+2023-07-28 11:37:49,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第22号槽 放入1个 Shulker Box
+2023-07-28 11:37:50,主世界,zzyictrl,-246,195,997,容器 取出物品,minecraft:chest,-244,193,996,从第22号槽 取出1个 Shulker Box
+2023-07-28 11:37:51,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第22号槽 放入1个 Shulker Box
+2023-07-28 11:37:52,主世界,zzyictrl,-246,195,997,容器 取出物品,minecraft:chest,-244,193,996,从第22号槽 取出1个 Shulker Box
+2023-07-28 11:37:53,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第22号槽 放入1个 Shulker Box
+2023-07-28 11:37:53,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第23号槽 放入1个 Shulker Box
+2023-07-28 11:37:55,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第23号槽 放入1个 Shulker Box
+2023-07-28 11:37:55,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第22号槽 放入1个 Shulker Box
+2023-07-28 11:37:56,主世界,zzyictrl,-246,195,997,容器 取出物品,minecraft:chest,-244,193,996,从第22号槽 取出1个 Shulker Box
+2023-07-28 11:37:57,主世界,zzyictrl,-246,195,997,容器 取出物品,minecraft:chest,-244,193,996,从第23号槽 取出1个 Shulker Box
+2023-07-28 11:38:10,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第22号槽 放入1个 Shulker Box
+2023-07-28 11:38:10,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第23号槽 放入1个 Shulker Box
+2023-07-28 11:38:12,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第24号槽 放入1个 Shulker Box
+2023-07-28 11:38:13,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第25号槽 放入1个 Shulker Box
+2023-07-28 11:38:13,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第26号槽 放入1个 Shulker Box
+2023-07-28 11:38:14,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第27号槽 放入1个 Shulker Box
+2023-07-28 11:38:14,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第28号槽 放入1个 Shulker Box
+2023-07-28 11:38:15,主世界,zzyictrl,-246,195,997,容器 取出物品,minecraft:chest,-244,193,996,从第28号槽 取出1个 Shulker Box
+2023-07-28 11:38:16,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第28号槽 放入1个 Shulker Box
+2023-07-28 11:38:16,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第29号槽 放入1个 Shulker Box
+2023-07-28 11:38:17,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第30号槽 放入1个 Shulker Box
+2023-07-28 11:38:17,主世界,zzyictrl,-246,195,997,容器 放入物品,minecraft:chest,-244,193,996,从第31号槽 放入1个 Shulker Box
+2023-07-28 11:38:18,主世界,zzyictrl,-246,195,997,容器 取出物品,minecraft:chest,-244,193,996,从第31号槽 取出1个 Shulker Box
+2023-07-28 11:38:19,主世界,zzyictrl,-246,195,997,关闭容器,minecraft:chest,-244,193,996,
+2023-07-28 11:38:24,主世界,zzyictrl,-246,195,994,放置方块,minecraft:smooth_stone,-247,198,995,
+2023-07-28 11:38:36,主世界,zzyictrl,-246,195,994,放置方块,minecraft:smooth_stone,-246,198,997,
+2023-07-28 11:38:37,主世界,zzyictrl,-246,195,993,放置方块,minecraft:smooth_stone,-246,198,996,
+2023-07-28 11:38:39,主世界,zzyictrl,-246,195,992,放置方块,minecraft:smooth_stone,-246,198,995,
+2023-07-28 11:38:40,主世界,zzyictrl,-246,195,991,放置方块,minecraft:smooth_stone,-246,198,994,
+2023-07-28 11:38:41,主世界,zzyictrl,-246,195,990,放置方块,minecraft:smooth_stone,-246,198,993,
+2023-07-28 11:38:42,主世界,zzyictrl,-246,195,989,放置方块,minecraft:smooth_stone,-246,198,992,
+2023-07-28 11:38:43,主世界,zzyictrl,-246,195,988,放置方块,minecraft:smooth_stone,-246,198,991,
+2023-07-28 11:38:45,主世界,zzyictrl,-246,195,988,放置方块,minecraft:smooth_stone,-246,198,990,
+2023-07-28 11:38:46,主世界,zzyictrl,-246,195,986,放置方块,minecraft:smooth_stone,-246,198,989,
+2023-07-28 11:38:54,主世界,zzyictrl,-246,195,985,放置方块,minecraft:smooth_stone,-246,198,988,
+2023-07-28 11:38:55,主世界,zzyictrl,-246,195,984,放置方块,minecraft:smooth_stone,-246,198,987,
+2023-07-28 11:38:56,主世界,zzyictrl,-246,195,984,打开容器,minecraft:undyed_shulker_box,-246,197,987,
+2023-07-28 11:38:56,主世界,zzyictrl,-246,195,984,方块接受玩家互动,minecraft:undyed_shulker_box,-246,197,987,
+2023-07-28 11:38:58,主世界,zzyictrl,-246,195,983,关闭容器,minecraft:undyed_shulker_box,-246,197,987,
+2023-07-28 11:38:58,主世界,zzyictrl,-246,195,983,放置方块,minecraft:smooth_stone,-246,198,986,
+2023-07-28 11:39:00,主世界,zzyictrl,-246,195,983,打开容器,minecraft:undyed_shulker_box,-246,197,986,
+2023-07-28 11:39:00,主世界,zzyictrl,-246,195,983,方块接受玩家互动,minecraft:undyed_shulker_box,-246,197,986,
+2023-07-28 11:39:01,主世界,zzyictrl,-246,195,984,关闭容器,minecraft:undyed_shulker_box,-246,197,986,
+2023-07-28 11:39:03,主世界,zzyictrl,-246,195,990,放置方块,minecraft:smooth_stone,-247,198,994,
+2023-07-28 11:39:05,主世界,zzyictrl,-246,195,989,放置方块,minecraft:smooth_stone,-247,198,993,
+2023-07-28 11:39:15,主世界,zzyictrl,-248,199,970,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-28 11:39:34,主世界,zzyictrl,97,134,733,使用物品,下界合金斧,,,,类型：minecraft:netherite_axe
+2023-07-28 11:39:34,主世界,zzyictrl,97,134,733,破坏方块,minecraft:chest,96,132,734,
+2023-07-28 11:39:35,主世界,zzyictrl,97,134,733,捡起物品,Shulker Box,96,133,734,1个
+2023-07-28 11:39:35,主世界,zzyictrl,97,134,733,捡起物品,Shulker Box,96,133,734,1个
+2023-07-28 11:39:35,主世界,zzyictrl,97,134,733,捡起物品,Shulker Box,96,133,734,1个
+2023-07-28 11:39:35,主世界,zzyictrl,97,134,733,捡起物品,Shulker Box,97,133,734,1个
+2023-07-28 11:39:35,主世界,zzyictrl,97,134,733,捡起物品,Shulker Box,97,132,734,1个
+2023-07-28 11:39:35,主世界,zzyictrl,97,134,733,捡起物品,Shulker Box,96,132,734,1个
+2023-07-28 11:39:35,主世界,zzyictrl,97,134,733,捡起物品,Shulker Box,97,132,735,1个
+2023-07-28 11:39:35,主世界,zzyictrl,97,134,733,捡起物品,Chest,97,132,735,1个
+2023-07-28 11:39:35,主世界,zzyictrl,97,134,733,捡起物品,Shulker Box,97,132,735,1个
+2023-07-28 11:39:35,主世界,zzyictrl,97,134,733,捡起物品,Shulker Box,97,132,735,1个
+2023-07-28 11:39:35,主世界,zzyictrl,97,134,733,捡起物品,Shulker Box,97,132,735,1个
+2023-07-28 11:39:35,主世界,zzyictrl,97,134,734,捡起物品,Shulker Box,96,132,735,1个
+2023-07-28 11:39:35,主世界,zzyictrl,97,134,735,捡起物品,Shulker Box,96,132,736,1个
+2023-07-28 11:39:36,主世界,zzyictrl,96,134,735,打开容器,minecraft:chest,94,132,736,
+2023-07-28 11:39:36,主世界,zzyictrl,96,134,735,方块接受玩家互动,minecraft:chest,94,132,736,
+2023-07-28 11:39:38,主世界,zzyictrl,96,134,735,容器 取出物品,minecraft:chest,94,132,736,从第6号槽 取出1个 Shulker Box
+2023-07-28 11:39:38,主世界,zzyictrl,96,134,735,容器 取出物品,minecraft:chest,94,132,736,从第5号槽 取出1个 Shulker Box
+2023-07-28 11:39:39,主世界,zzyictrl,96,134,735,容器 取出物品,minecraft:chest,94,132,736,从第4号槽 取出1个 Shulker Box
+2023-07-28 11:39:39,主世界,zzyictrl,96,134,735,容器 取出物品,minecraft:chest,94,132,736,从第3号槽 取出1个 Shulker Box
+2023-07-28 11:39:40,主世界,zzyictrl,96,134,735,容器 取出物品,minecraft:chest,94,132,736,从第2号槽 取出1个 Shulker Box
+2023-07-28 11:39:40,主世界,zzyictrl,96,134,735,容器 取出物品,minecraft:chest,94,132,736,从第1号槽 取出1个 Shulker Box
+2023-07-28 11:39:40,主世界,zzyictrl,96,134,735,容器 取出物品,minecraft:chest,94,132,736,从第0号槽 取出1个 Shulker Box
+2023-07-28 11:39:43,主世界,zzyictrl,96,134,735,容器 放入物品,minecraft:chest,94,132,736,从第0号槽 放入3个 Chest
+2023-07-28 11:39:44,主世界,zzyictrl,96,134,735,关闭容器,minecraft:chest,94,132,736,
+2023-07-28 11:39:55,主世界,zzyictrl,100,134,734,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-07-28 11:39:56,主世界,zzyictrl,100,134,734,破坏方块,minecraft:ender_chest,100,132,735,
+2023-07-28 11:39:56,主世界,zzyictrl,100,134,734,捡起物品,Ender Chest,100,132,735,1个
+2023-07-28 11:39:59,主世界,zzyictrl,94,135,735,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-28 11:40:02,主世界,zzyictrl,14,145,765,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-28 11:40:06,主世界,zzyictrl,-88,149,804,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-28 11:40:09,主世界,zzyictrl,-161,146,843,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-28 11:40:15,主世界,zzyictrl,-218,207,907,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-28 11:40:27,主世界,zzyictrl,-246,195,996,打开容器,minecraft:chest,-244,193,996,
+2023-07-28 11:40:27,主世界,zzyictrl,-246,195,996,方块接受玩家互动,minecraft:chest,-244,193,996,
+2023-07-28 11:40:29,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第31号槽 放入1个 Shulker Box
+2023-07-28 11:40:29,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第32号槽 放入1个 Shulker Box
+2023-07-28 11:40:30,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第33号槽 放入1个 Shulker Box
+2023-07-28 11:40:31,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第34号槽 放入1个 Shulker Box
+2023-07-28 11:40:31,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第35号槽 放入1个 Shulker Box
+2023-07-28 11:40:32,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第36号槽 放入1个 Shulker Box
+2023-07-28 11:40:32,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第37号槽 放入1个 Shulker Box
+2023-07-28 11:40:33,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第38号槽 放入1个 Shulker Box
+2023-07-28 11:40:33,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第39号槽 放入1个 Shulker Box
+2023-07-28 11:40:34,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第40号槽 放入1个 Shulker Box
+2023-07-28 11:40:34,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第41号槽 放入1个 Shulker Box
+2023-07-28 11:40:34,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第42号槽 放入1个 Shulker Box
+2023-07-28 11:40:35,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第43号槽 放入1个 Shulker Box
+2023-07-28 11:40:35,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第44号槽 放入1个 Shulker Box
+2023-07-28 11:40:36,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第45号槽 放入1个 Shulker Box
+2023-07-28 11:40:36,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第46号槽 放入1个 Shulker Box
+2023-07-28 11:40:37,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第47号槽 放入1个 Shulker Box
+2023-07-28 11:40:37,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第48号槽 放入1个 Shulker Box
+2023-07-28 11:40:38,主世界,zzyictrl,-246,195,996,容器 放入物品,minecraft:chest,-244,193,996,从第49号槽 放入1个 Shulker Box
+2023-07-28 11:40:39,主世界,zzyictrl,-246,195,997,关闭容器,minecraft:chest,-244,193,996,
+2023-07-28 11:40:45,主世界,zzyictrl,-232,196,1001,方块接受玩家互动,minecraft:enchanting_table,-233,194,1000,
+2023-07-28 11:40:45,主世界,zzyictrl,-232,196,1001,打开容器,minecraft:enchanting_table,-233,194,1000,
+2023-07-28 11:40:57,主世界,zzyictrl,-261,203,1013,捡起物品,Bone Meal,-260,201,1013,1个
+2023-07-28 11:41:03,主世界,zzyictrl,-260,203,1011,破坏方块,minecraft:tallgrass,-259,201,1010,
+2023-07-28 11:41:03,主世界,zzyictrl,-260,203,1010,破坏方块,minecraft:tallgrass,-259,201,1009,
+2023-07-28 11:41:03,主世界,zzyictrl,-260,203,1009,破坏方块,minecraft:tallgrass,-258,201,1010,
+2023-07-28 11:41:04,主世界,zzyictrl,-260,203,1011,破坏方块,minecraft:red_flower,-259,201,1011,
+2023-07-28 11:41:04,主世界,zzyictrl,-260,203,1011,破坏方块,minecraft:tallgrass,-259,201,1012,
+2023-07-28 11:41:04,主世界,zzyictrl,-260,203,1011,捡起物品,Oxeye Daisy,-259,202,1012,1个
+2023-07-28 11:41:04,主世界,zzyictrl,-260,203,1011,破坏方块,minecraft:tallgrass,-258,201,1012,
+2023-07-28 11:41:04,主世界,zzyictrl,-259,203,1011,破坏方块,minecraft:tallgrass,-258,201,1011,
+2023-07-28 11:41:05,主世界,zzyictrl,-258,203,1010,破坏方块,minecraft:grass,-257,200,1010,
+2023-07-28 11:41:06,主世界,zzyictrl,-259,203,1011,破坏方块,minecraft:tallgrass,-257,201,1011,
+2023-07-28 11:41:06,主世界,zzyictrl,-259,203,1012,使用物品,Oxeye Daisy,,,,类型：minecraft:red_flower
+2023-07-28 11:41:06,主世界,zzyictrl,-259,203,1012,破坏方块,minecraft:tallgrass,-257,201,1012,
+2023-07-28 11:41:08,主世界,zzyictrl,-256,202,1011,捡起物品,Dirt,-257,200,1011,1个
+2023-07-28 11:41:10,主世界,zzyictrl,-257,203,1010,放置方块,minecraft:cobblestone,-257,199,1010,
+2023-07-28 11:41:20,主世界,zzyictrl,-254,203,989,打开容器,minecraft:ender_chest,-257,201,989,
+2023-07-28 11:41:20,主世界,zzyictrl,-254,203,989,方块接受玩家互动,minecraft:ender_chest,-257,201,989,
+2023-07-28 11:41:21,主世界,zzyictrl,-254,203,989,关闭容器,minecraft:ender_chest,-257,201,989,
+2023-07-28 11:41:23,主世界,zzyictrl,-262,203,991,打开容器,minecraft:chest,-264,201,989,
+2023-07-28 11:41:23,主世界,zzyictrl,-262,203,991,方块接受玩家互动,minecraft:chest,-264,201,989,
+2023-07-28 11:41:24,主世界,zzyictrl,-262,203,991,关闭容器,minecraft:chest,-264,201,989,
+2023-07-28 11:41:27,主世界,zzyictrl,-266,203,1000,放置方块,minecraft:grass,-266,200,1001,
+2023-07-28 11:41:29,主世界,zzyictrl,-267,203,1001,破坏方块,minecraft:red_flower,-266,201,1001,
+2023-07-28 11:41:30,主世界,zzyictrl,-265,203,1002,捡起物品,Oxeye Daisy,-265,202,1001,1个
+2023-07-28 11:41:34,主世界,zzyictrl,-260,203,999,放置方块,minecraft:grass,-259,200,1000,
+2023-07-28 11:41:38,,zzyictrl,,,,离开服务器,,,,,

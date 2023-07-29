@@ -1,0 +1,34 @@
+﻿时间,维度,来源,X,Y,Z,事件,目标,x,y,z,附加信息
+2023-07-24 19:43:06,,zzyictrl,,,,开始进服,,,,,xuid=2535458195960794
+2023-07-24 19:43:09,主世界,zzyictrl,99,135,735,进入服务器,,,,,xuid=2535458195960794
+2023-07-24 19:43:19,主世界,zzyictrl,83,134,718,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-24 19:43:39,主世界,zzyictrl,-27,74,625,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-24 19:44:05,主世界,zzyictrl,-222,65,809,打开容器,minecraft:chest,-224,63,808,
+2023-07-24 19:44:05,主世界,zzyictrl,-222,65,809,方块接受玩家互动,minecraft:chest,-224,63,808,
+2023-07-24 19:44:06,主世界,zzyictrl,-222,65,809,关闭容器,minecraft:chest,-224,63,808,
+2023-07-24 19:44:08,主世界,zzyictrl,-221,66,813,放置方块,minecraft:grass,-221,62,814,
+2023-07-24 19:44:09,主世界,zzyictrl,-221,66,813,打开容器,minecraft:shulker_box,-221,63,813,
+2023-07-24 19:44:09,主世界,zzyictrl,-221,66,813,方块接受玩家互动,minecraft:shulker_box,-221,63,813,
+2023-07-24 19:44:10,主世界,zzyictrl,-221,66,813,关闭容器,minecraft:shulker_box,-221,63,813,
+2023-07-24 19:44:11,主世界,zzyictrl,-218,65,815,打开容器,minecraft:chest,-217,63,815,
+2023-07-24 19:44:11,主世界,zzyictrl,-218,65,815,方块接受玩家互动,minecraft:chest,-217,63,815,
+2023-07-24 19:44:13,主世界,zzyictrl,-218,65,815,关闭容器,minecraft:chest,-217,63,815,
+2023-07-24 19:44:14,主世界,zzyictrl,-211,67,816,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-24 19:44:16,主世界,zzyictrl,-186,92,850,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-24 19:44:19,主世界,zzyictrl,-211,132,912,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-07-24 19:44:27,主世界,zzyictrl,-247,195,996,打开容器,minecraft:undyed_shulker_box,-248,197,996,
+2023-07-24 19:44:27,主世界,zzyictrl,-247,195,995,方块接受玩家互动,minecraft:undyed_shulker_box,-248,197,996,
+2023-07-24 19:44:29,主世界,zzyictrl,-247,195,995,关闭容器,minecraft:undyed_shulker_box,-248,197,996,
+2023-07-24 19:44:30,主世界,zzyictrl,-246,195,993,打开容器,minecraft:undyed_shulker_box,-248,197,994,
+2023-07-24 19:44:30,主世界,zzyictrl,-246,195,993,方块接受玩家互动,minecraft:undyed_shulker_box,-248,197,994,
+2023-07-24 19:44:31,主世界,zzyictrl,-246,195,993,关闭容器,minecraft:undyed_shulker_box,-248,197,994,
+2023-07-24 19:44:32,主世界,zzyictrl,-247,195,993,打开容器,minecraft:shulker_box,-248,197,993,
+2023-07-24 19:44:32,主世界,zzyictrl,-247,195,993,方块接受玩家互动,minecraft:shulker_box,-248,197,993,
+2023-07-24 19:44:33,主世界,zzyictrl,-247,195,993,关闭容器,minecraft:shulker_box,-248,197,993,
+2023-07-24 19:44:34,主世界,zzyictrl,-247,195,993,打开容器,minecraft:undyed_shulker_box,-249,197,992,
+2023-07-24 19:44:34,主世界,zzyictrl,-247,195,993,方块接受玩家互动,minecraft:undyed_shulker_box,-249,197,992,
+2023-07-24 19:44:35,主世界,zzyictrl,-247,195,993,关闭容器,minecraft:undyed_shulker_box,-249,197,992,
+2023-07-24 19:45:19,主世界,zzyictrl,-110,69,767,打开容器,minecraft:chest,-111,67,768,
+2023-07-24 19:45:19,主世界,zzyictrl,-110,69,767,方块接受玩家互动,minecraft:chest,-111,67,768,
+2023-07-24 19:45:20,主世界,zzyictrl,-110,69,767,关闭容器,minecraft:chest,-111,67,768,
+2023-07-24 19:45:21,,zzyictrl,,,,离开服务器,,,,,
