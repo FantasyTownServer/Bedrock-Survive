@@ -1,1 +1,93 @@
 ﻿时间,维度,来源,X,Y,Z,事件,目标,x,y,z,附加信息
+2023-08-02 09:06:59,,zzyictrl,,,,开始进服,,,,,xuid=2535458195960794
+2023-08-02 09:07:03,主世界,zzyictrl,-46,73,813,进入服务器,,,,,xuid=2535458195960794
+2023-08-02 09:07:19,主世界,zzyictrl,-36,71,737,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-02 09:07:25,主世界,zzyictrl,38,154,702,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-02 09:07:33,主世界,zzyictrl,100,151,666,放置方块,minecraft:grass,100,149,664,
+2023-08-02 09:07:33,主世界,zzyictrl,100,151,666,打开容器,minecraft:ender_chest,100,150,664,
+2023-08-02 09:07:33,主世界,zzyictrl,100,151,666,方块接受玩家互动,minecraft:ender_chest,100,150,664,
+2023-08-02 09:07:46,主世界,zzyictrl,100,151,666,容器 取出物品,minecraft:ender_chest,100,150,664,从第0号槽 取出1个 Lime Shulker Box
+2023-08-02 09:07:47,主世界,zzyictrl,100,151,666,关闭容器,minecraft:ender_chest,100,150,664,
+2023-08-02 09:07:48,主世界,zzyictrl,101,152,666,放置方块,minecraft:grass,101,149,665,
+2023-08-02 09:07:48,主世界,zzyictrl,102,152,666,打开容器,minecraft:shulker_box,101,150,665,
+2023-08-02 09:07:48,主世界,zzyictrl,102,152,666,方块接受玩家互动,minecraft:shulker_box,101,150,665,
+2023-08-02 09:07:52,主世界,zzyictrl,102,152,666,关闭容器,minecraft:shulker_box,101,150,665,
+2023-08-02 09:07:55,主世界,zzyictrl,102,152,666,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-02 09:07:55,主世界,zzyictrl,102,152,666,破坏方块,minecraft:shulker_box,101,150,665,
+2023-08-02 09:07:57,主世界,zzyictrl,102,152,665,捡起物品,Lime Shulker Box,102,150,664,1个
+2023-08-02 09:07:58,主世界,zzyictrl,102,152,664,打开容器,minecraft:ender_chest,100,150,664,
+2023-08-02 09:07:58,主世界,zzyictrl,102,152,665,方块接受玩家互动,minecraft:ender_chest,100,150,664,
+2023-08-02 09:07:59,主世界,zzyictrl,102,152,665,容器 放入物品,minecraft:ender_chest,100,150,664,从第0号槽 放入1个 Lime Shulker Box
+2023-08-02 09:08:00,主世界,zzyictrl,102,152,665,关闭容器,minecraft:ender_chest,100,150,664,
+2023-08-02 09:08:00,主世界,zzyictrl,102,152,665,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-02 09:08:01,主世界,zzyictrl,102,152,665,破坏方块,minecraft:ender_chest,100,150,664,
+2023-08-02 09:08:02,主世界,zzyictrl,101,152,664,捡起物品,Ender Chest,100,151,664,1个
+2023-08-02 09:08:18,主世界,zzyictrl,-150,66,743,打开容器,minecraft:chest,-151,63,746,
+2023-08-02 09:08:18,主世界,zzyictrl,-150,66,743,方块接受玩家互动,minecraft:chest,-151,63,746,
+2023-08-02 09:08:22,主世界,zzyictrl,-150,65,743,容器 取出物品,minecraft:chest,-151,63,746,从第15号槽 取出64个 Torch
+2023-08-02 09:08:23,主世界,zzyictrl,-150,65,743,容器 取出物品,minecraft:chest,-151,63,746,从第13号槽 取出64个 Torch
+2023-08-02 09:08:23,主世界,zzyictrl,-150,65,743,容器 取出物品,minecraft:chest,-151,63,746,从第12号槽 取出64个 Torch
+2023-08-02 09:08:24,主世界,zzyictrl,-150,65,743,容器 取出物品,minecraft:chest,-151,63,746,从第11号槽 取出64个 Torch
+2023-08-02 09:08:24,主世界,zzyictrl,-150,65,743,容器 取出物品,minecraft:chest,-151,63,746,从第2号槽 取出64个 Torch
+2023-08-02 09:08:25,主世界,zzyictrl,-150,65,743,容器 取出物品,minecraft:chest,-151,63,746,从第1号槽 取出64个 Torch
+2023-08-02 09:08:26,主世界,zzyictrl,-150,65,743,容器 取出物品,minecraft:chest,-151,63,746,从第9号槽 取出64个 Torch
+2023-08-02 09:08:26,主世界,zzyictrl,-150,65,743,容器 取出物品,minecraft:chest,-151,63,746,从第4号槽 取出64个 Torch
+2023-08-02 09:08:27,主世界,zzyictrl,-150,65,743,容器 取出物品,minecraft:chest,-151,63,746,从第6号槽 取出64个 Torch
+2023-08-02 09:08:35,主世界,zzyictrl,-150,65,743,关闭容器,minecraft:chest,-151,63,746,
+2023-08-02 09:08:38,主世界,zzyictrl,-139,66,736,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-02 09:08:43,主世界,zzyictrl,-44,100,695,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-02 09:08:48,主世界,zzyictrl,57,137,653,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-02 09:08:52,主世界,zzyictrl,95,143,632,放置方块,minecraft:tallgrass,95,141,634,
+2023-08-02 09:08:53,主世界,zzyictrl,94,141,635,放置方块,minecraft:grass,94,139,638,
+2023-08-02 09:08:54,主世界,zzyictrl,95,142,639,放置方块,minecraft:grass,95,141,639,
+2023-08-02 09:08:55,主世界,zzyictrl,94,142,641,放置方块,minecraft:stone,96,142,642,
+2023-08-02 09:08:56,主世界,zzyictrl,93,141,643,放置方块,minecraft:grass,95,141,646,
+2023-08-02 09:08:59,主世界,zzyictrl,92,141,646,放置方块,minecraft:dirt,95,138,649,
+2023-08-02 09:09:04,主世界,zzyictrl,96,144,643,放置方块,minecraft:dirt,96,143,644,
+2023-08-02 09:09:05,主世界,zzyictrl,96,144,646,放置方块,minecraft:dirt,96,143,647,
+2023-08-02 09:09:06,主世界,zzyictrl,96,143,650,放置方块,minecraft:dirt,96,143,652,
+2023-08-02 09:09:07,主世界,zzyictrl,96,142,654,放置方块,minecraft:stone,96,142,655,
+2023-08-02 09:09:07,主世界,zzyictrl,96,142,658,放置方块,minecraft:stone,96,141,659,
+2023-08-02 09:09:08,主世界,zzyictrl,96,143,660,放置方块,minecraft:stone,96,142,661,
+2023-08-02 09:09:08,主世界,zzyictrl,96,143,663,放置方块,minecraft:dirt,96,143,666,
+2023-08-02 09:09:09,主世界,zzyictrl,96,144,665,放置方块,minecraft:stone,98,141,664,
+2023-08-02 09:09:11,主世界,zzyictrl,97,144,664,放置方块,minecraft:stone,98,140,661,
+2023-08-02 09:09:17,主世界,zzyictrl,95,144,664,放置方块,minecraft:dirt,96,143,667,
+2023-08-02 09:09:27,主世界,zzyictrl,97,147,636,放置方块,minecraft:grass,97,145,640,
+2023-08-02 09:09:28,主世界,zzyictrl,97,148,640,放置方块,minecraft:red_flower,97,146,642,
+2023-08-02 09:09:28,主世界,zzyictrl,97,148,644,放置方块,minecraft:grass,97,146,647,
+2023-08-02 09:09:29,主世界,zzyictrl,97,149,648,放置方块,minecraft:grass,97,146,651,
+2023-08-02 09:09:30,主世界,zzyictrl,97,150,654,放置方块,minecraft:grass,97,147,657,
+2023-08-02 09:09:31,主世界,zzyictrl,97,150,658,放置方块,minecraft:grass,97,147,661,
+2023-08-02 09:09:32,主世界,zzyictrl,97,150,661,放置方块,minecraft:grass,97,146,666,
+2023-08-02 09:09:32,主世界,zzyictrl,97,149,664,放置方块,minecraft:grass,97,146,668,
+2023-08-02 09:09:33,主世界,zzyictrl,97,149,669,放置方块,minecraft:grass,97,146,672,
+2023-08-02 09:09:40,主世界,zzyictrl,101,150,657,放置方块,minecraft:stone,102,145,657,
+2023-08-02 09:10:05,主世界,zzyictrl,101,154,673,放置方块,minecraft:grass,101,151,674,
+2023-08-02 09:10:30,主世界,zzyictrl,117,142,686,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-02 09:10:30,主世界,zzyictrl,117,142,686,破坏方块,minecraft:stone,116,141,687,
+2023-08-02 09:10:31,主世界,zzyictrl,117,142,686,捡起物品,Cobblestone,116,141,688,1个
+2023-08-02 09:10:52,主世界,zzyictrl,109,144,689,使用物品,Bone Meal,,,,类型：minecraft:bone_meal
+2023-08-02 09:10:52,主世界,zzyictrl,109,144,689,破坏方块,minecraft:cherry_sapling,107,142,687,
+2023-08-02 09:10:53,主世界,zzyictrl,109,143,689,破坏方块,minecraft:dirt,107,141,687,
+2023-08-02 09:10:53,主世界,zzyictrl,109,143,688,捡起物品,Cherry Sapling,109,141,687,1个
+2023-08-02 09:10:54,主世界,zzyictrl,108,143,687,捡起物品,Dirt,107,141,688,1个
+2023-08-02 09:11:03,主世界,zzyictrl,112,144,689,放置方块,minecraft:stone,110,141,690,
+2023-08-02 09:11:04,主世界,zzyictrl,112,144,690,放置方块,minecraft:dirt,110,142,690,
+2023-08-02 09:11:05,主世界,zzyictrl,112,144,690,放置方块,minecraft:dirt,110,142,690,
+2023-08-02 09:11:12,主世界,zzyictrl,117,144,700,使用物品,Bone Meal,,,,类型：minecraft:bone_meal
+2023-08-02 09:11:13,主世界,zzyictrl,117,144,700,破坏方块,minecraft:dirt,118,143,701,
+2023-08-02 09:11:13,主世界,zzyictrl,117,144,700,使用物品,Bone Meal,,,,类型：minecraft:bone_meal
+2023-08-02 09:11:13,主世界,zzyictrl,118,144,700,捡起物品,Cherry Sapling,119,144,701,1个
+2023-08-02 09:11:13,主世界,zzyictrl,119,145,701,捡起物品,Dirt,120,143,702,1个
+2023-08-02 09:11:19,主世界,zzyictrl,119,145,702,放置方块,minecraft:grass,119,141,704,
+2023-08-02 09:11:20,主世界,zzyictrl,120,145,702,放置方块,minecraft:dirt,119,142,704,
+2023-08-02 09:11:37,主世界,zzyictrl,93,134,723,使用物品,Cooked Beef,,,,类型：minecraft:cooked_beef
+2023-08-02 09:11:37,主世界,zzyictrl,93,134,723,进食,Cooked Beef,,,,
+2023-08-02 09:11:39,主世界,zzyictrl,93,134,723,使用物品,Cooked Beef,,,,类型：minecraft:cooked_beef
+2023-08-02 09:11:39,主世界,zzyictrl,93,134,723,进食,Cooked Beef,,,,
+2023-08-02 09:11:41,主世界,zzyictrl,93,134,723,使用物品,Cooked Beef,,,,类型：minecraft:cooked_beef
+2023-08-02 09:11:41,主世界,zzyictrl,93,134,723,进食,Cooked Beef,,,,
+2023-08-02 09:11:41,主世界,zzyictrl,92,134,722,使用物品,Cooked Beef,,,,类型：minecraft:cooked_beef
+2023-08-02 09:12:00,主世界,zzyictrl,16,87,696,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-02 09:12:10,,zzyictrl,,,,离开服务器,,,,,
