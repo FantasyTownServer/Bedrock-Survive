@@ -1,1 +1,501 @@
 ﻿时间,维度,来源,X,Y,Z,事件,目标,x,y,z,附加信息
+2023-08-03 18:59:25,主世界,weiheping,-28,72,452,进入服务器,,,,,xuid=-5991349454200048215
+2023-08-03 21:50:18,,zzyictrl,,,,开始进服,,,,,xuid=2535458195960794
+2023-08-03 21:50:21,主世界,zzyictrl,-159,65,726,进入服务器,,,,,xuid=2535458195960794
+2023-08-03 21:50:33,主世界,zzyictrl,-128,66,714,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:50:36,主世界,zzyictrl,-67,94,730,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:50:41,主世界,zzyictrl,18,158,715,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:51:05,主世界,zzyictrl,-141,78,717,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:51:07,主世界,zzyictrl,-193,83,685,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:51:09,主世界,zzyictrl,-224,109,699,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:51:13,主世界,zzyictrl,-225,127,790,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:51:17,主世界,zzyictrl,-218,115,935,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:51:21,主世界,zzyictrl,-215,130,1042,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:51:40,主世界,zzyictrl,-194,108,1529,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:51:50,主世界,zzyictrl,-116,123,1651,方块接受玩家互动,minecraft:wooden_door,-117,122,1650,
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,打开容器,minecraft:chest,-113,121,1649,
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第20号槽 放入1个 Apple
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第17号槽 放入2个 Apple
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第9号槽 放入2个 Apple
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第26号槽 放入2个 Apple
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第19号槽 放入1个 Bread
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第7号槽 放入1个 Apple
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第14号槽 放入1个 Apple
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第24号槽 放入5个 Potato
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第6号槽 放入2个 Potato
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第12号槽 放入1个 Apple
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第13号槽 放入1个 Apple
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第21号槽 放入2个 Apple
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第1号槽 放入1个 Apple
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第16号槽 放入1个 Apple
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第10号槽 放入1个 Apple
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第25号槽 放入1个 Apple
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第23号槽 放入1个 Apple
+2023-08-03 21:51:53,主世界,zzyictrl,-116,123,1649,方块接受玩家互动,minecraft:chest,-113,121,1649,
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第16号槽 放入3个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 取出物品,minecraft:chest,-113,121,1649,从第26号槽 取出2个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第16号槽 放入4个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 取出物品,minecraft:chest,-113,121,1649,从第25号槽 取出1个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第16号槽 放入5个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 取出物品,minecraft:chest,-113,121,1649,从第23号槽 取出1个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第16号槽 放入7个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 取出物品,minecraft:chest,-113,121,1649,从第21号槽 取出2个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第16号槽 放入8个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 取出物品,minecraft:chest,-113,121,1649,从第20号槽 取出1个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第16号槽 放入10个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 取出物品,minecraft:chest,-113,121,1649,从第17号槽 取出2个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第16号槽 放入11个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 取出物品,minecraft:chest,-113,121,1649,从第14号槽 取出1个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第16号槽 放入12个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 取出物品,minecraft:chest,-113,121,1649,从第13号槽 取出1个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第16号槽 放入13个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 取出物品,minecraft:chest,-113,121,1649,从第12号槽 取出1个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第16号槽 放入14个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 取出物品,minecraft:chest,-113,121,1649,从第10号槽 取出1个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第16号槽 放入16个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 取出物品,minecraft:chest,-113,121,1649,从第9号槽 取出2个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第16号槽 放入17个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 取出物品,minecraft:chest,-113,121,1649,从第7号槽 取出1个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 放入物品,minecraft:chest,-113,121,1649,从第16号槽 放入18个 Apple
+2023-08-03 21:51:54,主世界,zzyictrl,-116,123,1649,容器 取出物品,minecraft:chest,-113,121,1649,从第1号槽 取出1个 Apple
+2023-08-03 21:51:55,主世界,zzyictrl,-116,123,1649,容器 取出物品,minecraft:chest,-113,121,1649,从第16号槽 取出18个 Apple
+2023-08-03 21:51:57,主世界,zzyictrl,-116,123,1649,关闭容器,minecraft:chest,-113,121,1649,
+2023-08-03 21:51:58,主世界,zzyictrl,-116,123,1648,放置方块,minecraft:cobblestone,-112,121,1648,
+2023-08-03 21:51:59,主世界,zzyictrl,-117,123,1649,打开容器,minecraft:chest,-113,121,1649,
+2023-08-03 21:51:59,主世界,zzyictrl,-117,123,1649,方块接受玩家互动,minecraft:chest,-113,121,1649,
+2023-08-03 21:52:00,主世界,zzyictrl,-117,123,1649,关闭容器,minecraft:chest,-113,121,1649,
+2023-08-03 21:52:01,主世界,zzyictrl,-116,123,1648,放置方块,minecraft:cobblestone,-114,121,1650,
+2023-08-03 21:52:31,主世界,zzyictrl,-166,106,1680,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-03 21:52:31,主世界,zzyictrl,-166,106,1680,破坏方块,minecraft:beetroot,-167,104,1681,
+2023-08-03 21:52:32,主世界,zzyictrl,-166,106,1680,捡起物品,Beetroot,-166,105,1681,1个
+2023-08-03 21:52:32,主世界,zzyictrl,-166,106,1680,捡起物品,Beetroot Seeds,-167,104,1681,1个
+2023-08-03 21:52:32,主世界,Beetroot Seeds,-167,104,1682,破坏耕地,minecraft:farm_land,-167,103,1681,
+2023-08-03 21:52:34,主世界,zzyictrl,-166,106,1680,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-03 21:52:34,主世界,zzyictrl,-166,106,1680,破坏方块,minecraft:beetroot,-166,104,1681,
+2023-08-03 21:52:35,主世界,zzyictrl,-166,106,1681,破坏方块,minecraft:beetroot,-166,104,1682,
+2023-08-03 21:52:35,主世界,zzyictrl,-166,106,1681,捡起物品,Beetroot,-166,104,1682,1个
+2023-08-03 21:52:35,主世界,zzyictrl,-166,106,1681,捡起物品,Beetroot Seeds,-165,104,1681,1个
+2023-08-03 21:52:35,主世界,zzyictrl,-166,106,1681,捡起物品,Beetroot Seeds,-165,104,1682,1个
+2023-08-03 21:52:35,主世界,zzyictrl,-166,106,1681,捡起物品,Beetroot Seeds,-164,104,1682,1个
+2023-08-03 21:52:35,主世界,zzyictrl,-166,106,1681,捡起物品,Beetroot Seeds,-166,105,1682,1个
+2023-08-03 21:52:35,主世界,zzyictrl,-166,106,1681,捡起物品,Beetroot Seeds,-166,105,1682,1个
+2023-08-03 21:52:35,主世界,zzyictrl,-166,106,1681,捡起物品,Beetroot Seeds,-166,104,1682,1个
+2023-08-03 21:52:35,主世界,zzyictrl,-166,106,1681,破坏方块,minecraft:beetroot,-166,104,1683,
+2023-08-03 21:52:35,主世界,zzyictrl,-166,106,1681,破坏方块,minecraft:beetroot,-167,104,1682,
+2023-08-03 21:52:35,主世界,zzyictrl,-166,106,1681,破坏方块,minecraft:beetroot,-167,104,1683,
+2023-08-03 21:52:35,主世界,zzyictrl,-166,106,1681,捡起物品,Beetroot Seeds,-167,104,1682,1个
+2023-08-03 21:52:35,主世界,Beetroot Seeds,-166,104,1682,破坏耕地,minecraft:farm_land,-166,103,1682,
+2023-08-03 21:52:35,主世界,Beetroot Seeds,-165,104,1684,破坏耕地,minecraft:farm_land,-166,103,1683,
+2023-08-03 21:52:35,主世界,Beetroot,-166,104,1683,破坏耕地,minecraft:farm_land,-167,103,1683,
+2023-08-03 21:52:35,主世界,Beetroot Seeds,-166,104,1683,破坏耕地,minecraft:farm_land,-167,103,1683,
+2023-08-03 21:52:35,主世界,Beetroot Seeds,-166,104,1683,破坏耕地,minecraft:farm_land,-166,103,1683,
+2023-08-03 21:52:35,主世界,Beetroot Seeds,-166,104,1683,破坏耕地,minecraft:farm_land,-166,103,1683,
+2023-08-03 21:52:35,主世界,Beetroot Seeds,-166,104,1683,破坏耕地,minecraft:farm_land,-166,103,1682,
+2023-08-03 21:52:35,主世界,Beetroot,-166,104,1682,破坏耕地,minecraft:farm_land,-166,103,1682,
+2023-08-03 21:52:35,主世界,Beetroot Seeds,-165,104,1682,破坏耕地,minecraft:farm_land,-166,103,1682,
+2023-08-03 21:52:35,主世界,Beetroot Seeds,-165,104,1684,破坏耕地,minecraft:farm_land,-166,103,1684,
+2023-08-03 21:52:35,主世界,zzyictrl,-166,106,1681,捡起物品,Beetroot Seeds,-165,104,1682,1个
+2023-08-03 21:52:35,主世界,Beetroot Seeds,-167,104,1683,破坏耕地,minecraft:farm_land,-167,103,1682,
+2023-08-03 21:52:35,主世界,zzyictrl,-166,106,1681,捡起物品,Beetroot Seeds,-166,104,1682,1个
+2023-08-03 21:52:35,主世界,zzyictrl,-166,106,1681,捡起物品,Beetroot,-166,104,1682,1个
+2023-08-03 21:52:35,主世界,zzyictrl,-166,106,1681,捡起物品,Beetroot Seeds,-166,104,1682,1个
+2023-08-03 21:52:35,主世界,Beetroot,-165,104,1683,破坏耕地,minecraft:farm_land,-166,103,1682,
+2023-08-03 21:52:35,主世界,Beetroot,-166,104,1683,破坏耕地,minecraft:farm_land,-166,103,1682,
+2023-08-03 21:52:35,主世界,zzyictrl,-166,106,1681,破坏方块,minecraft:beetroot,-167,104,1684,
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1681,捡起物品,Beetroot,-165,104,1683,1个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1681,捡起物品,Beetroot,-166,104,1683,1个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1681,捡起物品,Beetroot Seeds,-167,104,1683,1个
+2023-08-03 21:52:36,主世界,Beetroot Seeds,-166,104,1684,破坏耕地,minecraft:farm_land,-167,103,1684,
+2023-08-03 21:52:36,主世界,Beetroot,-167,104,1683,破坏耕地,minecraft:farm_land,-167,103,1683,
+2023-08-03 21:52:36,主世界,Beetroot Seeds,-167,104,1684,破坏耕地,minecraft:farm_land,-167,103,1683,
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1682,破坏耕地,minecraft:farm_land,-167,103,1681,
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1682,捡起物品,Beetroot,-166,104,1683,1个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1682,捡起物品,Beetroot,-165,104,1683,1个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1682,捡起物品,Beetroot Seeds,-166,104,1683,1个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1682,捡起物品,Beetroot Seeds,-166,104,1683,1个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1682,捡起物品,Beetroot Seeds,-166,104,1683,1个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1682,捡起物品,Beetroot,-167,104,1683,1个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1682,捡起物品,Beetroot Seeds,-166,104,1684,1个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1682,破坏方块,minecraft:beetroot,-166,104,1684,
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1682,捡起物品,Beetroot Seeds,-165,104,1684,1个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1682,捡起物品,Beetroot Seeds,-167,104,1684,1个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1683,捡起物品,Beetroot,-164,104,1683,1个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1683,破坏方块,minecraft:beetroot,-166,104,1685,
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1683,捡起物品,Beetroot,-167,105,1684,1个
+2023-08-03 21:52:36,主世界,Beetroot Seeds,-166,104,1684,破坏耕地,minecraft:farm_land,-166,103,1684,
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1683,捡起物品,Beetroot Seeds,-167,104,1684,1个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1683,破坏方块,minecraft:beetroot,-166,104,1686,
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1683,捡起物品,Beetroot Seeds,-166,104,1684,1个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1683,捡起物品,Beetroot Seeds,-166,104,1684,2个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1683,捡起物品,Beetroot,-166,104,1683,1个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1683,捡起物品,Beetroot Seeds,-165,104,1684,1个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1684,破坏方块,minecraft:beetroot,-167,104,1685,
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1684,捡起物品,Beetroot,-166,104,1685,1个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1684,捡起物品,Beetroot Seeds,-166,105,1685,1个
+2023-08-03 21:52:36,主世界,zzyictrl,-166,106,1684,破坏方块,minecraft:beetroot,-167,104,1686,
+2023-08-03 21:52:37,主世界,Beetroot,-166,104,1687,破坏耕地,minecraft:farm_land,-167,103,1686,
+2023-08-03 21:52:37,主世界,Beetroot Seeds,-166,104,1686,破坏耕地,minecraft:farm_land,-167,103,1686,
+2023-08-03 21:52:37,主世界,Beetroot Seeds,-165,104,1686,破坏耕地,minecraft:farm_land,-166,103,1685,
+2023-08-03 21:52:37,主世界,Beetroot Seeds,-167,104,1687,破坏耕地,minecraft:farm_land,-167,103,1686,
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1684,破坏方块,minecraft:beetroot,-167,104,1687,
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1684,捡起物品,Beetroot Seeds,-165,104,1686,1个
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1684,捡起物品,Beetroot,-167,104,1685,1个
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1684,捡起物品,Beetroot Seeds,-167,105,1685,1个
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1684,捡起物品,Beetroot Seeds,-167,105,1684,1个
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1684,捡起物品,Beetroot Seeds,-166,104,1686,1个
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1684,捡起物品,Beetroot Seeds,-167,104,1685,1个
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1685,捡起物品,Beetroot,-167,104,1686,1个
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1685,捡起物品,Beetroot Seeds,-166,104,1686,1个
+2023-08-03 21:52:37,主世界,Beetroot Seeds,-166,104,1686,破坏耕地,minecraft:farm_land,-166,103,1686,
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1685,捡起物品,Beetroot Seeds,-166,104,1686,1个
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1685,捡起物品,Beetroot Seeds,-167,104,1686,1个
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1685,捡起物品,Beetroot Seeds,-167,104,1686,1个
+2023-08-03 21:52:37,主世界,Beetroot,-166,104,1687,破坏耕地,minecraft:farm_land,-167,103,1687,
+2023-08-03 21:52:37,主世界,Beetroot Seeds,-166,104,1687,破坏耕地,minecraft:farm_land,-166,103,1686,
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1686,捡起物品,Beetroot,-165,104,1687,1个
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1686,捡起物品,Beetroot,-166,104,1687,1个
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1686,捡起物品,Beetroot Seeds,-167,104,1687,1个
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1686,捡起物品,Beetroot Seeds,-166,104,1686,1个
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1686,捡起物品,Beetroot Seeds,-166,104,1687,1个
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1686,捡起物品,Beetroot,-166,104,1687,1个
+2023-08-03 21:52:37,主世界,zzyictrl,-166,106,1686,捡起物品,Beetroot Seeds,-167,104,1687,1个
+2023-08-03 21:52:37,主世界,Beetroot Seeds,-167,104,1688,破坏耕地,minecraft:farm_land,-167,103,1687,
+2023-08-03 21:52:38,主世界,zzyictrl,-166,106,1686,捡起物品,Beetroot Seeds,-167,104,1688,1个
+2023-08-03 21:52:38,主世界,zzyictrl,-167,106,1687,捡起物品,Beetroot,-166,104,1688,1个
+2023-08-03 21:52:38,主世界,zzyictrl,-167,106,1689,捡起物品,Beetroot Seeds,-168,103,1688,1个
+2023-08-03 21:52:39,主世界,zzyictrl,-166,106,1687,破坏耕地,minecraft:farm_land,-167,103,1686,
+2023-08-03 21:52:39,主世界,zzyictrl,-167,106,1684,捡起物品,Beetroot Seeds,-168,104,1684,1个
+2023-08-03 21:52:39,主世界,zzyictrl,-167,106,1684,捡起物品,Beetroot Seeds,-168,104,1685,2个
+2023-08-03 21:52:39,主世界,zzyictrl,-167,106,1684,捡起物品,Beetroot Seeds,-168,104,1682,2个
+2023-08-03 21:52:41,主世界,zzyictrl,-164,106,1683,捡起物品,Beetroot Seeds,-164,104,1684,2个
+2023-08-03 21:52:45,主世界,zzyictrl,-165,106,1680,放置方块,minecraft:farmland,-166,103,1681,
+2023-08-03 21:52:45,主世界,zzyictrl,-165,106,1681,放置方块,minecraft:beetroot,-166,104,1681,
+2023-08-03 21:52:45,主世界,zzyictrl,-165,106,1681,放置方块,minecraft:farmland,-166,103,1682,
+2023-08-03 21:52:46,主世界,zzyictrl,-165,106,1682,破坏耕地,minecraft:farm_land,-166,103,1682,
+2023-08-03 21:52:46,主世界,zzyictrl,-165,106,1682,放置方块,minecraft:farmland,-166,103,1683,
+2023-08-03 21:52:46,主世界,zzyictrl,-165,106,1683,放置方块,minecraft:farmland,-166,103,1684,
+2023-08-03 21:52:46,主世界,zzyictrl,-165,106,1684,放置方块,minecraft:beetroot,-166,104,1684,
+2023-08-03 21:52:46,主世界,zzyictrl,-165,106,1685,放置方块,minecraft:farmland,-166,103,1685,
+2023-08-03 21:52:46,主世界,zzyictrl,-165,106,1685,放置方块,minecraft:farmland,-166,103,1686,
+2023-08-03 21:52:47,主世界,zzyictrl,-166,106,1686,破坏耕地,minecraft:farm_land,-166,103,1685,
+2023-08-03 21:52:47,主世界,zzyictrl,-167,106,1686,放置方块,minecraft:farmland,-167,103,1687,
+2023-08-03 21:52:47,主世界,zzyictrl,-167,106,1686,放置方块,minecraft:beetroot,-167,104,1687,
+2023-08-03 21:52:47,主世界,zzyictrl,-167,106,1685,放置方块,minecraft:dirt,-168,102,1687,
+2023-08-03 21:52:47,主世界,zzyictrl,-167,106,1685,放置方块,minecraft:dirt,-168,102,1686,
+2023-08-03 21:52:48,主世界,zzyictrl,-167,106,1684,放置方块,minecraft:dirt,-168,102,1685,
+2023-08-03 21:52:48,主世界,zzyictrl,-167,106,1685,放置方块,minecraft:dirt,-168,102,1686,
+2023-08-03 21:52:48,主世界,zzyictrl,-167,106,1685,放置方块,minecraft:dirt,-168,102,1686,
+2023-08-03 21:52:49,主世界,zzyictrl,-167,106,1686,放置方块,minecraft:farmland,-167,103,1686,
+2023-08-03 21:52:49,主世界,zzyictrl,-167,106,1686,放置方块,minecraft:beetroot,-167,104,1686,
+2023-08-03 21:52:49,主世界,zzyictrl,-167,106,1685,放置方块,minecraft:beetroot,-167,104,1686,
+2023-08-03 21:52:49,主世界,zzyictrl,-167,106,1684,放置方块,minecraft:farmland,-167,103,1685,
+2023-08-03 21:52:49,主世界,zzyictrl,-167,106,1684,放置方块,minecraft:farmland,-167,103,1684,
+2023-08-03 21:52:50,主世界,zzyictrl,-167,106,1683,放置方块,minecraft:beetroot,-167,104,1684,
+2023-08-03 21:52:50,主世界,zzyictrl,-167,106,1682,放置方块,minecraft:farmland,-167,103,1683,
+2023-08-03 21:52:50,主世界,zzyictrl,-167,106,1682,放置方块,minecraft:farmland,-167,103,1682,
+2023-08-03 21:52:50,主世界,zzyictrl,-167,106,1681,放置方块,minecraft:farmland,-167,103,1682,
+2023-08-03 21:52:50,主世界,zzyictrl,-167,106,1680,放置方块,minecraft:farmland,-167,103,1681,
+2023-08-03 21:52:50,主世界,zzyictrl,-166,106,1680,放置方块,minecraft:oak_log,-167,103,1680,
+2023-08-03 21:52:55,主世界,zzyictrl,-184,98,1681,捡起物品,Beetroot Seeds,-182,96,1682,1个
+2023-08-03 21:52:56,主世界,zzyictrl,-184,98,1681,使用物品,Beetroot Seeds,,,,类型：minecraft:beetroot_seeds
+2023-08-03 21:52:56,主世界,zzyictrl,-184,98,1681,破坏方块,minecraft:beetroot,-183,96,1681,
+2023-08-03 21:52:56,主世界,zzyictrl,-184,98,1681,破坏方块,minecraft:beetroot,-183,96,1680,
+2023-08-03 21:52:56,主世界,zzyictrl,-184,98,1680,捡起物品,Beetroot Seeds,-182,96,1681,1个
+2023-08-03 21:52:56,主世界,zzyictrl,-184,98,1680,使用物品,Beetroot Seeds,,,,类型：minecraft:beetroot_seeds
+2023-08-03 21:52:56,主世界,zzyictrl,-184,98,1680,捡起物品,Beetroot,-183,96,1681,1个
+2023-08-03 21:52:56,主世界,zzyictrl,-184,98,1680,捡起物品,Beetroot,-183,96,1681,1个
+2023-08-03 21:52:56,主世界,zzyictrl,-184,98,1680,捡起物品,Beetroot Seeds,-182,96,1681,1个
+2023-08-03 21:52:57,主世界,Beetroot Seeds,-182,96,1681,破坏耕地,minecraft:farm_land,-182,95,1681,
+2023-08-03 21:52:57,主世界,zzyictrl,-183,98,1680,放置方块,minecraft:farmland,-182,95,1680,
+2023-08-03 21:52:57,主世界,zzyictrl,-184,98,1681,捡起物品,Beetroot,-183,96,1682,1个
+2023-08-03 21:52:57,主世界,zzyictrl,-184,98,1681,放置方块,minecraft:farmland,-183,95,1680,
+2023-08-03 21:52:58,主世界,zzyictrl,-184,98,1681,放置方块,minecraft:farmland,-183,95,1681,
+2023-08-03 21:52:58,主世界,zzyictrl,-183,98,1682,捡起物品,Beetroot Seeds,-182,96,1681,1个
+2023-08-03 21:53:00,主世界,zzyictrl,-184,97,1678,捡起物品,Rotten Flesh,-185,95,1679,1个
+2023-08-03 21:53:01,主世界,zzyictrl,-184,97,1677,攻击,Villager,-183,95,1676,使用物品：Beetroot Seeds 类型：minecraft:beetroot_seeds
+2023-08-03 21:53:02,主世界,zzyictrl,-184,97,1677,放置方块,minecraft:grass,-184,95,1675,
+2023-08-03 21:53:05,主世界,zzyictrl,-172,97,1677,攻击,Villager,-171,96,1676,使用物品：Beetroot Seeds 类型：minecraft:beetroot_seeds
+2023-08-03 21:53:08,主世界,zzyictrl,-180,98,1681,破坏耕地,minecraft:farm_land,-181,95,1681,
+2023-08-03 21:53:08,主世界,zzyictrl,-181,98,1682,破坏耕地,minecraft:farm_land,-182,95,1681,
+2023-08-03 21:53:08,主世界,Beetroot Seeds,-180,96,1681,破坏耕地,minecraft:farm_land,-181,95,1680,
+2023-08-03 21:53:16,主世界,zzyictrl,-187,97,1683,捡起物品,Rotten Flesh,-188,95,1682,1个
+2023-08-03 21:53:25,主世界,zzyictrl,-207,96,1698,使用物品,Beetroot Seeds,,,,类型：minecraft:beetroot_seeds
+2023-08-03 21:53:26,主世界,zzyictrl,-207,95,1698,破坏方块,minecraft:leaves,-208,94,1698,
+2023-08-03 21:53:26,主世界,zzyictrl,-207,95,1698,破坏方块,minecraft:leaves,-208,94,1699,
+2023-08-03 21:53:27,主世界,zzyictrl,-207,94,1699,使用物品,Beetroot Seeds,,,,类型：minecraft:beetroot_seeds
+2023-08-03 21:53:31,主世界,zzyictrl,-214,90,1725,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:53:36,主世界,zzyictrl,-233,117,1831,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:53:39,主世界,zzyictrl,-229,107,1911,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:53:43,主世界,zzyictrl,-249,97,2023,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:53:45,主世界,zzyictrl,-242,108,2085,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:54:06,主世界,zzyictrl,13,89,2452,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:54:23,主世界,zzyictrl,178,73,2466,打开容器,minecraft:chest,176,71,2464,
+2023-08-03 21:54:23,主世界,zzyictrl,178,73,2466,方块接受玩家互动,minecraft:chest,176,71,2464,
+2023-08-03 21:54:24,主世界,zzyictrl,178,73,2466,关闭容器,minecraft:chest,176,71,2464,
+2023-08-03 21:54:30,主世界,Wheat,173,65,2434,破坏耕地,minecraft:farm_land,172,64,2433,
+2023-08-03 21:54:47,主世界,zzyictrl,160,75,2480,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:54:50,主世界,zzyictrl,121,106,2523,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:54:52,主世界,zzyictrl,53,102,2562,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:54:57,主世界,zzyictrl,-14,95,2677,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:55:01,主世界,zzyictrl,25,116,2767,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:55:07,主世界,zzyictrl,68,105,2910,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:55:11,主世界,zzyictrl,164,112,2941,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:55:19,主世界,zzyictrl,331,82,2906,方块接受玩家互动,minecraft:spruce_door,330,81,2907,
+2023-08-03 21:55:21,主世界,zzyictrl,331,82,2908,方块接受玩家互动,minecraft:spruce_door,330,81,2909,
+2023-08-03 21:55:27,主世界,zzyictrl,341,81,2903,放置方块,minecraft:mossy_cobblestone,341,80,2901,
+2023-08-03 21:55:27,主世界,zzyictrl,341,81,2903,放置方块,minecraft:cobblestone,341,81,2901,
+2023-08-03 21:55:27,主世界,zzyictrl,341,81,2903,放置方块,minecraft:cobblestone,340,81,2901,
+2023-08-03 21:55:27,主世界,zzyictrl,341,81,2902,方块接受玩家互动,minecraft:spruce_door,340,80,2901,
+2023-08-03 21:55:28,主世界,zzyictrl,341,81,2902,放置方块,minecraft:glass_pane,340,80,2897,
+2023-08-03 21:55:28,主世界,zzyictrl,340,81,2902,放置方块,minecraft:glass_pane,340,80,2897,
+2023-08-03 21:55:34,主世界,zzyictrl,334,86,2911,方块接受玩家互动,minecraft:spruce_door,332,85,2911,
+2023-08-03 21:55:37,主世界,zzyictrl,330,86,2911,打开容器,minecraft:chest,331,84,2910,
+2023-08-03 21:55:37,主世界,zzyictrl,330,86,2911,容器 放入物品,minecraft:chest,331,84,2910,从第12号槽 放入1个 Spruce Sapling
+2023-08-03 21:55:37,主世界,zzyictrl,330,86,2911,容器 放入物品,minecraft:chest,331,84,2910,从第6号槽 放入1个 Spruce Sapling
+2023-08-03 21:55:37,主世界,zzyictrl,330,86,2911,容器 放入物品,minecraft:chest,331,84,2910,从第2号槽 放入1个 Spruce Log
+2023-08-03 21:55:37,主世界,zzyictrl,330,86,2911,容器 放入物品,minecraft:chest,331,84,2910,从第11号槽 放入2个 Spruce Log
+2023-08-03 21:55:37,主世界,zzyictrl,330,86,2911,容器 放入物品,minecraft:chest,331,84,2910,从第13号槽 放入1个 Pumpkin Seeds
+2023-08-03 21:55:37,主世界,zzyictrl,330,86,2911,容器 放入物品,minecraft:chest,331,84,2910,从第1号槽 放入1个 Spruce Log
+2023-08-03 21:55:37,主世界,zzyictrl,330,86,2911,容器 放入物品,minecraft:chest,331,84,2910,从第26号槽 放入1个 Pumpkin Seeds
+2023-08-03 21:55:37,主世界,zzyictrl,330,86,2911,容器 放入物品,minecraft:chest,331,84,2910,从第5号槽 放入3个 Bread
+2023-08-03 21:55:37,主世界,zzyictrl,330,86,2911,容器 放入物品,minecraft:chest,331,84,2910,从第19号槽 放入1个 Bread
+2023-08-03 21:55:37,主世界,zzyictrl,330,86,2911,容器 放入物品,minecraft:chest,331,84,2910,从第18号槽 放入1个 Bread
+2023-08-03 21:55:37,主世界,zzyictrl,330,86,2911,容器 放入物品,minecraft:chest,331,84,2910,从第21号槽 放入1个 Spruce Sapling
+2023-08-03 21:55:37,主世界,zzyictrl,330,86,2911,容器 放入物品,minecraft:chest,331,84,2910,从第25号槽 放入2个 Spruce Log
+2023-08-03 21:55:37,主世界,zzyictrl,330,86,2911,容器 放入物品,minecraft:chest,331,84,2910,从第24号槽 放入2个 Spruce Sapling
+2023-08-03 21:55:37,主世界,zzyictrl,330,86,2911,容器 放入物品,minecraft:chest,331,84,2910,从第17号槽 放入2个 Spruce Sapling
+2023-08-03 21:55:37,主世界,zzyictrl,330,86,2911,容器 放入物品,minecraft:chest,331,84,2910,从第16号槽 放入1个 Spruce Sapling
+2023-08-03 21:55:37,主世界,zzyictrl,330,86,2911,容器 放入物品,minecraft:chest,331,84,2910,从第20号槽 放入1个 Bread
+2023-08-03 21:55:37,主世界,zzyictrl,330,86,2911,方块接受玩家互动,minecraft:chest,331,84,2910,
+2023-08-03 21:55:47,主世界,zzyictrl,330,86,2911,关闭容器,minecraft:chest,331,84,2910,
+2023-08-03 21:55:55,主世界,zzyictrl,319,81,2903,方块接受玩家互动,minecraft:spruce_door,319,80,2902,
+2023-08-03 21:55:56,主世界,zzyictrl,319,81,2901,方块接受玩家互动,minecraft:spruce_door,319,80,2900,
+2023-08-03 21:56:04,主世界,zzyictrl,316,85,2898,方块接受玩家互动,minecraft:spruce_door,317,84,2898,
+2023-08-03 21:56:06,主世界,zzyictrl,320,85,2899,放置方块,minecraft:planks,319,82,2899,
+2023-08-03 21:56:07,主世界,zzyictrl,320,85,2899,打开容器,minecraft:chest,318,83,2899,
+2023-08-03 21:56:07,主世界,zzyictrl,320,85,2899,容器 放入物品,minecraft:chest,318,83,2899,从第13号槽 放入1个 Potato
+2023-08-03 21:56:07,主世界,zzyictrl,320,85,2899,容器 放入物品,minecraft:chest,318,83,2899,从第3号槽 放入1个 Pumpkin Seeds
+2023-08-03 21:56:07,主世界,zzyictrl,320,85,2899,容器 放入物品,minecraft:chest,318,83,2899,从第18号槽 放入2个 Potato
+2023-08-03 21:56:07,主世界,zzyictrl,320,85,2899,容器 放入物品,minecraft:chest,318,83,2899,从第7号槽 放入1个 Fern
+2023-08-03 21:56:07,主世界,zzyictrl,320,85,2899,容器 放入物品,minecraft:chest,318,83,2899,从第5号槽 放入1个 Spruce Sapling
+2023-08-03 21:56:07,主世界,zzyictrl,320,85,2899,容器 放入物品,minecraft:chest,318,83,2899,从第10号槽 放入1个 Pumpkin Seeds
+2023-08-03 21:56:07,主世界,zzyictrl,320,85,2899,容器 放入物品,minecraft:chest,318,83,2899,从第17号槽 放入1个 Pumpkin Seeds
+2023-08-03 21:56:07,主世界,zzyictrl,320,85,2899,容器 放入物品,minecraft:chest,318,83,2899,从第25号槽 放入1个 Spruce Sapling
+2023-08-03 21:56:07,主世界,zzyictrl,320,85,2899,容器 放入物品,minecraft:chest,318,83,2899,从第1号槽 放入6个 Potato
+2023-08-03 21:56:07,主世界,zzyictrl,320,85,2899,容器 放入物品,minecraft:chest,318,83,2899,从第24号槽 放入3个 Potato
+2023-08-03 21:56:07,主世界,zzyictrl,320,85,2899,容器 放入物品,minecraft:chest,318,83,2899,从第23号槽 放入1个 Spruce Log
+2023-08-03 21:56:07,主世界,zzyictrl,320,85,2899,容器 放入物品,minecraft:chest,318,83,2899,从第6号槽 放入3个 Spruce Sapling
+2023-08-03 21:56:07,主世界,zzyictrl,320,85,2899,容器 放入物品,minecraft:chest,318,83,2899,从第8号槽 放入1个 Potato
+2023-08-03 21:56:07,主世界,zzyictrl,320,85,2899,方块接受玩家互动,minecraft:chest,318,83,2899,
+2023-08-03 21:56:08,主世界,zzyictrl,320,85,2899,关闭容器,minecraft:chest,318,83,2899,
+2023-08-03 21:56:15,主世界,zzyictrl,319,87,2905,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:56:19,主世界,zzyictrl,412,105,2910,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:56:22,主世界,zzyictrl,473,92,2852,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:56:25,主世界,zzyictrl,469,97,2769,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:56:29,主世界,zzyictrl,576,100,2712,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:56:33,主世界,zzyictrl,580,88,2614,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:56:36,主世界,zzyictrl,581,104,2535,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:56:40,主世界,zzyictrl,669,93,2506,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:56:43,主世界,zzyictrl,747,91,2480,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:56:45,主世界,zzyictrl,822,92,2453,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:56:47,主世界,zzyictrl,875,95,2443,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:56:50,主世界,zzyictrl,912,92,2509,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:56:54,主世界,zzyictrl,1001,101,2492,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:57:03,主世界,zzyictrl,1098,74,2402,破坏耕地,minecraft:farm_land,1098,71,2401,
+2023-08-03 21:57:04,主世界,zzyictrl,1098,74,2402,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-03 21:57:04,主世界,zzyictrl,1098,74,2402,破坏方块,minecraft:beetroot,1098,72,2401,
+2023-08-03 21:57:04,主世界,zzyictrl,1098,74,2402,破坏方块,minecraft:beetroot,1099,72,2401,
+2023-08-03 21:57:04,主世界,zzyictrl,1098,74,2402,破坏方块,minecraft:beetroot,1099,72,2400,
+2023-08-03 21:57:04,主世界,zzyictrl,1099,74,2401,捡起物品,Beetroot,1099,72,2400,1个
+2023-08-03 21:57:04,主世界,zzyictrl,1099,74,2401,捡起物品,Beetroot,1099,73,2402,1个
+2023-08-03 21:57:04,主世界,zzyictrl,1099,74,2401,捡起物品,Beetroot Seeds,1100,73,2401,1个
+2023-08-03 21:57:04,主世界,zzyictrl,1099,74,2401,捡起物品,Beetroot Seeds,1098,73,2402,1个
+2023-08-03 21:57:04,主世界,zzyictrl,1099,74,2401,捡起物品,Beetroot Seeds,1098,73,2402,1个
+2023-08-03 21:57:04,主世界,zzyictrl,1099,74,2401,捡起物品,Beetroot Seeds,1099,72,2402,1个
+2023-08-03 21:57:04,主世界,zzyictrl,1099,74,2401,捡起物品,Beetroot Seeds,1098,73,2401,1个
+2023-08-03 21:57:04,主世界,zzyictrl,1099,74,2401,破坏方块,minecraft:beetroot,1099,72,2399,
+2023-08-03 21:57:05,主世界,zzyictrl,1100,74,2401,破坏方块,minecraft:beetroot,1099,72,2398,
+2023-08-03 21:57:05,主世界,zzyictrl,1099,74,2400,捡起物品,Beetroot Seeds,1100,72,2401,1个
+2023-08-03 21:57:05,主世界,zzyictrl,1099,74,2400,捡起物品,Beetroot Seeds,1099,73,2402,1个
+2023-08-03 21:57:05,主世界,Beetroot Seeds,1099,72,2402,破坏耕地,minecraft:farm_land,1098,71,2401,
+2023-08-03 21:57:05,主世界,zzyictrl,1099,74,2400,捡起物品,Beetroot,1099,72,2400,1个
+2023-08-03 21:57:05,主世界,zzyictrl,1099,74,2400,捡起物品,Beetroot,1100,73,2400,1个
+2023-08-03 21:57:05,主世界,zzyictrl,1099,74,2400,捡起物品,Beetroot Seeds,1100,72,2401,1个
+2023-08-03 21:57:05,主世界,zzyictrl,1099,74,2400,破坏方块,minecraft:beetroot,1098,72,2397,
+2023-08-03 21:57:05,主世界,zzyictrl,1099,74,2400,破坏方块,minecraft:beetroot,1098,72,2398,
+2023-08-03 21:57:05,主世界,zzyictrl,1099,74,2400,捡起物品,Beetroot,1099,72,2400,1个
+2023-08-03 21:57:05,主世界,zzyictrl,1099,74,2400,捡起物品,Beetroot,1099,73,2400,1个
+2023-08-03 21:57:05,主世界,zzyictrl,1099,74,2400,捡起物品,Beetroot Seeds,1099,72,2399,1个
+2023-08-03 21:57:05,主世界,zzyictrl,1099,74,2400,捡起物品,Beetroot Seeds,1099,73,2399,1个
+2023-08-03 21:57:05,主世界,zzyictrl,1099,74,2400,捡起物品,Beetroot Seeds,1099,72,2400,1个
+2023-08-03 21:57:05,主世界,zzyictrl,1099,74,2400,破坏方块,minecraft:beetroot,1097,72,2398,
+2023-08-03 21:57:05,主世界,zzyictrl,1099,74,2400,破坏方块,minecraft:beetroot,1098,72,2399,
+2023-08-03 21:57:05,主世界,Beetroot,1099,72,2398,破坏耕地,minecraft:farm_land,1098,71,2398,
+2023-08-03 21:57:05,主世界,zzyictrl,1099,74,2400,破坏方块,minecraft:beetroot,1097,72,2399,
+2023-08-03 21:57:05,主世界,Beetroot Seeds,1100,72,2398,破坏耕地,minecraft:farm_land,1099,71,2398,
+2023-08-03 21:57:05,主世界,zzyictrl,1098,74,2400,破坏方块,minecraft:stone_stairs,1096,71,2399,
+2023-08-03 21:57:05,主世界,zzyictrl,1098,74,2401,捡起物品,Beetroot,1098,73,2399,1个
+2023-08-03 21:57:05,主世界,zzyictrl,1098,74,2401,捡起物品,Beetroot Seeds,1098,73,2399,1个
+2023-08-03 21:57:05,主世界,Beetroot Seeds,1099,72,2399,破坏耕地,minecraft:farm_land,1098,71,2398,
+2023-08-03 21:57:05,主世界,Beetroot,1099,72,2398,破坏耕地,minecraft:farm_land,1099,71,2398,
+2023-08-03 21:57:05,主世界,Beetroot Seeds,1098,72,2398,破坏耕地,minecraft:farm_land,1097,71,2398,
+2023-08-03 21:57:05,主世界,Beetroot Seeds,1099,72,2397,破坏耕地,minecraft:farm_land,1098,71,2397,
+2023-08-03 21:57:05,主世界,Beetroot Seeds,1098,72,2398,破坏耕地,minecraft:farm_land,1097,71,2398,
+2023-08-03 21:57:05,主世界,Beetroot Seeds,1100,72,2399,破坏耕地,minecraft:farm_land,1099,71,2399,
+2023-08-03 21:57:05,主世界,zzyictrl,1098,74,2401,捡起物品,Beetroot Seeds,1099,72,2402,3个
+2023-08-03 21:57:05,主世界,Beetroot,1099,72,2399,破坏耕地,minecraft:farm_land,1098,71,2399,
+2023-08-03 21:57:06,主世界,zzyictrl,1098,74,2401,捡起物品,Beetroot Seeds,1099,72,2400,1个
+2023-08-03 21:57:06,主世界,Beetroot,1097,72,2398,破坏耕地,minecraft:farm_land,1096,71,2398,
+2023-08-03 21:57:06,主世界,Beetroot Seeds,1097,72,2399,破坏耕地,minecraft:farm_land,1097,71,2398,
+2023-08-03 21:57:06,主世界,zzyictrl,1098,74,2401,破坏方块,minecraft:beetroot,1097,72,2400,
+2023-08-03 21:57:06,主世界,Beetroot Seeds,1098,72,2399,破坏耕地,minecraft:farm_land,1098,71,2399,
+2023-08-03 21:57:06,主世界,zzyictrl,1097,74,2401,捡起物品,Beetroot Seeds,1098,72,2400,1个
+2023-08-03 21:57:06,主世界,Beetroot,1100,72,2398,破坏耕地,minecraft:farm_land,1099,71,2398,
+2023-08-03 21:57:06,主世界,Beetroot Seeds,1098,72,2398,破坏耕地,minecraft:farm_land,1098,71,2398,
+2023-08-03 21:57:06,主世界,zzyictrl,1097,74,2401,破坏耕地,minecraft:farm_land,1097,71,2400,
+2023-08-03 21:57:06,主世界,Beetroot Seeds,1097,72,2399,破坏耕地,minecraft:farm_land,1097,71,2399,
+2023-08-03 21:57:06,主世界,Beetroot,1098,72,2399,破坏耕地,minecraft:farm_land,1097,71,2398,
+2023-08-03 21:57:06,主世界,Beetroot,1098,72,2398,破坏耕地,minecraft:farm_land,1098,71,2397,
+2023-08-03 21:57:06,主世界,Beetroot Seeds,1097,72,2399,破坏耕地,minecraft:farm_land,1097,71,2398,
+2023-08-03 21:57:06,主世界,zzyictrl,1097,74,2401,破坏方块,minecraft:beetroot,1096,72,2398,
+2023-08-03 21:57:06,主世界,zzyictrl,1097,73,2401,捡起物品,Beetroot Seeds,1096,71,2400,1个
+2023-08-03 21:57:06,主世界,zzyictrl,1097,73,2401,捡起物品,Beetroot Seeds,1096,71,2399,1个
+2023-08-03 21:57:06,主世界,zzyictrl,1097,73,2401,捡起物品,Beetroot Seeds,1097,72,2399,1个
+2023-08-03 21:57:06,主世界,zzyictrl,1097,73,2401,捡起物品,Beetroot,1097,73,2401,1个
+2023-08-03 21:57:06,主世界,zzyictrl,1097,73,2401,捡起物品,Beetroot Seeds,1097,73,2400,1个
+2023-08-03 21:57:06,主世界,zzyictrl,1097,73,2401,捡起物品,Beetroot Seeds,1097,72,2400,1个
+2023-08-03 21:57:06,主世界,zzyictrl,1097,73,2401,捡起物品,Beetroot Seeds,1098,72,2401,1个
+2023-08-03 21:57:06,主世界,zzyictrl,1097,73,2401,捡起物品,Beetroot Seeds,1098,72,2399,1个
+2023-08-03 21:57:06,主世界,zzyictrl,1097,73,2401,破坏方块,minecraft:beetroot,1096,72,2397,
+2023-08-03 21:57:06,主世界,zzyictrl,1097,73,2400,破坏方块,minecraft:beetroot,1095,72,2398,
+2023-08-03 21:57:06,主世界,zzyictrl,1096,73,2400,捡起物品,Beetroot Seeds,1097,72,2399,1个
+2023-08-03 21:57:06,主世界,zzyictrl,1096,73,2400,破坏方块,minecraft:beetroot,1095,72,2397,
+2023-08-03 21:57:06,主世界,zzyictrl,1096,73,2400,捡起物品,Beetroot,1097,72,2399,1个
+2023-08-03 21:57:06,主世界,zzyictrl,1096,73,2400,捡起物品,Beetroot Seeds,1096,73,2399,1个
+2023-08-03 21:57:06,主世界,zzyictrl,1096,73,2400,捡起物品,Beetroot,1097,72,2398,3个
+2023-08-03 21:57:07,主世界,zzyictrl,1096,74,2399,捡起物品,Beetroot Seeds,1097,73,2398,1个
+2023-08-03 21:57:07,主世界,zzyictrl,1096,74,2399,捡起物品,Beetroot Seeds,1096,72,2398,1个
+2023-08-03 21:57:07,主世界,zzyictrl,1096,74,2399,捡起物品,Beetroot Seeds,1096,73,2398,1个
+2023-08-03 21:57:07,主世界,zzyictrl,1096,74,2399,破坏方块,minecraft:beetroot,1096,72,2396,
+2023-08-03 21:57:07,主世界,zzyictrl,1096,74,2399,捡起物品,Beetroot,1097,72,2399,1个
+2023-08-03 21:57:07,主世界,zzyictrl,1096,74,2399,捡起物品,Beetroot Seeds,1095,72,2398,1个
+2023-08-03 21:57:07,主世界,zzyictrl,1096,74,2399,捡起物品,Beetroot Seeds,1094,72,2399,1个
+2023-08-03 21:57:07,主世界,zzyictrl,1095,74,2399,破坏方块,minecraft:beetroot,1097,72,2396,
+2023-08-03 21:57:07,主世界,zzyictrl,1095,74,2399,捡起物品,Beetroot,1096,72,2398,1个
+2023-08-03 21:57:07,主世界,zzyictrl,1095,74,2399,捡起物品,Beetroot,1096,72,2398,1个
+2023-08-03 21:57:07,主世界,zzyictrl,1095,74,2399,捡起物品,Beetroot Seeds,1095,72,2397,1个
+2023-08-03 21:57:07,主世界,Beetroot Seeds,1097,72,2397,破坏耕地,minecraft:farm_land,1096,71,2396,
+2023-08-03 21:57:07,主世界,zzyictrl,1095,74,2399,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-03 21:57:07,主世界,zzyictrl,1095,74,2398,捡起物品,Beetroot Seeds,1097,72,2397,1个
+2023-08-03 21:57:07,主世界,zzyictrl,1095,74,2398,破坏耕地,minecraft:farm_land,1095,71,2397,
+2023-08-03 21:57:07,主世界,zzyictrl,1096,74,2397,捡起物品,Beetroot,1097,72,2397,1个
+2023-08-03 21:57:07,主世界,zzyictrl,1096,74,2397,捡起物品,Beetroot Seeds,1097,72,2396,1个
+2023-08-03 21:57:07,主世界,Beetroot Seeds,1097,72,2397,破坏耕地,minecraft:farm_land,1097,71,2396,
+2023-08-03 21:57:07,主世界,zzyictrl,1096,74,2397,捡起物品,Beetroot Seeds,1097,72,2396,1个
+2023-08-03 21:57:07,主世界,zzyictrl,1096,74,2397,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-03 21:57:07,主世界,zzyictrl,1096,74,2397,捡起物品,Beetroot,1097,72,2397,1个
+2023-08-03 21:57:08,主世界,zzyictrl,1096,74,2396,捡起物品,Beetroot Seeds,1097,72,2397,1个
+2023-08-03 21:57:08,主世界,zzyictrl,1096,74,2396,捡起物品,Beetroot,1097,72,2397,1个
+2023-08-03 21:57:08,主世界,zzyictrl,1097,74,2396,捡起物品,Beetroot Seeds,1098,72,2395,1个
+2023-08-03 21:57:08,主世界,zzyictrl,1097,74,2396,捡起物品,Beetroot Seeds,1098,72,2397,4个
+2023-08-03 21:57:08,主世界,zzyictrl,1097,74,2396,捡起物品,Beetroot,1099,72,2396,1个
+2023-08-03 21:57:08,主世界,zzyictrl,1097,74,2396,捡起物品,Beetroot Seeds,1099,72,2396,1个
+2023-08-03 21:57:08,主世界,zzyictrl,1098,74,2397,捡起物品,Beetroot,1098,72,2398,1个
+2023-08-03 21:57:08,主世界,zzyictrl,1098,74,2397,捡起物品,Beetroot,1099,72,2398,4个
+2023-08-03 21:57:08,主世界,zzyictrl,1098,74,2397,捡起物品,Beetroot Seeds,1098,72,2398,4个
+2023-08-03 21:57:08,主世界,zzyictrl,1098,74,2397,捡起物品,Beetroot Seeds,1100,72,2398,2个
+2023-08-03 21:57:08,主世界,zzyictrl,1098,74,2398,捡起物品,Beetroot,1098,72,2399,1个
+2023-08-03 21:57:08,主世界,zzyictrl,1098,74,2399,破坏耕地,minecraft:farm_land,1097,71,2398,
+2023-08-03 21:57:09,主世界,zzyictrl,1098,74,2399,捡起物品,Beetroot Seeds,1100,72,2399,1个
+2023-08-03 21:57:09,主世界,zzyictrl,1099,74,2400,破坏耕地,minecraft:farm_land,1099,71,2400,
+2023-08-03 21:57:09,主世界,zzyictrl,1099,74,2401,捡起物品,Beetroot,1100,72,2402,1个
+2023-08-03 21:57:09,主世界,zzyictrl,1099,74,2402,破坏耕地,minecraft:farm_land,1098,71,2401,
+2023-08-03 21:57:11,主世界,zzyictrl,1096,73,2406,使用物品,Cooked Beef,,,,类型：minecraft:cooked_beef
+2023-08-03 21:57:11,主世界,zzyictrl,1096,73,2406,进食,Cooked Beef,,,,
+2023-08-03 21:57:13,主世界,zzyictrl,1096,73,2407,使用物品,Cooked Beef,,,,类型：minecraft:cooked_beef
+2023-08-03 21:57:13,主世界,zzyictrl,1096,73,2407,进食,Cooked Beef,,,,
+2023-08-03 21:57:13,主世界,zzyictrl,1096,73,2408,使用物品,Cooked Beef,,,,类型：minecraft:cooked_beef
+2023-08-03 21:57:13,主世界,zzyictrl,1096,73,2408,使用物品,Cooked Beef,,,,类型：minecraft:cooked_beef
+2023-08-03 21:57:14,主世界,zzyictrl,1097,73,2409,使用物品,Cooked Beef,,,,类型：minecraft:cooked_beef
+2023-08-03 21:57:14,主世界,zzyictrl,1098,72,2409,使用物品,Cooked Beef,,,,类型：minecraft:cooked_beef
+2023-08-03 21:57:24,主世界,zzyictrl,1094,69,2419,破坏耕地,minecraft:farm_land,1093,66,2418,
+2023-08-03 21:57:30,主世界,zzyictrl,1094,67,2436,打开容器,minecraft:chest,1094,64,2435,
+2023-08-03 21:57:30,主世界,zzyictrl,1094,67,2436,方块接受玩家互动,minecraft:chest,1094,64,2435,
+2023-08-03 21:57:32,主世界,zzyictrl,1094,67,2436,关闭容器,minecraft:chest,1094,64,2435,
+2023-08-03 21:57:39,主世界,zzyictrl,1108,67,2435,放置方块,minecraft:snow_layer,1110,65,2435,
+2023-08-03 21:57:40,主世界,zzyictrl,1116,68,2434,方块接受玩家互动,minecraft:spruce_door,1118,67,2434,
+2023-08-03 21:57:49,主世界,zzyictrl,1126,67,2411,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:57:53,主世界,zzyictrl,1169,104,2351,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:57:58,主世界,zzyictrl,1283,93,2246,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:58:02,主世界,zzyictrl,1352,102,2226,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:58:05,主世界,zzyictrl,1331,96,2313,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:58:08,主世界,zzyictrl,1287,100,2402,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:58:22,主世界,zzyictrl,1316,65,2604,丢出物品,Cobblestone,,,,1
+2023-08-03 21:58:23,主世界,zzyictrl,1316,65,2604,丢出物品,Rotten Flesh,,,,2
+2023-08-03 21:58:24,主世界,zzyictrl,1316,65,2604,丢出物品,Dandelion,,,,1
+2023-08-03 21:58:26,主世界,zzyictrl,1317,65,2604,放置方块,minecraft:ice,1316,62,2603,
+2023-08-03 21:58:27,主世界,zzyictrl,1318,65,2603,放置方块,minecraft:ice,1315,62,2603,
+2023-08-03 21:58:28,主世界,zzyictrl,1318,65,2603,打开容器,minecraft:ender_chest,1315,63,2603,
+2023-08-03 21:58:28,主世界,zzyictrl,1318,65,2603,方块接受玩家互动,minecraft:ender_chest,1315,63,2603,
+2023-08-03 21:58:33,主世界,zzyictrl,1317,65,2604,容器 放入物品,minecraft:ender_chest,1315,63,2603,从第7号槽 放入1个 Emerald Ore
+2023-08-03 21:58:33,主世界,zzyictrl,1317,65,2604,容器 放入物品,minecraft:ender_chest,1315,63,2603,从第13号槽 放入10个 Cherry Log
+2023-08-03 21:58:38,主世界,zzyictrl,1317,65,2604,容器 取出物品,minecraft:ender_chest,1315,63,2603,从第1号槽 取出1个 Shulker Box
+2023-08-03 21:58:39,主世界,zzyictrl,1317,65,2604,关闭容器,minecraft:ender_chest,1315,63,2603,
+2023-08-03 21:58:39,主世界,zzyictrl,1317,65,2604,放置方块,minecraft:ice,1316,62,2602,
+2023-08-03 21:58:40,主世界,zzyictrl,1317,65,2604,打开容器,minecraft:undyed_shulker_box,1316,63,2602,
+2023-08-03 21:58:40,主世界,zzyictrl,1317,65,2604,方块接受玩家互动,minecraft:undyed_shulker_box,1316,63,2602,
+2023-08-03 21:58:41,主世界,zzyictrl,1317,65,2604,容器 放入物品,minecraft:undyed_shulker_box,1316,63,2602,从第7号槽 放入1个 Firework Rocket
+2023-08-03 21:58:41,主世界,zzyictrl,1317,65,2604,容器 取出物品,minecraft:undyed_shulker_box,1316,63,2602,从第7号槽 取出1个 Firework Rocket
+2023-08-03 21:58:42,主世界,zzyictrl,1317,65,2604,容器 放入物品,minecraft:undyed_shulker_box,1316,63,2602,从第4号槽 放入1个 Firework Rocket
+2023-08-03 21:58:42,主世界,zzyictrl,1317,65,2604,容器 取出物品,minecraft:undyed_shulker_box,1316,63,2602,从第4号槽 取出1个 Firework Rocket
+2023-08-03 21:58:44,主世界,zzyictrl,1317,65,2604,关闭容器,minecraft:undyed_shulker_box,1316,63,2602,
+2023-08-03 21:58:45,主世界,zzyictrl,1317,65,2603,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-03 21:58:45,主世界,zzyictrl,1317,65,2603,破坏方块,minecraft:undyed_shulker_box,1316,63,2602,
+2023-08-03 21:58:46,主世界,zzyictrl,1317,65,2603,捡起物品,Shulker Box,1317,63,2603,1个
+2023-08-03 21:58:47,主世界,zzyictrl,1317,65,2603,破坏方块,minecraft:ender_chest,1315,63,2603,
+2023-08-03 21:58:47,主世界,zzyictrl,1317,65,2603,破坏方块,minecraft:ice,1315,62,2603,
+2023-08-03 21:58:48,主世界,zzyictrl,1317,65,2603,捡起物品,Ice,1316,62,2604,1个
+2023-08-03 21:58:48,主世界,zzyictrl,1315,65,2602,捡起物品,Ender Chest,1314,63,2601,1个
+2023-08-03 21:58:54,主世界,zzyictrl,1304,65,2602,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:58:56,主世界,zzyictrl,1299,66,2614,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:58:58,主世界,zzyictrl,1287,96,2660,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:59:03,主世界,zzyictrl,1325,100,2766,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:59:06,主世界,zzyictrl,1404,110,2737,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:59:10,主世界,zzyictrl,1496,96,2727,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:59:28,主世界,zzyictrl,1629,90,2731,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:59:31,主世界,zzyictrl,1691,109,2778,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:59:38,主世界,zzyictrl,1759,85,2589,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:59:41,主世界,zzyictrl,1764,83,2506,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:59:44,主世界,zzyictrl,1824,106,2442,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:59:49,主世界,zzyictrl,1877,98,2334,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:59:53,主世界,zzyictrl,1889,87,2235,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:59:55,主世界,zzyictrl,1950,108,2222,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:59:58,主世界,zzyictrl,2003,121,2227,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 21:59:58,主世界,zzyictrl,2035,131,2231,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:00:11,主世界,zzyictrl,2300,114,2185,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:00:16,主世界,zzyictrl,2283,99,2034,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:00:19,主世界,zzyictrl,2313,90,1957,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:00:22,主世界,zzyictrl,2313,96,1891,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:00:25,主世界,zzyictrl,2263,120,1846,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:00:35,主世界,zzyictrl,2308,95,1569,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:00:38,主世界,zzyictrl,2246,88,1480,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:00:43,主世界,zzyictrl,2208,77,1343,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:00:47,主世界,zzyictrl,2150,95,1266,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:00:50,主世界,zzyictrl,2080,100,1270,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:01:02,主世界,zzyictrl,2087,80,1127,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:01:11,主世界,zzyictrl,1977,89,1040,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:01:13,主世界,zzyictrl,1965,83,977,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:01:17,主世界,zzyictrl,1994,111,881,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:01:20,主世界,zzyictrl,1983,104,792,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:01:24,主世界,zzyictrl,2015,104,682,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:01:27,主世界,zzyictrl,2026,107,596,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:01:43,主世界,zzyictrl,1957,68,438,打开容器,minecraft:chest,1959,66,437,
+2023-08-03 22:01:43,主世界,zzyictrl,1957,68,438,方块接受玩家互动,minecraft:chest,1959,66,437,
+2023-08-03 22:01:46,主世界,zzyictrl,1957,68,438,关闭容器,minecraft:chest,1959,66,437,
+2023-08-03 22:01:50,主世界,zzyictrl,1956,65,437,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-03 22:01:52,主世界,zzyictrl,1956,65,437,使用物品,下界合金斧,,,,类型：minecraft:netherite_axe
+2023-08-03 22:01:52,主世界,zzyictrl,1956,65,437,破坏方块,minecraft:planks,1955,64,436,
+2023-08-03 22:01:53,主世界,zzyictrl,1956,65,437,捡起物品,Dark Oak Planks,1956,64,436,1个
+2023-08-03 22:01:53,主世界,zzyictrl,1956,65,437,使用物品,下界合金斧,,,,类型：minecraft:netherite_axe
+2023-08-03 22:01:53,主世界,zzyictrl,1956,65,437,破坏方块,minecraft:spruce_stairs,1955,63,436,
+2023-08-03 22:02:08,,zzyictrl,,,,离开服务器,,,,,
