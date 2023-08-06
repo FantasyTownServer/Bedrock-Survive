@@ -1,1 +1,126 @@
 ﻿时间,维度,来源,X,Y,Z,事件,目标,x,y,z,附加信息
+2023-08-06 07:39:31,,zzyictrl,,,,开始进服,,,,,xuid=2535458195960794
+2023-08-06 07:39:35,主世界,zzyictrl,181,128,131,进入服务器,,,,,xuid=2535458195960794
+2023-08-06 07:39:46,主世界,zzyictrl,197,132,124,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-06 07:39:51,主世界,zzyictrl,85,143,89,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-06 07:39:54,主世界,zzyictrl,-1,136,104,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-06 07:41:09,主世界,zzyictrl,-144,66,737,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-06 07:41:13,主世界,zzyictrl,-81,114,719,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-06 07:41:31,主世界,zzyictrl,155,125,583,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-06 07:41:50,,zzyictrl,,,,离开服务器,,,,,
+2023-08-06 13:17:52,,CaffeTEA4528,,,,开始进服,,,,,xuid=2535471241308674
+2023-08-06 13:17:54,主世界,CaffeTEA4528,-104,-56,117,进入服务器,,,,,xuid=2535471241308674
+2023-08-06 13:18:10,主世界,CaffeTEA4528,-105,-55,116,使用物品,Rabbit Stew,,,,类型：minecraft:rabbit_stew
+2023-08-06 13:18:10,主世界,CaffeTEA4528,-105,-55,116,进食,Rabbit Stew,,,,
+2023-08-06 13:18:12,主世界,CaffeTEA4528,-104,-55,116,使用物品,Bowl,,,,类型：minecraft:bowl
+2023-08-06 13:18:16,主世界,CaffeTEA4528,-110,-55,114,丢出物品,Bowl,,,,1
+2023-08-06 13:18:29,主世界,CaffeTEA4528,-111,-55,115,使用物品,Diamond Pickaxe,,,,类型：minecraft:diamond_pickaxe
+2023-08-06 13:18:30,主世界,CaffeTEA4528,-111,-55,115,破坏方块,minecraft:deepslate,-111,-54,114,
+2023-08-06 13:18:30,主世界,CaffeTEA4528,-111,-55,115,捡起物品,Cobbled Deepslate,-111,-55,115,1个
+2023-08-06 13:18:31,主世界,CaffeTEA4528,-111,-55,115,破坏方块,minecraft:deepslate,-111,-53,114,
+2023-08-06 13:18:31,主世界,CaffeTEA4528,-111,-55,115,捡起物品,Cobbled Deepslate,-110,-55,114,1个
+2023-08-06 13:18:32,主世界,CaffeTEA4528,-111,-55,115,破坏方块,minecraft:deepslate,-111,-52,114,
+2023-08-06 13:18:32,主世界,CaffeTEA4528,-111,-55,115,捡起物品,Cobbled Deepslate,-110,-55,115,1个
+2023-08-06 13:18:45,主世界,CaffeTEA4528,-111,-55,115,玩家执行命令,loddy,,,,
+2023-08-06 13:18:48,主世界,CaffeTEA4528,-104,-56,118,捡起物品,Cobbled Deepslate,-104,-58,118,4个
+2023-08-06 13:19:06,主世界,CaffeTEA4528,-112,-58,115,使用物品,Diamond Pickaxe,,,,类型：minecraft:diamond_pickaxe
+2023-08-06 13:19:07,主世界,CaffeTEA4528,-112,-58,115,破坏方块,minecraft:deepslate,-112,-59,115,
+2023-08-06 13:19:07,主世界,CaffeTEA4528,-112,-58,115,捡起物品,Cobbled Deepslate,-111,-59,116,1个
+2023-08-06 13:19:08,主世界,CaffeTEA4528,-112,-58,115,放置方块,minecraft:deepslate,-112,-59,114,
+2023-08-06 13:19:18,主世界,CaffeTEA4528,-111,-61,115,玩家死亡,,,,,
+2023-08-06 13:19:20,主世界,CaffeTEA4528,-111,-61,115,重生,,,,,
+2023-08-06 13:19:57,主世界,CaffeTEA4528,18,74,339,打开容器,minecraft:chest,19,72,341,
+2023-08-06 13:19:57,主世界,CaffeTEA4528,18,74,339,方块接受玩家互动,minecraft:chest,19,72,341,
+2023-08-06 13:20:02,主世界,CaffeTEA4528,19,74,339,关闭容器,minecraft:chest,19,72,341,
+2023-08-06 13:20:03,主世界,CaffeTEA4528,18,74,339,打开容器,minecraft:chest,19,73,341,
+2023-08-06 13:20:03,主世界,CaffeTEA4528,18,74,339,方块接受玩家互动,minecraft:chest,19,73,341,
+2023-08-06 13:20:05,主世界,CaffeTEA4528,18,74,339,容器 放入物品,minecraft:chest,19,73,341,从第23号槽 放入1个 Golden Helmet
+2023-08-06 13:20:05,主世界,CaffeTEA4528,18,74,339,容器 取出物品,minecraft:chest,19,73,341,从第12号槽 取出1个 Golden Helmet
+2023-08-06 13:20:06,主世界,CaffeTEA4528,18,74,339,关闭容器,minecraft:chest,19,73,341,
+2023-08-06 13:20:07,主世界,CaffeTEA4528,18,74,339,打开容器,minecraft:chest,19,74,341,
+2023-08-06 13:20:07,主世界,CaffeTEA4528,18,74,339,方块接受玩家互动,minecraft:chest,19,74,341,
+2023-08-06 13:20:07,主世界,CaffeTEA4528,18,74,339,关闭容器,minecraft:chest,19,74,341,
+2023-08-06 13:20:08,主世界,CaffeTEA4528,18,74,339,打开容器,minecraft:chest,17,72,341,
+2023-08-06 13:20:08,主世界,CaffeTEA4528,18,74,339,方块接受玩家互动,minecraft:chest,17,72,341,
+2023-08-06 13:20:09,主世界,CaffeTEA4528,18,74,339,关闭容器,minecraft:chest,17,72,341,
+2023-08-06 13:20:10,主世界,CaffeTEA4528,18,74,339,打开容器,minecraft:chest,14,72,340,
+2023-08-06 13:20:10,主世界,CaffeTEA4528,18,74,339,方块接受玩家互动,minecraft:chest,14,72,340,
+2023-08-06 13:20:10,主世界,CaffeTEA4528,18,74,339,关闭容器,minecraft:chest,14,72,340,
+2023-08-06 13:20:11,主世界,CaffeTEA4528,18,74,339,打开容器,minecraft:chest,14,72,341,
+2023-08-06 13:20:11,主世界,CaffeTEA4528,18,74,339,方块接受玩家互动,minecraft:chest,14,72,341,
+2023-08-06 13:20:13,主世界,CaffeTEA4528,18,74,339,容器 放入物品,minecraft:chest,14,72,341,从第33号槽 放入7个 Empty Map
+2023-08-06 13:20:13,主世界,CaffeTEA4528,18,74,339,容器 取出物品,minecraft:chest,14,72,341,从第2号槽 取出7个 Empty Map
+2023-08-06 13:20:14,主世界,CaffeTEA4528,18,74,339,关闭容器,minecraft:chest,14,72,341,
+2023-08-06 13:20:37,主世界,CaffeTEA4528,6,75,345,使用物品,Iron Pickaxe,,,,类型：minecraft:iron_pickaxe
+2023-08-06 13:20:46,主世界,CaffeTEA4528,10,74,335,打开容器,minecraft:chest,11,72,333,
+2023-08-06 13:20:46,主世界,CaffeTEA4528,10,74,335,方块接受玩家互动,minecraft:chest,11,72,333,
+2023-08-06 13:20:50,主世界,CaffeTEA4528,10,74,334,关闭容器,minecraft:chest,11,72,333,
+2023-08-06 13:20:51,主世界,CaffeTEA4528,13,74,334,打开容器,minecraft:chest,14,71,332,
+2023-08-06 13:20:51,主世界,CaffeTEA4528,12,74,334,方块接受玩家互动,minecraft:chest,14,71,332,
+2023-08-06 13:20:51,主世界,CaffeTEA4528,13,74,334,关闭容器,minecraft:chest,14,71,332,
+2023-08-06 13:20:53,主世界,CaffeTEA4528,14,75,334,打开容器,minecraft:chest,16,70,332,
+2023-08-06 13:20:53,主世界,CaffeTEA4528,14,75,335,方块接受玩家互动,minecraft:chest,16,70,332,
+2023-08-06 13:20:54,主世界,CaffeTEA4528,14,75,335,关闭容器,minecraft:chest,16,70,332,
+2023-08-06 13:20:56,主世界,CaffeTEA4528,18,74,338,打开容器,minecraft:chest,17,72,341,
+2023-08-06 13:20:56,主世界,CaffeTEA4528,18,74,339,方块接受玩家互动,minecraft:chest,17,72,341,
+2023-08-06 13:20:58,主世界,CaffeTEA4528,18,74,339,关闭容器,minecraft:chest,17,72,341,
+2023-08-06 13:21:05,主世界,CaffeTEA4528,-14,74,337,使用物品,Iron Pickaxe,,,,类型：minecraft:iron_pickaxe
+2023-08-06 13:21:06,主世界,CaffeTEA4528,-14,74,337,使用物品,Iron Pickaxe,,,,类型：minecraft:iron_pickaxe
+2023-08-06 13:21:07,主世界,CaffeTEA4528,-14,74,337,使用物品,Diamond Pickaxe,,,,类型：minecraft:diamond_pickaxe
+2023-08-06 13:21:24,主世界,CaffeTEA4528,13,87,273,方块接受玩家互动,minecraft:wooden_door,12,86,273,
+2023-08-06 13:21:25,主世界,CaffeTEA4528,13,87,273,方块接受玩家互动,minecraft:wooden_door,12,86,273,
+2023-08-06 13:21:26,主世界,CaffeTEA4528,12,87,274,方块接受玩家互动,minecraft:wooden_door,12,86,273,
+2023-08-06 13:21:27,主世界,CaffeTEA4528,12,87,276,打开容器,minecraft:chest,14,85,277,
+2023-08-06 13:21:27,主世界,CaffeTEA4528,12,87,276,方块接受玩家互动,minecraft:chest,14,85,277,
+2023-08-06 13:21:30,主世界,CaffeTEA4528,13,87,276,关闭容器,minecraft:chest,14,85,277,
+2023-08-06 13:21:33,主世界,CaffeTEA4528,13,87,278,放置方块,minecraft:cobblestone,12,84,275,
+2023-08-06 13:21:35,主世界,CaffeTEA4528,13,87,277,使用物品,Iron Axe,,,,类型：minecraft:iron_axe
+2023-08-06 13:21:35,主世界,CaffeTEA4528,13,87,277,破坏方块,minecraft:oak_fence,11,85,276,
+2023-08-06 13:21:36,主世界,CaffeTEA4528,13,87,277,捡起物品,Oak Fence,12,86,276,1个
+2023-08-06 13:21:36,主世界,CaffeTEA4528,13,87,277,破坏方块,minecraft:oak_stairs,11,85,277,
+2023-08-06 13:21:37,主世界,CaffeTEA4528,13,87,277,破坏方块,minecraft:planks,10,85,277,
+2023-08-06 13:21:38,主世界,CaffeTEA4528,13,87,277,破坏方块,minecraft:oak_stairs,10,85,276,
+2023-08-06 13:21:40,主世界,CaffeTEA4528,14,87,278,打开容器,minecraft:crafting_table,12,85,275,
+2023-08-06 13:21:42,主世界,CaffeTEA4528,14,87,278,丢出物品,Oak Fence,,,,1
+2023-08-06 13:21:46,主世界,CaffeTEA4528,13,87,278,放置方块,minecraft:oak_log,13,86,275,
+2023-08-06 13:21:47,主世界,CaffeTEA4528,13,87,278,方块接受玩家互动,minecraft:anvil,13,85,276,
+2023-08-06 13:21:47,主世界,CaffeTEA4528,13,87,278,打开容器,minecraft:anvil,13,85,276,
+2023-08-06 13:23:14,主世界,CaffeTEA4528,-31,69,292,使用物品,Cooked Beef,,,,类型：minecraft:cooked_beef
+2023-08-06 13:23:14,主世界,CaffeTEA4528,-31,69,292,进食,Cooked Beef,,,,
+2023-08-06 13:23:46,主世界,CaffeTEA4528,14,87,274,方块接受玩家互动,minecraft:wooden_door,12,86,273,
+2023-08-06 13:23:48,主世界,CaffeTEA4528,12,87,277,打开容器,minecraft:chest,14,85,277,
+2023-08-06 13:23:48,主世界,CaffeTEA4528,12,87,277,方块接受玩家互动,minecraft:chest,14,85,277,
+2023-08-06 13:23:49,主世界,CaffeTEA4528,12,87,277,容器 放入物品,minecraft:chest,14,85,277,从第0号槽 放入1个 Rabbit Stew
+2023-08-06 13:23:50,主世界,CaffeTEA4528,12,87,277,容器 放入物品,minecraft:chest,14,85,277,从第2号槽 放入1个 Rabbit Stew
+2023-08-06 13:23:50,主世界,CaffeTEA4528,12,87,277,容器 放入物品,minecraft:chest,14,85,277,从第3号槽 放入1个 Rabbit Stew
+2023-08-06 13:23:51,主世界,CaffeTEA4528,12,87,277,容器 放入物品,minecraft:chest,14,85,277,从第4号槽 放入1个 Rabbit Stew
+2023-08-06 13:23:52,主世界,CaffeTEA4528,12,87,277,容器 放入物品,minecraft:chest,14,85,277,从第15号槽 放入1个 Enchanted Book
+2023-08-06 13:23:52,主世界,CaffeTEA4528,12,87,277,容器 放入物品,minecraft:chest,14,85,277,从第14号槽 放入1个 Enchanted Book
+2023-08-06 13:23:53,主世界,CaffeTEA4528,12,87,277,容器 放入物品,minecraft:chest,14,85,277,从第12号槽 放入1个 Enchanted Book
+2023-08-06 13:23:54,主世界,CaffeTEA4528,12,87,277,容器 取出物品,minecraft:chest,14,85,277,从第14号槽 取出1个 Enchanted Book
+2023-08-06 13:23:55,主世界,CaffeTEA4528,12,87,277,容器 取出物品,minecraft:chest,14,85,277,从第15号槽 取出1个 Enchanted Book
+2023-08-06 13:23:57,主世界,CaffeTEA4528,12,87,277,容器 放入物品,minecraft:chest,14,85,277,从第5号槽 放入1个 Enchanted Book
+2023-08-06 13:23:57,主世界,CaffeTEA4528,12,87,277,容器 取出物品,minecraft:chest,14,85,277,从第12号槽 取出1个 Enchanted Book
+2023-08-06 13:23:58,主世界,CaffeTEA4528,12,87,277,关闭容器,minecraft:chest,14,85,277,
+2023-08-06 13:24:00,主世界,CaffeTEA4528,12,87,277,放置方块,minecraft:planks,12,86,274,
+2023-08-06 13:24:01,主世界,CaffeTEA4528,12,87,277,放置方块,minecraft:planks,12,87,274,
+2023-08-06 13:24:03,主世界,CaffeTEA4528,11,87,277,方块接受玩家互动,minecraft:furnace,12,86,275,
+2023-08-06 13:24:03,主世界,CaffeTEA4528,11,87,277,打开容器,minecraft:furnace,12,86,275,
+2023-08-06 13:24:04,主世界,Wheat,32,92,274,破坏耕地,minecraft:farm_land,32,91,274,
+2023-08-06 13:24:04,主世界,CaffeTEA4528,11,87,277,容器 放入物品,minecraft:furnace,12,86,275,从第0号槽 放入14个 Raw Gold
+2023-08-06 13:24:05,主世界,CaffeTEA4528,11,87,277,容器 放入物品,minecraft:furnace,12,86,275,从第1号槽 放入16个 Oak Planks
+2023-08-06 13:24:05,主世界,CaffeTEA4528,11,87,277,容器 放入物品,minecraft:furnace,12,86,275,从第1号槽 放入15个 Oak Planks
+2023-08-06 13:24:09,主世界,CaffeTEA4528,12,87,277,打开容器,minecraft:crafting_table,12,85,275,
+2023-08-06 13:24:14,主世界,CaffeTEA4528,12,87,277,打开容器,minecraft:crafting_table,12,85,275,
+2023-08-06 13:24:18,主世界,CaffeTEA4528,12,87,277,放置方块,minecraft:cobblestone,15,85,276,
+2023-08-06 13:24:19,主世界,CaffeTEA4528,12,87,277,打开容器,minecraft:crafting_table,12,85,275,
+2023-08-06 13:24:21,主世界,CaffeTEA4528,12,87,277,使用物品,Cooked Beef,,,,类型：minecraft:cooked_beef
+2023-08-06 13:24:21,主世界,CaffeTEA4528,12,87,277,进食,Cooked Beef,,,,
+2023-08-06 13:24:23,主世界,CaffeTEA4528,11,87,277,方块接受玩家互动,minecraft:lit_furnace,12,86,275,
+2023-08-06 13:24:23,主世界,CaffeTEA4528,11,87,277,打开容器,minecraft:lit_furnace,12,86,275,
+2023-08-06 13:24:25,主世界,CaffeTEA4528,13,87,278,打开容器,minecraft:crafting_table,12,85,275,
+2023-08-06 13:24:36,主世界,CaffeTEA4528,-12,76,260,使用物品,Cooked Beef,,,,类型：minecraft:cooked_beef
+2023-08-06 13:24:36,主世界,CaffeTEA4528,-12,76,260,进食,Cooked Beef,,,,
+2023-08-06 13:25:01,,CaffeTEA4528,,,,离开服务器,,,,,
+2023-08-06 16:18:33,主世界,weiheping,-28,72,452,进入服务器,,,,,xuid=-14293430675514720084
+2023-08-06 16:20:45,主世界,weiheping,-28,72,452,进入服务器,,,,,xuid=-7974866105756194397
