@@ -98,6 +98,15 @@
 	
 	{
 		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "9wnLGIUh+KvhXtjEDSJijjLN60387noFdiMCUTpJnrU=" ],
+		"path" : "behavior_packs/experimental_recipe_unlocking",
+		"uuid" : "69fc13ee-daf1-4a6c-9927-2a78ba40a63f",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
 		"path" : "behavior_packs/vanilla_1.17.0",
 		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
 		"version" : "1.17.0"
@@ -236,6 +245,13 @@
 		"path" : "behavior_packs/vanilla_1.19.80",
 		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
 		"version" : "1.19.80"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.20.10",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.20.10"
 	},
 	
 	{
