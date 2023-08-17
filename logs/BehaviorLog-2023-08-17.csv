@@ -1,1 +1,1624 @@
 ﻿时间,维度,来源,X,Y,Z,事件,目标,x,y,z,附加信息
+2023-08-17 05:36:07,主世界,weiheping,5126,74,5355,玩家死亡,,,,,
+2023-08-17 05:36:07,,weiheping,,,,离开服务器,,,,,
+2023-08-17 05:36:07,主世界,weiheping,-28,72,452,进入服务器,,,,,xuid=-5620640133391124910
+2023-08-17 09:05:18,,zzyictrl,,,,开始进服,,,,,xuid=2535458195960794
+2023-08-17 09:05:22,主世界,zzyictrl,-250,195,978,进入服务器,,,,,xuid=2535458195960794
+2023-08-17 09:05:50,主世界,zzyictrl,-157,65,736,打开容器,minecraft:chest,-156,63,735,
+2023-08-17 09:05:50,主世界,zzyictrl,-157,65,736,方块接受玩家互动,minecraft:chest,-156,63,735,
+2023-08-17 09:05:56,主世界,zzyictrl,-157,65,736,关闭容器,minecraft:chest,-156,63,735,
+2023-08-17 09:05:58,主世界,zzyictrl,-157,65,737,打开容器,minecraft:undyed_shulker_box,-161,63,735,
+2023-08-17 09:05:58,主世界,zzyictrl,-157,65,737,方块接受玩家互动,minecraft:undyed_shulker_box,-161,63,735,
+2023-08-17 09:05:59,主世界,zzyictrl,-157,65,737,关闭容器,minecraft:undyed_shulker_box,-161,63,735,
+2023-08-17 09:06:00,主世界,zzyictrl,-158,65,740,打开容器,minecraft:chest,-161,63,741,
+2023-08-17 09:06:00,主世界,zzyictrl,-158,65,740,方块接受玩家互动,minecraft:chest,-161,63,741,
+2023-08-17 09:06:07,主世界,zzyictrl,-158,65,740,关闭容器,minecraft:chest,-161,63,741,
+2023-08-17 09:06:08,主世界,zzyictrl,-158,65,741,打开容器,minecraft:chest,-161,63,742,
+2023-08-17 09:06:08,主世界,zzyictrl,-158,65,741,方块接受玩家互动,minecraft:chest,-161,63,742,
+2023-08-17 09:06:09,主世界,zzyictrl,-158,65,742,关闭容器,minecraft:chest,-161,63,742,
+2023-08-17 09:06:09,主世界,zzyictrl,-158,65,742,打开容器,minecraft:chest,-161,63,743,
+2023-08-17 09:06:09,主世界,zzyictrl,-158,65,742,方块接受玩家互动,minecraft:chest,-161,63,743,
+2023-08-17 09:06:13,主世界,zzyictrl,-158,65,742,容器 放入物品,minecraft:chest,-161,63,743,从第35号槽 放入1个 Name Tag
+2023-08-17 09:06:13,主世界,zzyictrl,-158,65,742,容器 取出物品,minecraft:chest,-161,63,743,从第5号槽 取出1个 Name Tag
+2023-08-17 09:06:24,主世界,zzyictrl,-158,65,742,关闭容器,minecraft:chest,-161,63,743,
+2023-08-17 09:06:26,主世界,zzyictrl,-153,66,744,打开容器,minecraft:ender_chest,-152,64,746,
+2023-08-17 09:06:26,主世界,zzyictrl,-153,66,744,方块接受玩家互动,minecraft:ender_chest,-152,64,746,
+2023-08-17 09:06:27,主世界,zzyictrl,-153,66,744,关闭容器,minecraft:ender_chest,-152,64,746,
+2023-08-17 09:06:28,主世界,zzyictrl,-152,66,744,打开容器,minecraft:crafting_table,-152,63,746,
+2023-08-17 09:06:51,主世界,zzyictrl,-156,66,735,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 09:06:53,主世界,zzyictrl,-159,67,728,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 09:07:04,主世界,zzyictrl,-106,73,742,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 09:07:18,主世界,zzyictrl,-86,71,755,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 09:07:21,主世界,zzyictrl,-86,71,755,破坏方块,minecraft:acacia_log,-86,70,755,
+2023-08-17 09:07:22,主世界,zzyictrl,-86,71,755,捡起物品,Acacia Log,-85,70,755,1个
+2023-08-17 09:07:34,主世界,zzyictrl,-86,71,756,放置方块,minecraft:air,-86,70,755,
+2023-08-17 09:07:40,主世界,zzyictrl,-104,71,749,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 09:07:43,主世界,zzyictrl,-68,102,783,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 09:07:46,主世界,zzyictrl,21,96,805,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 09:07:49,主世界,zzyictrl,128,89,821,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 09:07:52,主世界,zzyictrl,222,87,822,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 09:07:56,主世界,zzyictrl,310,114,821,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 09:08:03,主世界,zzyictrl,473,106,790,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 09:08:04,主世界,zzyictrl,518,110,766,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 09:08:11,主世界,zzyictrl,673,115,725,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 09:08:14,主世界,zzyictrl,772,117,724,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 09:08:26,主世界,zzyictrl,888,95,685,使用物品,Potion of Night Vision,,,,类型：minecraft:potion
+2023-08-17 09:08:26,主世界,zzyictrl,888,95,685,进食,Potion of Night Vision,,,,
+2023-08-17 09:08:28,主世界,zzyictrl,888,95,686,使用物品,Glass Bottle,,,,类型：minecraft:glass_bottle
+2023-08-17 09:08:28,主世界,zzyictrl,887,95,687,使用物品,Glass Bottle,,,,类型：minecraft:glass_bottle
+2023-08-17 09:09:12,主世界,zzyictrl,888,-47,751,使用物品,Glass Bottle,,,,类型：minecraft:glass_bottle
+2023-08-17 09:09:14,主世界,zzyictrl,888,-47,751,破坏方块,minecraft:sculk_sensor,889,-50,749,
+2023-08-17 09:09:32,主世界,zzyictrl,899,-48,754,使用物品,Glass Bottle,,,,类型：minecraft:glass_bottle
+2023-08-17 09:09:34,主世界,zzyictrl,899,-48,754,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 09:09:56,主世界,zzyictrl,917,-43,795,使用物品,Cooked Mutton,,,,类型：minecraft:cooked_mutton
+2023-08-17 09:09:56,主世界,zzyictrl,917,-43,795,进食,Cooked Mutton,,,,
+2023-08-17 09:09:57,主世界,zzyictrl,916,-43,796,使用物品,Cooked Mutton,,,,类型：minecraft:cooked_mutton
+2023-08-17 09:09:57,主世界,zzyictrl,916,-43,796,进食,Cooked Mutton,,,,
+2023-08-17 09:10:24,主世界,zzyictrl,923,-46,842,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 09:10:24,主世界,zzyictrl,923,-46,842,破坏方块,minecraft:deepslate_bricks,923,-47,843,
+2023-08-17 09:10:25,主世界,zzyictrl,924,-46,843,捡起物品,Deepslate Bricks,923,-47,844,1个
+2023-08-17 09:10:29,主世界,zzyictrl,923,-41,857,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 09:10:29,主世界,zzyictrl,923,-41,857,破坏方块,minecraft:candle,921,-43,857,
+2023-08-17 09:10:30,主世界,zzyictrl,923,-41,857,破坏方块,minecraft:candle,920,-43,857,
+2023-08-17 09:10:30,主世界,zzyictrl,922,-41,857,捡起物品,Candle,922,-43,857,1个
+2023-08-17 09:10:30,主世界,zzyictrl,922,-41,857,捡起物品,Candle,921,-42,858,1个
+2023-08-17 09:10:30,主世界,zzyictrl,922,-41,857,捡起物品,Candle,921,-43,857,1个
+2023-08-17 09:10:30,主世界,zzyictrl,922,-41,857,捡起物品,Candle,922,-42,857,1个
+2023-08-17 09:10:30,主世界,zzyictrl,922,-41,857,破坏方块,minecraft:candle,919,-43,857,
+2023-08-17 09:10:30,主世界,zzyictrl,922,-41,857,捡起物品,Candle,921,-42,857,1个
+2023-08-17 09:10:30,主世界,zzyictrl,922,-41,857,捡起物品,Candle,920,-43,858,1个
+2023-08-17 09:10:30,主世界,zzyictrl,921,-41,857,捡起物品,Candle,920,-43,858,1个
+2023-08-17 09:10:30,主世界,zzyictrl,921,-41,857,捡起物品,Candle,920,-43,857,1个
+2023-08-17 09:10:31,主世界,zzyictrl,920,-41,857,破坏方块,minecraft:deepslate_bricks,917,-44,857,
+2023-08-17 09:10:31,主世界,zzyictrl,920,-41,857,捡起物品,Candle,920,-43,857,1个
+2023-08-17 09:10:31,主世界,zzyictrl,920,-41,857,捡起物品,Candle,919,-43,858,1个
+2023-08-17 09:10:31,主世界,zzyictrl,921,-41,857,破坏方块,minecraft:deepslate_bricks,918,-44,855,
+2023-08-17 09:10:32,主世界,zzyictrl,921,-41,856,破坏方块,minecraft:cracked_deepslate_bricks,918,-44,854,
+2023-08-17 09:10:32,主世界,zzyictrl,921,-41,855,破坏方块,minecraft:deepslate_bricks,918,-44,853,
+2023-08-17 09:10:33,主世界,zzyictrl,922,-41,855,破坏方块,minecraft:candle,919,-43,854,
+2023-08-17 09:10:33,主世界,zzyictrl,921,-41,855,破坏方块,minecraft:candle,919,-43,855,
+2023-08-17 09:10:34,主世界,zzyictrl,922,-41,856,使用物品,Glass Bottle,,,,类型：minecraft:glass_bottle
+2023-08-17 09:10:35,主世界,zzyictrl,921,-41,856,破坏方块,minecraft:candle,919,-43,856,
+2023-08-17 09:10:35,主世界,zzyictrl,921,-41,857,捡起物品,Candle,920,-43,856,2个
+2023-08-17 09:10:35,主世界,zzyictrl,920,-41,857,捡起物品,Candle,919,-43,857,1个
+2023-08-17 09:10:35,主世界,zzyictrl,920,-41,857,捡起物品,Candle,919,-42,857,1个
+2023-08-17 09:10:36,主世界,zzyictrl,919,-41,858,破坏方块,minecraft:candle,918,-43,857,
+2023-08-17 09:10:37,主世界,zzyictrl,919,-41,857,捡起物品,Candle,919,-43,858,1个
+2023-08-17 09:10:37,主世界,zzyictrl,919,-41,857,捡起物品,Candle,918,-42,858,1个
+2023-08-17 09:10:38,主世界,zzyictrl,918,-41,857,破坏方块,minecraft:candle,917,-43,856,
+2023-08-17 09:10:38,主世界,zzyictrl,918,-41,857,捡起物品,Candle,918,-43,855,1个
+2023-08-17 09:10:38,主世界,zzyictrl,918,-41,857,捡起物品,Candle,917,-43,856,1个
+2023-08-17 09:10:38,主世界,zzyictrl,918,-41,857,捡起物品,Candle,917,-43,856,1个
+2023-08-17 09:10:38,主世界,zzyictrl,918,-41,857,捡起物品,Candle,918,-43,855,1个
+2023-08-17 09:10:39,主世界,zzyictrl,918,-41,857,破坏方块,minecraft:candle,917,-43,855,
+2023-08-17 09:10:39,主世界,zzyictrl,919,-41,857,捡起物品,Candle,918,-43,856,1个
+2023-08-17 09:10:39,主世界,zzyictrl,919,-41,857,捡起物品,Candle,917,-43,856,1个
+2023-08-17 09:10:39,主世界,zzyictrl,919,-41,857,破坏方块,minecraft:candle,918,-43,855,
+2023-08-17 09:10:40,主世界,zzyictrl,918,-41,856,捡起物品,Candle,919,-43,855,1个
+2023-08-17 09:10:40,主世界,zzyictrl,918,-41,856,捡起物品,Candle,917,-42,855,1个
+2023-08-17 09:10:40,主世界,zzyictrl,918,-41,856,捡起物品,Candle,919,-43,856,1个
+2023-08-17 09:10:40,主世界,zzyictrl,918,-41,856,捡起物品,Candle,918,-42,855,1个
+2023-08-17 09:10:40,主世界,zzyictrl,918,-41,856,捡起物品,Candle,919,-43,855,1个
+2023-08-17 09:10:40,主世界,zzyictrl,918,-41,856,捡起物品,Candle,918,-42,855,1个
+2023-08-17 09:10:41,主世界,zzyictrl,918,-41,856,破坏方块,minecraft:candle,918,-43,854,
+2023-08-17 09:10:41,主世界,zzyictrl,918,-41,855,捡起物品,Candle,919,-42,855,1个
+2023-08-17 09:10:41,主世界,zzyictrl,918,-41,855,捡起物品,Candle,918,-43,855,1个
+2023-08-17 09:10:41,主世界,zzyictrl,918,-41,855,捡起物品,Candle,918,-43,855,1个
+2023-08-17 09:10:42,主世界,zzyictrl,919,-42,854,捡起物品,Candle,920,-43,854,1个
+2023-08-17 09:10:42,主世界,zzyictrl,919,-42,854,捡起物品,Cracked Deepslate Bricks,918,-44,855,1个
+2023-08-17 09:10:42,主世界,zzyictrl,919,-42,854,捡起物品,Deepslate Bricks,918,-44,853,1个
+2023-08-17 09:10:42,主世界,zzyictrl,919,-42,854,捡起物品,Deepslate Bricks,918,-44,855,1个
+2023-08-17 09:10:43,主世界,zzyictrl,919,-41,855,捡起物品,Candle,921,-43,855,1个
+2023-08-17 09:10:46,主世界,zzyictrl,921,-43,864,打开容器,minecraft:chest,916,-44,864,
+2023-08-17 09:10:46,主世界,zzyictrl,921,-43,864,方块接受玩家互动,minecraft:chest,916,-44,864,
+2023-08-17 09:10:47,主世界,zzyictrl,921,-43,864,关闭容器,minecraft:chest,916,-44,864,
+2023-08-17 09:11:15,主世界,zzyictrl,909,-39,843,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 09:11:30,主世界,zzyictrl,890,-47,849,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 09:11:50,主世界,zzyictrl,901,-43,883,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 09:11:55,主世界,zzyictrl,893,-30,895,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 09:12:11,主世界,zzyictrl,889,-25,896,放置方块,minecraft:air,889,-26,898,
+2023-08-17 09:12:11,主世界,zzyictrl,889,-25,896,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 09:12:11,主世界,zzyictrl,889,-25,896,破坏方块,minecraft:deepslate,889,-26,899,
+2023-08-17 09:12:12,主世界,zzyictrl,889,-25,897,破坏方块,minecraft:deepslate,889,-26,900,
+2023-08-17 09:12:12,主世界,zzyictrl,889,-25,898,破坏方块,minecraft:deepslate,889,-27,899,
+2023-08-17 09:12:13,主世界,zzyictrl,889,-25,897,破坏方块,minecraft:deepslate,889,-27,900,
+2023-08-17 09:12:13,主世界,zzyictrl,889,-25,898,破坏方块,minecraft:deepslate,889,-26,901,
+2023-08-17 09:12:13,主世界,zzyictrl,889,-25,899,捡起物品,Cobbled Deepslate,890,-27,900,3个
+2023-08-17 09:12:14,主世界,zzyictrl,889,-25,899,破坏方块,minecraft:deepslate,890,-26,901,
+2023-08-17 09:12:14,主世界,zzyictrl,889,-25,899,破坏方块,minecraft:deepslate,890,-27,901,
+2023-08-17 09:12:14,主世界,zzyictrl,889,-25,899,破坏方块,minecraft:deepslate,889,-27,901,
+2023-08-17 09:12:15,主世界,zzyictrl,889,-25,900,捡起物品,Cobbled Deepslate,889,-27,901,1个
+2023-08-17 09:12:15,主世界,zzyictrl,889,-25,900,捡起物品,Cobbled Deepslate,889,-26,901,1个
+2023-08-17 09:12:15,主世界,zzyictrl,889,-25,900,捡起物品,Cobbled Deepslate,890,-27,902,1个
+2023-08-17 09:12:15,主世界,zzyictrl,889,-25,900,捡起物品,Cobbled Deepslate,890,-27,901,1个
+2023-08-17 09:12:15,主世界,zzyictrl,889,-25,901,破坏方块,minecraft:deepslate,890,-26,902,
+2023-08-17 09:12:15,主世界,zzyictrl,889,-25,901,破坏方块,minecraft:deepslate,890,-27,902,
+2023-08-17 09:12:16,主世界,zzyictrl,889,-25,901,捡起物品,Cobbled Deepslate,890,-26,902,1个
+2023-08-17 09:12:16,主世界,zzyictrl,890,-25,901,破坏方块,minecraft:deepslate,891,-27,902,
+2023-08-17 09:12:16,主世界,zzyictrl,890,-25,901,捡起物品,Cobbled Deepslate,891,-27,902,1个
+2023-08-17 09:12:16,主世界,zzyictrl,890,-25,901,破坏方块,minecraft:deepslate,891,-26,902,
+2023-08-17 09:12:16,主世界,zzyictrl,890,-25,901,捡起物品,Cobbled Deepslate,891,-27,902,1个
+2023-08-17 09:12:17,主世界,zzyictrl,890,-25,901,破坏方块,minecraft:deepslate,892,-27,903,
+2023-08-17 09:12:17,主世界,zzyictrl,890,-25,901,捡起物品,Cobbled Deepslate,892,-27,902,2个
+2023-08-17 09:12:17,主世界,zzyictrl,890,-25,902,破坏方块,minecraft:deepslate,891,-27,903,
+2023-08-17 09:12:18,主世界,zzyictrl,890,-25,902,破坏方块,minecraft:deepslate,891,-26,903,
+2023-08-17 09:12:18,主世界,zzyictrl,890,-25,902,捡起物品,Cobbled Deepslate,892,-27,903,1个
+2023-08-17 09:12:18,主世界,zzyictrl,891,-25,902,破坏方块,minecraft:deepslate,892,-26,903,
+2023-08-17 09:12:18,主世界,zzyictrl,891,-25,902,捡起物品,Cobbled Deepslate,892,-27,904,2个
+2023-08-17 09:12:19,主世界,zzyictrl,892,-25,903,捡起物品,Cobbled Deepslate,892,-26,903,1个
+2023-08-17 09:12:30,主世界,zzyictrl,899,-25,903,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 09:12:30,主世界,zzyictrl,899,-25,903,破坏方块,minecraft:deepslate,899,-26,905,
+2023-08-17 09:12:30,主世界,zzyictrl,899,-25,903,破坏方块,minecraft:deepslate,899,-27,904,
+2023-08-17 09:12:31,主世界,zzyictrl,899,-25,903,破坏方块,minecraft:deepslate,899,-27,905,
+2023-08-17 09:12:31,主世界,zzyictrl,899,-25,904,捡起物品,Cobbled Deepslate,900,-26,904,1个
+2023-08-17 09:12:31,主世界,zzyictrl,900,-25,904,破坏方块,minecraft:deepslate,899,-27,906,
+2023-08-17 09:12:31,主世界,zzyictrl,899,-25,904,破坏方块,minecraft:deepslate,899,-26,906,
+2023-08-17 09:12:31,主世界,zzyictrl,899,-25,904,捡起物品,Cobbled Deepslate,899,-27,906,2个
+2023-08-17 09:12:32,主世界,zzyictrl,899,-25,905,破坏方块,minecraft:deepslate,899,-26,907,
+2023-08-17 09:12:33,主世界,zzyictrl,899,-25,905,破坏方块,minecraft:deepslate,899,-26,908,
+2023-08-17 09:12:33,主世界,zzyictrl,899,-25,905,破坏方块,minecraft:deepslate,899,-27,907,
+2023-08-17 09:12:33,主世界,zzyictrl,899,-25,905,捡起物品,Cobbled Deepslate,900,-27,907,2个
+2023-08-17 09:12:34,主世界,zzyictrl,899,-25,906,破坏方块,minecraft:deepslate,899,-27,908,
+2023-08-17 09:12:34,主世界,zzyictrl,899,-25,906,捡起物品,Cobbled Deepslate,899,-27,908,2个
+2023-08-17 09:12:34,主世界,zzyictrl,899,-25,906,破坏方块,minecraft:deepslate,899,-27,909,
+2023-08-17 09:12:34,主世界,zzyictrl,899,-25,907,捡起物品,Cobbled Deepslate,899,-27,908,1个
+2023-08-17 09:12:34,主世界,zzyictrl,899,-25,907,捡起物品,Cobbled Deepslate,899,-27,909,1个
+2023-08-17 09:12:35,主世界,zzyictrl,899,-25,907,破坏方块,minecraft:deepslate,899,-26,909,
+2023-08-17 09:12:35,主世界,zzyictrl,899,-25,908,破坏方块,minecraft:deepslate,899,-27,910,
+2023-08-17 09:12:35,主世界,zzyictrl,899,-25,908,捡起物品,Cobbled Deepslate,899,-27,909,1个
+2023-08-17 09:12:35,主世界,zzyictrl,899,-25,909,捡起物品,Cobbled Deepslate,900,-27,910,1个
+2023-08-17 09:12:35,主世界,zzyictrl,899,-25,909,破坏方块,minecraft:deepslate,899,-26,910,
+2023-08-17 09:12:36,主世界,zzyictrl,900,-25,910,捡起物品,Cobbled Deepslate,900,-27,911,1个
+2023-08-17 09:12:36,主世界,zzyictrl,900,-25,910,捡起物品,Cobbled Deepslate,899,-27,911,1个
+2023-08-17 09:12:42,主世界,zzyictrl,899,-25,903,放置方块,minecraft:air,899,-30,902,
+2023-08-17 09:12:43,主世界,zzyictrl,899,-25,903,放置方块,minecraft:air,899,-27,903,
+2023-08-17 09:12:44,主世界,zzyictrl,899,-25,903,放置方块,minecraft:air,899,-28,902,
+2023-08-17 09:12:45,主世界,zzyictrl,899,-25,902,放置方块,minecraft:air,899,-28,901,
+2023-08-17 09:12:46,主世界,zzyictrl,899,-25,901,放置方块,minecraft:air,899,-28,900,
+2023-08-17 09:12:47,主世界,zzyictrl,899,-25,900,放置方块,minecraft:air,899,-28,899,
+2023-08-17 09:12:48,主世界,zzyictrl,900,-25,899,放置方块,minecraft:air,899,-28,898,
+2023-08-17 09:12:52,主世界,zzyictrl,899,-25,898,放置方块,minecraft:air,899,-28,897,
+2023-08-17 09:12:53,主世界,zzyictrl,900,-25,897,放置方块,minecraft:air,899,-28,896,
+2023-08-17 09:12:53,主世界,zzyictrl,900,-25,896,放置方块,minecraft:air,899,-28,895,
+2023-08-17 09:12:54,主世界,zzyictrl,900,-25,895,放置方块,minecraft:air,899,-28,894,
+2023-08-17 09:12:55,主世界,zzyictrl,900,-25,894,放置方块,minecraft:air,899,-28,893,
+2023-08-17 09:13:00,主世界,zzyictrl,899,-24,895,放置方块,minecraft:air,899,-27,895,
+2023-08-17 09:13:01,主世界,zzyictrl,899,-23,895,放置方块,minecraft:air,899,-26,895,
+2023-08-17 09:13:01,主世界,zzyictrl,899,-22,895,放置方块,minecraft:air,899,-25,895,
+2023-08-17 09:13:04,主世界,zzyictrl,899,-22,895,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 09:13:04,主世界,zzyictrl,899,-22,895,破坏方块,minecraft:deepslate_diamond_ore,899,-21,895,
+2023-08-17 09:13:05,主世界,zzyictrl,899,-22,896,破坏方块,minecraft:deepslate_diamond_ore,899,-21,896,
+2023-08-17 09:13:05,主世界,zzyictrl,899,-22,896,捡起物品,Diamond,899,-22,896,1个
+2023-08-17 09:13:06,主世界,zzyictrl,899,-22,896,捡起物品,Diamond,899,-22,897,1个
+2023-08-17 09:13:06,主世界,zzyictrl,899,-22,896,捡起物品,Diamond,900,-22,897,1个
+2023-08-17 09:13:06,主世界,zzyictrl,899,-22,896,捡起物品,Diamond,899,-22,896,1个
+2023-08-17 09:13:17,主世界,zzyictrl,899,-25,902,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 09:13:17,主世界,zzyictrl,899,-25,902,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 09:13:18,主世界,zzyictrl,899,-25,902,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 09:13:18,主世界,zzyictrl,899,-25,902,破坏方块,minecraft:deepslate,898,-27,904,
+2023-08-17 09:13:18,主世界,zzyictrl,899,-25,903,破坏方块,minecraft:deepslate,898,-27,905,
+2023-08-17 09:13:19,主世界,zzyictrl,899,-25,903,破坏方块,minecraft:deepslate,898,-26,905,
+2023-08-17 09:13:19,主世界,zzyictrl,899,-25,904,捡起物品,Cobbled Deepslate,899,-27,905,1个
+2023-08-17 09:13:19,主世界,zzyictrl,899,-25,904,捡起物品,Cobbled Deepslate,898,-27,905,1个
+2023-08-17 09:13:19,主世界,zzyictrl,899,-25,904,破坏方块,minecraft:deepslate,898,-26,906,
+2023-08-17 09:13:19,主世界,zzyictrl,899,-25,904,捡起物品,Cobbled Deepslate,899,-26,905,1个
+2023-08-17 09:13:19,主世界,zzyictrl,899,-25,904,破坏方块,minecraft:deepslate,898,-27,906,
+2023-08-17 09:13:20,主世界,zzyictrl,899,-25,904,破坏方块,minecraft:deepslate,897,-27,904,
+2023-08-17 09:13:20,主世界,zzyictrl,899,-25,904,破坏方块,minecraft:deepslate,896,-27,904,
+2023-08-17 09:13:21,主世界,zzyictrl,899,-25,904,破坏方块,minecraft:deepslate_gold_ore,896,-26,904,
+2023-08-17 09:13:21,主世界,zzyictrl,900,-25,905,破坏方块,minecraft:deepslate,897,-25,904,
+2023-08-17 09:13:22,主世界,zzyictrl,900,-25,905,破坏方块,minecraft:deepslate,896,-25,904,
+2023-08-17 09:13:22,主世界,zzyictrl,899,-25,904,捡起物品,Cobbled Deepslate,898,-27,903,1个
+2023-08-17 09:13:22,主世界,zzyictrl,899,-25,904,破坏方块,minecraft:deepslate,895,-26,904,
+2023-08-17 09:13:23,主世界,zzyictrl,898,-25,904,捡起物品,Cobbled Deepslate,897,-27,905,1个
+2023-08-17 09:13:23,主世界,zzyictrl,898,-25,904,破坏方块,minecraft:deepslate,894,-26,904,
+2023-08-17 09:13:23,主世界,zzyictrl,898,-25,904,捡起物品,Cobbled Deepslate,896,-27,904,1个
+2023-08-17 09:13:23,主世界,zzyictrl,898,-25,904,破坏方块,minecraft:deepslate,895,-27,904,
+2023-08-17 09:13:23,主世界,zzyictrl,897,-25,904,捡起物品,Cobbled Deepslate,896,-26,904,1个
+2023-08-17 09:13:24,主世界,zzyictrl,897,-25,904,破坏方块,minecraft:deepslate,894,-27,904,
+2023-08-17 09:13:24,主世界,zzyictrl,897,-25,904,破坏方块,minecraft:deepslate,895,-25,904,
+2023-08-17 09:13:25,主世界,zzyictrl,897,-25,904,捡起物品,Cobbled Deepslate,895,-27,905,2个
+2023-08-17 09:13:25,主世界,zzyictrl,896,-25,904,破坏方块,minecraft:deepslate,894,-25,904,
+2023-08-17 09:13:25,主世界,zzyictrl,896,-25,904,捡起物品,Cobbled Deepslate,896,-25,904,1个
+2023-08-17 09:13:25,主世界,zzyictrl,896,-25,904,捡起物品,Cobbled Deepslate,895,-27,903,2个
+2023-08-17 09:13:25,主世界,zzyictrl,896,-25,904,破坏方块,minecraft:deepslate,893,-25,904,
+2023-08-17 09:13:25,主世界,zzyictrl,896,-25,904,捡起物品,Cobbled Deepslate,895,-26,904,1个
+2023-08-17 09:13:26,主世界,zzyictrl,896,-25,904,破坏方块,minecraft:deepslate,893,-26,904,
+2023-08-17 09:13:26,主世界,zzyictrl,896,-25,904,破坏方块,minecraft:deepslate,893,-27,904,
+2023-08-17 09:13:28,主世界,zzyictrl,898,-25,904,放置方块,minecraft:air,899,-27,905,
+2023-08-17 09:13:29,主世界,zzyictrl,898,-25,904,打开容器,minecraft:ender_chest,899,-27,905,
+2023-08-17 09:13:29,主世界,zzyictrl,898,-25,904,方块接受玩家互动,minecraft:ender_chest,899,-27,905,
+2023-08-17 09:13:32,主世界,zzyictrl,898,-25,904,容器 取出物品,minecraft:ender_chest,899,-27,905,从第13号槽 取出1个 弓
+2023-08-17 09:13:34,主世界,zzyictrl,898,-25,904,容器 放入物品,minecraft:ender_chest,899,-27,905,从第14号槽 放入1个 Cracked Deepslate Bricks
+2023-08-17 09:13:35,主世界,zzyictrl,898,-25,904,丢出物品,Cracked Deepslate Bricks,,,,1
+2023-08-17 09:13:35,主世界,zzyictrl,898,-25,904,容器 取出物品,minecraft:ender_chest,899,-27,905,从第14号槽 取出1个 Cracked Deepslate Bricks
+2023-08-17 09:13:36,主世界,zzyictrl,898,-25,904,关闭容器,minecraft:ender_chest,899,-27,905,
+2023-08-17 09:13:37,主世界,zzyictrl,898,-25,904,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 09:13:39,主世界,zzyictrl,899,-25,904,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 09:13:40,主世界,zzyictrl,899,-25,904,破坏方块,minecraft:ender_chest,899,-27,905,
+2023-08-17 09:13:40,主世界,zzyictrl,899,-25,905,捡起物品,Cobbled Deepslate,900,-27,906,1个
+2023-08-17 09:13:40,主世界,zzyictrl,900,-25,905,捡起物品,Cobbled Deepslate,899,-27,906,1个
+2023-08-17 09:13:43,主世界,zzyictrl,900,-25,906,丢出物品,Deepslate Bricks,,,,3
+2023-08-17 09:13:43,主世界,zzyictrl,900,-25,906,捡起物品,Cracked Deepslate Bricks,899,-27,905,1个
+2023-08-17 09:13:44,主世界,zzyictrl,900,-25,906,丢出物品,Cracked Deepslate Bricks,,,,1
+2023-08-17 09:13:44,主世界,zzyictrl,900,-25,906,捡起物品,Ender Chest,899,-27,906,1个
+2023-08-17 09:13:50,主世界,zzyictrl,900,-25,901,使用物品,弓,,,,类型：minecraft:bow
+2023-08-17 09:14:05,主世界,zzyictrl,906,-25,903,使用物品,Cooked Mutton,,,,类型：minecraft:cooked_mutton
+2023-08-17 09:14:05,主世界,zzyictrl,906,-25,903,进食,Cooked Mutton,,,,
+2023-08-17 09:14:07,主世界,zzyictrl,906,-25,903,使用物品,Cooked Mutton,,,,类型：minecraft:cooked_mutton
+2023-08-17 09:14:07,主世界,zzyictrl,906,-25,903,进食,Cooked Mutton,,,,
+2023-08-17 09:14:07,主世界,zzyictrl,906,-25,903,使用物品,Cooked Mutton,,,,类型：minecraft:cooked_mutton
+2023-08-17 09:14:10,主世界,zzyictrl,906,-25,903,放置方块,minecraft:air,906,-28,903,
+2023-08-17 09:14:11,主世界,zzyictrl,906,-25,903,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-17 09:14:13,主世界,zzyictrl,906,-25,903,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-17 09:14:14,主世界,zzyictrl,906,-25,903,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-17 09:14:15,主世界,zzyictrl,906,-25,903,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-17 09:14:17,主世界,zzyictrl,906,-25,903,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-17 09:14:19,主世界,zzyictrl,905,-25,904,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 09:14:19,主世界,zzyictrl,905,-25,904,破坏方块,minecraft:deepslate,906,-27,904,
+2023-08-17 09:14:19,主世界,zzyictrl,905,-25,904,破坏方块,minecraft:deepslate,906,-28,904,
+2023-08-17 09:14:20,主世界,zzyictrl,905,-25,904,捡起物品,Cobbled Deepslate,907,-27,905,1个
+2023-08-17 09:14:20,主世界,zzyictrl,906,-25,904,捡起物品,Cobbled Deepslate,907,-27,904,1个
+2023-08-17 09:14:25,主世界,zzyictrl,907,-26,904,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 09:14:25,主世界,zzyictrl,907,-26,904,破坏方块,minecraft:undyed_shulker_box,906,-28,903,
+2023-08-17 09:14:26,主世界,zzyictrl,907,-26,904,捡起物品,Shulker Box,907,-28,903,1个
+2023-08-17 09:14:34,主世界,zzyictrl,900,-25,899,使用物品,弓,,,,类型：minecraft:bow
+2023-08-17 09:14:35,主世界,Arrow,,,,弹射物击中,Warden,916,-50,905,
+2023-08-17 09:14:36,主世界,zzyictrl,900,-25,899,使用物品,弓,,,,类型：minecraft:bow
+2023-08-17 09:14:37,主世界,Arrow,,,,弹射物击中,Warden,916,-50,905,
+2023-08-17 09:14:39,主世界,zzyictrl,899,-25,901,使用物品,弓,,,,类型：minecraft:bow
+2023-08-17 09:14:42,主世界,zzyictrl,900,-25,901,使用物品,弓,,,,类型：minecraft:bow
+2023-08-17 09:14:46,主世界,zzyictrl,900,-25,900,使用物品,弓,,,,类型：minecraft:bow
+2023-08-17 09:14:47,主世界,Arrow,,,,弹射物击中,Warden,902,-50,904,
+2023-08-17 09:14:48,主世界,zzyictrl,900,-25,900,使用物品,弓,,,,类型：minecraft:bow
+2023-08-17 09:14:50,主世界,Arrow,,,,弹射物击中,Warden,901,-50,904,
+2023-08-17 09:14:51,主世界,zzyictrl,900,-25,900,使用物品,弓,,,,类型：minecraft:bow
+2023-08-17 09:15:00,主世界,zzyictrl,900,-25,900,使用物品,弓,,,,类型：minecraft:bow
+2023-08-17 09:15:20,主世界,zzyictrl,899,-37,903,使用物品,弓,,,,类型：minecraft:bow
+2023-08-17 09:15:26,主世界,zzyictrl,904,-49,903,玩家死亡,,,,,
+2023-08-17 09:15:29,主世界,zzyictrl,906,-49,902,重生,,,,,
+2023-08-17 09:15:34,,zzyictrl,,,,离开服务器,,,,,
+2023-08-17 11:51:43,,zzyictrl,,,,开始进服,,,,,xuid=2535458195960794
+2023-08-17 11:51:47,主世界,zzyictrl,-145,65,738,进入服务器,,,,,xuid=2535458195960794
+2023-08-17 11:51:57,主世界,zzyictrl,-121,67,738,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 11:51:59,主世界,zzyictrl,-115,68,732,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 11:52:19,主世界,zzyictrl,-218,70,823,方块接受玩家互动,minecraft:wooden_button,-219,69,822,
+2023-08-17 11:52:22,主世界,zzyictrl,-220,70,822,方块接受玩家互动,minecraft:lever,-221,68,824,
+2023-08-17 11:52:24,主世界,minecraft:sticky_piston,-221,109,832,活塞推动,minecraft:observer,-221,110,832,
+2023-08-17 11:52:24,主世界,minecraft:sticky_piston,-228,109,832,活塞推动,minecraft:observer,-228,110,832,
+2023-08-17 11:52:24,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:24,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:24,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:24,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:24,主世界,zzyictrl,-222,70,822,方块接受玩家互动,minecraft:lever,-221,68,820,
+2023-08-17 11:52:24,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:24,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:25,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:25,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:25,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:25,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:25,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:25,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:25,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:25,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:25,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:25,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:26,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:26,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:26,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:26,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:26,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:26,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:26,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:26,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:26,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:26,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:27,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:27,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:27,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:27,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:27,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:27,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:27,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:27,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:28,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:28,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:28,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:28,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:28,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:28,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:28,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:28,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:28,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:28,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:29,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:29,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:29,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:29,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:29,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:29,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:29,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:29,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:29,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:29,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:30,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:30,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:30,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:30,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:30,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:30,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:30,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:30,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:30,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:30,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:31,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:31,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:31,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:31,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:31,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:31,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:31,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:31,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:31,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:31,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:32,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:32,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:32,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:32,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:32,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:32,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:32,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:32,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:32,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:32,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:33,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:33,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:33,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,824,
+2023-08-17 11:52:33,主世界,Zombified Piglin,-225,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:33,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:33,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:33,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:33,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:33,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:33,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:33,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:33,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:34,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:34,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:34,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:34,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:34,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:34,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:34,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:34,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:34,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:34,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:34,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:34,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:35,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:35,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:35,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,824,
+2023-08-17 11:52:35,主世界,Zombified Piglin,-224,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:35,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:35,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:35,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:35,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:35,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:35,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:35,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:35,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:36,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:36,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:36,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:36,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:36,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:36,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:36,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:36,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:36,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:36,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:36,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:36,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:37,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:37,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:37,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:37,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:37,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:37,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:37,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:37,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:37,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:37,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:38,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,822,
+2023-08-17 11:52:38,主世界,Zombified Piglin,-224,68,822,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:38,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:38,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:38,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:38,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:38,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:38,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:38,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:52:38,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:52:38,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:38,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:38,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:38,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:39,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:39,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:39,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:52:39,主世界,Zombified Piglin,-225,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:39,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,822,
+2023-08-17 11:52:39,主世界,Zombified Piglin,-224,68,822,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:39,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:39,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:39,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:39,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:39,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:39,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:39,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:39,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:39,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:39,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:40,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:40,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:40,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:40,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:40,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:40,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:40,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:40,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:40,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:40,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:40,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:40,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:41,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:41,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:41,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,824,
+2023-08-17 11:52:41,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,824,
+2023-08-17 11:52:41,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,824,
+2023-08-17 11:52:41,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:41,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:41,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:41,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:41,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:41,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:41,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:41,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:41,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:41,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:42,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:42,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:42,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:42,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:42,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:42,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:42,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:42,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:42,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:42,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:43,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:43,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:43,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:43,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:43,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:43,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:43,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:43,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:44,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:44,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:44,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:44,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:44,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:44,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:44,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:44,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:44,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:44,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:44,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:44,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:44,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:52:44,主世界,Zombified Piglin,-223,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:44,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:44,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:44,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:44,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:44,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:44,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:45,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:45,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:45,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:52:45,主世界,Zombified Piglin,-225,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:45,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:45,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:45,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:45,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:45,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:45,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:45,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:52:45,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:52:45,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:52:45,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:45,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:46,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:46,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:46,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:46,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:46,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:46,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:46,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:46,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:47,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:47,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:47,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:47,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:47,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:47,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:47,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:47,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:47,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,822,
+2023-08-17 11:52:47,主世界,Zombified Piglin,-224,68,822,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:47,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:47,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:47,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:47,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:47,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:47,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:47,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:48,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:48,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:48,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:48,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:48,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:48,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:48,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:48,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:48,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:48,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:49,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:49,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:49,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:49,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:49,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:49,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:49,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,824,
+2023-08-17 11:52:49,主世界,Zombified Piglin,-224,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:49,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:49,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:49,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:49,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:49,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:49,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:49,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:52:49,主世界,Zombified Piglin,-225,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:50,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:50,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:50,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:50,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:50,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:50,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:50,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:50,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:50,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:50,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:51,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:51,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:51,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:52:51,主世界,Zombified Piglin,-225,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:51,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:51,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:51,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:51,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:51,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:51,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:51,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,822,
+2023-08-17 11:52:51,主世界,Zombified Piglin,-224,68,822,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:51,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:51,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:51,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:51,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:51,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:52:51,主世界,Zombified Piglin,-225,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:51,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:51,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:51,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:51,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:51,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:51,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:51,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:51,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:51,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:51,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:51,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:51,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:52,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:52,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:52,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:52,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:52,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:52,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:52,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:52,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:52,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:52:52,主世界,Zombified Piglin,-225,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:52,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,822,
+2023-08-17 11:52:52,主世界,Zombified Piglin,-224,68,822,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:52,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:52,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:52,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,824,
+2023-08-17 11:52:52,主世界,Zombified Piglin,-224,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:52,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:52,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:53,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:53,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:53,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:53,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:53,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:53,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:53,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:53,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:53,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:53,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:54,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:54,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:54,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,824,
+2023-08-17 11:52:54,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,824,
+2023-08-17 11:52:54,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,824,
+2023-08-17 11:52:54,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:54,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:54,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:54,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:54,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:54,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:54,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:54,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:55,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:52:55,主世界,Zombified Piglin,-225,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:55,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:55,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:55,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:55,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:55,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:55,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:55,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:55,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:55,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:55,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:55,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:55,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:55,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,822,
+2023-08-17 11:52:55,主世界,Zombified Piglin,-224,68,822,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:55,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:55,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:56,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:56,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:56,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:56,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:56,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:56,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:56,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:56,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:56,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:56,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:56,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:56,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:56,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:56,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:57,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,824,
+2023-08-17 11:52:57,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,824,
+2023-08-17 11:52:57,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:57,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:57,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:57,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:57,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:57,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:57,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:57,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:57,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:52:57,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:57,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:57,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:57,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:57,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:58,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:58,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:58,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:58,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:58,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:58,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:58,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:58,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:58,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:58,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:59,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:59,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:59,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:59,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:59,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,824,
+2023-08-17 11:52:59,主世界,Zombified Piglin,-223,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:52:59,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:59,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:52:59,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:52:59,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:52:59,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:52:59,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:00,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:00,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:00,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,824,
+2023-08-17 11:53:00,主世界,Zombified Piglin,-224,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:00,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:00,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:00,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:00,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:00,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,822,
+2023-08-17 11:53:00,主世界,Zombified Piglin,-224,68,822,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:00,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:00,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:00,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:00,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:01,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:01,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:01,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:01,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:01,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:01,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:01,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:01,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:01,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,824,
+2023-08-17 11:53:01,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:01,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:01,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,822,
+2023-08-17 11:53:01,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,822,
+2023-08-17 11:53:01,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:01,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:02,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:02,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:02,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:02,主世界,Zombified Piglin,-223,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:02,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:02,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:02,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:02,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:02,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:02,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,822,
+2023-08-17 11:53:02,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,822,
+2023-08-17 11:53:02,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:02,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:02,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:02,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:03,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:03,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:03,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:03,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:03,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:03,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:03,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:03,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:03,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:03,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:03,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:03,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:03,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:04,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:04,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:04,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:04,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:04,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:04,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:04,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:04,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:04,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:04,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:04,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:04,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:04,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:04,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:04,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:05,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:05,主世界,Zombified Piglin,-223,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:05,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:05,主世界,Zombified Piglin,-223,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:05,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:05,主世界,Zombified Piglin,-223,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:05,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:05,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:05,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:05,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:05,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:05,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:05,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:05,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:05,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:05,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:06,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:06,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:06,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:06,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:06,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:53:06,主世界,Zombified Piglin,-225,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:06,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:53:06,主世界,Zombified Piglin,-225,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:06,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:06,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:06,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:53:06,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:53:06,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:53:06,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:06,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:06,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:06,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:06,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:06,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:06,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:06,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:07,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:07,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:07,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:07,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:07,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:07,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:07,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:07,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:07,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:07,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:08,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:08,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:08,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:08,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:08,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:08,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:08,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:08,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:08,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:53:08,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:53:08,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:53:08,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:08,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:08,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:08,主世界,Zombified Piglin,-223,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:09,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:09,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:09,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,824,
+2023-08-17 11:53:09,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,824,
+2023-08-17 11:53:09,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,824,
+2023-08-17 11:53:09,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:09,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:09,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:09,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:09,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:09,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:09,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:09,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:09,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:09,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:09,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:09,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:09,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:09,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:09,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:09,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:09,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:10,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:10,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:10,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:10,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:10,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:10,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:10,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:10,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:10,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:10,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:10,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,822,
+2023-08-17 11:53:10,主世界,Zombified Piglin,-224,68,822,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:10,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:10,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:10,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:10,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:10,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:10,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:10,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:11,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:11,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:11,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:11,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:11,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,824,
+2023-08-17 11:53:11,主世界,Zombified Piglin,-225,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:11,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,824,
+2023-08-17 11:53:11,主世界,Zombified Piglin,-225,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:11,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,824,
+2023-08-17 11:53:11,主世界,Zombified Piglin,-225,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:11,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:11,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:11,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:11,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:11,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:11,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:11,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:11,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:11,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:11,主世界,zzyictrl,-222,70,823,放置方块,minecraft:air,-222,69,822,
+2023-08-17 11:53:12,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:12,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:12,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:12,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:12,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:12,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:12,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:12,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:12,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:12,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:12,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:12,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:12,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:12,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:12,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:13,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:13,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:13,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:13,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:13,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:13,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:13,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:53:13,主世界,Zombified Piglin,-225,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:13,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:53:13,主世界,Zombified Piglin,-225,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:13,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:13,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:13,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:13,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:13,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:13,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:13,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:13,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:13,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:13,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:13,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:13,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:13,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:13,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:14,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:14,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:14,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:14,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:14,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:14,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:14,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,824,
+2023-08-17 11:53:14,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,824,
+2023-08-17 11:53:14,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,824,
+2023-08-17 11:53:14,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:14,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:14,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:14,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:15,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:15,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:15,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,824,
+2023-08-17 11:53:15,主世界,Zombified Piglin,-223,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:15,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:15,主世界,Zombified Piglin,-223,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:15,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,824,
+2023-08-17 11:53:15,主世界,Zombified Piglin,-223,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:15,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:15,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:15,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:15,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:15,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:15,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:15,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,823,
+2023-08-17 11:53:15,主世界,Zombified Piglin,-225,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:15,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:15,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:16,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:16,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:16,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:16,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:16,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:16,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:16,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:16,主世界,Zombified Piglin,-223,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:16,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:16,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:16,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,824,
+2023-08-17 11:53:16,主世界,Zombified Piglin,-223,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:16,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:16,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:16,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:16,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:17,主世界,zzyictrl,-221,70,822,方块接受玩家互动,minecraft:lever,-221,68,824,
+2023-08-17 11:53:17,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:17,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:17,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:17,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:17,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:17,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:17,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:17,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:17,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:17,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:18,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:18,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:18,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:18,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:18,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:18,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:18,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:18,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:18,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,824,
+2023-08-17 11:53:18,主世界,Zombified Piglin,-223,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:18,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,824,
+2023-08-17 11:53:18,主世界,Zombified Piglin,-223,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:18,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:18,主世界,Zombified Piglin,-223,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:18,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:18,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:18,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:18,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:18,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:18,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:19,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,825,
+2023-08-17 11:53:19,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,825,
+2023-08-17 11:53:19,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,822,
+2023-08-17 11:53:19,主世界,Zombified Piglin,-224,68,822,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:19,主世界,minecraft:sticky_piston,-228,108,827,活塞推动,minecraft:observer,-228,108,826,
+2023-08-17 11:53:19,主世界,minecraft:sticky_piston,-221,108,827,活塞推动,minecraft:observer,-221,108,826,
+2023-08-17 11:53:19,主世界,minecraft:sticky_piston,-221,109,832,活塞推动,minecraft:observer,-221,111,832,
+2023-08-17 11:53:19,主世界,minecraft:sticky_piston,-228,109,832,活塞推动,minecraft:observer,-228,111,832,
+2023-08-17 11:53:19,主世界,minecraft:sticky_piston,-221,109,832,活塞推动,minecraft:observer,-221,110,832,
+2023-08-17 11:53:19,主世界,Trident,,,,弹射物击中,Zombified Piglin,-225,68,822,
+2023-08-17 11:53:19,主世界,Zombified Piglin,-225,68,822,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:19,主世界,minecraft:sticky_piston,-228,109,832,活塞推动,minecraft:observer,-228,110,832,
+2023-08-17 11:53:19,主世界,minecraft:sticky_piston,-221,109,832,活塞推动,minecraft:observer,-221,111,832,
+2023-08-17 11:53:19,主世界,minecraft:sticky_piston,-228,109,832,活塞推动,minecraft:observer,-228,111,832,
+2023-08-17 11:53:19,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:19,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:19,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:20,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:20,主世界,Zombified Piglin,-223,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:20,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:20,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:21,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:21,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:21,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:21,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:21,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:21,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:22,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:22,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:22,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:23,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:23,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:23,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:23,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,824,
+2023-08-17 11:53:23,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,824,
+2023-08-17 11:53:23,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,824,
+2023-08-17 11:53:23,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:23,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:23,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:23,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:23,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:23,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:24,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:24,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:24,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:24,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:24,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:25,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:25,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:25,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:25,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:25,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,822,
+2023-08-17 11:53:25,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,822,
+2023-08-17 11:53:25,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,824,
+2023-08-17 11:53:25,主世界,Zombified Piglin,-223,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:26,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:26,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:26,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:26,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:26,主世界,Zombified Piglin,-223,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:26,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:26,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:27,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:27,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:27,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:27,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:27,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,824,
+2023-08-17 11:53:27,主世界,Zombified Piglin,-223,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:27,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,824,
+2023-08-17 11:53:27,主世界,Zombified Piglin,-224,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:27,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:27,主世界,Zombified Piglin,-224,68,823,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:28,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:28,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:28,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,823,
+2023-08-17 11:53:29,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:29,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:29,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,823,
+2023-08-17 11:53:29,主世界,Trident,,,,弹射物击中,Zombified Piglin,-223,68,824,
+2023-08-17 11:53:29,主世界,Zombified Piglin,-223,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:29,主世界,Trident,,,,弹射物击中,Zombified Piglin,-224,68,824,
+2023-08-17 11:53:29,主世界,Zombified Piglin,-224,68,824,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 11:53:36,主世界,zzyictrl,-220,70,822,方块接受玩家互动,minecraft:lever,-221,68,820,
+2023-08-17 11:53:38,主世界,zzyictrl,-221,70,823,方块接受玩家互动,minecraft:wooden_button,-221,69,822,
+2023-08-17 11:53:43,主世界,zzyictrl,-209,65,823,打开容器,minecraft:ender_chest,-208,63,819,
+2023-08-17 11:53:43,主世界,zzyictrl,-209,65,823,方块接受玩家互动,minecraft:ender_chest,-208,63,819,
+2023-08-17 11:53:46,主世界,zzyictrl,-209,65,822,容器 放入物品,minecraft:ender_chest,-208,63,819,从第13号槽 放入1个 Shulker Box
+2023-08-17 11:53:47,主世界,zzyictrl,-209,65,822,容器 放入物品,minecraft:ender_chest,-208,63,819,从第14号槽 放入1个 Shulker Box
+2023-08-17 11:53:47,主世界,zzyictrl,-209,65,822,容器 放入物品,minecraft:ender_chest,-208,63,819,从第16号槽 放入1个 Shulker Box
+2023-08-17 11:53:52,主世界,zzyictrl,-209,65,822,关闭容器,minecraft:ender_chest,-208,63,819,
+2023-08-17 11:53:53,主世界,zzyictrl,-212,65,818,方块接受玩家互动,minecraft:smithing_table,-216,63,814,
+2023-08-17 11:53:53,主世界,zzyictrl,-212,65,818,打开容器,minecraft:smithing_table,-216,63,814,
+2023-08-17 11:54:02,主世界,zzyictrl,-210,65,820,打开容器,minecraft:ender_chest,-208,63,819,
+2023-08-17 11:54:02,主世界,zzyictrl,-210,65,820,方块接受玩家互动,minecraft:ender_chest,-208,63,819,
+2023-08-17 11:54:10,主世界,zzyictrl,-210,65,820,容器 取出物品,minecraft:ender_chest,-208,63,819,从第3号槽 取出1个 Lime Shulker Box
+2023-08-17 11:54:11,主世界,zzyictrl,-210,65,820,关闭容器,minecraft:ender_chest,-208,63,819,
+2023-08-17 11:54:11,主世界,zzyictrl,-210,65,819,放置方块,minecraft:air,-209,63,819,
+2023-08-17 11:54:12,主世界,zzyictrl,-210,65,819,打开容器,minecraft:lime_shulker_box,-209,63,819,
+2023-08-17 11:54:12,主世界,zzyictrl,-210,65,819,方块接受玩家互动,minecraft:lime_shulker_box,-209,63,819,
+2023-08-17 11:54:15,主世界,zzyictrl,-210,65,819,容器 取出物品,minecraft:lime_shulker_box,-209,63,819,从第16号槽 取出16个 Block of Netherite
+2023-08-17 11:54:16,主世界,zzyictrl,-210,65,819,关闭容器,minecraft:lime_shulker_box,-209,63,819,
+2023-08-17 11:54:26,主世界,zzyictrl,-211,65,819,打开容器,minecraft:lime_shulker_box,-209,63,819,
+2023-08-17 11:54:26,主世界,zzyictrl,-211,65,819,方块接受玩家互动,minecraft:lime_shulker_box,-209,63,819,
+2023-08-17 11:54:31,主世界,zzyictrl,-211,65,819,容器 取出物品,minecraft:lime_shulker_box,-209,63,819,从第3号槽 取出18个 Stick
+2023-08-17 11:54:32,主世界,zzyictrl,-211,65,819,关闭容器,minecraft:lime_shulker_box,-209,63,819,
+2023-08-17 11:54:34,主世界,zzyictrl,-218,65,813,打开容器,minecraft:crafting_table,-221,63,812,
+2023-08-17 11:54:45,主世界,zzyictrl,-218,65,813,打开容器,minecraft:crafting_table,-221,63,812,
+2023-08-17 11:54:56,主世界,zzyictrl,-211,65,817,打开容器,minecraft:lime_shulker_box,-209,63,819,
+2023-08-17 11:54:56,主世界,zzyictrl,-211,65,817,方块接受玩家互动,minecraft:lime_shulker_box,-209,63,819,
+2023-08-17 11:54:58,主世界,zzyictrl,-211,65,817,容器 放入物品,minecraft:lime_shulker_box,-209,63,819,从第3号槽 放入16个 Block of Netherite
+2023-08-17 11:55:00,主世界,zzyictrl,-211,65,818,关闭容器,minecraft:lime_shulker_box,-209,63,819,
+2023-08-17 11:55:02,主世界,zzyictrl,-210,65,819,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:55:02,主世界,zzyictrl,-210,65,820,破坏方块,minecraft:lime_shulker_box,-209,63,819,
+2023-08-17 11:55:03,主世界,zzyictrl,-209,65,819,捡起物品,Lime Shulker Box,-210,64,820,1个
+2023-08-17 11:55:03,主世界,zzyictrl,-209,65,820,打开容器,minecraft:ender_chest,-208,63,819,
+2023-08-17 11:55:03,主世界,zzyictrl,-209,65,819,方块接受玩家互动,minecraft:ender_chest,-208,63,819,
+2023-08-17 11:55:04,主世界,zzyictrl,-208,65,819,容器 放入物品,minecraft:ender_chest,-208,63,819,从第3号槽 放入1个 Lime Shulker Box
+2023-08-17 11:55:06,主世界,zzyictrl,-208,65,819,容器 放入物品,minecraft:ender_chest,-208,63,819,从第17号槽 放入1个 Potion of Night Vision
+2023-08-17 11:55:06,主世界,zzyictrl,-208,65,819,容器 放入物品,minecraft:ender_chest,-208,63,819,从第18号槽 放入1个 Potion of Night Vision
+2023-08-17 11:55:08,主世界,zzyictrl,-208,65,819,容器 放入物品,minecraft:ender_chest,-208,63,819,从第19号槽 放入1个 Potion of Night Vision
+2023-08-17 11:55:08,主世界,zzyictrl,-208,65,819,容器 放入物品,minecraft:ender_chest,-208,63,819,从第20号槽 放入1个 Potion of Night Vision
+2023-08-17 11:55:08,主世界,zzyictrl,-208,65,819,容器 放入物品,minecraft:ender_chest,-208,63,819,从第21号槽 放入1个 Potion of Water Breathing
+2023-08-17 11:55:09,主世界,zzyictrl,-208,65,819,容器 放入物品,minecraft:ender_chest,-208,63,819,从第22号槽 放入15个 Blaze Powder
+2023-08-17 11:55:10,主世界,zzyictrl,-208,65,819,容器 放入物品,minecraft:ender_chest,-208,63,819,从第23号槽 放入12个 Gunpowder
+2023-08-17 11:55:11,主世界,zzyictrl,-208,65,819,容器 放入物品,minecraft:ender_chest,-208,63,819,从第24号槽 放入1个 Name Tag
+2023-08-17 11:55:12,主世界,zzyictrl,-208,65,819,容器 放入物品,minecraft:ender_chest,-208,63,819,从第25号槽 放入11个 Glass Bottle
+2023-08-17 11:55:12,主世界,zzyictrl,-208,65,819,容器 放入物品,minecraft:ender_chest,-208,63,819,从第26号槽 放入1个 Potion of Night Vision
+2023-08-17 11:55:27,主世界,zzyictrl,-208,65,819,关闭容器,minecraft:ender_chest,-208,63,819,
+2023-08-17 11:55:28,主世界,zzyictrl,-209,65,820,打开容器,minecraft:ender_chest,-208,63,819,
+2023-08-17 11:55:28,主世界,zzyictrl,-209,65,820,方块接受玩家互动,minecraft:ender_chest,-208,63,819,
+2023-08-17 11:55:29,主世界,zzyictrl,-209,65,820,关闭容器,minecraft:ender_chest,-208,63,819,
+2023-08-17 11:55:37,主世界,zzyictrl,-200,66,806,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 11:55:50,主世界,zzyictrl,-101,70,734,切换维度,前往下界,,,,
+2023-08-17 11:56:00,下界,zzyictrl,-34,117,88,打开容器,minecraft:chest,-34,115,83,
+2023-08-17 11:56:00,下界,zzyictrl,-34,117,88,方块接受玩家互动,minecraft:chest,-34,115,83,
+2023-08-17 11:56:02,下界,zzyictrl,-34,117,87,关闭容器,minecraft:chest,-34,115,83,
+2023-08-17 11:56:03,下界,zzyictrl,-33,117,86,打开容器,minecraft:chest,-34,115,83,
+2023-08-17 11:56:03,下界,zzyictrl,-33,117,86,方块接受玩家互动,minecraft:chest,-34,115,83,
+2023-08-17 11:56:04,下界,zzyictrl,-33,117,86,容器 放入物品,minecraft:chest,-34,115,83,从第1号槽 放入1个 Oak Boat
+2023-08-17 11:56:05,下界,zzyictrl,-32,117,85,关闭容器,minecraft:chest,-34,115,83,
+2023-08-17 11:56:16,下界,zzyictrl,-32,116,104,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:56:16,下界,zzyictrl,-32,116,104,破坏方块,minecraft:netherrack,-32,115,102,
+2023-08-17 11:56:16,下界,zzyictrl,-32,116,104,捡起物品,Netherrack,-31,115,103,1个
+2023-08-17 11:56:17,下界,zzyictrl,-31,116,104,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:56:18,下界,zzyictrl,-31,116,104,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:56:18,下界,zzyictrl,-31,116,104,破坏方块,minecraft:netherrack,-31,115,102,
+2023-08-17 11:56:18,下界,zzyictrl,-31,116,104,破坏方块,minecraft:netherrack,-30,115,102,
+2023-08-17 11:56:19,下界,zzyictrl,-31,116,104,捡起物品,Netherrack,-31,115,102,1个
+2023-08-17 11:56:20,下界,zzyictrl,-29,114,102,捡起物品,Netherrack,-29,112,102,1个
+2023-08-17 11:56:25,下界,zzyictrl,-13,108,100,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:56:26,下界,zzyictrl,-13,108,101,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:56:26,下界,zzyictrl,-13,108,101,破坏方块,minecraft:netherrack,-11,104,101,
+2023-08-17 11:56:26,下界,zzyictrl,-14,108,101,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:56:26,下界,zzyictrl,-14,108,101,破坏方块,minecraft:netherrack,-13,105,101,
+2023-08-17 11:56:27,下界,zzyictrl,-14,108,101,破坏方块,minecraft:netherrack,-12,104,101,
+2023-08-17 11:56:27,下界,zzyictrl,-12,107,101,捡起物品,Netherrack,-12,105,101,1个
+2023-08-17 11:56:28,下界,zzyictrl,-10,106,102,捡起物品,Netherrack,-12,104,102,2个
+2023-08-17 11:56:34,下界,zzyictrl,13,105,111,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:56:34,下界,zzyictrl,12,105,110,破坏方块,minecraft:quartz_ore,13,105,110,
+2023-08-17 11:56:35,下界,zzyictrl,13,105,110,破坏方块,minecraft:quartz_ore,13,105,109,
+2023-08-17 11:56:35,下界,zzyictrl,13,105,110,破坏方块,minecraft:quartz_ore,14,105,109,
+2023-08-17 11:56:35,下界,zzyictrl,13,105,110,破坏方块,minecraft:quartz_ore,14,104,109,
+2023-08-17 11:56:35,下界,zzyictrl,13,105,110,捡起物品,Nether Quartz,13,105,110,1个
+2023-08-17 11:56:35,下界,zzyictrl,13,105,110,捡起物品,Nether Quartz,13,105,110,1个
+2023-08-17 11:56:35,下界,zzyictrl,13,105,110,捡起物品,Nether Quartz,13,104,110,1个
+2023-08-17 11:56:35,下界,zzyictrl,13,105,110,捡起物品,Nether Quartz,14,105,109,1个
+2023-08-17 11:56:35,下界,zzyictrl,13,105,110,捡起物品,Nether Quartz,13,105,110,1个
+2023-08-17 11:56:35,下界,zzyictrl,13,105,110,捡起物品,Nether Quartz,14,104,109,1个
+2023-08-17 11:56:35,下界,zzyictrl,13,105,110,捡起物品,Nether Quartz,14,105,110,1个
+2023-08-17 11:56:35,下界,zzyictrl,13,105,110,破坏方块,minecraft:quartz_ore,14,104,110,
+2023-08-17 11:56:36,下界,zzyictrl,13,105,110,捡起物品,Nether Quartz,14,104,109,1个
+2023-08-17 11:56:36,下界,zzyictrl,13,105,110,破坏方块,minecraft:quartz_ore,14,105,110,
+2023-08-17 11:56:36,下界,zzyictrl,13,105,110,破坏方块,minecraft:quartz_ore,14,105,111,
+2023-08-17 11:56:39,下界,zzyictrl,13,105,110,破坏方块,minecraft:quartz_ore,15,104,110,
+2023-08-17 11:56:39,下界,zzyictrl,13,105,110,破坏方块,minecraft:quartz_ore,15,105,110,
+2023-08-17 11:56:39,下界,zzyictrl,13,105,110,破坏方块,minecraft:quartz_ore,15,105,111,
+2023-08-17 11:56:39,下界,zzyictrl,13,105,110,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:56:39,下界,zzyictrl,13,105,110,破坏方块,minecraft:quartz_ore,15,104,111,
+2023-08-17 11:56:40,下界,zzyictrl,14,106,110,捡起物品,Nether Quartz,14,104,109,1个
+2023-08-17 11:56:40,下界,zzyictrl,14,106,110,捡起物品,Nether Quartz,15,104,111,5个
+2023-08-17 11:56:40,下界,zzyictrl,15,106,111,破坏方块,minecraft:quartz_ore,15,105,112,
+2023-08-17 11:56:40,下界,zzyictrl,15,106,111,捡起物品,Nether Quartz,15,104,110,1个
+2023-08-17 11:56:40,下界,zzyictrl,15,106,111,捡起物品,Nether Quartz,15,105,110,1个
+2023-08-17 11:56:40,下界,zzyictrl,15,106,111,捡起物品,Nether Quartz,15,105,111,1个
+2023-08-17 11:56:40,下界,zzyictrl,15,106,111,捡起物品,Nether Quartz,15,105,110,1个
+2023-08-17 11:56:40,下界,zzyictrl,15,106,111,捡起物品,Nether Quartz,15,105,111,1个
+2023-08-17 11:56:40,下界,zzyictrl,15,106,111,捡起物品,Nether Quartz,16,104,111,1个
+2023-08-17 11:56:40,下界,zzyictrl,15,106,111,捡起物品,Nether Quartz,15,104,111,1个
+2023-08-17 11:56:40,下界,zzyictrl,15,106,111,破坏方块,minecraft:quartz_ore,16,105,111,
+2023-08-17 11:56:40,下界,zzyictrl,15,106,111,捡起物品,Nether Quartz,16,105,112,1个
+2023-08-17 11:56:40,下界,zzyictrl,15,106,111,捡起物品,Nether Quartz,15,105,112,1个
+2023-08-17 11:56:40,下界,zzyictrl,15,106,111,捡起物品,Nether Quartz,15,103,112,1个
+2023-08-17 11:56:40,下界,zzyictrl,15,106,111,破坏方块,minecraft:netherrack,17,105,111,
+2023-08-17 11:56:41,下界,zzyictrl,15,106,111,破坏方块,minecraft:quartz_ore,16,104,111,
+2023-08-17 11:56:41,下界,zzyictrl,15,106,111,捡起物品,Nether Quartz,16,105,112,1个
+2023-08-17 11:56:41,下界,zzyictrl,15,106,111,捡起物品,Nether Quartz,16,105,111,1个
+2023-08-17 11:56:41,下界,zzyictrl,15,106,111,破坏方块,minecraft:quartz_ore,16,105,112,
+2023-08-17 11:56:41,下界,zzyictrl,15,106,111,捡起物品,Nether Quartz,16,104,112,1个
+2023-08-17 11:56:41,下界,zzyictrl,15,106,111,破坏方块,minecraft:quartz_ore,16,104,112,
+2023-08-17 11:56:41,下界,zzyictrl,15,106,111,捡起物品,Nether Quartz,17,104,112,2个
+2023-08-17 11:56:41,下界,zzyictrl,15,106,111,捡起物品,Nether Quartz,17,105,112,1个
+2023-08-17 11:56:42,下界,zzyictrl,15,106,111,捡起物品,Nether Quartz,16,105,113,1个
+2023-08-17 11:56:42,下界,zzyictrl,15,106,111,捡起物品,Nether Quartz,16,105,113,1个
+2023-08-17 11:56:42,下界,zzyictrl,15,106,111,捡起物品,Nether Quartz,16,105,113,1个
+2023-08-17 11:56:42,下界,zzyictrl,16,106,112,捡起物品,Nether Quartz,16,104,111,1个
+2023-08-17 11:56:42,下界,zzyictrl,16,106,112,捡起物品,Netherrack,17,105,112,1个
+2023-08-17 11:56:43,下界,zzyictrl,15,104,113,捡起物品,Nether Quartz,16,102,112,1个
+2023-08-17 11:56:43,下界,zzyictrl,15,104,113,捡起物品,Nether Quartz,15,102,113,1个
+2023-08-17 11:57:07,下界,zzyictrl,51,63,165,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 11:57:11,下界,zzyictrl,146,55,84,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 11:57:14,下界,zzyictrl,157,75,10,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 11:57:21,下界,zzyictrl,215,72,-161,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 11:57:35,下界,zzyictrl,151,33,-233,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-17 11:57:35,下界,zzyictrl,151,33,-233,进食,Golden Apple,,,,
+2023-08-17 11:57:37,下界,zzyictrl,151,33,-233,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-17 11:57:39,下界,zzyictrl,151,32,-233,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-17 11:57:47,下界,zzyictrl,147,29,-230,玩家死亡,,,,,
+2023-08-17 11:57:48,下界,zzyictrl,147,29,-230,切换维度,前往主世界,,,,
+2023-08-17 11:57:49,主世界,zzyictrl,-143,65,733,重生,,,,,
+2023-08-17 11:58:03,主世界,zzyictrl,-100,70,734,切换维度,前往下界,,,,
+2023-08-17 11:58:37,下界,zzyictrl,72,64,161,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 11:58:40,下界,zzyictrl,134,62,84,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 11:58:44,下界,zzyictrl,111,83,-4,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 11:58:51,下界,zzyictrl,115,79,-35,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 11:58:57,下界,zzyictrl,124,66,-119,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 11:59:05,下界,zzyictrl,136,53,-224,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 11:59:09,下界,zzyictrl,198,75,-172,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 11:59:13,下界,zzyictrl,263,74,-155,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 11:59:16,下界,zzyictrl,314,72,-224,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 11:59:20,下界,zzyictrl,387,84,-244,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 11:59:45,下界,zzyictrl,387,49,-315,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:59:45,下界,zzyictrl,387,49,-315,破坏方块,minecraft:netherrack,384,48,-315,
+2023-08-17 11:59:45,下界,zzyictrl,387,49,-315,破坏方块,minecraft:netherrack,383,48,-315,
+2023-08-17 11:59:45,下界,zzyictrl,387,49,-315,破坏方块,minecraft:netherrack,384,49,-315,
+2023-08-17 11:59:45,下界,zzyictrl,386,49,-315,破坏方块,minecraft:netherrack,383,49,-315,
+2023-08-17 11:59:45,下界,zzyictrl,386,49,-315,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:59:46,下界,zzyictrl,386,49,-315,捡起物品,Netherrack,385,48,-315,1个
+2023-08-17 11:59:46,下界,zzyictrl,385,49,-315,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:59:46,下界,zzyictrl,385,49,-315,破坏方块,minecraft:netherrack,379,51,-315,
+2023-08-17 11:59:46,下界,zzyictrl,385,50,-315,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:59:46,下界,zzyictrl,385,50,-315,捡起物品,Netherrack,384,48,-315,1个
+2023-08-17 11:59:46,下界,zzyictrl,385,50,-315,破坏方块,minecraft:netherrack,384,50,-315,
+2023-08-17 11:59:46,下界,zzyictrl,385,50,-315,捡起物品,Netherrack,383,48,-315,1个
+2023-08-17 11:59:47,下界,zzyictrl,385,50,-315,捡起物品,Netherrack,383,49,-314,1个
+2023-08-17 11:59:47,下界,zzyictrl,385,50,-315,破坏方块,minecraft:netherrack,380,52,-315,
+2023-08-17 11:59:47,下界,zzyictrl,384,50,-315,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:59:47,下界,zzyictrl,383,50,-315,捡起物品,Netherrack,385,50,-314,1个
+2023-08-17 11:59:49,下界,zzyictrl,383,52,-317,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:59:50,下界,zzyictrl,383,52,-317,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:59:50,下界,zzyictrl,383,52,-317,破坏方块,minecraft:netherrack,383,51,-318,
+2023-08-17 11:59:50,下界,zzyictrl,383,53,-317,捡起物品,Netherrack,384,51,-318,1个
+2023-08-17 11:59:52,下界,zzyictrl,382,56,-323,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:59:53,下界,zzyictrl,382,56,-323,破坏方块,minecraft:netherrack,380,55,-323,
+2023-08-17 11:59:53,下界,zzyictrl,382,56,-323,破坏方块,minecraft:netherrack,379,55,-323,
+2023-08-17 11:59:53,下界,zzyictrl,382,56,-323,破坏方块,minecraft:netherrack,379,54,-323,
+2023-08-17 11:59:53,下界,zzyictrl,382,56,-323,破坏方块,minecraft:netherrack,380,54,-323,
+2023-08-17 11:59:53,下界,zzyictrl,382,56,-323,破坏方块,minecraft:netherrack,378,54,-323,
+2023-08-17 11:59:53,下界,zzyictrl,382,56,-323,破坏方块,minecraft:netherrack,377,54,-323,
+2023-08-17 11:59:53,下界,zzyictrl,382,56,-323,破坏方块,minecraft:netherrack,377,53,-323,
+2023-08-17 11:59:53,下界,zzyictrl,381,56,-323,捡起物品,Netherrack,381,55,-323,1个
+2023-08-17 11:59:53,下界,zzyictrl,381,56,-323,破坏方块,minecraft:netherrack,376,53,-323,
+2023-08-17 11:59:53,下界,zzyictrl,381,56,-323,破坏方块,minecraft:netherrack,376,54,-323,
+2023-08-17 11:59:53,下界,zzyictrl,381,56,-323,破坏方块,minecraft:netherrack,375,53,-323,
+2023-08-17 11:59:53,下界,zzyictrl,381,56,-322,捡起物品,Netherrack,381,55,-322,1个
+2023-08-17 11:59:53,下界,zzyictrl,381,56,-322,破坏方块,minecraft:netherrack,378,55,-323,
+2023-08-17 11:59:54,下界,zzyictrl,380,56,-322,捡起物品,Netherrack,379,54,-323,1个
+2023-08-17 11:59:54,下界,zzyictrl,380,56,-322,捡起物品,Netherrack,379,54,-323,1个
+2023-08-17 11:59:54,下界,zzyictrl,380,56,-322,破坏方块,minecraft:netherrack,375,54,-323,
+2023-08-17 11:59:54,下界,zzyictrl,380,56,-322,破坏方块,minecraft:netherrack,374,54,-323,
+2023-08-17 11:59:54,下界,zzyictrl,380,56,-322,破坏方块,minecraft:netherrack,377,55,-323,
+2023-08-17 11:59:54,下界,zzyictrl,380,56,-322,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:59:54,下界,zzyictrl,380,56,-322,捡起物品,Netherrack,379,55,-323,1个
+2023-08-17 11:59:54,下界,zzyictrl,380,56,-322,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:59:54,下界,zzyictrl,380,56,-322,破坏方块,minecraft:netherrack,373,54,-323,
+2023-08-17 11:59:54,下界,zzyictrl,380,56,-322,捡起物品,Netherrack,378,54,-323,1个
+2023-08-17 11:59:54,下界,zzyictrl,380,56,-322,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:59:54,下界,zzyictrl,380,56,-322,破坏方块,minecraft:netherrack,376,55,-323,
+2023-08-17 11:59:54,下界,zzyictrl,379,56,-322,捡起物品,Netherrack,378,55,-322,1个
+2023-08-17 11:59:55,下界,zzyictrl,379,56,-322,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:59:55,下界,zzyictrl,379,56,-322,破坏方块,minecraft:netherrack,375,55,-323,
+2023-08-17 11:59:55,下界,zzyictrl,378,56,-322,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:59:55,下界,zzyictrl,378,56,-322,破坏方块,minecraft:netherrack,374,55,-323,
+2023-08-17 11:59:55,下界,zzyictrl,377,55,-323,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:59:55,下界,zzyictrl,377,55,-323,破坏方块,minecraft:netherrack,372,54,-324,
+2023-08-17 11:59:55,下界,zzyictrl,377,55,-323,捡起物品,Netherrack,377,53,-322,2个
+2023-08-17 11:59:55,下界,zzyictrl,377,55,-323,捡起物品,Netherrack,377,53,-323,2个
+2023-08-17 11:59:55,下界,zzyictrl,377,55,-323,捡起物品,Netherrack,375,53,-323,2个
+2023-08-17 11:59:55,下界,zzyictrl,377,55,-323,捡起物品,Netherrack,376,53,-322,1个
+2023-08-17 11:59:55,下界,zzyictrl,377,55,-323,捡起物品,Netherrack,375,53,-323,1个
+2023-08-17 11:59:56,下界,zzyictrl,376,56,-323,捡起物品,Netherrack,374,54,-323,1个
+2023-08-17 11:59:56,下界,zzyictrl,376,56,-323,捡起物品,Netherrack,374,54,-323,1个
+2023-08-17 11:59:57,下界,zzyictrl,375,56,-322,捡起物品,Netherrack,373,54,-323,1个
+2023-08-17 11:59:57,下界,zzyictrl,375,56,-322,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 11:59:57,下界,zzyictrl,375,56,-322,破坏方块,minecraft:netherrack,373,55,-323,
+2023-08-17 11:59:58,下界,zzyictrl,374,56,-323,捡起物品,Netherrack,374,54,-323,1个
+2023-08-17 12:00:00,下界,zzyictrl,373,55,-322,捡起物品,Netherrack,373,53,-323,1个
+2023-08-17 12:00:02,下界,zzyictrl,369,56,-322,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 12:00:06,下界,zzyictrl,300,67,-346,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 12:00:08,下界,zzyictrl,337,71,-411,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 12:00:19,下界,zzyictrl,283,36,-506,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 12:00:46,下界,zzyictrl,335,50,-632,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 12:01:04,下界,zzyictrl,385,36,-633,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 12:01:12,下界,zzyictrl,386,37,-631,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-17 12:01:12,下界,zzyictrl,386,37,-631,进食,Golden Apple,,,,
+2023-08-17 12:01:14,下界,zzyictrl,386,37,-631,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-17 12:01:14,下界,zzyictrl,386,37,-631,进食,Golden Apple,,,,
+2023-08-17 12:01:14,下界,zzyictrl,386,37,-631,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-17 12:01:26,,zzyictrl,,,,离开服务器,,,,,
+2023-08-17 12:02:14,,zzyictrl,,,,开始进服,,,,,xuid=2535458195960794
+2023-08-17 12:02:34,下界,zzyictrl,386,37,-632,进入服务器,,,,,xuid=2535458195960794
+2023-08-17 12:02:38,下界,zzyictrl,388,37,-634,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 12:02:42,下界,zzyictrl,454,53,-678,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 12:02:46,下界,zzyictrl,413,44,-774,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 12:03:01,下界,zzyictrl,378,45,-805,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 12:03:02,下界,zzyictrl,378,45,-805,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 12:03:34,下界,zzyictrl,395,36,-822,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 12:03:35,下界,zzyictrl,395,36,-822,打开容器,minecraft:chest,394,33,-820,
+2023-08-17 12:03:35,下界,zzyictrl,395,36,-821,方块接受玩家互动,minecraft:chest,394,33,-820,
+2023-08-17 12:03:39,下界,zzyictrl,395,36,-821,容器 取出物品,minecraft:chest,394,33,-820,从第18号槽 取出1个 Gilded Blackstone
+2023-08-17 12:03:39,下界,zzyictrl,395,36,-821,容器 放入物品,minecraft:chest,394,33,-820,从第26号槽 放入2个 Gilded Blackstone
+2023-08-17 12:03:39,下界,zzyictrl,395,36,-821,容器 取出物品,minecraft:chest,394,33,-820,从第10号槽 取出2个 Gilded Blackstone
+2023-08-17 12:03:39,下界,zzyictrl,395,36,-821,容器 放入物品,minecraft:chest,394,33,-820,从第26号槽 放入4个 Gilded Blackstone
+2023-08-17 12:03:40,下界,zzyictrl,395,36,-821,容器 取出物品,minecraft:chest,394,33,-820,从第26号槽 取出4个 Gilded Blackstone
+2023-08-17 12:03:41,下界,zzyictrl,395,36,-821,关闭容器,minecraft:chest,394,33,-820,
+2023-08-17 12:03:53,下界,zzyictrl,391,38,-826,放置方块,minecraft:air,390,35,-827,
+2023-08-17 12:03:54,下界,zzyictrl,391,39,-826,放置方块,minecraft:air,390,36,-827,
+2023-08-17 12:03:54,下界,zzyictrl,391,40,-826,放置方块,minecraft:air,390,37,-827,
+2023-08-17 12:03:55,下界,zzyictrl,391,39,-826,放置方块,minecraft:air,390,37,-827,
+2023-08-17 12:03:55,下界,zzyictrl,391,39,-826,放置方块,minecraft:air,390,37,-827,
+2023-08-17 12:03:56,下界,zzyictrl,391,40,-826,放置方块,minecraft:air,390,37,-827,
+2023-08-17 12:03:57,下界,zzyictrl,391,41,-826,放置方块,minecraft:air,390,38,-827,
+2023-08-17 12:03:58,下界,zzyictrl,391,42,-826,放置方块,minecraft:air,390,39,-827,
+2023-08-17 12:03:59,下界,zzyictrl,391,42,-826,使用物品,Cooked Mutton,,,,类型：minecraft:cooked_mutton
+2023-08-17 12:03:59,下界,zzyictrl,391,42,-826,进食,Cooked Mutton,,,,
+2023-08-17 12:04:00,下界,zzyictrl,391,42,-826,使用物品,Cooked Mutton,,,,类型：minecraft:cooked_mutton
+2023-08-17 12:04:00,下界,zzyictrl,391,42,-826,进食,Cooked Mutton,,,,
+2023-08-17 12:04:01,下界,zzyictrl,391,42,-826,使用物品,Cooked Mutton,,,,类型：minecraft:cooked_mutton
+2023-08-17 12:04:01,下界,zzyictrl,391,42,-826,使用物品,Cooked Mutton,,,,类型：minecraft:cooked_mutton
+2023-08-17 12:04:06,下界,zzyictrl,391,42,-826,放置方块,minecraft:air,391,39,-827,
+2023-08-17 12:04:07,下界,zzyictrl,392,42,-826,放置方块,minecraft:air,392,39,-827,
+2023-08-17 12:04:07,下界,zzyictrl,393,42,-826,放置方块,minecraft:air,392,40,-827,
+2023-08-17 12:04:08,下界,zzyictrl,393,42,-826,放置方块,minecraft:air,393,39,-827,
+2023-08-17 12:04:08,下界,zzyictrl,393,42,-826,放置方块,minecraft:air,393,40,-827,
+2023-08-17 12:04:08,下界,zzyictrl,394,42,-826,放置方块,minecraft:air,393,40,-827,
+2023-08-17 12:04:08,下界,zzyictrl,394,42,-826,放置方块,minecraft:air,393,40,-827,
+2023-08-17 12:04:08,下界,zzyictrl,394,42,-826,放置方块,minecraft:air,393,40,-827,
+2023-08-17 12:04:08,下界,zzyictrl,394,42,-826,放置方块,minecraft:air,394,39,-827,
+2023-08-17 12:04:09,下界,zzyictrl,394,42,-826,放置方块,minecraft:air,394,40,-827,
+2023-08-17 12:04:09,下界,zzyictrl,395,42,-826,放置方块,minecraft:air,394,40,-827,
+2023-08-17 12:04:09,下界,zzyictrl,395,42,-826,放置方块,minecraft:air,394,40,-827,
+2023-08-17 12:04:09,下界,zzyictrl,395,42,-826,放置方块,minecraft:air,394,40,-827,
+2023-08-17 12:04:09,下界,zzyictrl,395,42,-826,放置方块,minecraft:air,395,39,-827,
+2023-08-17 12:04:10,下界,zzyictrl,396,42,-826,放置方块,minecraft:air,395,40,-827,
+2023-08-17 12:04:10,下界,zzyictrl,396,42,-826,放置方块,minecraft:air,395,40,-827,
+2023-08-17 12:04:10,下界,zzyictrl,396,42,-826,放置方块,minecraft:air,395,40,-827,
+2023-08-17 12:04:10,下界,zzyictrl,396,42,-826,放置方块,minecraft:air,396,39,-827,
+2023-08-17 12:04:10,下界,zzyictrl,396,42,-826,放置方块,minecraft:air,396,40,-827,
+2023-08-17 12:04:10,下界,zzyictrl,397,42,-826,放置方块,minecraft:air,396,40,-827,
+2023-08-17 12:04:12,下界,zzyictrl,397,42,-826,放置方块,minecraft:air,402,40,-827,
+2023-08-17 12:04:15,下界,zzyictrl,397,42,-826,放置方块,minecraft:air,397,39,-827,
+2023-08-17 12:04:17,下界,zzyictrl,398,42,-826,放置方块,minecraft:air,398,39,-827,
+2023-08-17 12:04:19,下界,zzyictrl,398,42,-826,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:04:19,下界,zzyictrl,398,42,-826,破坏方块,minecraft:netherrack,402,40,-827,
+2023-08-17 12:04:20,下界,zzyictrl,398,42,-826,打开容器,minecraft:chest,403,40,-827,
+2023-08-17 12:04:20,下界,zzyictrl,398,42,-826,容器 放入物品,minecraft:chest,403,40,-827,从第0号槽 放入1个 Obsidian
+2023-08-17 12:04:20,下界,zzyictrl,398,42,-826,容器 放入物品,minecraft:chest,403,40,-827,从第10号槽 放入1个 Golden Sword
+2023-08-17 12:04:20,下界,zzyictrl,398,42,-826,容器 放入物品,minecraft:chest,403,40,-827,从第18号槽 放入1个 Ancient Debris
+2023-08-17 12:04:20,下界,zzyictrl,398,42,-826,容器 放入物品,minecraft:chest,403,40,-827,从第17号槽 放入1个 String
+2023-08-17 12:04:20,下界,zzyictrl,398,42,-826,容器 放入物品,minecraft:chest,403,40,-827,从第24号槽 放入1个 Obsidian
+2023-08-17 12:04:20,下界,zzyictrl,398,42,-826,容器 放入物品,minecraft:chest,403,40,-827,从第3号槽 放入2个 Obsidian
+2023-08-17 12:04:20,下界,zzyictrl,398,42,-826,容器 放入物品,minecraft:chest,403,40,-827,从第26号槽 放入1个 Gilded Blackstone
+2023-08-17 12:04:20,下界,zzyictrl,398,42,-826,容器 放入物品,minecraft:chest,403,40,-827,从第19号槽 放入1个 String
+2023-08-17 12:04:20,下界,zzyictrl,398,42,-826,容器 放入物品,minecraft:chest,403,40,-827,从第6号槽 放入1个 String
+2023-08-17 12:04:20,下界,zzyictrl,398,42,-826,容器 放入物品,minecraft:chest,403,40,-827,从第16号槽 放入1个 Iron Sword
+2023-08-17 12:04:20,下界,zzyictrl,398,42,-826,容器 放入物品,minecraft:chest,403,40,-827,从第15号槽 放入1个 Obsidian
+2023-08-17 12:04:20,下界,zzyictrl,398,42,-826,容器 放入物品,minecraft:chest,403,40,-827,从第1号槽 放入1个 Gilded Blackstone
+2023-08-17 12:04:20,下界,zzyictrl,398,42,-826,容器 放入物品,minecraft:chest,403,40,-827,从第4号槽 放入1个 String
+2023-08-17 12:04:20,下界,zzyictrl,398,42,-826,容器 放入物品,minecraft:chest,403,40,-827,从第14号槽 放入1个 Gilded Blackstone
+2023-08-17 12:04:20,下界,zzyictrl,398,42,-826,容器 放入物品,minecraft:chest,403,40,-827,从第11号槽 放入1个 String
+2023-08-17 12:04:20,下界,zzyictrl,398,42,-826,方块接受玩家互动,minecraft:chest,403,40,-827,
+2023-08-17 12:04:22,下界,zzyictrl,398,42,-826,容器 取出物品,minecraft:chest,403,40,-827,从第26号槽 取出1个 Gilded Blackstone
+2023-08-17 12:04:22,下界,zzyictrl,398,42,-826,容器 取出物品,minecraft:chest,403,40,-827,从第14号槽 取出1个 Gilded Blackstone
+2023-08-17 12:04:22,下界,zzyictrl,398,42,-826,容器 取出物品,minecraft:chest,403,40,-827,从第1号槽 取出1个 Gilded Blackstone
+2023-08-17 12:04:23,下界,zzyictrl,398,42,-826,容器 放入物品,minecraft:chest,403,40,-827,从第24号槽 放入2个 Obsidian
+2023-08-17 12:04:23,下界,zzyictrl,398,42,-826,容器 取出物品,minecraft:chest,403,40,-827,从第15号槽 取出1个 Obsidian
+2023-08-17 12:04:23,下界,zzyictrl,398,42,-826,容器 放入物品,minecraft:chest,403,40,-827,从第24号槽 放入4个 Obsidian
+2023-08-17 12:04:23,下界,zzyictrl,398,42,-826,容器 取出物品,minecraft:chest,403,40,-827,从第3号槽 取出2个 Obsidian
+2023-08-17 12:04:23,下界,zzyictrl,398,42,-826,容器 取出物品,minecraft:chest,403,40,-827,从第0号槽 取出1个 Obsidian
+2023-08-17 12:04:23,下界,zzyictrl,398,42,-826,容器 放入物品,minecraft:chest,403,40,-827,从第24号槽 放入5个 Obsidian
+2023-08-17 12:04:24,下界,zzyictrl,398,42,-826,容器 取出物品,minecraft:chest,403,40,-827,从第24号槽 取出5个 Obsidian
+2023-08-17 12:04:25,下界,zzyictrl,398,42,-826,容器 取出物品,minecraft:chest,403,40,-827,从第18号槽 取出1个 Ancient Debris
+2023-08-17 12:04:26,下界,zzyictrl,398,42,-826,关闭容器,minecraft:chest,403,40,-827,
+2023-08-17 12:04:31,下界,zzyictrl,397,43,-826,放置方块,minecraft:air,397,40,-827,
+2023-08-17 12:04:31,下界,zzyictrl,397,44,-826,放置方块,minecraft:air,397,41,-827,
+2023-08-17 12:04:37,下界,zzyictrl,397,45,-827,放置方块,minecraft:air,397,42,-827,
+2023-08-17 12:04:38,下界,zzyictrl,397,46,-827,放置方块,minecraft:air,397,43,-827,
+2023-08-17 12:04:43,下界,zzyictrl,397,46,-827,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:04:43,下界,zzyictrl,397,46,-827,破坏方块,minecraft:cracked_polished_blackstone_bricks,395,42,-832,
+2023-08-17 12:04:43,下界,zzyictrl,397,46,-827,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:04:44,下界,zzyictrl,397,46,-827,破坏方块,minecraft:cracked_polished_blackstone_bricks,394,41,-832,
+2023-08-17 12:04:44,下界,zzyictrl,397,46,-827,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:04:44,下界,zzyictrl,397,46,-827,破坏方块,minecraft:polished_blackstone_bricks,394,42,-832,
+2023-08-17 12:04:49,下界,zzyictrl,395,42,-827,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:04:49,下界,zzyictrl,395,42,-827,破坏方块,minecraft:polished_blackstone_bricks,394,40,-832,
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,打开容器,minecraft:chest,394,40,-833,
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第6号槽 放入2个 Arrow
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第4号槽 放入1个 Magma Cream
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第20号槽 放入1个 Cooked Porkchop
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第14号槽 放入4个 Arrow
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第25号槽 放入1个 Arrow
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第0号槽 放入1个 Magma Cream
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第17号槽 放入3个 Arrow
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第22号槽 放入2个 Magma Cream
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第23号槽 放入2个 Magma Cream
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第26号槽 放入2个 Magma Cream
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第24号槽 放入1个 Magma Cream
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第11号槽 放入1个 Arrow
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第12号槽 放入1个 Arrow
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第21号槽 放入1个 Arrow
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第5号槽 放入1个 Iron Ingot
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第19号槽 放入1个 Iron Ingot
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第15号槽 放入1个 Arrow
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第2号槽 放入3个 Iron Ingot
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第8号槽 放入1个 Arrow
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第10号槽 放入1个 Arrow
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第16号槽 放入1个 Arrow
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第3号槽 放入1个 Crossbow
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第18号槽 放入14个 Arrow
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第7号槽 放入2个 Magma Cream
+2023-08-17 12:04:52,下界,zzyictrl,395,42,-827,方块接受玩家互动,minecraft:chest,394,40,-833,
+2023-08-17 12:04:53,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第26号槽 放入3个 Magma Cream
+2023-08-17 12:04:53,下界,zzyictrl,395,42,-827,容器 取出物品,minecraft:chest,394,40,-833,从第24号槽 取出1个 Magma Cream
+2023-08-17 12:04:53,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第26号槽 放入5个 Magma Cream
+2023-08-17 12:04:53,下界,zzyictrl,395,42,-827,容器 取出物品,minecraft:chest,394,40,-833,从第23号槽 取出2个 Magma Cream
+2023-08-17 12:04:53,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第26号槽 放入7个 Magma Cream
+2023-08-17 12:04:53,下界,zzyictrl,395,42,-827,容器 取出物品,minecraft:chest,394,40,-833,从第22号槽 取出2个 Magma Cream
+2023-08-17 12:04:53,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第26号槽 放入9个 Magma Cream
+2023-08-17 12:04:53,下界,zzyictrl,395,42,-827,容器 取出物品,minecraft:chest,394,40,-833,从第7号槽 取出2个 Magma Cream
+2023-08-17 12:04:53,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第26号槽 放入10个 Magma Cream
+2023-08-17 12:04:53,下界,zzyictrl,395,42,-827,容器 取出物品,minecraft:chest,394,40,-833,从第4号槽 取出1个 Magma Cream
+2023-08-17 12:04:53,下界,zzyictrl,395,42,-827,容器 放入物品,minecraft:chest,394,40,-833,从第26号槽 放入11个 Magma Cream
+2023-08-17 12:04:53,下界,zzyictrl,395,42,-827,容器 取出物品,minecraft:chest,394,40,-833,从第0号槽 取出1个 Magma Cream
+2023-08-17 12:04:54,下界,zzyictrl,395,42,-827,容器 取出物品,minecraft:chest,394,40,-833,从第26号槽 取出11个 Magma Cream
+2023-08-17 12:04:58,下界,zzyictrl,395,42,-827,关闭容器,minecraft:chest,394,40,-833,
+2023-08-17 12:05:01,下界,zzyictrl,395,42,-827,使用物品,弓,,,,类型：minecraft:bow
+2023-08-17 12:05:03,下界,Arrow,,,,弹射物击中,Piglin,385,47,-837,
+2023-08-17 12:05:03,下界,Piglin,385,47,-837,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 12:05:04,下界,zzyictrl,395,42,-827,使用物品,弓,,,,类型：minecraft:bow
+2023-08-17 12:05:13,,zzyictrl,,,,离开服务器,,,,,
+2023-08-17 12:09:45,,zzyictrl,,,,开始进服,,,,,xuid=2535458195960794
+2023-08-17 12:09:49,下界,zzyictrl,396,42,-826,进入服务器,,,,,xuid=2535458195960794
+2023-08-17 12:09:54,下界,zzyictrl,395,42,-826,打开容器,minecraft:chest,394,40,-833,
+2023-08-17 12:09:54,下界,zzyictrl,395,42,-826,方块接受玩家互动,minecraft:chest,394,40,-833,
+2023-08-17 12:09:57,下界,zzyictrl,395,42,-826,关闭容器,minecraft:chest,394,40,-833,
+2023-08-17 12:10:12,下界,zzyictrl,396,43,-826,放置方块,minecraft:air,396,40,-827,
+2023-08-17 12:10:15,下界,zzyictrl,396,44,-826,放置方块,minecraft:air,396,41,-827,
+2023-08-17 12:10:28,下界,zzyictrl,404,36,-827,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:10:28,下界,zzyictrl,404,36,-827,破坏方块,minecraft:polished_blackstone_bricks,403,35,-826,
+2023-08-17 12:10:30,下界,zzyictrl,404,36,-826,捡起物品,Polished Blackstone Bricks,404,35,-825,1个
+2023-08-17 12:10:41,下界,zzyictrl,408,42,-822,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:10:41,下界,zzyictrl,408,42,-822,破坏方块,minecraft:cracked_polished_blackstone_bricks,407,41,-823,
+2023-08-17 12:10:42,下界,zzyictrl,408,42,-822,捡起物品,Cracked Polished Blackstone Bricks,407,41,-822,1个
+2023-08-17 12:10:48,下界,zzyictrl,404,42,-825,打开容器,minecraft:chest,403,40,-827,
+2023-08-17 12:10:48,下界,zzyictrl,404,42,-825,方块接受玩家互动,minecraft:chest,403,40,-827,
+2023-08-17 12:10:50,下界,zzyictrl,404,42,-825,关闭容器,minecraft:chest,403,40,-827,
+2023-08-17 12:10:53,下界,zzyictrl,405,42,-825,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:10:53,下界,zzyictrl,405,42,-825,破坏方块,minecraft:polished_blackstone_bricks,404,41,-827,
+2023-08-17 12:10:53,下界,zzyictrl,405,42,-825,破坏方块,minecraft:polished_blackstone_bricks,404,42,-827,
+2023-08-17 12:10:55,下界,zzyictrl,405,42,-825,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:10:55,下界,zzyictrl,405,42,-825,破坏方块,minecraft:polished_blackstone_bricks,404,41,-828,
+2023-08-17 12:10:55,下界,zzyictrl,405,42,-825,破坏方块,minecraft:polished_blackstone_bricks,404,42,-828,
+2023-08-17 12:10:55,下界,zzyictrl,405,42,-825,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:10:56,下界,zzyictrl,405,42,-825,捡起物品,Polished Blackstone Bricks,404,41,-827,2个
+2023-08-17 12:10:58,下界,zzyictrl,404,42,-826,捡起物品,Netherrack,403,40,-827,1个
+2023-08-17 12:10:59,下界,zzyictrl,405,43,-827,捡起物品,Polished Blackstone Bricks,404,41,-828,1个
+2023-08-17 12:11:01,下界,zzyictrl,404,43,-827,放置方块,minecraft:air,404,40,-831,
+2023-08-17 12:11:01,下界,zzyictrl,404,43,-827,放置方块,minecraft:air,404,40,-831,
+2023-08-17 12:11:02,下界,zzyictrl,404,43,-827,放置方块,minecraft:air,404,42,-825,
+2023-08-17 12:11:06,下界,zzyictrl,406,42,-825,攻击,Piglin,409,36,-826,使用物品：钻石剑 类型：minecraft:netherite_sword
+2023-08-17 12:11:06,下界,zzyictrl,406,42,-825,放置方块,minecraft:air,407,39,-826,
+2023-08-17 12:11:13,下界,zzyictrl,405,42,-828,捡起物品,Polished Blackstone Bricks,404,40,-829,1个
+2023-08-17 12:11:15,下界,zzyictrl,406,43,-828,放置方块,minecraft:air,406,41,-830,
+2023-08-17 12:11:33,下界,zzyictrl,409,45,-829,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:11:33,下界,zzyictrl,409,45,-829,破坏方块,minecraft:polished_blackstone_bricks,409,44,-828,
+2023-08-17 12:11:34,下界,zzyictrl,409,45,-829,破坏方块,minecraft:cracked_polished_blackstone_bricks,409,43,-828,
+2023-08-17 12:11:34,下界,zzyictrl,409,45,-829,捡起物品,Polished Blackstone Bricks,409,44,-828,1个
+2023-08-17 12:11:34,下界,zzyictrl,409,45,-829,捡起物品,Cracked Polished Blackstone Bricks,409,43,-828,1个
+2023-08-17 12:11:38,下界,zzyictrl,410,45,-825,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:11:38,下界,zzyictrl,410,45,-824,破坏方块,minecraft:polished_blackstone_bricks,409,43,-823,
+2023-08-17 12:11:39,下界,zzyictrl,410,45,-824,破坏方块,minecraft:polished_blackstone_bricks,409,44,-823,
+2023-08-17 12:11:39,下界,zzyictrl,410,45,-824,捡起物品,Polished Blackstone Bricks,409,43,-823,1个
+2023-08-17 12:11:39,下界,zzyictrl,410,45,-824,破坏方块,minecraft:polished_blackstone_bricks,409,44,-822,
+2023-08-17 12:11:39,下界,zzyictrl,410,45,-824,捡起物品,Polished Blackstone Bricks,409,45,-823,1个
+2023-08-17 12:11:40,下界,zzyictrl,410,45,-824,破坏方块,minecraft:cracked_polished_blackstone_bricks,410,44,-823,
+2023-08-17 12:11:40,下界,zzyictrl,410,45,-824,破坏方块,minecraft:polished_blackstone_bricks,410,44,-822,
+2023-08-17 12:11:40,下界,zzyictrl,410,45,-824,破坏方块,minecraft:polished_blackstone_bricks,409,43,-822,
+2023-08-17 12:11:41,下界,zzyictrl,410,45,-824,捡起物品,Cracked Polished Blackstone Bricks,410,43,-822,1个
+2023-08-17 12:11:41,下界,zzyictrl,410,45,-824,捡起物品,Polished Blackstone Bricks,410,44,-822,1个
+2023-08-17 12:11:41,下界,zzyictrl,410,45,-823,破坏方块,minecraft:polished_blackstone_bricks,408,43,-823,
+2023-08-17 12:11:41,下界,zzyictrl,410,45,-823,破坏方块,minecraft:cracked_polished_blackstone_bricks,407,43,-823,
+2023-08-17 12:11:42,下界,zzyictrl,409,45,-823,捡起物品,Cracked Polished Blackstone Bricks,407,43,-823,1个
+2023-08-17 12:11:57,下界,zzyictrl,406,45,-821,使用物品,弓,,,,类型：minecraft:bow
+2023-08-17 12:12:36,下界,zzyictrl,404,45,-821,使用物品,弓,,,,类型：minecraft:bow
+2023-08-17 12:12:40,下界,Arrow,,,,弹射物击中,Piglin,380,39,-811,
+2023-08-17 12:12:40,下界,Piglin,380,39,-811,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-17 12:12:45,下界,zzyictrl,401,47,-819,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 12:12:46,下界,zzyictrl,358,48,-807,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 12:12:55,下界,zzyictrl,374,46,-799,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-17 12:12:57,下界,zzyictrl,374,46,-799,破坏方块,minecraft:warped_nylium,373,43,-797,
+2023-08-17 12:12:59,下界,zzyictrl,374,46,-798,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:12:59,下界,zzyictrl,374,46,-798,破坏方块,minecraft:warped_nylium,373,43,-796,
+2023-08-17 12:12:59,下界,zzyictrl,374,46,-798,破坏方块,minecraft:netherrack,373,42,-796,
+2023-08-17 12:12:59,下界,zzyictrl,374,46,-798,破坏方块,minecraft:netherrack,373,41,-796,
+2023-08-17 12:12:59,下界,zzyictrl,374,46,-798,破坏方块,minecraft:netherrack,373,41,-795,
+2023-08-17 12:12:59,下界,zzyictrl,374,46,-798,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:13:00,下界,zzyictrl,374,46,-798,破坏方块,minecraft:netherrack,373,40,-795,
+2023-08-17 12:13:00,下界,zzyictrl,374,46,-798,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:13:00,下界,zzyictrl,374,46,-798,破坏方块,minecraft:netherrack,373,42,-795,
+2023-08-17 12:13:00,下界,zzyictrl,374,46,-798,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:13:00,下界,zzyictrl,374,46,-798,破坏方块,minecraft:netherrack,373,42,-797,
+2023-08-17 12:13:00,下界,zzyictrl,374,46,-798,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:13:01,下界,zzyictrl,374,46,-798,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:13:03,下界,zzyictrl,374,46,-798,放置方块,minecraft:lava,374,43,-797,
+2023-08-17 12:13:04,下界,zzyictrl,374,46,-798,放置方块,minecraft:lava,374,44,-797,
+2023-08-17 12:13:06,下界,zzyictrl,372,46,-796,放置方块,minecraft:lava,374,43,-796,
+2023-08-17 12:13:07,下界,zzyictrl,372,46,-795,放置方块,minecraft:lava,373,43,-796,
+2023-08-17 12:13:11,下界,zzyictrl,371,46,-798,攻击,Piglin Brute,372,44,-797,使用物品：钻石剑 类型：minecraft:netherite_sword
+2023-08-17 12:13:11,下界,zzyictrl,371,46,-798,攻击,Piglin Brute,374,45,-796,使用物品：钻石剑 类型：minecraft:netherite_sword
+2023-08-17 12:13:11,下界,zzyictrl,371,46,-798,攻击,Piglin Brute,374,45,-795,使用物品：钻石剑 类型：minecraft:netherite_sword
+2023-08-17 12:13:11,下界,zzyictrl,371,46,-799,放置方块,minecraft:air,372,44,-794,
+2023-08-17 12:13:11,下界,zzyictrl,371,46,-799,放置方块,minecraft:air,372,44,-794,
+2023-08-17 12:13:12,下界,zzyictrl,371,46,-799,放置方块,minecraft:air,372,44,-794,
+2023-08-17 12:13:12,下界,zzyictrl,372,46,-800,放置方块,minecraft:air,372,44,-795,
+2023-08-17 12:13:13,下界,zzyictrl,372,46,-795,攻击,Piglin Brute,373,44,-794,使用物品：钻石剑 类型：minecraft:netherite_sword
+2023-08-17 12:13:13,下界,zzyictrl,372,46,-795,攻击,Piglin Brute,376,45,-791,使用物品：钻石剑 类型：minecraft:netherite_sword
+2023-08-17 12:13:18,下界,zzyictrl,372,46,-798,使用物品,钻石剑,,,,类型：minecraft:netherite_sword
+2023-08-17 12:13:20,下界,zzyictrl,372,46,-799,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-17 12:13:20,下界,zzyictrl,372,46,-799,进食,Golden Apple,,,,
+2023-08-17 12:13:22,下界,zzyictrl,373,46,-799,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-17 12:13:28,下界,zzyictrl,383,44,-796,放置方块,minecraft:nether_sprouts,385,42,-794,
+2023-08-17 12:13:41,下界,zzyictrl,384,44,-794,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:13:41,下界,zzyictrl,384,44,-794,破坏方块,minecraft:blackstone,386,43,-794,
+2023-08-17 12:13:41,下界,zzyictrl,384,44,-794,破坏方块,minecraft:blackstone,387,43,-794,
+2023-08-17 12:13:42,下界,zzyictrl,384,44,-794,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:13:42,下界,zzyictrl,384,44,-794,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:13:42,下界,zzyictrl,384,44,-794,破坏方块,minecraft:gilded_blackstone,386,44,-794,
+2023-08-17 12:13:42,下界,zzyictrl,384,44,-795,破坏方块,minecraft:blackstone,386,44,-795,
+2023-08-17 12:13:43,下界,zzyictrl,384,44,-795,破坏方块,minecraft:blackstone,387,44,-795,
+2023-08-17 12:13:48,下界,zzyictrl,381,45,-801,放置方块,minecraft:air,380,42,-802,
+2023-08-17 12:13:49,下界,zzyictrl,381,46,-801,放置方块,minecraft:air,380,43,-802,
+2023-08-17 12:13:49,下界,zzyictrl,381,47,-801,放置方块,minecraft:air,380,44,-802,
+2023-08-17 12:13:50,下界,zzyictrl,381,48,-801,放置方块,minecraft:air,380,45,-802,
+2023-08-17 12:13:50,下界,zzyictrl,381,49,-801,放置方块,minecraft:air,380,46,-802,
+2023-08-17 12:13:56,下界,zzyictrl,381,50,-801,放置方块,minecraft:air,380,47,-802,
+2023-08-17 12:13:56,下界,zzyictrl,381,51,-801,放置方块,minecraft:air,380,48,-802,
+2023-08-17 12:13:57,下界,zzyictrl,381,52,-801,放置方块,minecraft:air,380,49,-802,
+2023-08-17 12:13:58,下界,zzyictrl,381,53,-801,放置方块,minecraft:air,380,50,-802,
+2023-08-17 12:13:59,下界,zzyictrl,381,54,-801,放置方块,minecraft:air,380,51,-802,
+2023-08-17 12:13:59,下界,zzyictrl,381,55,-801,放置方块,minecraft:air,380,52,-802,
+2023-08-17 12:14:00,下界,zzyictrl,381,55,-801,放置方块,minecraft:air,380,53,-802,
+2023-08-17 12:14:00,下界,zzyictrl,381,56,-801,放置方块,minecraft:air,380,53,-802,
+2023-08-17 12:14:01,下界,zzyictrl,381,57,-801,放置方块,minecraft:air,380,54,-802,
+2023-08-17 12:14:15,下界,zzyictrl,388,52,-802,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-17 12:14:15,下界,zzyictrl,388,52,-802,破坏方块,minecraft:polished_blackstone_bricks,388,51,-802,
+2023-08-17 12:14:16,下界,zzyictrl,388,52,-802,捡起物品,Polished Blackstone Bricks,389,50,-802,1个
+2023-08-17 12:14:31,,zzyictrl,,,,离开服务器,,,,,
+2023-08-17 12:57:21,,zzyictrl,,,,开始进服,,,,,xuid=2535458195960794
+2023-08-17 12:57:25,下界,zzyictrl,388,52,-802,进入服务器,,,,,xuid=2535458195960794
+2023-08-17 12:57:34,,zzyictrl,,,,离开服务器,,,,,
