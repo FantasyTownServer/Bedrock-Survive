@@ -1,1 +1,577 @@
 ﻿时间,维度,来源,X,Y,Z,事件,目标,x,y,z,附加信息
+2023-08-19 08:13:15,主世界,Llama Spit,,,,弹射物击中,Wandering Trader,5140,51,5339,
+2023-08-19 08:28:06,主世界,Llama Spit,,,,弹射物击中,Zombie,5141,51,5341,
+2023-08-19 08:29:58,主世界,Llama Spit,,,,弹射物击中,Zombie,5141,51,5341,
+2023-08-19 08:30:02,主世界,Llama Spit,,,,弹射物击中,Zombie,5141,51,5341,
+2023-08-19 08:31:39,主世界,Llama Spit,,,,弹射物击中,Zombie,5141,51,5341,
+2023-08-19 09:33:34,主世界,weiheping,5129,74,5355,玩家死亡,,,,,
+2023-08-19 09:33:34,,weiheping,,,,离开服务器,,,,,
+2023-08-19 09:33:35,主世界,weiheping,-28,72,452,进入服务器,,,,,xuid=-9089539430754077782
+2023-08-19 11:31:55,,zzyictrl,,,,开始进服,,,,,xuid=2535458195960794
+2023-08-19 11:31:58,下界,zzyictrl,388,52,-802,进入服务器,,,,,xuid=2535458195960794
+2023-08-19 11:32:16,下界,zzyictrl,393,52,-802,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:32:16,下界,zzyictrl,393,52,-802,破坏方块,minecraft:polished_blackstone_bricks,393,52,-803,
+2023-08-19 11:32:17,下界,zzyictrl,393,52,-802,捡起物品,Polished Blackstone Bricks,392,52,-802,1个
+2023-08-19 11:32:17,下界,zzyictrl,393,52,-802,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:32:17,下界,zzyictrl,393,52,-802,破坏方块,minecraft:polished_blackstone_bricks,393,52,-804,
+2023-08-19 11:32:18,下界,zzyictrl,393,52,-802,破坏方块,minecraft:basalt,393,52,-805,
+2023-08-19 11:32:18,下界,zzyictrl,393,52,-802,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:32:18,下界,zzyictrl,393,52,-802,破坏方块,minecraft:basalt,393,52,-806,
+2023-08-19 11:32:18,下界,zzyictrl,393,52,-802,捡起物品,Polished Blackstone Bricks,393,52,-804,1个
+2023-08-19 11:32:18,下界,zzyictrl,393,52,-802,破坏方块,minecraft:blackstone,393,51,-805,
+2023-08-19 11:32:19,下界,zzyictrl,393,52,-802,破坏方块,minecraft:basalt,393,51,-806,
+2023-08-19 11:32:19,下界,zzyictrl,393,52,-802,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:32:19,下界,zzyictrl,393,52,-802,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:32:19,下界,zzyictrl,393,52,-802,破坏方块,minecraft:blackstone,393,50,-805,
+2023-08-19 11:32:20,下界,zzyictrl,393,52,-802,捡起物品,Blackstone,392,50,-804,1个
+2023-08-19 11:32:20,下界,zzyictrl,393,52,-802,破坏方块,minecraft:polished_blackstone_bricks,393,50,-806,
+2023-08-19 11:32:20,下界,zzyictrl,393,52,-802,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:32:20,下界,zzyictrl,393,52,-803,捡起物品,Blackstone,394,50,-804,1个
+2023-08-19 11:32:22,下界,zzyictrl,393,52,-805,捡起物品,Basalt,393,50,-806,1个
+2023-08-19 11:32:24,下界,zzyictrl,394,52,-804,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:32:24,下界,zzyictrl,394,52,-804,破坏方块,minecraft:polished_blackstone_bricks,393,51,-801,
+2023-08-19 11:32:25,下界,zzyictrl,393,52,-803,破坏方块,minecraft:polished_blackstone_bricks,393,50,-801,
+2023-08-19 11:32:25,下界,zzyictrl,393,52,-803,破坏方块,minecraft:blackstone,393,50,-799,
+2023-08-19 11:32:26,下界,zzyictrl,393,52,-803,破坏方块,minecraft:blackstone,393,50,-798,
+2023-08-19 11:32:26,下界,zzyictrl,393,52,-803,破坏方块,minecraft:blackstone,393,50,-797,
+2023-08-19 11:32:26,下界,zzyictrl,393,52,-803,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:32:27,下界,zzyictrl,393,52,-803,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:32:27,下界,zzyictrl,393,52,-803,破坏方块,minecraft:blackstone,393,51,-799,
+2023-08-19 11:32:27,下界,zzyictrl,393,52,-803,破坏方块,minecraft:blackstone,393,51,-798,
+2023-08-19 11:32:27,下界,zzyictrl,393,52,-803,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:32:28,下界,zzyictrl,393,52,-803,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:32:28,下界,zzyictrl,393,52,-803,破坏方块,minecraft:polished_blackstone_bricks,392,50,-801,
+2023-08-19 11:32:29,下界,zzyictrl,393,52,-802,捡起物品,Polished Blackstone Bricks,393,50,-800,1个
+2023-08-19 11:32:31,下界,zzyictrl,393,52,-801,放置方块,minecraft:air,393,49,-800,
+2023-08-19 11:32:38,下界,zzyictrl,394,52,-798,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:32:38,下界,zzyictrl,394,52,-798,破坏方块,minecraft:blackstone,393,51,-797,
+2023-08-19 11:32:39,下界,zzyictrl,393,52,-797,捡起物品,Blackstone,394,52,-796,1个
+2023-08-19 11:33:07,下界,zzyictrl,396,54,-787,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:33:07,下界,zzyictrl,396,54,-787,破坏方块,minecraft:blackstone,395,55,-789,
+2023-08-19 11:33:07,下界,zzyictrl,396,54,-787,破坏方块,minecraft:blackstone,394,55,-789,
+2023-08-19 11:33:07,下界,zzyictrl,396,54,-787,破坏方块,minecraft:blackstone,393,53,-790,
+2023-08-19 11:33:08,下界,zzyictrl,396,54,-787,破坏方块,minecraft:blackstone,393,52,-789,
+2023-08-19 11:33:08,下界,zzyictrl,396,54,-787,捡起物品,Blackstone,395,54,-788,1个
+2023-08-19 11:33:08,下界,zzyictrl,396,54,-788,破坏方块,minecraft:blackstone,392,52,-789,
+2023-08-19 11:33:08,下界,zzyictrl,395,54,-788,捡起物品,Blackstone,393,52,-789,1个
+2023-08-19 11:33:09,下界,zzyictrl,394,54,-788,破坏方块,minecraft:gilded_blackstone,391,53,-789,
+2023-08-19 11:33:09,下界,zzyictrl,393,54,-788,捡起物品,Blackstone,393,53,-789,1个
+2023-08-19 11:33:09,下界,zzyictrl,393,54,-788,捡起物品,Blackstone,392,52,-788,1个
+2023-08-19 11:33:09,下界,zzyictrl,393,54,-788,破坏方块,minecraft:blackstone,391,53,-790,
+2023-08-19 11:33:10,下界,zzyictrl,392,55,-787,捡起物品,Gold Nugget,391,53,-788,5个
+2023-08-19 11:33:11,下界,zzyictrl,390,56,-788,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:33:11,下界,zzyictrl,390,56,-788,破坏方块,minecraft:blackstone,389,54,-788,
+2023-08-19 11:33:12,下界,zzyictrl,390,56,-787,破坏方块,minecraft:blackstone,388,55,-788,
+2023-08-19 11:33:12,下界,zzyictrl,390,56,-787,捡起物品,Blackstone,389,54,-787,1个
+2023-08-19 11:33:12,下界,zzyictrl,390,56,-787,破坏方块,minecraft:blackstone,388,54,-788,
+2023-08-19 11:33:12,下界,zzyictrl,390,56,-787,捡起物品,Blackstone,389,55,-787,1个
+2023-08-19 11:33:12,下界,zzyictrl,390,56,-787,破坏方块,minecraft:blackstone,387,54,-788,
+2023-08-19 11:33:12,下界,zzyictrl,390,56,-787,捡起物品,Blackstone,389,54,-787,1个
+2023-08-19 11:33:13,下界,zzyictrl,389,56,-787,破坏方块,minecraft:blackstone,387,55,-788,
+2023-08-19 11:33:13,下界,zzyictrl,389,56,-787,破坏方块,minecraft:blackstone,388,54,-787,
+2023-08-19 11:33:13,下界,zzyictrl,389,56,-787,捡起物品,Blackstone,388,55,-788,1个
+2023-08-19 11:33:14,下界,zzyictrl,389,56,-787,破坏方块,minecraft:blackstone,387,54,-787,
+2023-08-19 11:33:14,下界,zzyictrl,389,56,-787,捡起物品,Blackstone,388,54,-787,1个
+2023-08-19 11:33:14,下界,zzyictrl,389,56,-787,破坏方块,minecraft:blackstone,386,54,-787,
+2023-08-19 11:33:14,下界,zzyictrl,389,56,-787,捡起物品,Blackstone,387,54,-788,1个
+2023-08-19 11:33:14,下界,zzyictrl,388,56,-787,捡起物品,Blackstone,388,55,-787,1个
+2023-08-19 11:33:14,下界,zzyictrl,388,56,-787,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:33:15,下界,zzyictrl,388,56,-787,捡起物品,Blackstone,387,54,-785,1个
+2023-08-19 11:33:16,下界,zzyictrl,387,56,-786,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:33:16,下界,zzyictrl,387,56,-786,破坏方块,minecraft:blackstone,386,55,-788,
+2023-08-19 11:33:17,下界,zzyictrl,387,56,-786,破坏方块,minecraft:blackstone,386,54,-788,
+2023-08-19 11:33:17,下界,zzyictrl,387,56,-786,破坏方块,minecraft:blackstone,386,55,-789,
+2023-08-19 11:33:17,下界,zzyictrl,387,56,-786,捡起物品,Blackstone,387,54,-788,1个
+2023-08-19 11:33:17,下界,zzyictrl,387,56,-786,捡起物品,Blackstone,386,54,-788,1个
+2023-08-19 11:33:17,下界,zzyictrl,387,56,-787,破坏方块,minecraft:blackstone,386,54,-789,
+2023-08-19 11:33:18,下界,zzyictrl,387,56,-787,捡起物品,Blackstone,387,55,-788,1个
+2023-08-19 11:33:18,下界,zzyictrl,387,56,-787,破坏方块,minecraft:blackstone,386,54,-790,
+2023-08-19 11:33:18,下界,zzyictrl,387,56,-787,捡起物品,Blackstone,387,54,-789,1个
+2023-08-19 11:33:18,下界,zzyictrl,387,56,-787,破坏方块,minecraft:blackstone,386,55,-790,
+2023-08-19 11:33:19,下界,zzyictrl,387,56,-788,破坏方块,minecraft:cracked_polished_blackstone_bricks,386,54,-791,
+2023-08-19 11:33:19,下界,zzyictrl,386,56,-788,破坏方块,minecraft:blackstone,386,55,-791,
+2023-08-19 11:33:19,下界,zzyictrl,387,56,-788,破坏方块,minecraft:cracked_polished_blackstone_bricks,386,54,-792,
+2023-08-19 11:33:20,下界,zzyictrl,387,56,-788,捡起物品,Blackstone,386,54,-790,1个
+2023-08-19 11:33:20,下界,zzyictrl,386,56,-789,捡起物品,Blackstone,387,54,-791,1个
+2023-08-19 11:33:20,下界,zzyictrl,386,56,-789,破坏方块,minecraft:cracked_polished_blackstone_bricks,386,55,-792,
+2023-08-19 11:33:20,下界,zzyictrl,387,56,-789,捡起物品,Cracked Polished Blackstone Bricks,386,54,-791,2个
+2023-08-19 11:33:20,下界,zzyictrl,387,56,-789,破坏方块,minecraft:cracked_polished_blackstone_bricks,386,55,-793,
+2023-08-19 11:33:21,下界,zzyictrl,387,56,-790,破坏方块,minecraft:cracked_polished_blackstone_bricks,386,54,-793,
+2023-08-19 11:33:21,下界,zzyictrl,387,56,-790,破坏方块,minecraft:cracked_polished_blackstone_bricks,386,54,-794,
+2023-08-19 11:33:21,下界,zzyictrl,387,56,-791,破坏方块,minecraft:blackstone,386,55,-794,
+2023-08-19 11:33:22,下界,zzyictrl,387,56,-791,破坏方块,minecraft:blackstone,386,55,-795,
+2023-08-19 11:33:22,下界,zzyictrl,387,56,-791,捡起物品,Cracked Polished Blackstone Bricks,386,54,-793,1个
+2023-08-19 11:33:22,下界,zzyictrl,387,56,-792,捡起物品,Blackstone,387,54,-793,1个
+2023-08-19 11:33:22,下界,zzyictrl,387,56,-792,破坏方块,minecraft:blackstone,386,54,-795,
+2023-08-19 11:33:23,下界,zzyictrl,387,56,-792,破坏方块,minecraft:blackstone,386,54,-796,
+2023-08-19 11:33:23,下界,zzyictrl,387,56,-793,破坏方块,minecraft:blackstone,386,55,-796,
+2023-08-19 11:33:23,下界,zzyictrl,387,56,-793,捡起物品,Blackstone,387,54,-795,1个
+2023-08-19 11:33:23,下界,zzyictrl,387,56,-794,破坏方块,minecraft:blackstone,386,55,-797,
+2023-08-19 11:33:24,下界,zzyictrl,387,56,-794,捡起物品,Blackstone,386,54,-795,1个
+2023-08-19 11:33:24,下界,zzyictrl,387,56,-794,破坏方块,minecraft:blackstone,386,54,-797,
+2023-08-19 11:33:24,下界,zzyictrl,387,56,-795,捡起物品,Blackstone,387,54,-796,1个
+2023-08-19 11:33:24,下界,zzyictrl,387,56,-795,破坏方块,minecraft:cracked_polished_blackstone_bricks,386,54,-798,
+2023-08-19 11:33:24,下界,zzyictrl,387,56,-795,捡起物品,Blackstone,386,54,-796,1个
+2023-08-19 11:33:25,下界,zzyictrl,387,56,-795,破坏方块,minecraft:blackstone,386,55,-798,
+2023-08-19 11:33:25,下界,zzyictrl,387,56,-796,捡起物品,Blackstone,386,54,-797,1个
+2023-08-19 11:33:25,下界,zzyictrl,387,56,-796,破坏方块,minecraft:cracked_polished_blackstone_bricks,386,53,-802,
+2023-08-19 11:33:25,下界,zzyictrl,387,56,-796,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:33:25,下界,zzyictrl,387,56,-796,捡起物品,Cracked Polished Blackstone Bricks,386,54,-797,1个
+2023-08-19 11:33:26,下界,zzyictrl,387,56,-796,捡起物品,Blackstone,387,54,-798,1个
+2023-08-19 11:33:26,下界,zzyictrl,387,56,-797,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:33:26,下界,zzyictrl,387,56,-797,破坏方块,minecraft:blackstone,386,55,-799,
+2023-08-19 11:33:29,下界,zzyictrl,387,56,-798,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:33:29,下界,zzyictrl,387,56,-798,破坏方块,minecraft:cracked_polished_blackstone_bricks,386,53,-801,
+2023-08-19 11:33:30,下界,zzyictrl,386,55,-798,捡起物品,Blackstone,386,53,-798,1个
+2023-08-19 11:33:32,下界,zzyictrl,387,55,-802,捡起物品,Cracked Polished Blackstone Bricks,386,53,-801,2个
+2023-08-19 11:33:50,下界,zzyictrl,401,40,-808,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:33:50,下界,zzyictrl,401,40,-808,破坏方块,minecraft:cracked_polished_blackstone_bricks,401,37,-809,
+2023-08-19 11:33:50,下界,zzyictrl,401,39,-808,捡起物品,Cracked Polished Blackstone Bricks,401,37,-809,1个
+2023-08-19 11:34:04,下界,zzyictrl,406,41,-807,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:34:04,下界,zzyictrl,406,41,-807,破坏方块,minecraft:cracked_polished_blackstone_bricks,405,38,-810,
+2023-08-19 11:34:04,下界,zzyictrl,406,41,-808,捡起物品,Cracked Polished Blackstone Bricks,405,38,-809,1个
+2023-08-19 11:34:19,下界,zzyictrl,397,35,-836,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:19,下界,zzyictrl,397,35,-836,进食,Golden Apple,,,,
+2023-08-19 11:34:21,下界,zzyictrl,397,35,-836,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:21,下界,zzyictrl,397,35,-836,进食,Golden Apple,,,,
+2023-08-19 11:34:21,下界,zzyictrl,397,35,-836,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:21,下界,zzyictrl,397,35,-836,进食,Golden Apple,,,,
+2023-08-19 11:34:23,下界,zzyictrl,397,35,-836,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:24,下界,zzyictrl,397,35,-836,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:35,下界,zzyictrl,393,33,-842,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:36,下界,zzyictrl,393,32,-843,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:38,下界,zzyictrl,393,32,-843,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:40,下界,zzyictrl,393,32,-843,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:42,下界,zzyictrl,393,32,-843,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:42,下界,zzyictrl,393,32,-843,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:44,下界,zzyictrl,393,32,-843,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:46,下界,zzyictrl,393,33,-843,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:47,下界,zzyictrl,392,33,-843,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:48,下界,zzyictrl,392,33,-843,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:49,下界,zzyictrl,392,33,-843,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:54,下界,zzyictrl,385,36,-848,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:56,下界,zzyictrl,384,36,-850,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:57,下界,zzyictrl,384,37,-852,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:34:59,下界,zzyictrl,384,37,-854,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:35:01,下界,zzyictrl,384,37,-855,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:35:03,下界,zzyictrl,384,38,-856,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:35:06,下界,zzyictrl,390,39,-867,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:35:09,下界,zzyictrl,444,46,-909,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:35:12,下界,zzyictrl,511,39,-877,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:35:16,下界,zzyictrl,510,51,-912,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:35:18,下界,zzyictrl,482,53,-965,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:35:24,下界,zzyictrl,481,84,-988,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:35:35,下界,zzyictrl,509,66,-979,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:35:35,下界,zzyictrl,509,66,-979,破坏方块,minecraft:magma,508,64,-976,
+2023-08-19 11:35:35,下界,zzyictrl,509,66,-979,打开容器,minecraft:chest,508,64,-975,
+2023-08-19 11:35:35,下界,zzyictrl,509,66,-979,容器 放入物品,minecraft:chest,508,64,-975,从第12号槽 放入1个 Fire Charge
+2023-08-19 11:35:35,下界,zzyictrl,509,66,-979,容器 放入物品,minecraft:chest,508,64,-975,从第25号槽 放入1个 Golden Leggings
+2023-08-19 11:35:35,下界,zzyictrl,509,66,-979,容器 放入物品,minecraft:chest,508,64,-975,从第18号槽 放入5个 Iron Nugget
+2023-08-19 11:35:35,下界,zzyictrl,509,66,-979,容器 放入物品,minecraft:chest,508,64,-975,从第3号槽 放入1个 Obsidian
+2023-08-19 11:35:35,下界,zzyictrl,509,66,-979,容器 放入物品,minecraft:chest,508,64,-975,从第15号槽 放入1个 Golden Pickaxe
+2023-08-19 11:35:35,下界,zzyictrl,509,66,-979,容器 放入物品,minecraft:chest,508,64,-975,从第22号槽 放入1个 Obsidian
+2023-08-19 11:35:35,下界,zzyictrl,509,66,-979,容器 放入物品,minecraft:chest,508,64,-975,从第5号槽 放入7个 Iron Nugget
+2023-08-19 11:35:35,下界,zzyictrl,509,66,-979,方块接受玩家互动,minecraft:chest,508,64,-975,
+2023-08-19 11:35:38,下界,zzyictrl,509,66,-979,容器 取出物品,minecraft:chest,508,64,-975,从第12号槽 取出1个 Fire Charge
+2023-08-19 11:35:38,下界,zzyictrl,509,66,-979,容器 取出物品,minecraft:chest,508,64,-975,从第22号槽 取出1个 Obsidian
+2023-08-19 11:35:38,下界,zzyictrl,509,66,-979,容器 取出物品,minecraft:chest,508,64,-975,从第3号槽 取出1个 Obsidian
+2023-08-19 11:35:40,下界,zzyictrl,509,66,-979,关闭容器,minecraft:chest,508,64,-975,
+2023-08-19 11:35:44,下界,zzyictrl,507,68,-991,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:35:45,下界,zzyictrl,507,68,-991,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:35:51,下界,zzyictrl,506,65,-1008,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:35:58,下界,zzyictrl,628,46,-1031,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:36:02,下界,zzyictrl,700,49,-1017,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:36:08,下界,zzyictrl,694,60,-1130,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:36:11,下界,zzyictrl,604,53,-1133,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:36:22,下界,zzyictrl,495,49,-1242,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:36:28,下界,zzyictrl,413,47,-1280,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:36:31,下界,zzyictrl,424,82,-1343,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:36:38,下界,zzyictrl,253,44,-1258,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:36:47,下界,zzyictrl,270,52,-1233,使用物品,Cobbled Deepslate,,,,类型：minecraft:cobbled_deepslate
+2023-08-19 11:36:54,下界,zzyictrl,282,52,-1240,放置方块,minecraft:air,282,49,-1240,
+2023-08-19 11:36:54,下界,zzyictrl,282,53,-1240,放置方块,minecraft:air,282,50,-1240,
+2023-08-19 11:36:55,下界,zzyictrl,282,54,-1240,放置方块,minecraft:air,282,51,-1240,
+2023-08-19 11:36:55,下界,zzyictrl,282,55,-1240,放置方块,minecraft:air,282,52,-1240,
+2023-08-19 11:36:56,下界,zzyictrl,282,56,-1240,放置方块,minecraft:air,282,53,-1240,
+2023-08-19 11:36:56,下界,zzyictrl,282,57,-1240,放置方块,minecraft:air,282,54,-1240,
+2023-08-19 11:36:57,下界,zzyictrl,282,58,-1240,放置方块,minecraft:air,282,55,-1240,
+2023-08-19 11:36:57,下界,zzyictrl,282,59,-1240,放置方块,minecraft:air,282,56,-1240,
+2023-08-19 11:36:59,下界,zzyictrl,282,59,-1240,放置方块,minecraft:air,285,57,-1239,
+2023-08-19 11:37:00,下界,zzyictrl,282,59,-1240,放置方块,minecraft:air,284,57,-1239,
+2023-08-19 11:37:00,下界,zzyictrl,282,59,-1240,放置方块,minecraft:air,283,57,-1239,
+2023-08-19 11:37:01,下界,zzyictrl,282,59,-1240,放置方块,minecraft:air,283,57,-1240,
+2023-08-19 11:37:08,下界,Piglin,288,58,-1221,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-19 11:37:08,下界,Arrow,,,,弹射物击中,zzyictrl,287,60,-1222,
+2023-08-19 11:37:08,下界,zzyictrl,287,60,-1222,攻击,Piglin,288,59,-1220,使用物品：钻石剑 类型：minecraft:netherite_sword
+2023-08-19 11:37:09,下界,zzyictrl,287,60,-1222,捡起物品,Golden Sword,287,58,-1221,1个
+2023-08-19 11:37:09,下界,Arrow,,,,弹射物击中,zzyictrl,287,60,-1221,
+2023-08-19 11:37:11,下界,zzyictrl,289,60,-1218,攻击,Piglin,291,58,-1216,使用物品：钻石剑 类型：minecraft:netherite_sword
+2023-08-19 11:37:11,下界,zzyictrl,289,60,-1218,攻击,Piglin,292,59,-1214,使用物品：钻石剑 类型：minecraft:netherite_sword
+2023-08-19 11:37:11,下界,Arrow,,,,弹射物击中,zzyictrl,289,60,-1218,
+2023-08-19 11:37:11,下界,zzyictrl,289,60,-1218,攻击,Piglin,294,59,-1213,使用物品：钻石剑 类型：minecraft:netherite_sword
+2023-08-19 11:37:11,下界,zzyictrl,289,60,-1218,放置方块,minecraft:air,291,58,-1214,
+2023-08-19 11:37:12,下界,Arrow,,,,弹射物击中,zzyictrl,287,60,-1219,
+2023-08-19 11:37:14,下界,zzyictrl,288,60,-1219,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:37:14,下界,Arrow,,,,弹射物击中,zzyictrl,288,60,-1219,
+2023-08-19 11:37:15,下界,zzyictrl,288,60,-1220,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:37:17,下界,zzyictrl,287,60,-1220,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:37:17,下界,zzyictrl,287,60,-1220,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:37:28,下界,zzyictrl,288,60,-1213,放置方块,minecraft:air,283,63,-1213,
+2023-08-19 11:37:29,下界,zzyictrl,288,60,-1213,放置方块,minecraft:air,284,63,-1213,
+2023-08-19 11:37:33,下界,zzyictrl,288,60,-1214,放置方块,minecraft:lava,284,63,-1214,
+2023-08-19 11:37:36,下界,zzyictrl,288,60,-1214,放置方块,minecraft:air,286,61,-1214,
+2023-08-19 11:37:37,下界,zzyictrl,288,60,-1214,放置方块,minecraft:lava,284,61,-1214,
+2023-08-19 11:37:38,下界,zzyictrl,288,60,-1214,放置方块,minecraft:air,285,61,-1214,
+2023-08-19 11:37:38,下界,zzyictrl,288,60,-1214,放置方块,minecraft:flowing_lava,285,60,-1214,
+2023-08-19 11:37:39,下界,zzyictrl,288,60,-1214,放置方块,minecraft:lava,284,60,-1215,
+2023-08-19 11:37:39,下界,zzyictrl,288,60,-1214,放置方块,minecraft:flowing_lava,285,60,-1215,
+2023-08-19 11:37:41,下界,zzyictrl,288,60,-1214,放置方块,minecraft:lava,284,59,-1213,
+2023-08-19 11:37:42,下界,zzyictrl,288,60,-1214,放置方块,minecraft:air,285,59,-1213,
+2023-08-19 11:37:43,下界,zzyictrl,288,60,-1214,放置方块,minecraft:lava,284,59,-1214,
+2023-08-19 11:37:44,下界,zzyictrl,288,60,-1214,放置方块,minecraft:lava,284,58,-1213,
+2023-08-19 11:37:56,下界,zzyictrl,289,60,-1230,放置方块,minecraft:air,289,58,-1230,
+2023-08-19 11:37:56,下界,zzyictrl,289,60,-1230,放置方块,minecraft:air,289,58,-1230,
+2023-08-19 11:37:57,下界,zzyictrl,289,61,-1230,放置方块,minecraft:air,289,58,-1230,
+2023-08-19 11:37:57,下界,zzyictrl,289,62,-1230,放置方块,minecraft:air,289,59,-1230,
+2023-08-19 11:37:58,下界,zzyictrl,289,62,-1230,放置方块,minecraft:air,289,60,-1230,
+2023-08-19 11:37:58,下界,zzyictrl,289,63,-1230,放置方块,minecraft:air,289,60,-1230,
+2023-08-19 11:37:59,下界,zzyictrl,289,64,-1230,放置方块,minecraft:air,289,61,-1230,
+2023-08-19 11:37:59,下界,zzyictrl,289,65,-1230,放置方块,minecraft:air,289,62,-1230,
+2023-08-19 11:38:00,下界,zzyictrl,289,66,-1230,放置方块,minecraft:air,289,63,-1230,
+2023-08-19 11:38:00,下界,zzyictrl,289,67,-1230,放置方块,minecraft:air,289,64,-1230,
+2023-08-19 11:38:01,下界,zzyictrl,289,68,-1230,放置方块,minecraft:air,289,65,-1230,
+2023-08-19 11:38:01,下界,zzyictrl,289,69,-1230,放置方块,minecraft:air,289,66,-1230,
+2023-08-19 11:38:07,下界,zzyictrl,290,69,-1217,使用物品,弓,,,,类型：minecraft:bow
+2023-08-19 11:38:09,下界,Arrow,,,,弹射物击中,Piglin,295,65,-1200,
+2023-08-19 11:38:09,下界,Piglin,295,65,-1200,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-19 11:38:10,下界,zzyictrl,290,69,-1215,使用物品,弓,,,,类型：minecraft:bow
+2023-08-19 11:38:11,下界,Arrow,,,,弹射物击中,Piglin,283,65,-1203,
+2023-08-19 11:38:11,下界,Piglin,283,65,-1203,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-19 11:38:43,下界,zzyictrl,293,69,-1243,放置方块,minecraft:air,293,66,-1244,
+2023-08-19 11:38:50,下界,zzyictrl,293,70,-1243,放置方块,minecraft:air,293,67,-1244,
+2023-08-19 11:38:51,下界,zzyictrl,293,70,-1243,放置方块,minecraft:air,293,67,-1244,
+2023-08-19 11:38:51,下界,zzyictrl,293,71,-1243,放置方块,minecraft:air,293,68,-1244,
+2023-08-19 11:38:52,下界,zzyictrl,293,72,-1243,放置方块,minecraft:air,293,69,-1244,
+2023-08-19 11:38:52,下界,zzyictrl,293,73,-1243,放置方块,minecraft:air,293,70,-1244,
+2023-08-19 11:38:55,下界,zzyictrl,293,73,-1244,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:38:55,下界,zzyictrl,293,73,-1244,破坏方块,minecraft:gold_block,294,71,-1241,
+2023-08-19 11:38:56,下界,zzyictrl,293,73,-1244,破坏方块,minecraft:gold_block,294,70,-1241,
+2023-08-19 11:38:56,下界,zzyictrl,293,73,-1244,破坏方块,minecraft:gold_block,295,71,-1241,
+2023-08-19 11:38:56,下界,zzyictrl,293,73,-1244,破坏方块,minecraft:gold_block,295,70,-1241,
+2023-08-19 11:38:57,下界,zzyictrl,293,73,-1244,破坏方块,minecraft:gold_block,294,71,-1240,
+2023-08-19 11:38:57,下界,zzyictrl,293,73,-1244,破坏方块,minecraft:gold_block,294,71,-1239,
+2023-08-19 11:38:58,下界,zzyictrl,293,73,-1244,破坏方块,minecraft:gold_block,294,70,-1240,
+2023-08-19 11:38:58,下界,zzyictrl,293,73,-1244,破坏方块,minecraft:gold_block,295,70,-1240,
+2023-08-19 11:38:59,下界,zzyictrl,293,73,-1244,破坏方块,minecraft:gold_block,295,71,-1240,
+2023-08-19 11:38:59,下界,zzyictrl,293,73,-1244,破坏方块,minecraft:gold_block,295,71,-1239,
+2023-08-19 11:39:00,下界,zzyictrl,293,73,-1244,破坏方块,minecraft:gold_block,293,71,-1240,
+2023-08-19 11:39:00,下界,zzyictrl,293,73,-1244,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:39:16,下界,zzyictrl,293,70,-1199,放置方块,minecraft:air,296,67,-1200,
+2023-08-19 11:39:16,下界,zzyictrl,293,70,-1199,放置方块,minecraft:air,295,67,-1200,
+2023-08-19 11:39:17,下界,zzyictrl,293,70,-1199,放置方块,minecraft:air,294,67,-1200,
+2023-08-19 11:39:20,下界,zzyictrl,296,70,-1199,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:39:20,下界,zzyictrl,296,70,-1199,破坏方块,minecraft:basalt,298,68,-1200,
+2023-08-19 11:39:20,下界,zzyictrl,296,70,-1199,破坏方块,minecraft:basalt,299,68,-1200,
+2023-08-19 11:39:20,下界,zzyictrl,297,70,-1199,捡起物品,Basalt,298,69,-1199,1个
+2023-08-19 11:39:20,下界,zzyictrl,297,70,-1199,破坏方块,minecraft:basalt,300,68,-1200,
+2023-08-19 11:39:21,下界,zzyictrl,298,70,-1199,破坏方块,minecraft:basalt,300,69,-1200,
+2023-08-19 11:39:21,下界,zzyictrl,298,70,-1199,捡起物品,Basalt,299,68,-1199,1个
+2023-08-19 11:39:21,下界,zzyictrl,298,70,-1199,破坏方块,minecraft:basalt,299,69,-1201,
+2023-08-19 11:39:22,下界,zzyictrl,299,70,-1199,破坏方块,minecraft:polished_blackstone_bricks,299,68,-1201,
+2023-08-19 11:39:22,下界,zzyictrl,299,70,-1199,捡起物品,Basalt,300,69,-1200,1个
+2023-08-19 11:39:22,下界,zzyictrl,299,70,-1199,破坏方块,minecraft:polished_blackstone_bricks,299,68,-1202,
+2023-08-19 11:39:22,下界,zzyictrl,299,70,-1199,捡起物品,Basalt,300,68,-1200,1个
+2023-08-19 11:39:22,下界,zzyictrl,299,70,-1199,捡起物品,Basalt,300,68,-1199,1个
+2023-08-19 11:39:22,下界,zzyictrl,299,70,-1199,捡起物品,Polished Blackstone Bricks,300,68,-1200,1个
+2023-08-19 11:39:22,下界,zzyictrl,300,70,-1199,破坏方块,minecraft:polished_blackstone_bricks,300,69,-1201,
+2023-08-19 11:39:23,下界,zzyictrl,300,70,-1200,破坏方块,minecraft:polished_blackstone_bricks,300,68,-1201,
+2023-08-19 11:39:23,下界,zzyictrl,300,70,-1199,捡起物品,Polished Blackstone Bricks,301,69,-1201,1个
+2023-08-19 11:39:23,下界,zzyictrl,300,70,-1199,破坏方块,minecraft:polished_blackstone_bricks,300,68,-1202,
+2023-08-19 11:39:23,下界,zzyictrl,300,70,-1200,捡起物品,Polished Blackstone Bricks,300,68,-1201,1个
+2023-08-19 11:39:24,下界,zzyictrl,300,70,-1200,破坏方块,minecraft:polished_blackstone_bricks,300,69,-1202,
+2023-08-19 11:39:24,下界,zzyictrl,300,70,-1200,破坏方块,minecraft:polished_blackstone_bricks,299,69,-1202,
+2023-08-19 11:39:24,下界,zzyictrl,300,70,-1200,捡起物品,Polished Blackstone Bricks,300,68,-1201,1个
+2023-08-19 11:39:24,下界,zzyictrl,300,70,-1200,破坏方块,minecraft:polished_blackstone_bricks,300,69,-1203,
+2023-08-19 11:39:24,下界,zzyictrl,300,70,-1200,捡起物品,Polished Blackstone Bricks,300,68,-1202,2个
+2023-08-19 11:39:24,下界,zzyictrl,300,70,-1200,捡起物品,Polished Blackstone Bricks,300,69,-1201,1个
+2023-08-19 11:39:25,下界,zzyictrl,300,70,-1201,破坏方块,minecraft:polished_blackstone_bricks,300,68,-1203,
+2023-08-19 11:39:25,下界,zzyictrl,300,70,-1201,破坏方块,minecraft:polished_blackstone_bricks,299,69,-1203,
+2023-08-19 11:39:26,下界,zzyictrl,300,70,-1201,破坏方块,minecraft:polished_blackstone_bricks,299,68,-1203,
+2023-08-19 11:39:26,下界,zzyictrl,300,70,-1201,捡起物品,Polished Blackstone Bricks,299,69,-1202,1个
+2023-08-19 11:39:26,下界,zzyictrl,300,70,-1201,捡起物品,Polished Blackstone Bricks,301,68,-1203,2个
+2023-08-19 11:39:26,下界,zzyictrl,300,70,-1201,破坏方块,minecraft:polished_blackstone_bricks,299,68,-1204,
+2023-08-19 11:39:26,下界,zzyictrl,300,70,-1201,捡起物品,Polished Blackstone Bricks,300,69,-1202,1个
+2023-08-19 11:39:26,下界,zzyictrl,300,70,-1201,破坏方块,minecraft:polished_blackstone_bricks,300,69,-1204,
+2023-08-19 11:39:27,下界,zzyictrl,300,70,-1202,破坏方块,minecraft:polished_blackstone_bricks,299,69,-1204,
+2023-08-19 11:39:27,下界,zzyictrl,300,70,-1202,捡起物品,Polished Blackstone Bricks,299,68,-1203,1个
+2023-08-19 11:39:27,下界,zzyictrl,300,70,-1202,破坏方块,minecraft:polished_blackstone_bricks,299,68,-1205,
+2023-08-19 11:39:28,下界,zzyictrl,300,70,-1202,破坏方块,minecraft:polished_blackstone_bricks,300,68,-1205,
+2023-08-19 11:39:28,下界,zzyictrl,300,70,-1202,捡起物品,Polished Blackstone Bricks,300,68,-1204,1个
+2023-08-19 11:39:28,下界,zzyictrl,300,70,-1202,破坏方块,minecraft:polished_blackstone_bricks,299,69,-1205,
+2023-08-19 11:39:28,下界,zzyictrl,300,70,-1202,捡起物品,Polished Blackstone Bricks,299,68,-1204,1个
+2023-08-19 11:39:28,下界,zzyictrl,300,70,-1202,破坏方块,minecraft:polished_blackstone_bricks,300,68,-1204,
+2023-08-19 11:39:29,下界,zzyictrl,300,70,-1202,破坏方块,minecraft:polished_blackstone_bricks,300,69,-1205,
+2023-08-19 11:39:29,下界,zzyictrl,300,70,-1203,捡起物品,Polished Blackstone Bricks,300,68,-1204,1个
+2023-08-19 11:39:29,下界,zzyictrl,300,70,-1203,破坏方块,minecraft:polished_blackstone_bricks,300,69,-1206,
+2023-08-19 11:39:29,下界,zzyictrl,299,70,-1203,捡起物品,Polished Blackstone Bricks,299,68,-1205,1个
+2023-08-19 11:39:29,下界,zzyictrl,299,70,-1203,捡起物品,Polished Blackstone Bricks,301,69,-1204,1个
+2023-08-19 11:39:30,下界,zzyictrl,299,70,-1204,破坏方块,minecraft:polished_blackstone_bricks,299,69,-1206,
+2023-08-19 11:39:30,下界,zzyictrl,299,70,-1204,破坏方块,minecraft:polished_blackstone_bricks,299,68,-1206,
+2023-08-19 11:39:30,下界,zzyictrl,299,70,-1204,捡起物品,Polished Blackstone Bricks,301,68,-1205,2个
+2023-08-19 11:39:30,下界,zzyictrl,300,70,-1204,捡起物品,Polished Blackstone Bricks,300,68,-1205,1个
+2023-08-19 11:39:30,下界,zzyictrl,300,70,-1204,破坏方块,minecraft:polished_blackstone_bricks,300,68,-1206,
+2023-08-19 11:39:31,下界,zzyictrl,300,70,-1204,捡起物品,Polished Blackstone Bricks,299,68,-1205,1个
+2023-08-19 11:39:31,下界,zzyictrl,300,70,-1204,破坏方块,minecraft:polished_blackstone_bricks,299,68,-1207,
+2023-08-19 11:39:31,下界,zzyictrl,300,70,-1204,捡起物品,Polished Blackstone Bricks,301,68,-1205,2个
+2023-08-19 11:39:31,下界,zzyictrl,300,70,-1204,破坏方块,minecraft:polished_blackstone_bricks,299,69,-1207,
+2023-08-19 11:39:32,下界,zzyictrl,300,70,-1205,破坏方块,minecraft:polished_blackstone_bricks,300,69,-1207,
+2023-08-19 11:39:32,下界,zzyictrl,300,70,-1205,破坏方块,minecraft:polished_blackstone_bricks,300,68,-1207,
+2023-08-19 11:39:32,下界,zzyictrl,300,70,-1205,捡起物品,Polished Blackstone Bricks,300,69,-1206,1个
+2023-08-19 11:39:33,下界,zzyictrl,300,70,-1205,破坏方块,minecraft:polished_blackstone_bricks,300,68,-1208,
+2023-08-19 11:39:33,下界,zzyictrl,300,70,-1205,捡起物品,Polished Blackstone Bricks,299,68,-1207,2个
+2023-08-19 11:39:33,下界,zzyictrl,300,70,-1205,捡起物品,Polished Blackstone Bricks,301,68,-1207,1个
+2023-08-19 11:39:33,下界,zzyictrl,299,70,-1206,破坏方块,minecraft:polished_blackstone_bricks,299,69,-1208,
+2023-08-19 11:39:33,下界,zzyictrl,299,70,-1206,捡起物品,Polished Blackstone Bricks,300,68,-1207,1个
+2023-08-19 11:39:33,下界,zzyictrl,299,70,-1206,破坏方块,minecraft:polished_blackstone_bricks,299,68,-1208,
+2023-08-19 11:39:33,下界,zzyictrl,300,70,-1206,捡起物品,Polished Blackstone Bricks,300,69,-1207,1个
+2023-08-19 11:39:34,下界,zzyictrl,300,70,-1206,破坏方块,minecraft:polished_blackstone_bricks,300,69,-1208,
+2023-08-19 11:39:34,下界,zzyictrl,300,70,-1207,捡起物品,Polished Blackstone Bricks,300,68,-1208,1个
+2023-08-19 11:39:34,下界,zzyictrl,300,70,-1207,破坏方块,minecraft:polished_blackstone_bricks,300,68,-1209,
+2023-08-19 11:39:34,下界,zzyictrl,300,70,-1207,捡起物品,Polished Blackstone Bricks,301,68,-1207,1个
+2023-08-19 11:39:34,下界,zzyictrl,300,70,-1207,破坏方块,minecraft:polished_blackstone_bricks,300,67,-1208,
+2023-08-19 11:39:35,下界,zzyictrl,300,70,-1207,破坏方块,minecraft:polished_blackstone_bricks,301,67,-1208,
+2023-08-19 11:39:35,下界,zzyictrl,300,70,-1207,捡起物品,Polished Blackstone Bricks,300,67,-1208,1个
+2023-08-19 11:39:35,下界,zzyictrl,300,70,-1207,破坏方块,minecraft:polished_blackstone_bricks,301,66,-1208,
+2023-08-19 11:39:36,下界,zzyictrl,300,70,-1207,破坏方块,minecraft:polished_blackstone_bricks,302,66,-1208,
+2023-08-19 11:39:36,下界,zzyictrl,299,70,-1206,破坏方块,minecraft:polished_blackstone_bricks,300,67,-1207,
+2023-08-19 11:39:36,下界,zzyictrl,300,70,-1207,破坏方块,minecraft:polished_blackstone_bricks,300,66,-1207,
+2023-08-19 11:39:36,下界,zzyictrl,300,70,-1207,捡起物品,Polished Blackstone Bricks,300,68,-1206,1个
+2023-08-19 11:39:37,下界,zzyictrl,301,69,-1207,捡起物品,Polished Blackstone Bricks,301,67,-1208,1个
+2023-08-19 11:39:37,下界,zzyictrl,301,68,-1207,捡起物品,Polished Blackstone Bricks,302,66,-1207,1个
+2023-08-19 11:39:37,下界,zzyictrl,301,68,-1207,捡起物品,Polished Blackstone Bricks,300,66,-1207,1个
+2023-08-19 11:39:37,下界,zzyictrl,301,68,-1207,破坏方块,minecraft:polished_blackstone_bricks,301,67,-1207,
+2023-08-19 11:39:38,下界,zzyictrl,301,68,-1207,破坏方块,minecraft:polished_blackstone_bricks,301,66,-1207,
+2023-08-19 11:39:38,下界,zzyictrl,301,68,-1207,捡起物品,Polished Blackstone Bricks,302,67,-1206,1个
+2023-08-19 11:39:38,下界,zzyictrl,301,68,-1207,破坏方块,minecraft:polished_blackstone_bricks,302,66,-1207,
+2023-08-19 11:39:38,下界,zzyictrl,301,68,-1206,捡起物品,Polished Blackstone Bricks,302,66,-1207,2个
+2023-08-19 11:39:38,下界,zzyictrl,301,68,-1206,破坏方块,minecraft:polished_blackstone_bricks,302,65,-1207,
+2023-08-19 11:39:38,下界,zzyictrl,301,68,-1206,捡起物品,Polished Blackstone Bricks,303,66,-1207,1个
+2023-08-19 11:39:39,下界,zzyictrl,301,68,-1206,破坏方块,minecraft:polished_blackstone_bricks,302,64,-1207,
+2023-08-19 11:39:39,下界,zzyictrl,302,68,-1206,捡起物品,Polished Blackstone Bricks,303,65,-1206,1个
+2023-08-19 11:39:39,下界,zzyictrl,302,68,-1206,破坏方块,minecraft:polished_blackstone_bricks,303,64,-1207,
+2023-08-19 11:39:39,下界,zzyictrl,302,68,-1206,破坏方块,minecraft:polished_blackstone_bricks,302,67,-1207,
+2023-08-19 11:39:40,下界,zzyictrl,302,68,-1206,破坏方块,minecraft:polished_blackstone_bricks,303,66,-1207,
+2023-08-19 11:39:40,下界,zzyictrl,302,68,-1206,捡起物品,Polished Blackstone Bricks,303,67,-1207,1个
+2023-08-19 11:39:40,下界,zzyictrl,302,68,-1206,破坏方块,minecraft:polished_blackstone_bricks,303,65,-1207,
+2023-08-19 11:39:40,下界,zzyictrl,302,68,-1206,捡起物品,Polished Blackstone Bricks,304,66,-1207,1个
+2023-08-19 11:39:41,下界,zzyictrl,302,68,-1206,破坏方块,minecraft:polished_blackstone_bricks,302,65,-1208,
+2023-08-19 11:39:41,下界,zzyictrl,302,67,-1206,捡起物品,Polished Blackstone Bricks,304,65,-1206,1个
+2023-08-19 11:39:41,下界,zzyictrl,303,66,-1206,捡起物品,Polished Blackstone Bricks,303,64,-1207,1个
+2023-08-19 11:39:41,下界,zzyictrl,303,66,-1206,捡起物品,Polished Blackstone Bricks,304,64,-1207,1个
+2023-08-19 11:39:41,下界,zzyictrl,303,66,-1206,破坏方块,minecraft:polished_blackstone_bricks,302,64,-1208,
+2023-08-19 11:39:41,下界,zzyictrl,303,66,-1206,捡起物品,Polished Blackstone Bricks,303,65,-1208,1个
+2023-08-19 11:39:41,下界,zzyictrl,303,66,-1206,破坏方块,minecraft:polished_blackstone_bricks,302,63,-1208,
+2023-08-19 11:39:42,下界,zzyictrl,303,66,-1206,破坏方块,minecraft:polished_blackstone_bricks,303,64,-1208,
+2023-08-19 11:39:42,下界,zzyictrl,303,66,-1206,破坏方块,minecraft:polished_blackstone_bricks,303,63,-1208,
+2023-08-19 11:39:43,下界,zzyictrl,303,66,-1206,破坏方块,minecraft:polished_blackstone_bricks,303,63,-1207,
+2023-08-19 11:39:43,下界,zzyictrl,303,66,-1206,破坏方块,minecraft:cracked_polished_blackstone_bricks,303,62,-1208,
+2023-08-19 11:39:43,下界,zzyictrl,303,66,-1206,捡起物品,Polished Blackstone Bricks,304,64,-1208,1个
+2023-08-19 11:39:43,下界,zzyictrl,303,66,-1206,破坏方块,minecraft:cracked_polished_blackstone_bricks,303,63,-1209,
+2023-08-19 11:39:44,下界,zzyictrl,303,66,-1206,破坏方块,minecraft:polished_blackstone_bricks,303,62,-1209,
+2023-08-19 11:39:44,下界,zzyictrl,303,66,-1207,破坏方块,minecraft:polished_blackstone_bricks,302,64,-1209,
+2023-08-19 11:39:45,下界,zzyictrl,303,66,-1207,破坏方块,minecraft:polished_blackstone_bricks,303,64,-1209,
+2023-08-19 11:39:45,下界,zzyictrl,303,66,-1207,捡起物品,Polished Blackstone Bricks,303,64,-1208,1个
+2023-08-19 11:39:45,下界,zzyictrl,302,66,-1207,破坏方块,minecraft:polished_blackstone_bricks,302,65,-1209,
+2023-08-19 11:39:45,下界,zzyictrl,302,66,-1207,捡起物品,Polished Blackstone Bricks,303,64,-1208,1个
+2023-08-19 11:39:45,下界,zzyictrl,302,66,-1207,破坏方块,minecraft:polished_blackstone_bricks,302,65,-1210,
+2023-08-19 11:39:45,下界,zzyictrl,302,65,-1208,捡起物品,Polished Blackstone Bricks,303,63,-1208,3个
+2023-08-19 11:39:45,下界,zzyictrl,302,65,-1208,捡起物品,Cracked Polished Blackstone Bricks,303,63,-1208,1个
+2023-08-19 11:39:45,下界,zzyictrl,302,65,-1208,捡起物品,Polished Blackstone Bricks,302,64,-1209,1个
+2023-08-19 11:39:46,下界,zzyictrl,302,65,-1208,破坏方块,minecraft:polished_blackstone_bricks,302,64,-1210,
+2023-08-19 11:39:46,下界,zzyictrl,302,65,-1208,破坏方块,minecraft:polished_blackstone_bricks,302,63,-1210,
+2023-08-19 11:39:46,下界,zzyictrl,302,65,-1208,破坏方块,minecraft:polished_blackstone_bricks,302,63,-1209,
+2023-08-19 11:39:47,下界,zzyictrl,302,65,-1208,破坏方块,minecraft:cracked_polished_blackstone_bricks,302,63,-1211,
+2023-08-19 11:39:47,下界,zzyictrl,302,65,-1208,捡起物品,Polished Blackstone Bricks,302,63,-1208,1个
+2023-08-19 11:39:47,下界,zzyictrl,302,65,-1208,破坏方块,minecraft:polished_blackstone_bricks,302,62,-1211,
+2023-08-19 11:39:48,下界,zzyictrl,302,65,-1208,破坏方块,minecraft:cracked_polished_blackstone_bricks,302,62,-1209,
+2023-08-19 11:39:48,下界,zzyictrl,303,65,-1208,捡起物品,Polished Blackstone Bricks,302,63,-1209,3个
+2023-08-19 11:39:48,下界,zzyictrl,303,65,-1208,破坏方块,minecraft:cracked_polished_blackstone_bricks,302,61,-1209,
+2023-08-19 11:39:48,下界,zzyictrl,303,65,-1208,破坏方块,minecraft:cracked_polished_blackstone_bricks,302,61,-1210,
+2023-08-19 11:39:49,下界,zzyictrl,303,65,-1208,破坏方块,minecraft:polished_blackstone_bricks,303,62,-1210,
+2023-08-19 11:39:49,下界,zzyictrl,303,65,-1208,破坏方块,minecraft:polished_blackstone_bricks,303,61,-1209,
+2023-08-19 11:39:49,下界,zzyictrl,303,65,-1208,破坏方块,minecraft:polished_blackstone_bricks,303,60,-1209,
+2023-08-19 11:39:50,下界,zzyictrl,303,65,-1208,捡起物品,Cracked Polished Blackstone Bricks,302,63,-1210,1个
+2023-08-19 11:39:50,下界,zzyictrl,303,64,-1209,捡起物品,Polished Blackstone Bricks,304,62,-1208,2个
+2023-08-19 11:39:50,下界,zzyictrl,303,64,-1209,捡起物品,Polished Blackstone Bricks,303,62,-1209,1个
+2023-08-19 11:39:50,下界,zzyictrl,304,63,-1209,捡起物品,Cracked Polished Blackstone Bricks,303,61,-1208,3个
+2023-08-19 11:39:50,下界,zzyictrl,304,63,-1209,捡起物品,Cracked Polished Blackstone Bricks,303,61,-1210,1个
+2023-08-19 11:39:50,下界,zzyictrl,304,63,-1209,捡起物品,Polished Blackstone Bricks,303,61,-1208,1个
+2023-08-19 11:39:50,下界,zzyictrl,304,62,-1209,破坏方块,minecraft:cracked_polished_blackstone_bricks,303,61,-1210,
+2023-08-19 11:39:50,下界,zzyictrl,304,62,-1209,捡起物品,Polished Blackstone Bricks,303,60,-1208,1个
+2023-08-19 11:39:50,下界,zzyictrl,304,62,-1209,破坏方块,minecraft:polished_blackstone_bricks,303,60,-1210,
+2023-08-19 11:39:51,下界,zzyictrl,304,62,-1209,捡起物品,Cracked Polished Blackstone Bricks,304,61,-1209,1个
+2023-08-19 11:39:51,下界,zzyictrl,304,62,-1209,破坏方块,minecraft:cracked_polished_blackstone_bricks,303,60,-1211,
+2023-08-19 11:39:51,下界,zzyictrl,304,62,-1209,捡起物品,Polished Blackstone Bricks,304,60,-1209,1个
+2023-08-19 11:39:51,下界,zzyictrl,304,62,-1209,破坏方块,minecraft:polished_blackstone_bricks,303,61,-1211,
+2023-08-19 11:39:51,下界,zzyictrl,304,62,-1209,破坏方块,minecraft:polished_blackstone_bricks,303,60,-1212,
+2023-08-19 11:39:52,下界,zzyictrl,304,62,-1209,捡起物品,Cracked Polished Blackstone Bricks,304,60,-1210,1个
+2023-08-19 11:39:52,下界,zzyictrl,304,62,-1209,破坏方块,minecraft:cracked_polished_blackstone_bricks,303,60,-1213,
+2023-08-19 11:39:52,下界,zzyictrl,304,62,-1209,破坏方块,minecraft:polished_blackstone_bricks,303,61,-1212,
+2023-08-19 11:39:53,下界,zzyictrl,304,62,-1210,捡起物品,Polished Blackstone Bricks,303,62,-1211,1个
+2023-08-19 11:39:53,下界,zzyictrl,304,62,-1210,破坏方块,minecraft:polished_blackstone_bricks,303,61,-1213,
+2023-08-19 11:39:53,下界,zzyictrl,304,62,-1210,捡起物品,Polished Blackstone Bricks,303,60,-1211,2个
+2023-08-19 11:39:53,下界,zzyictrl,304,62,-1210,捡起物品,Polished Blackstone Bricks,303,61,-1211,1个
+2023-08-19 11:39:53,下界,zzyictrl,304,62,-1210,破坏方块,minecraft:cracked_polished_blackstone_bricks,303,61,-1214,
+2023-08-19 11:39:53,下界,zzyictrl,304,62,-1211,破坏方块,minecraft:cracked_polished_blackstone_bricks,303,60,-1214,
+2023-08-19 11:39:54,下界,zzyictrl,304,62,-1211,捡起物品,Cracked Polished Blackstone Bricks,303,60,-1212,1个
+2023-08-19 11:39:54,下界,zzyictrl,304,62,-1211,破坏方块,minecraft:polished_blackstone_bricks,303,60,-1215,
+2023-08-19 11:39:54,下界,zzyictrl,304,62,-1211,捡起物品,Polished Blackstone Bricks,304,60,-1213,1个
+2023-08-19 11:39:54,下界,zzyictrl,304,62,-1211,捡起物品,Cracked Polished Blackstone Bricks,303,60,-1213,1个
+2023-08-19 11:39:54,下界,zzyictrl,304,62,-1212,破坏方块,minecraft:cracked_polished_blackstone_bricks,303,61,-1215,
+2023-08-19 11:39:54,下界,zzyictrl,303,62,-1213,捡起物品,Cracked Polished Blackstone Bricks,304,60,-1214,1个
+2023-08-19 11:39:54,下界,zzyictrl,303,62,-1213,捡起物品,Polished Blackstone Bricks,304,60,-1214,1个
+2023-08-19 11:39:55,下界,zzyictrl,303,62,-1213,破坏方块,minecraft:blackstone,303,61,-1216,
+2023-08-19 11:39:55,下界,zzyictrl,303,62,-1213,破坏方块,minecraft:cracked_polished_blackstone_bricks,303,60,-1216,
+2023-08-19 11:39:55,下界,zzyictrl,303,62,-1213,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:39:55,下界,zzyictrl,304,62,-1214,捡起物品,Cracked Polished Blackstone Bricks,304,61,-1215,1个
+2023-08-19 11:39:56,下界,zzyictrl,304,62,-1214,捡起物品,Cracked Polished Blackstone Bricks,304,61,-1215,1个
+2023-08-19 11:40:01,下界,zzyictrl,304,62,-1216,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:40:01,下界,zzyictrl,304,62,-1216,破坏方块,minecraft:blackstone,303,62,-1216,
+2023-08-19 11:40:01,下界,zzyictrl,304,62,-1216,破坏方块,minecraft:gilded_blackstone,304,61,-1216,
+2023-08-19 11:40:01,下界,zzyictrl,304,62,-1216,捡起物品,Blackstone,304,62,-1215,1个
+2023-08-19 11:40:02,下界,zzyictrl,304,62,-1216,破坏方块,minecraft:blackstone,304,61,-1215,
+2023-08-19 11:40:02,下界,zzyictrl,304,62,-1216,捡起物品,Gold Nugget,304,61,-1215,2个
+2023-08-19 11:40:02,下界,zzyictrl,304,62,-1216,破坏方块,minecraft:cracked_polished_blackstone_bricks,306,61,-1213,
+2023-08-19 11:40:02,下界,zzyictrl,304,62,-1216,破坏方块,minecraft:cracked_polished_blackstone_bricks,304,60,-1216,
+2023-08-19 11:40:03,下界,zzyictrl,304,62,-1216,破坏方块,minecraft:blackstone,304,60,-1215,
+2023-08-19 11:40:03,下界,zzyictrl,304,62,-1216,捡起物品,Cracked Polished Blackstone Bricks,304,61,-1216,1个
+2023-08-19 11:40:03,下界,zzyictrl,304,62,-1216,破坏方块,minecraft:polished_blackstone_bricks,306,59,-1214,
+2023-08-19 11:40:03,下界,zzyictrl,304,62,-1216,捡起物品,Blackstone,304,60,-1215,2个
+2023-08-19 11:40:04,下界,zzyictrl,304,62,-1216,破坏方块,minecraft:polished_blackstone_bricks,305,59,-1213,
+2023-08-19 11:40:04,下界,zzyictrl,304,62,-1215,破坏方块,minecraft:cracked_polished_blackstone_bricks,304,60,-1214,
+2023-08-19 11:40:04,下界,zzyictrl,304,62,-1215,破坏方块,minecraft:cracked_polished_blackstone_bricks,306,59,-1213,
+2023-08-19 11:40:05,下界,zzyictrl,304,62,-1215,破坏方块,minecraft:cracked_polished_blackstone_bricks,307,59,-1213,
+2023-08-19 11:40:05,下界,zzyictrl,304,62,-1215,破坏方块,minecraft:polished_blackstone_bricks,306,60,-1213,
+2023-08-19 11:40:05,下界,zzyictrl,304,62,-1214,捡起物品,Cracked Polished Blackstone Bricks,305,60,-1213,1个
+2023-08-19 11:40:06,下界,zzyictrl,304,62,-1214,破坏方块,minecraft:polished_blackstone_bricks,304,61,-1214,
+2023-08-19 11:40:06,下界,zzyictrl,304,62,-1214,破坏方块,minecraft:polished_blackstone_bricks,307,60,-1213,
+2023-08-19 11:40:06,下界,zzyictrl,304,62,-1213,捡起物品,Polished Blackstone Bricks,304,61,-1214,1个
+2023-08-19 11:40:06,下界,zzyictrl,304,62,-1213,破坏方块,minecraft:cracked_polished_blackstone_bricks,304,60,-1213,
+2023-08-19 11:40:07,下界,zzyictrl,304,62,-1213,破坏方块,minecraft:polished_blackstone_bricks,305,60,-1212,
+2023-08-19 11:40:07,下界,zzyictrl,304,62,-1213,破坏方块,minecraft:cracked_polished_blackstone_bricks,304,61,-1213,
+2023-08-19 11:40:08,下界,zzyictrl,304,62,-1213,破坏方块,minecraft:polished_blackstone_bricks,307,60,-1212,
+2023-08-19 11:40:08,下界,zzyictrl,304,62,-1213,捡起物品,Cracked Polished Blackstone Bricks,304,60,-1213,1个
+2023-08-19 11:40:08,下界,zzyictrl,304,62,-1213,破坏方块,minecraft:cracked_polished_blackstone_bricks,308,60,-1212,
+2023-08-19 11:40:08,下界,zzyictrl,305,62,-1213,破坏方块,minecraft:cracked_polished_blackstone_bricks,308,60,-1213,
+2023-08-19 11:40:09,下界,zzyictrl,305,62,-1213,捡起物品,Polished Blackstone Bricks,306,60,-1211,1个
+2023-08-19 11:40:09,下界,zzyictrl,305,62,-1213,破坏方块,minecraft:polished_blackstone_bricks,309,60,-1213,
+2023-08-19 11:40:09,下界,zzyictrl,305,61,-1212,捡起物品,Cracked Polished Blackstone Bricks,307,59,-1213,3个
+2023-08-19 11:40:09,下界,zzyictrl,305,61,-1212,捡起物品,Polished Blackstone Bricks,306,59,-1213,1个
+2023-08-19 11:40:09,下界,zzyictrl,305,61,-1212,捡起物品,Polished Blackstone Bricks,305,59,-1212,1个
+2023-08-19 11:40:09,下界,zzyictrl,305,61,-1212,捡起物品,Cracked Polished Blackstone Bricks,305,59,-1212,1个
+2023-08-19 11:40:10,下界,zzyictrl,306,61,-1212,捡起物品,Polished Blackstone Bricks,307,60,-1211,1个
+2023-08-19 11:40:10,下界,zzyictrl,306,61,-1212,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:40:10,下界,zzyictrl,306,61,-1212,破坏方块,minecraft:cracked_polished_blackstone_bricks,308,59,-1213,
+2023-08-19 11:40:11,下界,zzyictrl,306,61,-1212,破坏方块,minecraft:polished_blackstone_bricks,309,59,-1213,
+2023-08-19 11:40:11,下界,zzyictrl,306,61,-1212,捡起物品,Cracked Polished Blackstone Bricks,308,60,-1212,2个
+2023-08-19 11:40:11,下界,zzyictrl,307,61,-1212,捡起物品,Polished Blackstone Bricks,308,59,-1212,1个
+2023-08-19 11:40:11,下界,zzyictrl,307,61,-1212,破坏方块,minecraft:cracked_polished_blackstone_bricks,310,59,-1213,
+2023-08-19 11:40:11,下界,zzyictrl,307,61,-1212,捡起物品,Cracked Polished Blackstone Bricks,308,59,-1213,1个
+2023-08-19 11:40:11,下界,zzyictrl,307,61,-1212,破坏方块,minecraft:cracked_polished_blackstone_bricks,311,59,-1213,
+2023-08-19 11:40:12,下界,zzyictrl,308,61,-1213,破坏方块,minecraft:cracked_polished_blackstone_bricks,310,60,-1213,
+2023-08-19 11:40:12,下界,zzyictrl,308,61,-1213,捡起物品,Polished Blackstone Bricks,309,59,-1213,2个
+2023-08-19 11:40:12,下界,zzyictrl,308,61,-1213,破坏方块,minecraft:cracked_polished_blackstone_bricks,311,60,-1213,
+2023-08-19 11:40:12,下界,zzyictrl,309,61,-1213,捡起物品,Cracked Polished Blackstone Bricks,310,60,-1212,1个
+2023-08-19 11:40:13,下界,zzyictrl,309,61,-1213,破坏方块,minecraft:polished_blackstone_bricks,312,60,-1213,
+2023-08-19 11:40:13,下界,zzyictrl,309,61,-1213,捡起物品,Cracked Polished Blackstone Bricks,310,59,-1213,1个
+2023-08-19 11:40:13,下界,zzyictrl,309,61,-1213,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:40:13,下界,zzyictrl,309,61,-1213,破坏方块,minecraft:cracked_polished_blackstone_bricks,312,59,-1213,
+2023-08-19 11:40:13,下界,zzyictrl,310,61,-1213,捡起物品,Cracked Polished Blackstone Bricks,311,59,-1213,1个
+2023-08-19 11:40:14,下界,zzyictrl,310,61,-1212,使用物品,钻石镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-19 11:40:14,下界,zzyictrl,311,61,-1212,捡起物品,Cracked Polished Blackstone Bricks,312,59,-1212,1个
+2023-08-19 11:40:14,下界,zzyictrl,311,61,-1212,捡起物品,Polished Blackstone Bricks,312,59,-1213,1个
+2023-08-19 11:40:15,下界,zzyictrl,311,61,-1213,捡起物品,Cracked Polished Blackstone Bricks,313,59,-1213,1个
+2023-08-19 11:40:30,下界,zzyictrl,352,62,-1214,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:40:33,下界,zzyictrl,383,74,-1283,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:40:39,下界,zzyictrl,248,46,-1301,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:40:42,下界,zzyictrl,257,40,-1381,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:40:48,下界,zzyictrl,273,65,-1413,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:40:59,下界,zzyictrl,298,70,-1543,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:41:05,下界,zzyictrl,213,59,-1635,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:41:10,下界,zzyictrl,133,65,-1662,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,打开容器,minecraft:chest,125,68,-1657,
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第17号槽 放入1个 Ancient Debris
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第21号槽 放入1个 Crying Obsidian
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第25号槽 放入1个 Magma Cream
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第14号槽 放入3个 Magma Cream
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第22号槽 放入1个 Magma Cream
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第1号槽 放入1个 Magma Cream
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第12号槽 放入1个 Magma Cream
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第26号槽 放入1个 Crying Obsidian
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第2号槽 放入2个 Crying Obsidian
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第24号槽 放入3个 String
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第18号槽 放入5个 Arrow
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第6号槽 放入3个 Magma Cream
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第7号槽 放入5个 Arrow
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第19号槽 放入1个 Iron Sword
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第10号槽 放入1个 Crying Obsidian
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第11号槽 放入1个 String
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第9号槽 放入1个 Cooked Porkchop
+2023-08-19 11:41:23,下界,zzyictrl,125,70,-1655,方块接受玩家互动,minecraft:chest,125,68,-1657,
+2023-08-19 11:41:25,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第25号槽 放入2个 Magma Cream
+2023-08-19 11:41:25,下界,zzyictrl,125,70,-1655,容器 取出物品,minecraft:chest,125,68,-1657,从第22号槽 取出1个 Magma Cream
+2023-08-19 11:41:25,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第25号槽 放入5个 Magma Cream
+2023-08-19 11:41:25,下界,zzyictrl,125,70,-1655,容器 取出物品,minecraft:chest,125,68,-1657,从第14号槽 取出3个 Magma Cream
+2023-08-19 11:41:25,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第25号槽 放入6个 Magma Cream
+2023-08-19 11:41:25,下界,zzyictrl,125,70,-1655,容器 取出物品,minecraft:chest,125,68,-1657,从第12号槽 取出1个 Magma Cream
+2023-08-19 11:41:25,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第25号槽 放入9个 Magma Cream
+2023-08-19 11:41:25,下界,zzyictrl,125,70,-1655,容器 取出物品,minecraft:chest,125,68,-1657,从第6号槽 取出3个 Magma Cream
+2023-08-19 11:41:25,下界,zzyictrl,125,70,-1655,容器 取出物品,minecraft:chest,125,68,-1657,从第1号槽 取出1个 Magma Cream
+2023-08-19 11:41:25,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第25号槽 放入10个 Magma Cream
+2023-08-19 11:41:25,下界,zzyictrl,125,70,-1655,容器 放入物品,minecraft:chest,125,68,-1657,从第25号槽 放入21个 Magma Cream
+2023-08-19 11:41:26,下界,zzyictrl,125,70,-1655,容器 取出物品,minecraft:chest,125,68,-1657,从第17号槽 取出1个 Ancient Debris
+2023-08-19 11:41:27,下界,zzyictrl,125,70,-1655,容器 取出物品,minecraft:chest,125,68,-1657,从第25号槽 取出21个 Magma Cream
+2023-08-19 11:41:29,下界,zzyictrl,125,70,-1655,关闭容器,minecraft:chest,125,68,-1657,
+2023-08-19 11:41:52,下界,zzyictrl,110,52,-1672,放置方块,minecraft:air,111,49,-1672,
+2023-08-19 11:41:52,下界,zzyictrl,111,52,-1672,攻击,Piglin,111,48,-1672,使用物品：钻石剑 类型：minecraft:netherite_sword
+2023-08-19 11:41:52,下界,zzyictrl,110,52,-1672,攻击,Piglin,112,49,-1671,使用物品：钻石剑 类型：minecraft:netherite_sword
+2023-08-19 11:41:52,下界,zzyictrl,110,52,-1672,攻击,Piglin,112,49,-1671,使用物品：钻石剑 类型：minecraft:netherite_sword
+2023-08-19 11:41:52,下界,zzyictrl,110,52,-1672,攻击,Piglin,112,50,-1671,使用物品：钻石剑 类型：minecraft:netherite_sword
+2023-08-19 11:41:52,下界,Piglin,112,50,-1671,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-19 11:41:53,下界,zzyictrl,110,52,-1672,放置方块,minecraft:air,111,49,-1672,
+2023-08-19 11:41:53,下界,zzyictrl,110,52,-1672,放置方块,minecraft:air,111,49,-1672,
+2023-08-19 11:41:53,下界,zzyictrl,110,52,-1672,放置方块,minecraft:air,111,49,-1672,
+2023-08-19 11:41:53,下界,zzyictrl,110,52,-1672,捡起物品,Golden Sword,111,50,-1671,1个
+2023-08-19 11:41:57,下界,zzyictrl,112,52,-1673,使用物品,弓,,,,类型：minecraft:bow
+2023-08-19 11:41:58,下界,Arrow,,,,弹射物击中,Piglin Brute,113,44,-1674,
+2023-08-19 11:41:59,下界,zzyictrl,112,52,-1673,使用物品,弓,,,,类型：minecraft:bow
+2023-08-19 11:42:05,下界,zzyictrl,108,47,-1675,攻击,Piglin,110,44,-1674,使用物品：钻石剑 类型：minecraft:netherite_sword
+2023-08-19 11:42:05,下界,zzyictrl,108,46,-1674,放置方块,minecraft:air,110,45,-1671,
+2023-08-19 11:42:05,下界,zzyictrl,108,46,-1674,放置方块,minecraft:air,110,44,-1672,
+2023-08-19 11:42:05,下界,zzyictrl,108,46,-1675,放置方块,minecraft:air,110,44,-1672,
+2023-08-19 11:42:05,下界,zzyictrl,108,46,-1675,放置方块,minecraft:air,109,44,-1673,
+2023-08-19 11:42:06,下界,zzyictrl,108,46,-1675,放置方块,minecraft:air,109,44,-1673,
+2023-08-19 11:42:06,下界,zzyictrl,108,47,-1674,放置方块,minecraft:air,110,45,-1672,
+2023-08-19 11:42:06,下界,zzyictrl,109,46,-1674,放置方块,minecraft:air,110,44,-1672,
+2023-08-19 11:42:06,下界,zzyictrl,109,46,-1674,放置方块,minecraft:air,110,44,-1672,
+2023-08-19 11:42:14,下界,zzyictrl,100,47,-1663,攻击,Hoglin,103,46,-1661,使用物品：钻石剑 类型：minecraft:netherite_sword
+2023-08-19 11:42:14,下界,zzyictrl,101,48,-1663,攻击,Hoglin,105,47,-1659,使用物品：钻石剑 类型：minecraft:netherite_sword
+2023-08-19 11:42:16,下界,zzyictrl,100,48,-1661,放置方块,minecraft:air,102,45,-1659,
+2023-08-19 11:42:16,下界,zzyictrl,100,48,-1661,放置方块,minecraft:air,102,45,-1659,
+2023-08-19 11:42:19,下界,zzyictrl,101,47,-1658,使用物品,弓,,,,类型：minecraft:bow
+2023-08-19 11:42:21,下界,Arrow,,,,弹射物击中,Piglin Brute,106,44,-1657,
+2023-08-19 11:42:21,下界,zzyictrl,101,47,-1658,使用物品,弓,,,,类型：minecraft:bow
+2023-08-19 11:42:22,下界,Arrow,,,,弹射物击中,Hoglin,96,39,-1657,
+2023-08-19 11:42:23,下界,zzyictrl,101,47,-1658,使用物品,弓,,,,类型：minecraft:bow
+2023-08-19 11:42:23,下界,Arrow,,,,弹射物击中,zzyictrl,101,47,-1658,
+2023-08-19 11:42:28,下界,zzyictrl,95,35,-1649,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:42:28,下界,zzyictrl,95,35,-1649,进食,Golden Apple,,,,
+2023-08-19 11:42:30,下界,zzyictrl,94,35,-1647,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:42:32,下界,zzyictrl,94,35,-1637,使用物品,Golden Apple,,,,类型：minecraft:golden_apple
+2023-08-19 11:42:36,下界,zzyictrl,87,35,-1636,攻击,Piglin Brute,88,33,-1636,使用物品：钻石剑 类型：minecraft:netherite_sword
+2023-08-19 11:42:36,下界,Piglin Brute,88,33,-1636,生物死亡,,,,,由于zzyictrl的攻击
+2023-08-19 11:42:37,下界,zzyictrl,87,35,-1635,放置方块,minecraft:air,91,33,-1635,
+2023-08-19 11:42:37,下界,zzyictrl,87,35,-1636,玩家死亡,,,,,
+2023-08-19 11:42:39,下界,zzyictrl,87,35,-1636,切换维度,前往主世界,,,,
+2023-08-19 11:42:41,主世界,zzyictrl,-143,65,733,重生,,,,,
+2023-08-19 11:42:43,,zzyictrl,,,,离开服务器,,,,,
