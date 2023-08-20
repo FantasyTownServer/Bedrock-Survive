@@ -2,3 +2,682 @@
 2023-08-20 02:34:41,主世界,weiheping,5129,74,5355,玩家死亡,,,,,
 2023-08-20 02:34:41,,weiheping,,,,离开服务器,,,,,
 2023-08-20 02:34:41,主世界,weiheping,-28,72,452,进入服务器,,,,,xuid=-10790567536229665938
+2023-08-20 16:48:28,,,,,,执行后台命令,allowlist add SakurajimaMai,,,,
+2023-08-20 17:03:01,,DHYXH,,,,开始进服,,,,,xuid=2535439591015631
+2023-08-20 17:03:06,主世界,DHYXH,-209,65,818,进入服务器,,,,,xuid=2535439591015631
+2023-08-20 17:04:30,主世界,DHYXH,-208,66,812,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 17:04:35,主世界,DHYXH,-219,66,794,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 17:04:56,主世界,DHYXH,-162,65,741,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 17:05:01,主世界,DHYXH,-113,106,668,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 17:05:06,主世界,DHYXH,-152,194,766,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 17:05:12,主世界,DHYXH,-185,222,896,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 17:05:25,主世界,DHYXH,-249,195,986,方块接受玩家互动,minecraft:frame,-245,195,985,
+2023-08-20 17:05:33,主世界,DHYXH,-266,77,979,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 17:05:35,主世界,DHYXH,-265,134,975,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 17:05:46,,DHYXH,,,,离开服务器,,,,,
+2023-08-20 23:19:59,,DHYXH,,,,开始进服,,,,,xuid=2535439591015631
+2023-08-20 23:20:04,主世界,DHYXH,-246,195,984,进入服务器,,,,,xuid=2535439591015631
+2023-08-20 23:20:10,主世界,DHYXH,-246,199,972,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:20:36,主世界,DHYXH,8,75,344,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:20:54,主世界,DHYXH,14,75,345,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:21:08,主世界,DHYXH,18,75,344,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:21:16,主世界,DHYXH,23,74,334,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:21:22,,DHYXH,,,,离开服务器,,,,,
+2023-08-20 23:24:04,,DHYXH,,,,开始进服,,,,,xuid=2535439591015631
+2023-08-20 23:24:09,主世界,DHYXH,23,74,332,进入服务器,,,,,xuid=2535439591015631
+2023-08-20 23:24:11,主世界,DHYXH,23,74,332,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:24:53,主世界,DHYXH,16,75,335,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:25:04,主世界,DHYXH,40,95,285,放置方块,minecraft:air,38,94,285,
+2023-08-20 23:25:36,主世界,DHYXH,32,91,285,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:25:36,主世界,DHYXH,32,91,285,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:25:36,主世界,DHYXH,32,92,285,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:25:38,主世界,DHYXH,30,91,284,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:25:45,主世界,DHYXH,29,91,284,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:25:46,主世界,DHYXH,29,91,284,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:25:48,主世界,DHYXH,29,92,284,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:25:50,主世界,DHYXH,29,92,284,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:25:51,主世界,DHYXH,29,94,284,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:25:56,主世界,DHYXH,32,92,285,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:25:56,主世界,DHYXH,32,91,285,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:25:56,主世界,DHYXH,32,91,285,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:25:57,主世界,DHYXH,32,92,285,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:25:57,主世界,DHYXH,32,93,285,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:26:02,主世界,DHYXH,37,95,290,使用物品,Golden Carrot,,,,类型：minecraft:golden_carrot
+2023-08-20 23:26:02,主世界,DHYXH,37,95,290,进食,Golden Carrot,,,,
+2023-08-20 23:26:04,主世界,DHYXH,37,95,290,使用物品,Golden Carrot,,,,类型：minecraft:golden_carrot
+2023-08-20 23:26:04,主世界,DHYXH,37,95,290,进食,Golden Carrot,,,,
+2023-08-20 23:26:21,主世界,DHYXH,38,96,291,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:26:32,主世界,DHYXH,26,94,287,使用物品,Apple,,,,类型：minecraft:apple
+2023-08-20 23:26:32,主世界,DHYXH,27,94,288,使用物品,Apple,,,,类型：minecraft:apple
+2023-08-20 23:26:38,主世界,DHYXH,28,96,301,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:26:43,主世界,DHYXH,-40,88,432,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:26:49,主世界,DHYXH,-83,117,576,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:27:00,主世界,DHYXH,-155,65,744,打开容器,minecraft:chest,-156,63,743,
+2023-08-20 23:27:00,主世界,DHYXH,-155,65,744,方块接受玩家互动,minecraft:chest,-156,63,743,
+2023-08-20 23:27:01,主世界,DHYXH,-155,65,744,关闭容器,minecraft:chest,-156,63,743,
+2023-08-20 23:27:01,主世界,DHYXH,-155,65,744,打开容器,minecraft:undyed_shulker_box,-155,63,743,
+2023-08-20 23:27:01,主世界,DHYXH,-155,65,744,方块接受玩家互动,minecraft:undyed_shulker_box,-155,63,743,
+2023-08-20 23:27:03,主世界,DHYXH,-155,65,745,关闭容器,minecraft:undyed_shulker_box,-155,63,743,
+2023-08-20 23:27:04,主世界,DHYXH,-155,65,745,打开容器,minecraft:chest,-156,63,743,
+2023-08-20 23:27:04,主世界,DHYXH,-155,65,745,方块接受玩家互动,minecraft:chest,-156,63,743,
+2023-08-20 23:27:07,主世界,DHYXH,-155,65,745,容器 取出物品,minecraft:chest,-156,63,743,从第5号槽 取出1个 Enchanted Book
+2023-08-20 23:27:12,主世界,DHYXH,-155,65,745,容器 放入物品,minecraft:chest,-156,63,743,从第3号槽 放入1个 Enchanted Book
+2023-08-20 23:27:18,主世界,DHYXH,-155,65,745,容器 放入物品,minecraft:chest,-156,63,743,从第22号槽 放入1个 Enchanted Book
+2023-08-20 23:27:18,主世界,DHYXH,-155,65,745,容器 放入物品,minecraft:chest,-156,63,743,从第23号槽 放入1个 Enchanted Book
+2023-08-20 23:27:18,主世界,DHYXH,-155,65,745,容器 取出物品,minecraft:chest,-156,63,743,从第23号槽 取出1个 Enchanted Book
+2023-08-20 23:27:22,主世界,DHYXH,-155,65,745,容器 放入物品,minecraft:chest,-156,63,743,从第5号槽 放入1个 Enchanted Book
+2023-08-20 23:27:23,主世界,DHYXH,-155,65,745,容器 取出物品,minecraft:chest,-156,63,743,从第22号槽 取出1个 Enchanted Book
+2023-08-20 23:27:28,主世界,DHYXH,-155,65,745,关闭容器,minecraft:chest,-156,63,743,
+2023-08-20 23:27:28,主世界,DHYXH,-155,65,745,打开容器,minecraft:undyed_shulker_box,-155,63,743,
+2023-08-20 23:27:28,主世界,DHYXH,-155,65,745,方块接受玩家互动,minecraft:undyed_shulker_box,-155,63,743,
+2023-08-20 23:27:31,主世界,DHYXH,-155,65,745,关闭容器,minecraft:undyed_shulker_box,-155,63,743,
+2023-08-20 23:27:33,主世界,DHYXH,-154,65,745,打开容器,minecraft:undyed_shulker_box,-154,63,743,
+2023-08-20 23:27:33,主世界,DHYXH,-154,65,745,方块接受玩家互动,minecraft:undyed_shulker_box,-154,63,743,
+2023-08-20 23:27:35,主世界,DHYXH,-154,65,745,关闭容器,minecraft:undyed_shulker_box,-154,63,743,
+2023-08-20 23:27:35,主世界,DHYXH,-156,65,745,方块接受玩家互动,minecraft:anvil,-157,63,743,
+2023-08-20 23:27:35,主世界,DHYXH,-156,65,745,打开容器,minecraft:anvil,-157,63,743,
+2023-08-20 23:27:37,主世界,DHYXH,-156,65,745,打开容器,minecraft:undyed_shulker_box,-158,63,743,
+2023-08-20 23:27:37,主世界,DHYXH,-156,65,745,方块接受玩家互动,minecraft:undyed_shulker_box,-158,63,743,
+2023-08-20 23:27:37,主世界,DHYXH,-156,65,745,打开容器,minecraft:undyed_shulker_box,-158,63,743,
+2023-08-20 23:27:37,主世界,DHYXH,-156,65,745,方块接受玩家互动,minecraft:undyed_shulker_box,-158,63,743,
+2023-08-20 23:27:38,主世界,DHYXH,-156,65,745,关闭容器,minecraft:undyed_shulker_box,-158,63,743,
+2023-08-20 23:27:38,主世界,DHYXH,-156,65,745,打开容器,minecraft:chest,-156,63,743,
+2023-08-20 23:27:38,主世界,DHYXH,-156,65,745,方块接受玩家互动,minecraft:chest,-156,63,743,
+2023-08-20 23:27:41,主世界,DHYXH,-155,65,745,关闭容器,minecraft:chest,-156,63,743,
+2023-08-20 23:27:41,主世界,DHYXH,-154,65,745,打开容器,minecraft:undyed_shulker_box,-154,63,743,
+2023-08-20 23:27:41,主世界,DHYXH,-154,65,745,方块接受玩家互动,minecraft:undyed_shulker_box,-154,63,743,
+2023-08-20 23:27:42,主世界,DHYXH,-153,66,745,关闭容器,minecraft:undyed_shulker_box,-154,63,743,
+2023-08-20 23:27:42,主世界,DHYXH,-153,66,745,放置方块,minecraft:air,-151,63,740,
+2023-08-20 23:27:43,主世界,DHYXH,-153,66,745,方块接受玩家互动,minecraft:standing_sign,-152,63,742,
+2023-08-20 23:27:44,主世界,DHYXH,-153,66,745,打开容器,minecraft:chest,-152,63,743,
+2023-08-20 23:27:44,主世界,DHYXH,-153,66,745,方块接受玩家互动,minecraft:chest,-152,63,743,
+2023-08-20 23:27:50,主世界,DHYXH,-153,66,745,容器 取出物品,minecraft:chest,-152,63,743,从第35号槽 取出64个 Carrot
+2023-08-20 23:27:51,主世界,DHYXH,-153,66,745,关闭容器,minecraft:chest,-152,63,743,
+2023-08-20 23:27:51,主世界,DHYXH,-153,67,745,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:28:02,主世界,DHYXH,-218,65,812,打开容器,minecraft:crafting_table,-221,63,812,
+2023-08-20 23:28:04,主世界,DHYXH,-219,66,813,打开容器,minecraft:chest,-224,64,814,
+2023-08-20 23:28:04,主世界,DHYXH,-219,66,813,方块接受玩家互动,minecraft:chest,-224,64,814,
+2023-08-20 23:28:06,主世界,DHYXH,-219,65,814,关闭容器,minecraft:chest,-224,64,814,
+2023-08-20 23:28:06,主世界,DHYXH,-219,65,814,打开容器,minecraft:yellow_shulker_box,-221,63,813,
+2023-08-20 23:28:06,主世界,DHYXH,-219,65,814,方块接受玩家互动,minecraft:yellow_shulker_box,-221,63,813,
+2023-08-20 23:28:07,主世界,DHYXH,-219,65,814,容器 放入物品,minecraft:yellow_shulker_box,-221,63,813,从第14号槽 放入64个 Block of Gold
+2023-08-20 23:28:07,主世界,DHYXH,-219,65,814,容器 放入物品,minecraft:yellow_shulker_box,-221,63,813,从第13号槽 放入56个 Block of Gold
+2023-08-20 23:28:08,主世界,DHYXH,-219,65,814,关闭容器,minecraft:yellow_shulker_box,-221,63,813,
+2023-08-20 23:28:08,主世界,DHYXH,-219,65,814,打开容器,minecraft:yellow_shulker_box,-221,63,813,
+2023-08-20 23:28:08,主世界,DHYXH,-219,65,814,方块接受玩家互动,minecraft:yellow_shulker_box,-221,63,813,
+2023-08-20 23:28:09,主世界,DHYXH,-219,65,814,容器 放入物品,minecraft:yellow_shulker_box,-221,63,813,从第13号槽 放入64个 Block of Gold
+2023-08-20 23:28:09,主世界,DHYXH,-219,65,814,容器 放入物品,minecraft:yellow_shulker_box,-221,63,813,从第14号槽 放入56个 Block of Gold
+2023-08-20 23:28:11,主世界,DHYXH,-219,65,814,容器 取出物品,minecraft:yellow_shulker_box,-221,63,813,从第14号槽 取出56个 Block of Gold
+2023-08-20 23:28:12,主世界,DHYXH,-219,65,813,关闭容器,minecraft:yellow_shulker_box,-221,63,813,
+2023-08-20 23:28:12,主世界,DHYXH,-219,65,813,打开容器,minecraft:crafting_table,-221,63,812,
+2023-08-20 23:28:18,主世界,DHYXH,-219,65,812,打开容器,minecraft:yellow_shulker_box,-221,63,813,
+2023-08-20 23:28:18,主世界,DHYXH,-219,65,812,方块接受玩家互动,minecraft:yellow_shulker_box,-221,63,813,
+2023-08-20 23:28:21,主世界,DHYXH,-218,65,812,丢出物品,Block of Gold,,,,56
+2023-08-20 23:28:23,主世界,DHYXH,-218,65,812,关闭容器,minecraft:yellow_shulker_box,-221,63,813,
+2023-08-20 23:28:23,主世界,DHYXH,-219,65,813,捡起物品,Block of Gold,-220,63,813,56个
+2023-08-20 23:28:24,主世界,DHYXH,-219,65,813,打开容器,minecraft:yellow_shulker_box,-221,63,813,
+2023-08-20 23:28:24,主世界,DHYXH,-219,65,813,方块接受玩家互动,minecraft:yellow_shulker_box,-221,63,813,
+2023-08-20 23:28:25,主世界,DHYXH,-219,65,813,容器 放入物品,minecraft:yellow_shulker_box,-221,63,813,从第14号槽 放入56个 Block of Gold
+2023-08-20 23:28:26,主世界,DHYXH,-219,65,813,关闭容器,minecraft:yellow_shulker_box,-221,63,813,
+2023-08-20 23:28:28,主世界,DHYXH,-220,65,816,打开容器,minecraft:chest,-224,65,815,
+2023-08-20 23:28:28,主世界,DHYXH,-220,65,816,方块接受玩家互动,minecraft:chest,-224,65,815,
+2023-08-20 23:28:29,主世界,DHYXH,-220,65,816,关闭容器,minecraft:chest,-224,65,815,
+2023-08-20 23:28:29,主世界,DHYXH,-220,65,816,打开容器,minecraft:chest,-224,64,815,
+2023-08-20 23:28:29,主世界,DHYXH,-220,65,816,方块接受玩家互动,minecraft:chest,-224,64,815,
+2023-08-20 23:28:30,主世界,DHYXH,-220,65,816,关闭容器,minecraft:chest,-224,64,815,
+2023-08-20 23:28:30,主世界,DHYXH,-220,65,816,打开容器,minecraft:chest,-224,63,815,
+2023-08-20 23:28:30,主世界,DHYXH,-220,65,816,方块接受玩家互动,minecraft:chest,-224,63,815,
+2023-08-20 23:28:32,主世界,DHYXH,-220,65,815,关闭容器,minecraft:chest,-224,63,815,
+2023-08-20 23:28:32,主世界,DHYXH,-221,65,815,打开容器,minecraft:chest,-224,64,814,
+2023-08-20 23:28:32,主世界,DHYXH,-221,65,815,方块接受玩家互动,minecraft:chest,-224,64,814,
+2023-08-20 23:28:33,主世界,DHYXH,-221,65,815,关闭容器,minecraft:chest,-224,64,814,
+2023-08-20 23:28:34,主世界,DHYXH,-221,65,815,打开容器,minecraft:chest,-224,65,814,
+2023-08-20 23:28:34,主世界,DHYXH,-221,65,815,方块接受玩家互动,minecraft:chest,-224,65,814,
+2023-08-20 23:28:35,主世界,DHYXH,-221,65,815,关闭容器,minecraft:chest,-224,65,814,
+2023-08-20 23:28:35,主世界,DHYXH,-221,65,815,打开容器,minecraft:chest,-224,66,814,
+2023-08-20 23:28:35,主世界,DHYXH,-221,65,815,方块接受玩家互动,minecraft:chest,-224,66,814,
+2023-08-20 23:28:36,主世界,DHYXH,-221,65,815,关闭容器,minecraft:chest,-224,66,814,
+2023-08-20 23:28:36,主世界,DHYXH,-221,65,815,打开容器,minecraft:chest,-224,67,814,
+2023-08-20 23:28:36,主世界,DHYXH,-221,65,815,方块接受玩家互动,minecraft:chest,-224,67,814,
+2023-08-20 23:28:38,主世界,DHYXH,-221,65,815,关闭容器,minecraft:chest,-224,67,814,
+2023-08-20 23:28:38,主世界,DHYXH,-221,65,815,打开容器,minecraft:chest,-224,67,813,
+2023-08-20 23:28:38,主世界,DHYXH,-221,65,815,方块接受玩家互动,minecraft:chest,-224,67,813,
+2023-08-20 23:28:39,主世界,DHYXH,-221,65,815,关闭容器,minecraft:chest,-224,67,813,
+2023-08-20 23:28:39,主世界,DHYXH,-221,65,815,打开容器,minecraft:chest,-224,66,813,
+2023-08-20 23:28:39,主世界,DHYXH,-221,65,815,方块接受玩家互动,minecraft:chest,-224,66,813,
+2023-08-20 23:28:41,主世界,DHYXH,-221,65,815,关闭容器,minecraft:chest,-224,66,813,
+2023-08-20 23:28:41,主世界,DHYXH,-221,65,815,打开容器,minecraft:chest,-224,65,813,
+2023-08-20 23:28:41,主世界,DHYXH,-221,65,815,方块接受玩家互动,minecraft:chest,-224,65,813,
+2023-08-20 23:28:43,主世界,DHYXH,-221,65,815,容器 取出物品,minecraft:chest,-224,65,813,从第0号槽 取出64个 Gold Nugget
+2023-08-20 23:28:44,主世界,DHYXH,-221,65,815,容器 取出物品,minecraft:chest,-224,65,813,从第1号槽 取出64个 Gold Nugget
+2023-08-20 23:28:44,主世界,DHYXH,-221,65,815,容器 取出物品,minecraft:chest,-224,65,813,从第2号槽 取出64个 Gold Nugget
+2023-08-20 23:28:44,主世界,DHYXH,-221,65,815,容器 取出物品,minecraft:chest,-224,65,813,从第3号槽 取出64个 Gold Nugget
+2023-08-20 23:28:45,主世界,DHYXH,-221,65,815,容器 取出物品,minecraft:chest,-224,65,813,从第4号槽 取出64个 Gold Nugget
+2023-08-20 23:28:45,主世界,DHYXH,-221,65,815,容器 取出物品,minecraft:chest,-224,65,813,从第6号槽 取出64个 Gold Nugget
+2023-08-20 23:28:46,主世界,DHYXH,-221,65,815,容器 取出物品,minecraft:chest,-224,65,813,从第7号槽 取出64个 Gold Nugget
+2023-08-20 23:28:46,主世界,DHYXH,-221,65,815,容器 取出物品,minecraft:chest,-224,65,813,从第5号槽 取出64个 Gold Nugget
+2023-08-20 23:28:47,主世界,DHYXH,-221,65,815,关闭容器,minecraft:chest,-224,65,813,
+2023-08-20 23:28:48,主世界,DHYXH,-219,65,814,打开容器,minecraft:crafting_table,-221,63,812,
+2023-08-20 23:28:56,主世界,DHYXH,-215,65,808,使用物品,Golden Carrot,,,,类型：minecraft:golden_carrot
+2023-08-20 23:28:56,主世界,DHYXH,-215,65,808,进食,Golden Carrot,,,,
+2023-08-20 23:29:06,主世界,DHYXH,-198,66,800,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:29:12,主世界,DHYXH,-148,126,703,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:29:17,主世界,DHYXH,-191,106,827,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:29:29,主世界,DHYXH,-248,195,997,打开容器,minecraft:undyed_shulker_box,-250,193,998,
+2023-08-20 23:29:29,主世界,DHYXH,-248,195,997,方块接受玩家互动,minecraft:undyed_shulker_box,-250,193,998,
+2023-08-20 23:29:30,主世界,DHYXH,-248,195,997,关闭容器,minecraft:undyed_shulker_box,-250,193,998,
+2023-08-20 23:29:32,主世界,DHYXH,-249,195,1003,打开容器,minecraft:undyed_shulker_box,-249,193,1003,
+2023-08-20 23:29:32,主世界,DHYXH,-249,195,1003,方块接受玩家互动,minecraft:undyed_shulker_box,-249,193,1003,
+2023-08-20 23:29:33,主世界,DHYXH,-250,195,1002,关闭容器,minecraft:undyed_shulker_box,-249,193,1003,
+2023-08-20 23:29:33,主世界,DHYXH,-250,195,1002,打开容器,minecraft:undyed_shulker_box,-250,193,1003,
+2023-08-20 23:29:33,主世界,DHYXH,-250,195,1002,方块接受玩家互动,minecraft:undyed_shulker_box,-250,193,1003,
+2023-08-20 23:29:34,主世界,DHYXH,-251,195,1002,关闭容器,minecraft:undyed_shulker_box,-250,193,1003,
+2023-08-20 23:29:34,主世界,DHYXH,-251,195,1002,打开容器,minecraft:yellow_shulker_box,-251,193,1003,
+2023-08-20 23:29:34,主世界,DHYXH,-251,195,1002,方块接受玩家互动,minecraft:yellow_shulker_box,-251,193,1003,
+2023-08-20 23:29:35,主世界,DHYXH,-252,197,1003,关闭容器,minecraft:yellow_shulker_box,-251,193,1003,
+2023-08-20 23:29:35,主世界,DHYXH,-252,197,1003,打开容器,minecraft:chest,-253,195,1004,
+2023-08-20 23:29:35,主世界,DHYXH,-252,197,1003,方块接受玩家互动,minecraft:chest,-253,195,1004,
+2023-08-20 23:29:37,主世界,DHYXH,-252,196,1003,关闭容器,minecraft:chest,-253,195,1004,
+2023-08-20 23:29:37,主世界,DHYXH,-252,196,1003,打开容器,minecraft:undyed_shulker_box,-252,193,1003,
+2023-08-20 23:29:37,主世界,DHYXH,-252,196,1003,方块接受玩家互动,minecraft:undyed_shulker_box,-252,193,1003,
+2023-08-20 23:29:38,主世界,DHYXH,-252,196,1003,关闭容器,minecraft:undyed_shulker_box,-252,193,1003,
+2023-08-20 23:29:39,主世界,DHYXH,-252,196,1003,放置方块,minecraft:air,-250,193,1005,
+2023-08-20 23:29:39,主世界,DHYXH,-251,196,1003,打开容器,minecraft:blue_shulker_box,-250,193,1004,
+2023-08-20 23:29:39,主世界,DHYXH,-251,196,1003,方块接受玩家互动,minecraft:blue_shulker_box,-250,193,1004,
+2023-08-20 23:29:41,主世界,DHYXH,-250,196,1003,关闭容器,minecraft:blue_shulker_box,-250,193,1004,
+2023-08-20 23:29:45,主世界,DHYXH,-251,195,1007,打开容器,minecraft:undyed_shulker_box,-251,197,1004,
+2023-08-20 23:29:45,主世界,DHYXH,-251,195,1007,方块接受玩家互动,minecraft:undyed_shulker_box,-251,197,1004,
+2023-08-20 23:29:46,主世界,DHYXH,-251,195,1007,关闭容器,minecraft:undyed_shulker_box,-251,197,1004,
+2023-08-20 23:29:46,主世界,DHYXH,-251,195,1007,打开容器,minecraft:undyed_shulker_box,-251,197,1005,
+2023-08-20 23:29:46,主世界,DHYXH,-251,195,1007,方块接受玩家互动,minecraft:undyed_shulker_box,-251,197,1005,
+2023-08-20 23:29:48,主世界,DHYXH,-251,195,1007,关闭容器,minecraft:undyed_shulker_box,-251,197,1005,
+2023-08-20 23:29:48,主世界,DHYXH,-251,195,1007,打开容器,minecraft:undyed_shulker_box,-250,197,1004,
+2023-08-20 23:29:48,主世界,DHYXH,-251,195,1007,方块接受玩家互动,minecraft:undyed_shulker_box,-250,197,1004,
+2023-08-20 23:29:49,主世界,DHYXH,-250,195,1006,关闭容器,minecraft:undyed_shulker_box,-250,197,1004,
+2023-08-20 23:29:50,主世界,DHYXH,-250,195,1006,打开容器,minecraft:undyed_shulker_box,-247,197,1003,
+2023-08-20 23:29:50,主世界,DHYXH,-250,195,1006,方块接受玩家互动,minecraft:undyed_shulker_box,-247,197,1003,
+2023-08-20 23:29:51,主世界,DHYXH,-250,195,1006,关闭容器,minecraft:undyed_shulker_box,-247,197,1003,
+2023-08-20 23:29:51,主世界,DHYXH,-250,195,1006,打开容器,minecraft:undyed_shulker_box,-248,197,1004,
+2023-08-20 23:29:51,主世界,DHYXH,-250,195,1006,方块接受玩家互动,minecraft:undyed_shulker_box,-248,197,1004,
+2023-08-20 23:29:52,主世界,DHYXH,-250,195,1006,关闭容器,minecraft:undyed_shulker_box,-248,197,1004,
+2023-08-20 23:29:53,主世界,DHYXH,-250,195,1006,打开容器,minecraft:undyed_shulker_box,-249,197,1004,
+2023-08-20 23:29:53,主世界,DHYXH,-250,195,1006,方块接受玩家互动,minecraft:undyed_shulker_box,-249,197,1004,
+2023-08-20 23:29:54,主世界,DHYXH,-249,195,1006,关闭容器,minecraft:undyed_shulker_box,-249,197,1004,
+2023-08-20 23:29:55,主世界,DHYXH,-249,195,1006,打开容器,minecraft:undyed_shulker_box,-247,197,1004,
+2023-08-20 23:29:55,主世界,DHYXH,-249,195,1006,方块接受玩家互动,minecraft:undyed_shulker_box,-247,197,1004,
+2023-08-20 23:29:56,主世界,DHYXH,-248,195,1006,关闭容器,minecraft:undyed_shulker_box,-247,197,1004,
+2023-08-20 23:29:56,主世界,DHYXH,-248,195,1006,打开容器,minecraft:undyed_shulker_box,-247,197,1003,
+2023-08-20 23:29:56,主世界,DHYXH,-248,195,1006,方块接受玩家互动,minecraft:undyed_shulker_box,-247,197,1003,
+2023-08-20 23:29:57,主世界,DHYXH,-248,195,1005,关闭容器,minecraft:undyed_shulker_box,-247,197,1003,
+2023-08-20 23:29:58,主世界,DHYXH,-247,195,1005,打开容器,minecraft:undyed_shulker_box,-246,197,1001,
+2023-08-20 23:29:58,主世界,DHYXH,-247,195,1005,方块接受玩家互动,minecraft:undyed_shulker_box,-246,197,1001,
+2023-08-20 23:29:59,主世界,DHYXH,-247,195,1005,关闭容器,minecraft:undyed_shulker_box,-246,197,1001,
+2023-08-20 23:29:59,主世界,DHYXH,-247,195,1005,打开容器,minecraft:red_shulker_box,-247,197,1002,
+2023-08-20 23:29:59,主世界,DHYXH,-247,195,1005,方块接受玩家互动,minecraft:red_shulker_box,-247,197,1002,
+2023-08-20 23:30:00,主世界,DHYXH,-247,195,1005,关闭容器,minecraft:red_shulker_box,-247,197,1002,
+2023-08-20 23:30:00,主世界,DHYXH,-247,195,1005,打开容器,minecraft:undyed_shulker_box,-246,197,1002,
+2023-08-20 23:30:00,主世界,DHYXH,-247,195,1005,方块接受玩家互动,minecraft:undyed_shulker_box,-246,197,1002,
+2023-08-20 23:30:01,主世界,DHYXH,-247,195,1005,关闭容器,minecraft:undyed_shulker_box,-246,197,1002,
+2023-08-20 23:30:01,主世界,DHYXH,-247,195,1005,打开容器,minecraft:undyed_shulker_box,-246,197,1003,
+2023-08-20 23:30:01,主世界,DHYXH,-247,195,1005,方块接受玩家互动,minecraft:undyed_shulker_box,-246,197,1003,
+2023-08-20 23:30:02,主世界,DHYXH,-246,195,1004,关闭容器,minecraft:undyed_shulker_box,-246,197,1003,
+2023-08-20 23:30:03,主世界,DHYXH,-246,195,1004,打开容器,minecraft:undyed_shulker_box,-245,197,1002,
+2023-08-20 23:30:03,主世界,DHYXH,-246,195,1004,方块接受玩家互动,minecraft:undyed_shulker_box,-245,197,1002,
+2023-08-20 23:30:04,主世界,DHYXH,-245,195,1003,关闭容器,minecraft:undyed_shulker_box,-245,197,1002,
+2023-08-20 23:30:04,主世界,DHYXH,-245,195,1003,打开容器,minecraft:undyed_shulker_box,-245,197,1001,
+2023-08-20 23:30:04,主世界,DHYXH,-245,195,1003,方块接受玩家互动,minecraft:undyed_shulker_box,-245,197,1001,
+2023-08-20 23:30:05,主世界,DHYXH,-245,195,1003,关闭容器,minecraft:undyed_shulker_box,-245,197,1001,
+2023-08-20 23:30:05,主世界,DHYXH,-245,195,1003,打开容器,minecraft:undyed_shulker_box,-245,197,1000,
+2023-08-20 23:30:05,主世界,DHYXH,-245,195,1003,方块接受玩家互动,minecraft:undyed_shulker_box,-245,197,1000,
+2023-08-20 23:30:06,主世界,DHYXH,-246,195,1002,关闭容器,minecraft:undyed_shulker_box,-245,197,1000,
+2023-08-20 23:30:07,主世界,DHYXH,-246,195,1002,放置方块,minecraft:air,-247,197,999,
+2023-08-20 23:30:07,主世界,DHYXH,-245,195,1002,打开容器,minecraft:yellow_shulker_box,-246,197,999,
+2023-08-20 23:30:07,主世界,DHYXH,-245,195,1002,方块接受玩家互动,minecraft:yellow_shulker_box,-246,197,999,
+2023-08-20 23:30:08,主世界,DHYXH,-245,195,1002,关闭容器,minecraft:yellow_shulker_box,-246,197,999,
+2023-08-20 23:30:08,主世界,DHYXH,-245,195,1002,打开容器,minecraft:undyed_shulker_box,-246,197,1000,
+2023-08-20 23:30:08,主世界,DHYXH,-245,195,1002,方块接受玩家互动,minecraft:undyed_shulker_box,-246,197,1000,
+2023-08-20 23:30:09,主世界,DHYXH,-245,196,1001,关闭容器,minecraft:undyed_shulker_box,-246,197,1000,
+2023-08-20 23:30:10,主世界,DHYXH,-245,196,1002,打开容器,minecraft:undyed_shulker_box,-246,197,1000,
+2023-08-20 23:30:10,主世界,DHYXH,-245,196,1001,方块接受玩家互动,minecraft:undyed_shulker_box,-246,197,1000,
+2023-08-20 23:30:11,主世界,DHYXH,-246,195,1001,关闭容器,minecraft:undyed_shulker_box,-246,197,1000,
+2023-08-20 23:30:11,主世界,DHYXH,-246,195,1001,打开容器,minecraft:yellow_shulker_box,-246,197,999,
+2023-08-20 23:30:11,主世界,DHYXH,-246,195,1001,方块接受玩家互动,minecraft:yellow_shulker_box,-246,197,999,
+2023-08-20 23:30:13,主世界,DHYXH,-246,195,1001,容器 取出物品,minecraft:yellow_shulker_box,-246,197,999,从第17号槽 取出1个 Diamond Hoe
+2023-08-20 23:30:14,主世界,DHYXH,-246,195,1001,容器 放入物品,minecraft:yellow_shulker_box,-246,197,999,从第10号槽 放入1个 Diamond Hoe
+2023-08-20 23:30:27,主世界,DHYXH,-246,195,1001,关闭容器,minecraft:yellow_shulker_box,-246,197,999,
+2023-08-20 23:30:28,主世界,DHYXH,-246,196,1000,打开容器,minecraft:yellow_shulker_box,-247,197,998,
+2023-08-20 23:30:28,主世界,DHYXH,-246,196,1000,方块接受玩家互动,minecraft:yellow_shulker_box,-247,197,998,
+2023-08-20 23:30:30,主世界,DHYXH,-246,196,1000,关闭容器,minecraft:yellow_shulker_box,-247,197,998,
+2023-08-20 23:30:30,主世界,DHYXH,-246,196,1000,打开容器,minecraft:yellow_shulker_box,-246,197,998,
+2023-08-20 23:30:30,主世界,DHYXH,-246,196,1000,方块接受玩家互动,minecraft:yellow_shulker_box,-246,197,998,
+2023-08-20 23:30:31,主世界,DHYXH,-246,196,1000,关闭容器,minecraft:yellow_shulker_box,-246,197,998,
+2023-08-20 23:30:31,主世界,DHYXH,-246,196,1000,打开容器,minecraft:undyed_shulker_box,-246,197,997,
+2023-08-20 23:30:31,主世界,DHYXH,-246,196,1000,方块接受玩家互动,minecraft:undyed_shulker_box,-246,197,997,
+2023-08-20 23:30:32,主世界,DHYXH,-246,196,1000,关闭容器,minecraft:undyed_shulker_box,-246,197,997,
+2023-08-20 23:30:33,主世界,DHYXH,-247,195,999,打开容器,minecraft:yellow_shulker_box,-247,197,998,
+2023-08-20 23:30:33,主世界,DHYXH,-247,195,999,方块接受玩家互动,minecraft:yellow_shulker_box,-247,197,998,
+2023-08-20 23:30:34,主世界,DHYXH,-247,195,999,关闭容器,minecraft:yellow_shulker_box,-247,197,998,
+2023-08-20 23:30:35,主世界,DHYXH,-247,195,999,打开容器,minecraft:undyed_shulker_box,-247,197,997,
+2023-08-20 23:30:35,主世界,DHYXH,-247,195,999,方块接受玩家互动,minecraft:undyed_shulker_box,-247,197,997,
+2023-08-20 23:30:36,主世界,DHYXH,-247,195,998,关闭容器,minecraft:undyed_shulker_box,-247,197,997,
+2023-08-20 23:30:36,主世界,DHYXH,-247,195,998,打开容器,minecraft:undyed_shulker_box,-248,197,996,
+2023-08-20 23:30:36,主世界,DHYXH,-247,195,998,方块接受玩家互动,minecraft:undyed_shulker_box,-248,197,996,
+2023-08-20 23:30:37,主世界,DHYXH,-247,195,998,关闭容器,minecraft:undyed_shulker_box,-248,197,996,
+2023-08-20 23:30:38,主世界,DHYXH,-247,195,998,打开容器,minecraft:undyed_shulker_box,-248,197,997,
+2023-08-20 23:30:38,主世界,DHYXH,-247,195,998,方块接受玩家互动,minecraft:undyed_shulker_box,-248,197,997,
+2023-08-20 23:30:40,主世界,DHYXH,-248,195,998,关闭容器,minecraft:undyed_shulker_box,-248,197,997,
+2023-08-20 23:30:40,主世界,DHYXH,-248,197,998,打开容器,minecraft:undyed_shulker_box,-249,197,997,
+2023-08-20 23:30:40,主世界,DHYXH,-248,196,998,方块接受玩家互动,minecraft:undyed_shulker_box,-249,197,997,
+2023-08-20 23:30:41,主世界,DHYXH,-249,195,998,关闭容器,minecraft:undyed_shulker_box,-249,197,997,
+2023-08-20 23:30:41,主世界,DHYXH,-248,195,998,放置方块,minecraft:air,-249,197,998,
+2023-08-20 23:30:42,主世界,DHYXH,-248,195,998,打开容器,minecraft:undyed_shulker_box,-250,197,998,
+2023-08-20 23:30:42,主世界,DHYXH,-249,195,998,方块接受玩家互动,minecraft:undyed_shulker_box,-250,197,998,
+2023-08-20 23:30:44,主世界,DHYXH,-249,195,998,关闭容器,minecraft:undyed_shulker_box,-250,197,998,
+2023-08-20 23:30:44,主世界,DHYXH,-248,195,998,打开容器,minecraft:yellow_shulker_box,-251,197,997,
+2023-08-20 23:30:44,主世界,DHYXH,-249,195,998,方块接受玩家互动,minecraft:yellow_shulker_box,-251,197,997,
+2023-08-20 23:30:46,主世界,DHYXH,-249,195,997,关闭容器,minecraft:yellow_shulker_box,-251,197,997,
+2023-08-20 23:30:46,主世界,DHYXH,-249,195,997,打开容器,minecraft:undyed_shulker_box,-251,197,996,
+2023-08-20 23:30:46,主世界,DHYXH,-249,195,997,方块接受玩家互动,minecraft:undyed_shulker_box,-251,197,996,
+2023-08-20 23:30:47,主世界,DHYXH,-250,195,997,关闭容器,minecraft:undyed_shulker_box,-251,197,996,
+2023-08-20 23:30:47,主世界,DHYXH,-250,195,997,打开容器,minecraft:yellow_shulker_box,-252,197,996,
+2023-08-20 23:30:47,主世界,DHYXH,-250,195,997,方块接受玩家互动,minecraft:yellow_shulker_box,-252,197,996,
+2023-08-20 23:30:48,主世界,DHYXH,-250,195,997,关闭容器,minecraft:yellow_shulker_box,-252,197,996,
+2023-08-20 23:30:48,主世界,DHYXH,-250,195,997,打开容器,minecraft:yellow_shulker_box,-252,197,997,
+2023-08-20 23:30:48,主世界,DHYXH,-250,195,997,方块接受玩家互动,minecraft:yellow_shulker_box,-252,197,997,
+2023-08-20 23:30:50,主世界,DHYXH,-250,195,996,关闭容器,minecraft:yellow_shulker_box,-252,197,997,
+2023-08-20 23:30:50,主世界,DHYXH,-250,195,996,打开容器,minecraft:undyed_shulker_box,-252,197,994,
+2023-08-20 23:30:50,主世界,DHYXH,-250,195,996,方块接受玩家互动,minecraft:undyed_shulker_box,-252,197,994,
+2023-08-20 23:30:51,主世界,DHYXH,-250,195,996,关闭容器,minecraft:undyed_shulker_box,-252,197,994,
+2023-08-20 23:30:51,主世界,DHYXH,-250,195,996,打开容器,minecraft:undyed_shulker_box,-252,197,995,
+2023-08-20 23:30:51,主世界,DHYXH,-250,195,996,方块接受玩家互动,minecraft:undyed_shulker_box,-252,197,995,
+2023-08-20 23:30:52,主世界,DHYXH,-250,195,996,关闭容器,minecraft:undyed_shulker_box,-252,197,995,
+2023-08-20 23:30:52,主世界,DHYXH,-250,195,996,打开容器,minecraft:undyed_shulker_box,-252,197,995,
+2023-08-20 23:30:52,主世界,DHYXH,-250,195,996,方块接受玩家互动,minecraft:undyed_shulker_box,-252,197,995,
+2023-08-20 23:30:54,主世界,DHYXH,-250,195,996,关闭容器,minecraft:undyed_shulker_box,-252,197,995,
+2023-08-20 23:30:54,主世界,DHYXH,-250,195,995,打开容器,minecraft:undyed_shulker_box,-251,197,992,
+2023-08-20 23:30:54,主世界,DHYXH,-250,195,995,方块接受玩家互动,minecraft:undyed_shulker_box,-251,197,992,
+2023-08-20 23:30:55,主世界,DHYXH,-251,195,995,关闭容器,minecraft:undyed_shulker_box,-251,197,992,
+2023-08-20 23:30:56,主世界,DHYXH,-251,195,995,打开容器,minecraft:undyed_shulker_box,-252,197,992,
+2023-08-20 23:30:56,主世界,DHYXH,-251,195,995,方块接受玩家互动,minecraft:undyed_shulker_box,-252,197,992,
+2023-08-20 23:30:57,主世界,DHYXH,-251,195,995,关闭容器,minecraft:undyed_shulker_box,-252,197,992,
+2023-08-20 23:30:57,主世界,DHYXH,-251,195,995,打开容器,minecraft:yellow_shulker_box,-252,197,993,
+2023-08-20 23:30:57,主世界,DHYXH,-251,195,995,方块接受玩家互动,minecraft:yellow_shulker_box,-252,197,993,
+2023-08-20 23:30:58,主世界,DHYXH,-251,195,995,关闭容器,minecraft:yellow_shulker_box,-252,197,993,
+2023-08-20 23:30:59,主世界,DHYXH,-251,195,995,打开容器,minecraft:undyed_shulker_box,-252,197,994,
+2023-08-20 23:30:59,主世界,DHYXH,-251,195,995,方块接受玩家互动,minecraft:undyed_shulker_box,-252,197,994,
+2023-08-20 23:31:00,主世界,DHYXH,-251,195,995,关闭容器,minecraft:undyed_shulker_box,-252,197,994,
+2023-08-20 23:31:00,主世界,DHYXH,-250,195,995,打开容器,minecraft:undyed_shulker_box,-251,197,994,
+2023-08-20 23:31:00,主世界,DHYXH,-250,195,995,方块接受玩家互动,minecraft:undyed_shulker_box,-251,197,994,
+2023-08-20 23:31:01,主世界,DHYXH,-250,195,995,关闭容器,minecraft:undyed_shulker_box,-251,197,994,
+2023-08-20 23:31:01,主世界,DHYXH,-250,195,995,打开容器,minecraft:undyed_shulker_box,-251,197,993,
+2023-08-20 23:31:01,主世界,DHYXH,-250,195,995,方块接受玩家互动,minecraft:undyed_shulker_box,-251,197,993,
+2023-08-20 23:31:02,主世界,DHYXH,-250,195,995,关闭容器,minecraft:undyed_shulker_box,-251,197,993,
+2023-08-20 23:31:04,主世界,DHYXH,-250,195,995,打开容器,minecraft:undyed_shulker_box,-251,197,993,
+2023-08-20 23:31:04,主世界,DHYXH,-250,195,995,方块接受玩家互动,minecraft:undyed_shulker_box,-251,197,993,
+2023-08-20 23:31:10,主世界,DHYXH,-250,195,995,容器 取出物品,minecraft:undyed_shulker_box,-251,197,993,从第1号槽 取出1个 Enchanted Book
+2023-08-20 23:31:11,主世界,DHYXH,-250,195,995,关闭容器,minecraft:undyed_shulker_box,-251,197,993,
+2023-08-20 23:31:21,主世界,DHYXH,-246,195,999,打开容器,minecraft:ender_chest,-243,193,1000,
+2023-08-20 23:31:21,主世界,DHYXH,-246,195,999,方块接受玩家互动,minecraft:ender_chest,-243,193,1000,
+2023-08-20 23:31:25,主世界,DHYXH,-246,195,999,容器 取出物品,minecraft:ender_chest,-243,193,1000,从第0号槽 取出7个 Netherite Ingot
+2023-08-20 23:31:29,主世界,DHYXH,-246,195,999,容器 放入物品,minecraft:ender_chest,-243,193,1000,从第0号槽 放入6个 Netherite Ingot
+2023-08-20 23:31:32,主世界,DHYXH,-246,195,999,关闭容器,minecraft:ender_chest,-243,193,1000,
+2023-08-20 23:31:33,主世界,DHYXH,-240,196,1000,打开容器,minecraft:chest,-239,195,999,
+2023-08-20 23:31:33,主世界,DHYXH,-240,196,1000,方块接受玩家互动,minecraft:chest,-239,195,999,
+2023-08-20 23:31:38,主世界,DHYXH,-239,196,1000,容器 放入物品,minecraft:chest,-239,195,999,从第22号槽 放入12个 Glowstone
+2023-08-20 23:31:39,主世界,DHYXH,-239,196,1000,容器 放入物品,minecraft:chest,-239,195,999,从第39号槽 放入5个 Diamond
+2023-08-20 23:31:43,主世界,DHYXH,-239,196,1000,容器 放入物品,minecraft:chest,-239,195,999,从第39号槽 放入2个 Diamond
+2023-08-20 23:31:44,主世界,DHYXH,-239,196,1000,容器 取出物品,minecraft:chest,-239,195,999,从第39号槽 取出2个 Diamond
+2023-08-20 23:31:45,主世界,DHYXH,-239,196,1000,容器 放入物品,minecraft:chest,-239,195,999,从第39号槽 放入3个 Diamond
+2023-08-20 23:31:47,主世界,DHYXH,-240,196,1000,关闭容器,minecraft:chest,-239,195,999,
+2023-08-20 23:31:49,主世界,DHYXH,-244,195,999,打开容器,minecraft:crafting_table,-247,193,1000,
+2023-08-20 23:32:05,主世界,DHYXH,-262,203,1012,方块接受玩家互动,minecraft:smithing_table,-262,201,1013,
+2023-08-20 23:32:05,主世界,DHYXH,-262,203,1012,打开容器,minecraft:smithing_table,-262,201,1013,
+2023-08-20 23:32:22,主世界,DHYXH,-256,203,1005,打开容器,minecraft:ender_chest,-252,201,1004,
+2023-08-20 23:32:22,主世界,DHYXH,-256,203,1005,方块接受玩家互动,minecraft:ender_chest,-252,201,1004,
+2023-08-20 23:32:24,主世界,DHYXH,-256,203,1005,容器 放入物品,minecraft:ender_chest,-252,201,1004,从第0号槽 放入7个 Netherite Ingot
+2023-08-20 23:32:31,主世界,DHYXH,-256,203,1005,容器 取出物品,minecraft:ender_chest,-252,201,1004,从第2号槽 取出1个 Bedrock
+2023-08-20 23:32:33,主世界,DHYXH,-256,203,1005,容器 放入物品,minecraft:ender_chest,-252,201,1004,从第2号槽 放入1个 Bedrock
+2023-08-20 23:32:34,主世界,DHYXH,-256,203,1005,关闭容器,minecraft:ender_chest,-252,201,1004,
+2023-08-20 23:32:40,主世界,DHYXH,-255,203,1005,打开容器,minecraft:ender_chest,-252,201,1004,
+2023-08-20 23:32:40,主世界,DHYXH,-255,203,1005,方块接受玩家互动,minecraft:ender_chest,-252,201,1004,
+2023-08-20 23:32:43,主世界,DHYXH,-254,203,1004,容器 放入物品,minecraft:ender_chest,-252,201,1004,从第3号槽 放入1个 Enchanted Book
+2023-08-20 23:32:43,主世界,DHYXH,-254,203,1004,容器 放入物品,minecraft:ender_chest,-252,201,1004,从第7号槽 放入1个 Diamond Sword
+2023-08-20 23:32:44,主世界,DHYXH,-254,203,1004,容器 放入物品,minecraft:ender_chest,-252,201,1004,从第8号槽 放入1个 Enchanted Book
+2023-08-20 23:32:44,主世界,DHYXH,-254,203,1004,容器 放入物品,minecraft:ender_chest,-252,201,1004,从第10号槽 放入3个 Apple
+2023-08-20 23:32:45,主世界,DHYXH,-254,203,1004,容器 放入物品,minecraft:ender_chest,-252,201,1004,从第11号槽 放入4个 Cooked Beef
+2023-08-20 23:32:45,主世界,DHYXH,-254,203,1004,容器 放入物品,minecraft:ender_chest,-252,201,1004,从第12号槽 放入6个 Stick
+2023-08-20 23:32:45,主世界,DHYXH,-254,203,1004,容器 放入物品,minecraft:ender_chest,-252,201,1004,从第13号槽 放入64个 Smooth Stone
+2023-08-20 23:32:45,主世界,DHYXH,-254,203,1004,容器 放入物品,minecraft:ender_chest,-252,201,1004,从第14号槽 放入5个 Oak Log
+2023-08-20 23:32:46,主世界,DHYXH,-254,203,1004,容器 放入物品,minecraft:ender_chest,-252,201,1004,从第16号槽 放入64个 Glowstone
+2023-08-20 23:32:46,主世界,DHYXH,-254,203,1004,容器 放入物品,minecraft:ender_chest,-252,201,1004,从第17号槽 放入64个 Glowstone
+2023-08-20 23:32:46,主世界,DHYXH,-254,203,1004,容器 放入物品,minecraft:ender_chest,-252,201,1004,从第18号槽 放入32个 Gravel
+2023-08-20 23:32:47,主世界,DHYXH,-254,203,1004,容器 放入物品,minecraft:ender_chest,-252,201,1004,从第19号槽 放入1个 End Stone Bricks
+2023-08-20 23:32:47,主世界,DHYXH,-254,203,1004,容器 放入物品,minecraft:ender_chest,-252,201,1004,从第20号槽 放入41个 Smooth Stone
+2023-08-20 23:32:50,主世界,DHYXH,-254,203,1004,关闭容器,minecraft:ender_chest,-252,201,1004,
+2023-08-20 23:32:58,主世界,DHYXH,-254,207,1000,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:33:08,主世界,DHYXH,-182,142,633,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:33:12,主世界,DHYXH,-152,67,591,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:33:28,主世界,DHYXH,-100,70,734,切换维度,前往下界,,,,
+2023-08-20 23:34:13,下界,DHYXH,63,62,157,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:34:21,下界,DHYXH,150,64,3,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:34:28,下界,DHYXH,61,87,-116,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:34:38,下界,DHYXH,-138,69,-252,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:35:07,下界,DHYXH,-226,70,-261,放置方块,minecraft:air,-226,70,-265,
+2023-08-20 23:35:07,下界,DHYXH,-225,70,-262,放置方块,minecraft:air,-226,70,-265,
+2023-08-20 23:35:08,下界,DHYXH,-225,71,-262,攻击,Blaze,-225,70,-263,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-08-20 23:35:08,下界,DHYXH,-225,71,-262,攻击,Blaze,-226,70,-265,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-08-20 23:35:08,下界,DHYXH,-225,72,-263,放置方块,minecraft:air,-226,72,-268,
+2023-08-20 23:35:08,下界,DHYXH,-225,72,-263,放置方块,minecraft:air,-226,73,-268,
+2023-08-20 23:35:08,下界,DHYXH,-226,72,-263,放置方块,minecraft:air,-226,72,-268,
+2023-08-20 23:35:08,下界,DHYXH,-226,72,-263,攻击,Blaze,-226,70,-264,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-08-20 23:35:08,下界,Blaze,-226,70,-264,生物死亡,,,,,由于DHYXH的攻击
+2023-08-20 23:35:09,下界,DHYXH,-226,72,-263,放置方块,minecraft:air,-227,70,-268,
+2023-08-20 23:35:16,下界,DHYXH,-235,69,-256,使用物品,钻石剑,,,,类型：minecraft:diamond_sword
+2023-08-20 23:35:16,下界,DHYXH,-234,69,-256,使用物品,钻石剑,,,,类型：minecraft:diamond_sword
+2023-08-20 23:35:19,下界,DHYXH,-226,70,-262,放置方块,minecraft:air,-227,70,-264,
+2023-08-20 23:35:20,下界,DHYXH,-226,71,-263,攻击,Blaze,-227,70,-264,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-08-20 23:35:20,下界,DHYXH,-226,72,-263,攻击,Blaze,-227,71,-266,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-08-20 23:35:20,下界,DHYXH,-226,72,-263,攻击,Blaze,-227,71,-268,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-08-20 23:35:20,下界,DHYXH,-226,72,-264,捡起物品,Blaze Rod,-226,70,-265,3个
+2023-08-20 23:35:20,下界,DHYXH,-226,72,-264,放置方块,minecraft:air,-228,71,-267,
+2023-08-20 23:35:21,下界,DHYXH,-226,73,-265,放置方块,minecraft:air,-228,72,-268,
+2023-08-20 23:35:21,下界,DHYXH,-226,73,-266,放置方块,minecraft:air,-228,72,-268,
+2023-08-20 23:35:21,下界,DHYXH,-227,73,-266,攻击,Blaze,-228,72,-268,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-08-20 23:35:21,下界,Blaze,-228,72,-268,生物死亡,,,,,由于DHYXH的攻击
+2023-08-20 23:35:22,下界,DHYXH,-227,72,-267,放置方块,minecraft:nether_brick_fence,-229,71,-268,
+2023-08-20 23:36:40,下界,DHYXH,-197,76,-247,放置方块,minecraft:air,-198,76,-248,
+2023-08-20 23:37:00,下界,DHYXH,-198,82,-252,玩家执行命令,tp DHYXH weiheping ,,,,
+2023-08-20 23:37:00,下界,DHYXH,-198,82,-252,切换维度,前往主世界,,,,
+2023-08-20 23:37:23,主世界,DHYXH,5133,74,5352,玩家执行命令,tp -200 200 1000,,,,
+2023-08-20 23:37:34,主世界,DHYXH,-199,73,1015,使用物品,Golden Carrot,,,,类型：minecraft:golden_carrot
+2023-08-20 23:37:34,主世界,DHYXH,-199,73,1015,进食,Golden Carrot,,,,
+2023-08-20 23:37:36,主世界,DHYXH,-195,73,1015,使用物品,Golden Carrot,,,,类型：minecraft:golden_carrot
+2023-08-20 23:37:36,主世界,DHYXH,-195,73,1015,进食,Golden Carrot,,,,
+2023-08-20 23:37:38,主世界,DHYXH,-194,73,1014,使用物品,Golden Carrot,,,,类型：minecraft:golden_carrot
+2023-08-20 23:37:40,主世界,DHYXH,-195,76,1005,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:38:01,主世界,DHYXH,-94,70,760,切换维度,前往下界,,,,
+2023-08-20 23:38:09,下界,DHYXH,-26,118,104,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:38:12,下界,DHYXH,-37,117,104,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:38:42,下界,DHYXH,-155,117,186,切换维度,前往主世界,,,,
+2023-08-20 23:38:53,主世界,DHYXH,-1246,-14,1474,切换维度,前往末地,,,,
+2023-08-20 23:38:58,末地,DHYXH,100,53,0,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:39:09,末地,DHYXH,-23,79,63,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:39:15,末地,DHYXH,-86,74,32,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:39:23,末地,DHYXH,-89,70,28,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:39:29,末地,DHYXH,-90,73,28,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:39:41,末地,DHYXH,-1225,79,385,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:39:47,末地,DHYXH,-1256,80,529,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:40:06,末地,DHYXH,-1108,77,779,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:40:15,末地,DHYXH,-924,76,848,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:40:26,末地,DHYXH,-736,74,1037,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:40:34,末地,DHYXH,-692,86,1190,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:40:46,末地,DHYXH,-663,83,1419,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:40:55,末地,DHYXH,-484,81,1494,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:41:03,末地,DHYXH,-313,78,1591,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:41:16,末地,DHYXH,-160,68,1800,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:41:27,末地,DHYXH,53,75,1864,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:41:35,末地,DHYXH,251,81,1883,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:41:45,末地,DHYXH,452,84,1987,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:41:59,末地,DHYXH,704,75,2104,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:42:10,末地,DHYXH,869,75,2301,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:42:26,末地,DHYXH,1046,73,2626,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:42:39,末地,DHYXH,1212,70,2839,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:42:48,末地,DHYXH,1283,81,3044,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:42:59,末地,DHYXH,1391,71,3242,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:43:12,末地,DHYXH,1643,70,3388,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:43:24,末地,DHYXH,1844,76,3511,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:43:36,末地,DHYXH,2016,73,3659,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:43:46,末地,DHYXH,2164,73,3797,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:43:58,末地,DHYXH,2327,75,3979,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:44:07,末地,DHYXH,2429,79,4171,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:44:15,末地,DHYXH,2301,125,4248,放置方块,minecraft:air,2305,121,4245,
+2023-08-20 23:44:16,末地,DHYXH,2303,123,4248,放置方块,minecraft:air,2304,121,4246,
+2023-08-20 23:44:16,末地,DHYXH,2303,123,4247,放置方块,minecraft:air,2303,121,4246,
+2023-08-20 23:44:16,末地,DHYXH,2303,123,4247,放置方块,minecraft:air,2303,121,4246,
+2023-08-20 23:44:16,末地,DHYXH,2302,123,4246,放置方块,minecraft:air,2303,121,4245,
+2023-08-20 23:44:16,末地,DHYXH,2302,123,4246,放置方块,minecraft:air,2303,121,4244,
+2023-08-20 23:44:16,末地,DHYXH,2303,123,4245,攻击,Shulker,2304,121,4244,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-08-20 23:44:16,末地,DHYXH,2303,123,4245,攻击,Shulker,2304,121,4244,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-08-20 23:44:17,末地,Shulker Bullet,,,,弹射物击中,DHYXH,2304,123,4245,
+2023-08-20 23:44:17,末地,DHYXH,2304,123,4245,攻击,Shulker,2304,121,4244,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-08-20 23:44:17,末地,DHYXH,2304,123,4246,攻击,Shulker,2304,121,4244,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-08-20 23:44:17,末地,DHYXH,2303,124,4246,攻击,Shulker,2304,121,4244,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-08-20 23:44:17,末地,DHYXH,2303,124,4246,攻击,Shulker,2304,121,4244,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-08-20 23:44:17,末地,DHYXH,2303,124,4246,攻击,Shulker,2304,121,4244,使用物品：钻石剑 类型：minecraft:diamond_sword
+2023-08-20 23:44:17,末地,Shulker,2304,121,4244,生物死亡,,,,,由于DHYXH的攻击
+2023-08-20 23:44:18,末地,DHYXH,2303,125,4246,放置方块,minecraft:air,2306,121,4243,
+2023-08-20 23:44:22,末地,DHYXH,2307,123,4246,使用物品,下界合金镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-20 23:44:23,末地,DHYXH,2307,123,4246,破坏方块,minecraft:purpur_block,2307,120,4245,
+2023-08-20 23:44:23,末地,DHYXH,2307,124,4246,破坏方块,minecraft:end_bricks,2307,119,4245,
+2023-08-20 23:44:25,末地,DHYXH,2307,123,4246,捡起物品,Purpur Block,2307,121,4245,1个
+2023-08-20 23:44:26,末地,DHYXH,2308,123,4246,放置方块,minecraft:air,2307,121,4246,
+2023-08-20 23:44:27,末地,DHYXH,2308,121,4246,使用物品,下界合金镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-20 23:44:27,末地,DHYXH,2308,121,4246,破坏方块,minecraft:end_bricks,2307,118,4245,
+2023-08-20 23:44:27,末地,DHYXH,2308,120,4246,破坏方块,minecraft:end_bricks,2307,117,4245,
+2023-08-20 23:44:27,末地,DHYXH,2308,119,4246,捡起物品,End Stone Bricks,2308,117,4245,1个
+2023-08-20 23:44:27,末地,DHYXH,2308,119,4246,破坏方块,minecraft:purpur_stairs,2307,117,4246,
+2023-08-20 23:44:27,末地,DHYXH,2308,119,4246,捡起物品,End Stone Bricks,2307,118,4245,1个
+2023-08-20 23:44:28,末地,DHYXH,2308,119,4246,捡起物品,End Stone Bricks,2308,118,4246,1个
+2023-08-20 23:44:28,末地,DHYXH,2308,119,4246,破坏方块,minecraft:purpur_stairs,2307,118,4246,
+2023-08-20 23:44:28,末地,DHYXH,2308,119,4246,使用物品,下界合金镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-20 23:44:28,末地,DHYXH,2308,119,4246,捡起物品,Purpur Stairs,2307,117,4246,1个
+2023-08-20 23:44:28,末地,DHYXH,2308,119,4246,捡起物品,Purpur Stairs,2308,117,4247,1个
+2023-08-20 23:44:39,末地,DHYXH,2322,99,4247,使用物品,下界合金镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-20 23:44:39,末地,DHYXH,2322,99,4247,破坏方块,minecraft:purpur_block,2321,96,4247,
+2023-08-20 23:44:40,末地,DHYXH,2322,99,4247,使用物品,下界合金镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-20 23:44:40,末地,DHYXH,2322,99,4247,破坏方块,minecraft:purpur_block,2322,96,4246,
+2023-08-20 23:44:41,末地,DHYXH,2322,98,4247,捡起物品,Purpur Block,2322,96,4247,1个
+2023-08-20 23:44:47,末地,DHYXH,2323,95,4247,使用物品,下界合金镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-20 23:44:47,末地,DHYXH,2323,95,4247,破坏方块,minecraft:end_bricks,2321,94,4246,
+2023-08-20 23:44:47,末地,DHYXH,2323,95,4247,破坏方块,minecraft:end_bricks,2321,94,4247,
+2023-08-20 23:44:47,末地,DHYXH,2323,95,4247,捡起物品,End Stone Bricks,2321,94,4248,1个
+2023-08-20 23:44:48,末地,DHYXH,2323,95,4247,使用物品,下界合金镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-20 23:44:48,末地,DHYXH,2323,95,4247,破坏方块,minecraft:end_bricks,2321,93,4246,
+2023-08-20 23:44:48,末地,DHYXH,2323,95,4247,捡起物品,End Stone Bricks,2321,94,4246,1个
+2023-08-20 23:44:48,末地,DHYXH,2322,95,4247,捡起物品,End Stone Bricks,2322,93,4247,1个
+2023-08-20 23:44:54,末地,Shulker Bullet,,,,弹射物击中,Shulker Bullet,2324,90,4242,
+2023-08-20 23:44:59,末地,DHYXH,2325,87,4223,放置方块,minecraft:air,2325,85,4223,
+2023-08-20 23:45:01,末地,DHYXH,2326,88,4226,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:45:08,末地,DHYXH,2331,97,4227,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:45:21,末地,DHYXH,2321,79,4224,使用物品,下界合金镐,,,,类型：minecraft:netherite_pickaxe
+2023-08-20 23:45:21,末地,DHYXH,2321,79,4224,破坏方块,minecraft:purpur_block,2320,76,4223,
+2023-08-20 23:45:21,末地,DHYXH,2321,79,4224,捡起物品,Purpur Block,2320,76,4224,1个
+2023-08-20 23:45:28,末地,DHYXH,2321,76,4224,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:45:32,末地,DHYXH,2320,96,4225,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:45:36,末地,DHYXH,2320,93,4244,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:45:43,末地,DHYXH,2311,123,4253,使用物品,Golden Carrot,,,,类型：minecraft:golden_carrot
+2023-08-20 23:45:43,末地,DHYXH,2311,123,4253,进食,Golden Carrot,,,,
+2023-08-20 23:46:01,末地,DHYXH,2314,80,4485,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:46:12,末地,DHYXH,2551,85,4613,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:46:19,末地,DHYXH,2699,87,4758,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:46:27,末地,DHYXH,2735,82,4949,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:46:35,末地,DHYXH,2882,89,5087,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:46:42,末地,DHYXH,2991,87,5215,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:47:26,末地,DHYXH,3161,47,5714,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:47:31,末地,DHYXH,3207,89,5730,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:47:40,末地,DHYXH,3401,84,5843,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:47:48,末地,DHYXH,3572,82,5934,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:48:04,末地,DHYXH,3849,72,6106,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:48:11,末地,DHYXH,3968,106,6014,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:48:23,末地,DHYXH,4208,83,5818,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:48:33,末地,DHYXH,4471,75,5714,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:48:41,末地,DHYXH,4581,84,5571,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:48:49,末地,DHYXH,4737,86,5425,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:48:54,末地,DHYXH,4836,84,5307,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:49:05,末地,DHYXH,5052,73,5036,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:49:20,末地,DHYXH,5299,70,4843,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:49:27,末地,DHYXH,5443,81,4744,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:49:36,末地,DHYXH,5613,84,4662,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:49:48,末地,DHYXH,5824,80,4468,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:49:56,末地,DHYXH,5944,83,4379,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:50:10,末地,DHYXH,6152,76,4268,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:50:15,,zzyictrl,,,,开始进服,,,,,xuid=2535458195960794
+2023-08-20 23:50:16,,DHYXH,,,,离开服务器,,,,,
+2023-08-20 23:50:18,主世界,zzyictrl,-142,65,734,进入服务器,,,,,xuid=2535458195960794
+2023-08-20 23:51:14,主世界,zzyictrl,-160,66,729,放置方块,minecraft:air,-161,63,723,
+2023-08-20 23:51:14,主世界,zzyictrl,-160,65,727,放置方块,minecraft:air,-161,63,724,
+2023-08-20 23:51:15,主世界,zzyictrl,-160,66,726,放置方块,minecraft:air,-162,63,721,
+2023-08-20 23:51:15,主世界,zzyictrl,-161,66,725,放置方块,minecraft:air,-162,63,719,
+2023-08-20 23:51:15,主世界,zzyictrl,-161,65,724,放置方块,minecraft:air,-162,63,720,
+2023-08-20 23:51:15,主世界,zzyictrl,-162,66,721,放置方块,minecraft:air,-163,63,716,
+2023-08-20 23:51:15,主世界,zzyictrl,-162,65,720,放置方块,minecraft:air,-163,63,715,
+2023-08-20 23:51:16,主世界,zzyictrl,-162,65,718,放置方块,minecraft:air,-163,63,714,
+2023-08-20 23:51:16,主世界,zzyictrl,-162,66,717,放置方块,minecraft:air,-164,63,712,
+2023-08-20 23:51:16,主世界,zzyictrl,-163,66,716,放置方块,minecraft:air,-164,63,711,
+2023-08-20 23:51:16,主世界,zzyictrl,-163,65,715,放置方块,minecraft:air,-164,63,711,
+2023-08-20 23:51:16,主世界,zzyictrl,-164,65,713,放置方块,minecraft:air,-164,63,710,
+2023-08-20 23:51:17,主世界,zzyictrl,-164,65,712,放置方块,minecraft:air,-165,63,709,
+2023-08-20 23:51:17,主世界,zzyictrl,-165,65,712,放置方块,minecraft:torch,-166,63,708,
+2023-08-20 23:51:17,主世界,zzyictrl,-165,65,711,放置方块,minecraft:torch,-166,63,708,
+2023-08-20 23:51:17,主世界,zzyictrl,-166,65,711,放置方块,minecraft:air,-167,63,708,
+2023-08-20 23:51:17,主世界,zzyictrl,-166,65,710,放置方块,minecraft:air,-167,63,707,
+2023-08-20 23:51:18,主世界,zzyictrl,-166,65,709,放置方块,minecraft:air,-167,63,706,
+2023-08-20 23:51:18,主世界,zzyictrl,-166,65,709,放置方块,minecraft:air,-167,63,705,
+2023-08-20 23:51:30,,zzyictrl,,,,离开服务器,,,,,
+2023-08-20 23:51:58,,,,,,执行后台命令,allowlist remove Sakurajimamai,,,,
+2023-08-20 23:52:07,,,,,,执行后台命令,allowlist remove SakurajimaMai,,,,
+2023-08-20 23:52:14,,,,,,执行后台命令,allowlist add SakurajiamaMai,,,,
+2023-08-20 23:53:25,,SakurajiamaMai,,,,开始进服,,,,,xuid=2535469553635767
+2023-08-20 23:53:33,主世界,SakurajiamaMai,-28,71,452,进入服务器,,,,,xuid=2535469553635767
+2023-08-20 23:54:05,主世界,Arrow,,,,弹射物击中,Skeleton,23,69,456,
+2023-08-20 23:54:05,主世界,Arrow,,,,弹射物击中,SakurajiamaMai,14,70,456,
+2023-08-20 23:54:05,主世界,Arrow,,,,弹射物击中,Skeleton,24,69,458,
+2023-08-20 23:54:07,主世界,Arrow,,,,弹射物击中,Skeleton,24,69,455,
+2023-08-20 23:54:07,主世界,Arrow,,,,弹射物击中,Skeleton,22,69,456,
+2023-08-20 23:54:08,主世界,Arrow,,,,弹射物击中,Skeleton,24,69,457,
+2023-08-20 23:54:08,主世界,Arrow,,,,弹射物击中,Skeleton,23,69,459,
+2023-08-20 23:54:09,主世界,Arrow,,,,弹射物击中,Skeleton,23,69,455,
+2023-08-20 23:54:09,主世界,Arrow,,,,弹射物击中,Skeleton,22,69,457,
+2023-08-20 23:54:09,主世界,Arrow,,,,弹射物击中,Skeleton,23,69,457,
+2023-08-20 23:54:10,主世界,Arrow,,,,弹射物击中,Skeleton,23,69,459,
+2023-08-20 23:54:10,主世界,Arrow,,,,弹射物击中,Skeleton,23,69,455,
+2023-08-20 23:54:10,主世界,Arrow,,,,弹射物击中,Skeleton,22,69,457,
+2023-08-20 23:54:11,主世界,Arrow,,,,弹射物击中,Skeleton,23,69,457,
+2023-08-20 23:54:11,主世界,Arrow,,,,弹射物击中,Skeleton,23,69,459,
+2023-08-20 23:54:11,主世界,Arrow,,,,弹射物击中,Skeleton,23,69,455,
+2023-08-20 23:54:11,主世界,Arrow,,,,弹射物击中,Skeleton,22,69,457,
+2023-08-20 23:54:11,主世界,Skeleton,22,69,457,生物死亡,,,,,由于Skeleton的攻击
+2023-08-20 23:54:12,主世界,Arrow,,,,弹射物击中,Skeleton,23,69,457,
+2023-08-20 23:54:12,主世界,Arrow,,,,弹射物击中,Skeleton,23,69,459,
+2023-08-20 23:54:13,主世界,Arrow,,,,弹射物击中,Skeleton,23,69,457,
+2023-08-20 23:54:13,主世界,Arrow,,,,弹射物击中,Skeleton,23,69,459,
+2023-08-20 23:54:13,主世界,Skeleton,23,69,459,生物死亡,,,,,由于Skeleton的攻击
+2023-08-20 23:54:20,主世界,Arrow,,,,弹射物击中,SakurajiamaMai,16,72,453,
+2023-08-20 23:54:21,主世界,Arrow,,,,弹射物击中,Skeleton,22,69,454,
+2023-08-20 23:54:22,主世界,Arrow,,,,弹射物击中,Skeleton,24,69,456,
+2023-08-20 23:54:22,主世界,SakurajiamaMai,19,70,453,攻击,Skeleton,22,69,454,使用物品： 类型：
+2023-08-20 23:54:23,主世界,SakurajiamaMai,20,70,453,攻击,Skeleton Horse,21,68,454,使用物品： 类型：
+2023-08-20 23:54:23,主世界,Arrow,,,,弹射物击中,Skeleton Horse,22,69,455,
+2023-08-20 23:54:23,主世界,Arrow,,,,弹射物击中,Skeleton,24,69,456,
+2023-08-20 23:54:25,主世界,Arrow,,,,弹射物击中,Skeleton,19,69,454,
+2023-08-20 23:54:25,主世界,Skeleton,19,69,454,生物死亡,,,,,由于Skeleton的攻击
+2023-08-20 23:54:26,主世界,SakurajiamaMai,18,70,453,捡起物品,Arrow,19,68,455,1个
+2023-08-20 23:54:26,主世界,SakurajiamaMai,18,70,454,捡起物品,Bone,20,68,455,2个
+2023-08-20 23:54:28,,zzyictrl,,,,开始进服,,,,,xuid=2535458195960794
+2023-08-20 23:54:28,主世界,SakurajiamaMai,22,71,454,攻击,Skeleton,23,69,455,使用物品：Arrow 类型：minecraft:arrow
+2023-08-20 23:54:28,主世界,Arrow,,,,弹射物击中,SakurajiamaMai,22,70,454,
+2023-08-20 23:54:29,主世界,Arrow,,,,弹射物击中,SakurajiamaMai,22,70,452,
+2023-08-20 23:54:30,主世界,SakurajiamaMai,22,70,450,放置方块,minecraft:air,19,68,454,
+2023-08-20 23:54:31,主世界,Arrow,,,,弹射物击中,SakurajiamaMai,23,71,453,
+2023-08-20 23:54:31,主世界,SakurajiamaMai,23,71,453,玩家死亡,,,,,
+2023-08-20 23:54:31,主世界,zzyictrl,-166,65,709,进入服务器,,,,,xuid=2535458195960794
+2023-08-20 23:54:33,主世界,SakurajiamaMai,23,71,453,重生,,,,,
+2023-08-20 23:54:41,主世界,Arrow,,,,弹射物击中,SakurajiamaMai,17,70,452,
+2023-08-20 23:54:42,主世界,zzyictrl,-161,66,715,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:54:43,主世界,SakurajiamaMai,20,70,453,攻击,Skeleton,22,69,454,使用物品： 类型：
+2023-08-20 23:54:43,主世界,Skeleton,22,69,454,生物死亡,,,,,由于SakurajiamaMai的攻击
+2023-08-20 23:54:43,主世界,SakurajiamaMai,21,70,453,攻击,Skeleton Horse,21,68,457,使用物品： 类型：
+2023-08-20 23:54:44,主世界,SakurajiamaMai,22,70,454,捡起物品,Bone,23,68,455,2个
+2023-08-20 23:54:46,主世界,zzyictrl,-83,87,698,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:54:51,主世界,zzyictrl,-10,80,584,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:55:30,主世界,zzyictrl,21,72,371,丢出物品,Cooked Mutton,,,,30
+2023-08-20 23:55:32,主世界,SakurajiamaMai,24,72,371,捡起物品,Cooked Mutton,23,70,371,30个
+2023-08-20 23:55:33,主世界,zzyictrl,20,72,371,放置方块,minecraft:air,22,70,371,
+2023-08-20 23:55:33,主世界,zzyictrl,20,72,371,放置方块,minecraft:air,22,70,371,
+2023-08-20 23:55:33,主世界,zzyictrl,20,72,371,放置方块,minecraft:air,22,70,371,
+2023-08-20 23:55:35,主世界,SakurajiamaMai,24,72,372,使用物品,Cooked Mutton,,,,类型：minecraft:cooked_mutton
+2023-08-20 23:55:35,主世界,SakurajiamaMai,24,72,372,进食,Cooked Mutton,,,,
+2023-08-20 23:55:36,主世界,SakurajiamaMai,25,72,372,使用物品,Cooked Mutton,,,,类型：minecraft:cooked_mutton
+2023-08-20 23:55:42,主世界,zzyictrl,23,75,388,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:55:46,主世界,SakurajiamaMai,26,72,372,发送对话,你这个皮肤好  矮,,,,
+2023-08-20 23:55:52,主世界,zzyictrl,-36,81,579,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:56:08,主世界,zzyictrl,-151,65,733,发送对话,能用就行,,,,
+2023-08-20 23:56:28,主世界,zzyictrl,-146,66,724,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:56:31,主世界,zzyictrl,-110,80,676,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:56:54,主世界,zzyictrl,18,70,490,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:56:58,主世界,zzyictrl,22,81,381,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:57:02,主世界,Wheat,28,92,278,破坏耕地,minecraft:farm_land,27,91,277,
+2023-08-20 23:57:06,主世界,zzyictrl,8,84,369,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:57:10,主世界,zzyictrl,4,71,509,使用物品,Firework Rocket,,,,类型：minecraft:firework_rocket
+2023-08-20 23:57:37,主世界,SakurajiamaMai,-21,73,629,方块接受玩家互动,minecraft:spruce_fence_gate,-19,72,631,
+2023-08-20 23:57:41,,zzyictrl,,,,离开服务器,,,,,
+2023-08-20 23:58:04,主世界,SakurajiamaMai,-0,73,626,方块接受玩家互动,minecraft:spruce_fence_gate,-1,71,625,
+2023-08-20 23:58:44,主世界,SakurajiamaMai,-26,73,641,打开容器,minecraft:ender_chest,-25,71,643,
+2023-08-20 23:58:44,主世界,SakurajiamaMai,-26,73,641,方块接受玩家互动,minecraft:ender_chest,-25,71,643,
+2023-08-20 23:58:45,主世界,SakurajiamaMai,-26,73,641,关闭容器,minecraft:ender_chest,-25,71,643,
+2023-08-20 23:59:17,主世界,SakurajiamaMai,-134,65,738,打开容器,minecraft:chest,-135,64,740,
+2023-08-20 23:59:17,主世界,SakurajiamaMai,-134,65,738,方块接受玩家互动,minecraft:chest,-135,64,740,
+2023-08-20 23:59:19,主世界,SakurajiamaMai,-134,65,738,关闭容器,minecraft:chest,-135,64,740,
+2023-08-20 23:59:20,主世界,SakurajiamaMai,-134,65,738,打开容器,minecraft:chest,-135,63,740,
+2023-08-20 23:59:20,主世界,SakurajiamaMai,-134,65,738,方块接受玩家互动,minecraft:chest,-135,63,740,
+2023-08-20 23:59:21,主世界,SakurajiamaMai,-133,65,738,关闭容器,minecraft:chest,-135,63,740,
+2023-08-20 23:59:21,主世界,SakurajiamaMai,-133,65,738,打开容器,minecraft:chest,-135,64,740,
+2023-08-20 23:59:21,主世界,SakurajiamaMai,-133,65,738,方块接受玩家互动,minecraft:chest,-135,64,740,
+2023-08-20 23:59:22,主世界,SakurajiamaMai,-133,65,740,关闭容器,minecraft:chest,-135,64,740,
+2023-08-20 23:59:22,主世界,SakurajiamaMai,-133,65,740,打开容器,minecraft:chest,-135,64,741,
+2023-08-20 23:59:22,主世界,SakurajiamaMai,-133,65,740,方块接受玩家互动,minecraft:chest,-135,64,741,
+2023-08-20 23:59:25,主世界,SakurajiamaMai,-133,65,741,关闭容器,minecraft:chest,-135,64,741,
+2023-08-20 23:59:25,主世界,SakurajiamaMai,-133,65,741,打开容器,minecraft:chest,-135,63,741,
+2023-08-20 23:59:25,主世界,SakurajiamaMai,-133,65,741,方块接受玩家互动,minecraft:chest,-135,63,741,
+2023-08-20 23:59:26,主世界,SakurajiamaMai,-134,65,742,关闭容器,minecraft:chest,-135,63,741,
+2023-08-20 23:59:39,主世界,SakurajiamaMai,-147,65,743,打开容器,minecraft:chest,-149,64,746,
+2023-08-20 23:59:39,主世界,SakurajiamaMai,-147,65,743,方块接受玩家互动,minecraft:chest,-149,64,746,
+2023-08-20 23:59:40,主世界,SakurajiamaMai,-146,65,742,关闭容器,minecraft:chest,-149,64,746,
+2023-08-20 23:59:40,主世界,SakurajiamaMai,-146,65,742,打开容器,minecraft:chest,-147,64,745,
+2023-08-20 23:59:40,主世界,SakurajiamaMai,-146,65,742,方块接受玩家互动,minecraft:chest,-147,64,745,
+2023-08-20 23:59:41,主世界,SakurajiamaMai,-145,65,743,关闭容器,minecraft:chest,-147,64,745,
+2023-08-20 23:59:41,主世界,SakurajiamaMai,-145,65,744,打开容器,minecraft:chest,-146,64,745,
+2023-08-20 23:59:41,主世界,SakurajiamaMai,-145,65,744,方块接受玩家互动,minecraft:chest,-146,64,745,
+2023-08-20 23:59:43,主世界,SakurajiamaMai,-145,65,744,关闭容器,minecraft:chest,-146,64,745,
+2023-08-20 23:59:43,主世界,SakurajiamaMai,-145,65,744,打开容器,minecraft:chest,-146,64,745,
+2023-08-20 23:59:43,主世界,SakurajiamaMai,-145,65,744,方块接受玩家互动,minecraft:chest,-146,64,745,
+2023-08-20 23:59:45,主世界,SakurajiamaMai,-145,65,744,容器 取出物品,minecraft:chest,-146,64,745,从第22号槽 取出1个 Golden Boots
+2023-08-20 23:59:51,主世界,SakurajiamaMai,-145,65,744,容器 取出物品,minecraft:chest,-146,64,745,从第21号槽 取出1个 Golden Helmet
+2023-08-20 23:59:53,主世界,SakurajiamaMai,-145,65,744,容器 取出物品,minecraft:chest,-146,64,745,从第20号槽 取出1个 Chain Helmet
+2023-08-20 23:59:54,主世界,SakurajiamaMai,-145,65,744,容器 放入物品,minecraft:chest,-146,64,745,从第30号槽 放入1个 Golden Helmet
+2023-08-20 23:59:56,主世界,SakurajiamaMai,-145,65,744,容器 放入物品,minecraft:chest,-146,64,745,从第30号槽 放入1个 Dandelion
+2023-08-20 23:59:57,主世界,SakurajiamaMai,-145,65,744,容器 取出物品,minecraft:chest,-146,64,745,从第19号槽 取出1个 Leather Tunic
+2023-08-20 23:59:59,主世界,SakurajiamaMai,-145,65,744,关闭容器,minecraft:chest,-146,64,745,
+2023-08-20 23:59:59,主世界,SakurajiamaMai,-145,65,744,打开容器,minecraft:chest,-145,64,745,
+2023-08-20 23:59:59,主世界,SakurajiamaMai,-145,65,744,方块接受玩家互动,minecraft:chest,-145,64,745,
+2023-08-21 00:00:01,主世界,SakurajiamaMai,-145,65,744,关闭容器,minecraft:chest,-145,64,745,
+2023-08-21 00:00:01,主世界,SakurajiamaMai,-143,65,744,打开容器,minecraft:chest,-144,64,745,
+2023-08-21 00:00:01,主世界,SakurajiamaMai,-143,65,744,方块接受玩家互动,minecraft:chest,-144,64,745,
+2023-08-21 00:00:03,主世界,SakurajiamaMai,-142,65,744,关闭容器,minecraft:chest,-144,64,745,
+2023-08-21 00:00:03,主世界,SakurajiamaMai,-142,65,744,打开容器,minecraft:chest,-143,63,745,
+2023-08-21 00:00:03,主世界,SakurajiamaMai,-142,65,744,方块接受玩家互动,minecraft:chest,-143,63,745,
+2023-08-21 00:00:04,主世界,SakurajiamaMai,-143,65,744,关闭容器,minecraft:chest,-143,63,745,
+2023-08-21 00:00:05,主世界,SakurajiamaMai,-143,65,744,打开容器,minecraft:chest,-144,63,745,
+2023-08-21 00:00:05,主世界,SakurajiamaMai,-143,65,744,方块接受玩家互动,minecraft:chest,-144,63,745,
+2023-08-21 00:00:06,主世界,SakurajiamaMai,-144,65,744,关闭容器,minecraft:chest,-144,63,745,
+2023-08-21 00:00:06,主世界,SakurajiamaMai,-144,65,744,打开容器,minecraft:chest,-145,63,745,
+2023-08-21 00:00:06,主世界,SakurajiamaMai,-144,65,744,方块接受玩家互动,minecraft:chest,-145,63,745,
+2023-08-21 00:00:07,主世界,SakurajiamaMai,-146,65,744,关闭容器,minecraft:chest,-145,63,745,
+2023-08-21 00:00:07,主世界,SakurajiamaMai,-146,65,744,打开容器,minecraft:chest,-147,63,745,
+2023-08-21 00:00:07,主世界,SakurajiamaMai,-146,65,744,方块接受玩家互动,minecraft:chest,-147,63,745,
+2023-08-21 00:00:09,主世界,SakurajiamaMai,-146,65,743,关闭容器,minecraft:chest,-147,63,745,
+2023-08-21 00:00:10,主世界,SakurajiamaMai,-147,65,743,打开容器,minecraft:chest,-149,63,746,
+2023-08-21 00:00:10,主世界,SakurajiamaMai,-147,65,743,方块接受玩家互动,minecraft:chest,-149,63,746,
+2023-08-21 00:00:11,主世界,SakurajiamaMai,-147,65,743,关闭容器,minecraft:chest,-149,63,746,
+2023-08-21 00:00:12,主世界,SakurajiamaMai,-148,65,743,打开容器,minecraft:chest,-150,63,746,
+2023-08-21 00:00:12,主世界,SakurajiamaMai,-148,65,743,方块接受玩家互动,minecraft:chest,-150,63,746,
+2023-08-21 00:00:16,主世界,SakurajiamaMai,-148,65,743,关闭容器,minecraft:chest,-150,63,746,
+2023-08-21 00:00:16,主世界,SakurajiamaMai,-148,65,744,打开容器,minecraft:chest,-149,64,746,
+2023-08-21 00:00:16,主世界,SakurajiamaMai,-148,65,744,方块接受玩家互动,minecraft:chest,-149,64,746,
+2023-08-21 00:00:17,主世界,SakurajiamaMai,-148,65,744,关闭容器,minecraft:chest,-149,64,746,
+2023-08-21 00:00:17,主世界,SakurajiamaMai,-148,65,744,打开容器,minecraft:chest,-150,64,746,
+2023-08-21 00:00:17,主世界,SakurajiamaMai,-148,65,744,方块接受玩家互动,minecraft:chest,-150,64,746,
+2023-08-21 00:00:18,主世界,SakurajiamaMai,-148,65,744,关闭容器,minecraft:chest,-150,64,746,
+2023-08-21 00:00:21,主世界,SakurajiamaMai,-151,65,742,打开容器,minecraft:chest,-152,63,743,
+2023-08-21 00:00:21,主世界,SakurajiamaMai,-151,65,742,方块接受玩家互动,minecraft:chest,-152,63,743,
+2023-08-21 00:00:24,主世界,SakurajiamaMai,-151,65,742,关闭容器,minecraft:chest,-152,63,743,
