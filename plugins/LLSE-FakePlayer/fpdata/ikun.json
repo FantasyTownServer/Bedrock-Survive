@@ -1,0 +1,17 @@
+{
+    "_name": "ikun",
+    "_pos": {
+        "x": 5062.56982421875,
+        "y": 71,
+        "z": 5431.68994140625,
+        "dimid": 0
+    },
+    "_isOnline": false,
+    "_operation": "",
+    "_opInterval": 1000,
+    "_opMaxTimes": 1,
+    "_opLength": 1000,
+    "_opTimeTask": null,
+    "_syncXuid": "",
+    "_lastSyncPlayerPos": null
+}
